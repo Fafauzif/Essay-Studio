@@ -1,0 +1,65 @@
+{
+  "font": "Times New Roman",
+  "font_pt": 10,
+  "width_cm": 16,
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "type": "issue_tree",
+  "goal": "Perangkat pascapakai mencapai jalur pemulihan yang tepat.",
+  "branches": [
+    {
+      "subproblem": "Keputusan pemilik",
+      "issues": [
+        {
+          "issue": "Informasi tujuan",
+          "causes": [
+            {
+              "text": "Tujuan penerimaan dan syarat penyerahan belum mudah ditemukan."
+            }
+          ]
+        },
+        {
+          "issue": "Pilihan manfaat",
+          "causes": [
+            {
+              "text": "Pemilik belum menentukan apakah perangkat diperbaiki, digunakan kembali, atau diserahkan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subproblem": "Akses layanan",
+      "issues": [
+        {
+          "issue": "Waktu & kapasitas",
+          "causes": [
+            {
+              "text": "Jendela penyerahan berbeda dari jadwal perjalanan dan penerimaan."
+            },
+            {
+              "text": "Kemampuan penanganan tidak selalu sesuai dengan kondisi perangkat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subproblem": "Penyelesaian layanan",
+      "issues": [
+        {
+          "issue": "Dana dan koordinasi",
+          "causes": [
+            {
+              "text": "Biaya pekerjaan lanjutan belum mempunyai sumber pembayaran yang jelas."
+            },
+            {
+              "text": "Pemegang perangkat dan keputusan tindak lanjut belum tersambung dalam satu catatan."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "id": "issue_tree"
+}

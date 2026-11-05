@@ -1,0 +1,50 @@
+{
+  "font": "Times New Roman",
+  "font_pt": 10,
+  "width_cm": 16,
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "type": "value_proposition",
+  "left": {
+    "name": "Pemilik barang",
+    "jobs": [
+      "Menyerahkan barang",
+      "Menentukan kondisi dan izin"
+    ],
+    "gains": [
+      "Akses penyerahan jelas",
+      "Tujuan pemanfaatan diketahui"
+    ],
+    "pains": [
+      "Pengaturan berulang",
+      "Kondisi barang sulit dijelaskan"
+    ]
+  },
+  "offer": {
+    "name": "Program berbagi barang",
+    "gain_creators": [
+      "Pilihan penerima yang sesuai",
+      "Catatan hasil pemanfaatan"
+    ],
+    "pain_relievers": [
+      "Pendataan terpandu",
+      "Jadwal dan tanggung jawab jelas"
+    ]
+  },
+  "right": {
+    "name": "Pengelola komunitas",
+    "jobs": [
+      "Memberi akses peserta",
+      "Mencatat anggaran layanan"
+    ],
+    "gains": [
+      "Satu koordinasi program",
+      "Pekerjaan dapat direkonsiliasi"
+    ],
+    "pains": [
+      "Penawaran terpisah",
+      "Tindak lanjut sulit dilacak"
+    ]
+  },
+  "id": "value_proposition"
+}

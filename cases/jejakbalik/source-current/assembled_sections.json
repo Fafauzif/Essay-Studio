@@ -1,0 +1,3319 @@
+[
+  {
+    "id": "B.1",
+    "title": "Akar hambatan pengembalian",
+    "return_to": "analisis",
+    "paragraphs": [],
+    "tables": [],
+    "figure": "issue_tree_horizontal",
+    "figure_caption": "Gambar B1. Akar hambatan pengembalian perangkat."
+  },
+  {
+    "id": "B.2",
+    "title": "Bukti akar penyebab dan respons",
+    "return_to": "analisis",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Akar penyebab, bukti dan respons",
+        "headers": [
+          "Akar penyebab",
+          "Bukti dan cakupan",
+          "Respons JejakBalik"
+        ],
+        "rows": [
+          [
+            "A1 Informasi tujuan pengembalian",
+            "24,6% (75/305) penyimpan elektronik rumah tangga tidak mengetahui tujuan pembuangan; enam provinsi Jawa (Brando et al., 2024, Tabel 6).",
+            "Tujuan dan syarat penerimaan diketahui sebelum penjemputan."
+          ],
+          [
+            "A2 Manfaat perangkat dan keputusan pemilik",
+            "32,5% (99/305) ingin memperbaiki elektronik rumah tangga kelak. Secara terpisah, 6,23% (19/305) menyebut keamanan data pada elektronik pribadi (Brando et al., 2024, Tabel 6–7).",
+            "Pilihan perbaikan, instruksi data dan persetujuan pemilik mengikuti perangkat."
+          ],
+          [
+            "B1 Kemudahan akses pengumpulan",
+            "Korelasi niat dengan kemudahan r = 0,411 dan informasi r = 0,521; survei Jakarta n = 208 pada 2018 (Siringo et al., 2020).",
+            "Pilihan waktu dan perjalanan lintas penyedia; bantuan pendataan dan penyerahan."
+          ],
+          [
+            "B2 Infrastruktur dan jangkauan pengolah",
+            "Bappenas mengidentifikasi fasilitas pengumpulan terbatas dan persebaran pengolah tidak merata (Putri, 2024, hlm. 6–7). Studi n = 424 pelaku di lima wilayah DIY menemukan hambatan infrastruktur/organisasi signifikan di Kota Yogyakarta (Budijati et al., 2023).",
+            "Penerima beserta syarat dan kapasitasnya dihubungkan dengan penawaran perjalanan."
+          ],
+          [
+            "C1 Pendanaan berkelanjutan",
+            "Pendanaan daerah, tanggung jawab produsen dan insentif usaha sirkular menjadi tantangan pendanaan dalam kajian Bappenas (Putri, 2024, hlm. 7).",
+            "Kontrak institusi membiayai koordinasi, pemenuhan dan tindak lanjut."
+          ],
+          [
+            "C2 Koordinasi antarpelaku",
+            "Kajian Bappenas mengidentifikasi kendala koordinasi horizontal dan vertikal serta merekomendasikan tata kelola kolaboratif (Putri, 2024, hlm. 7).",
+            "Pemilik kasus, serah terima berpasangan dan bukti penerimaan tetap tersambung."
+          ]
+        ],
+        "widths": [
+          3.5,
+          7.3,
+          5.2
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Siringo et al.: hubungan korelasional. Budijati et al.: temuan Kota Yogyakarta tidak mewakili keempat wilayah lain. Respons JejakBalik merupakan rancangan tim."
+      }
+    ]
+  },
+  {
+    "id": "C.1",
+    "title": "Pilihan layanan pengembalian",
+    "return_to": "analisis",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Pilihan dan kebutuhan program",
+        "headers": [
+          "Pilihan",
+          "Layanan yang tersedia",
+          "Kebutuhan program"
+        ],
+        "rows": [
+          [
+            "Dropbox #AksiCintaBumi",
+            "Pengumpulan publik melalui lima titik dropbox dalam inisiatif Lintasarta Peduli Negeri.",
+            "Akses peserta ke titik pengumpulan dan pemindahan muatan menuju pengelola."
+          ],
+          [
+            "Penjemputan EwasteRJ",
+            "Penjemputan, pengelolaan elektronik, dropbox dan laporan keberlanjutan.",
+            "Kesesuaian jadwal, kategori, biaya dan pelaporan dengan lingkup program."
+          ],
+          [
+            "Pengumpulan khusus terjadwal",
+            "Rute dan kendaraan disiapkan untuk satu kelompok permintaan.",
+            "Biaya dan perjalanan khusus pada muatan serta syarat layanan yang sama."
+          ],
+          [
+            "JejakBalik",
+            "Koordinasi program institusi yang mempertemukan perjalanan lintas penyedia dengan penerima.",
+            "Penawaran kapasitas, penerimaan dan anggaran tersedia sebelum janji layanan."
+          ]
+        ],
+        "widths": [
+          3.5,
+          6.1,
+          6.4
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Sumber layanan: EwasteRJ (n.d.) dan Lintasarta (2026). Jadwal, kategori, harga dan pelaporan dipilih menurut kebutuhan program."
+      }
+    ]
+  },
+  {
+    "id": "C.2",
+    "title": "Perjalanan, dana dan tanggung jawab",
+    "return_to": "gagasan",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Konfigurasi layanan JejakBalik",
+        "headers": [
+          "Bagian",
+          "Aturan layanan",
+          "Nilai bagi institusi"
+        ],
+        "rows": [
+          [
+            "Perjalanan yang sudah direncanakan",
+            "Sisipkan pengambilan dan penerimaan sambil mempertahankan asal, urutan pekerjaan awal serta tujuan perjalanan.",
+            "Memanfaatkan kapasitas yang ditawarkan dengan tambahan jarak, waktu dan biaya yang terukur."
+          ],
+          [
+            "Lintas penyedia",
+            "Bandingkan beberapa perjalanan dan kompetensi penanganan dalam satu program.",
+            "Pilihan kapasitas dan kategori saling melengkapi."
+          ],
+          [
+            "Pembayaran institusi",
+            "Biaya koordinasi bulanan dan tarif perangkat diterima membiayai pekerjaan yang disepakati.",
+            "Keberlangsungan layanan tidak bergantung pada harga jual perangkat."
+          ],
+          [
+            "Serah terima",
+            "Catat pembawa, penerima, persetujuan serta pekerjaan yang belum selesai.",
+            "Kewajiban mengikuti perangkat hingga jalur penanganan diselesaikan."
+          ]
+        ],
+        "widths": [
+          3.2,
+          6.8,
+          6
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Perbandingan jarak dan biaya menggunakan permintaan serta syarat layanan yang sama; perjalanan berbagi merujuk Yang et al. (2024)."
+      }
+    ]
+  },
+  {
+    "id": "D.1",
+    "title": "Nilai, peran dan kapasitas peserta",
+    "return_to": "gagasan",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Nilai dan kewajiban peserta",
+        "headers": [
+          "Peserta",
+          "Nilai yang diterima",
+          "Kewajiban utama"
+        ],
+        "rows": [
+          [
+            "Institusi",
+            "Akses terjadwal bagi komunitas, rekonsiliasi serah terima dan laporan penyelesaian.",
+            "Menetapkan lingkup, menunjuk penghubung dan membayar layanan."
+          ],
+          [
+            "Pemilik",
+            "Kejelasan kelayakan, jadwal, tujuan dan status perangkat.",
+            "Memberi informasi, persetujuan dan kesiapan penyerahan."
+          ],
+          [
+            "Penyedia angkutan",
+            "Kompensasi kerja tambahan yang sesuai batas perjalanan.",
+            "Menyatakan kapasitas dan syarat, menjaga muatan serta mencatat serah terima."
+          ],
+          [
+            "Penerima",
+            "Kedatangan terencana dengan kategori dan kapasitas yang diketahui.",
+            "Menerima sesuai syarat, menginspeksi dan menyampaikan bukti tindak lanjut."
+          ],
+          [
+            "JejakBalik",
+            "Pendapatan koordinasi dalam layanan institusi yang berulang.",
+            "Menyusun penugasan, memelihara catatan, merekonsiliasi pengecualian dan laporan."
+          ]
+        ],
+        "widths": [
+          3,
+          6.5,
+          6.5
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Pemilik memilih jalur pemanfaatan. Perubahan di luar persetujuan awal dan pembagian nilai jual mengikuti keputusan serta kepemilikan perangkat."
+      },
+      {
+        "title": "Kapasitas yang digabungkan",
+        "headers": [
+          "Penyedia",
+          "Peran",
+          "Dasar penugasan"
+        ],
+        "rows": [
+          [
+            "Operator paket/3PL",
+            "Perangkat yang cocok dengan layanan dan perjalanan paket.",
+            "Kategori, kapasitas, ruang, waktu dan syarat penanganan."
+          ],
+          [
+            "Kurir lokal atau opang",
+            "Pengambilan lokal dalam wilayah layanan.",
+            "Akses, kompetensi penanganan dan batas perjalanan yang ditawarkan."
+          ],
+          [
+            "Pengangkut besar/khusus",
+            "Muatan besar atau kategori dengan kebutuhan tersendiri.",
+            "Kendaraan, petugas dan persyaratan kategori yang sesuai."
+          ]
+        ],
+        "widths": [
+          3.5,
+          5.6,
+          6.9
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "D.2",
+    "title": "Pelibatan pemangku kepentingan",
+    "return_to": "gagasan",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Pengaruh dan pelibatan pemangku kepentingan",
+        "headers": [
+          "Pihak",
+          "Pengaruh dan kepentingan",
+          "Bentuk hubungan"
+        ],
+        "rows": [
+          [
+            "Pengambil keputusan institusi",
+            "Pengaruh tinggi atas anggaran dan akses; kepentingan tinggi terhadap hasil.",
+            "Perjanjian lingkup, penanggung jawab, anggaran dan laporan berkala."
+          ],
+          [
+            "Penyedia angkutan",
+            "Pengaruh tinggi atas kapasitas; kepentingan pada imbalan dan ketepatan pekerjaan awal.",
+            "Penawaran perjalanan, batas tambahan waktu, kompensasi dan penanganan insiden."
+          ],
+          [
+            "Penerima",
+            "Pengaruh tinggi atas penerimaan akhir; kepentingan pada kualitas dan kapasitas.",
+            "Spesifikasi penerimaan, slot waktu, tarif dan bukti tindak lanjut."
+          ],
+          [
+            "Pemilik dan perwakilan komunitas",
+            "Kepentingan tinggi terhadap barang dan data; pengaruh formal bervariasi.",
+            "Informasi yang jelas, pilihan persetujuan, dukungan akses dan keluhan."
+          ],
+          [
+            "Otoritas dan penasihat terkait",
+            "Pengaruh pada persyaratan kegiatan; kepentingan pada kepatuhan.",
+            "Pemeriksaan lingkup kegiatan dan persyaratan menurut kategori."
+          ]
+        ],
+        "widths": [
+          3.5,
+          6,
+          6.5
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Pemetaan peran dan kepentingan oleh tim; hubungan kerja ditetapkan melalui lingkup program."
+      }
+    ]
+  },
+  {
+    "id": "E.1",
+    "title": "Lingkup layanan institusi",
+    "return_to": "gagasan",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Lingkup kontrak program",
+        "headers": [
+          "Komponen",
+          "Ketentuan program",
+          "Dasar pemenuhan"
+        ],
+        "rows": [
+          [
+            "Peserta dan wilayah",
+            "Kelompok pemilik, titik layanan dan penghubung.",
+            "Penerimaan permintaan mengikuti batas program."
+          ],
+          [
+            "Kategori",
+            "Jenis dan kondisi yang dapat ditangani penyedia serta penerima.",
+            "Kondisi berbeda masuk peninjauan penanganan."
+          ],
+          [
+            "Kapasitas dan waktu",
+            "Perjalanan yang ditawarkan, slot penerima dan jendela pemilik.",
+            "Seluruh syarat terpenuhi sebelum penugasan."
+          ],
+          [
+            "Pembayaran",
+            "Biaya koordinasi, pemenuhan, waktu pembayaran dan tindak lanjut.",
+            "Pekerjaan, tagihan dan pembayaran direkonsiliasi."
+          ],
+          [
+            "Penyelesaian",
+            "Penerimaan, bukti jalur akhir dan pemilik kewajiban tertahan.",
+            "Penerimaan logistik dan penyelesaian jalur akhir dicatat terpisah."
+          ]
+        ],
+        "widths": [
+          3,
+          7,
+          6
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "E.2",
+    "title": "Perjalanan perangkat dan keputusan",
+    "return_to": "gagasan",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Keputusan dan bukti pada setiap tahap",
+        "headers": [
+          "Tahap",
+          "Keputusan pelaksana",
+          "Catatan layanan"
+        ],
+        "rows": [
+          [
+            "Permintaan",
+            "Pemilik menyampaikan perangkat, kondisi, waktu dan instruksi.",
+            "Identitas, persetujuan dan kategori."
+          ],
+          [
+            "Pencocokan",
+            "Koordinator membandingkan perjalanan menuju penerima.",
+            "Pilihan, kelayakan, biaya dan alasan belum cocok."
+          ],
+          [
+            "Persetujuan",
+            "Operator berwenang menyetujui rencana terkini.",
+            "Pemberi persetujuan dan rencana berlaku."
+          ],
+          [
+            "Penjemputan",
+            "Pemilik dan pembawa mencocokkan perangkat.",
+            "Identitas, waktu dan pengakuan serah terima."
+          ],
+          [
+            "Penerimaan",
+            "Penerima menerima serta memeriksa kondisi.",
+            "Penerimaan, hasil inspeksi dan pekerjaan lanjutan."
+          ],
+          [
+            "Jalur akhir",
+            "Pelaksana menyelesaikan penanganan serta persyaratan data.",
+            "Bukti perbaikan, penempatan guna ulang atau pengolahan."
+          ]
+        ],
+        "widths": [
+          3,
+          7,
+          6
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ]
+      }
+    ],
+    "figure": "service_flow",
+    "figure_caption": "Gambar E1. Alur penugasan, penerimaan dan tindak lanjut."
+  },
+  {
+    "id": "E.3",
+    "title": "Kelayakan dan persetujuan penugasan",
+    "return_to": "gagasan",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Pemeriksaan sebelum penugasan",
+        "headers": [
+          "Kelompok syarat",
+          "Pemeriksaan",
+          "Jika tidak terpenuhi"
+        ],
+        "rows": [
+          [
+            "Pemilik",
+            "Persetujuan, informasi dan waktu penyerahan.",
+            "Lengkapi informasi atau pertahankan permintaan dalam tindak lanjut."
+          ],
+          [
+            "Pembawa",
+            "Kesesuaian kategori, massa, ruang dan ketersediaan.",
+            "Pilih penyedia lain yang memenuhi syarat."
+          ],
+          [
+            "Perjalanan",
+            "Urutan pekerjaan awal, jendela waktu dan tambahan durasi.",
+            "Tolak penyisipan yang merusak kewajiban awal."
+          ],
+          [
+            "Penerima",
+            "Kategori, slot, kapasitas dan kesiapan menerima.",
+            "Jadwalkan ulang sebelum memberi janji penjemputan."
+          ],
+          [
+            "Anggaran",
+            "Biaya teralokasi dan dana program.",
+            "Batasi penugasan baru; pertahankan kewajiban berjalan."
+          ],
+          [
+            "Otoritas",
+            "Rencana terkini dan persetujuan operator.",
+            "Hitung serta tinjau ulang sebelum pelepasan."
+          ]
+        ],
+        "widths": [
+          3,
+          7,
+          6
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Pencocokan dilakukan sebelum keberangkatan menuju penerima yang ditetapkan pada permintaan; perubahan syarat ditinjau dan disetujui kembali."
+      }
+    ]
+  },
+  {
+    "id": "E.4",
+    "title": "Perangkat tertahan dan penanggung jawab",
+    "return_to": "gagasan",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Tindak lanjut ketika layanan terganggu",
+        "headers": [
+          "Kasus",
+          "Tindakan layanan",
+          "Pihak yang memimpin"
+        ],
+        "rows": [
+          [
+            "Pemilik belum siap",
+            "Perbarui jendela dan penugasan sebelum pengambilan.",
+            "Koordinator dan pemilik."
+          ],
+          [
+            "Penyedia batal setelah penjemputan",
+            "Tetapkan lokasi aman dan serah terima lanjutan.",
+            "Operasi dan penyedia."
+          ],
+          [
+            "Penerima menolak atau penuh",
+            "Sepakati waktu, penyimpanan atau tujuan lanjutan yang disetujui.",
+            "Operasi dan penerima."
+          ],
+          [
+            "Persetujuan atau data tertahan",
+            "Tahan perpindahan yang memerlukan keputusan; selesaikan instruksi dan bukti data.",
+            "Pemilik/penanggung jawab data dan penerima."
+          ],
+          [
+            "Biaya tambahan",
+            "Setujui lingkup serta sumber pembayaran sebelum pekerjaan baru.",
+            "Program dan keuangan."
+          ],
+          [
+            "Perselisihan catatan",
+            "Pertahankan bukti awal, riwayat koreksi dan hasil peninjauan.",
+            "Peninjau terpisah dari persetujuan awal."
+          ]
+        ],
+        "widths": [
+          4,
+          7,
+          5
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Sesudah penjemputan, perangkat tetap menjadi tanggung jawab pembawa terakhir hingga serah terima berikutnya diakui."
+      }
+    ]
+  },
+  {
+    "id": "F.1",
+    "title": "Jaringan dan status tanggung jawab",
+    "tables": [],
+    "figure": null,
+    "figure_caption": null,
+    "figure_note": null,
+    "return_to": "gagasan",
+    "shots": [
+      [
+        "01-network.png",
+        "Gambar F1. Permintaan, penyedia dan perjalanan pada jaringan."
+      ],
+      [
+        "13-custody-detail.png",
+        "Gambar F2. Pemegang terakhir tetap tercatat setelah pembatalan."
+      ],
+      [
+        "14-data-detail.png",
+        "Gambar F3. Keputusan data yang belum selesai menahan penanganan akhir."
+      ]
+    ]
+  },
+  {
+    "id": "F.2",
+    "title": "Pilihan dan persetujuan penugasan",
+    "tables": [
+      {
+        "title": "Keterangan tampilan",
+        "headers": [
+          "Cakupan",
+          "Keterangan"
+        ],
+        "rows": [
+          [
+            "Antarmuka",
+            "Tangkapan aplikasi yang dijalankan tim dengan data skenario rekaan."
+          ],
+          [
+            "Status hasil awal",
+            "18 perangkat direncanakan, nol selesai; penanganan dan serah terima masih harus dilaksanakan."
+          ],
+          [
+            "Kemampuan pendukung",
+            "Pencocokan, persetujuan dan catatan status; operasi nyata memakai identitas, perjanjian dan bukti pelaksana."
+          ],
+          [
+            "Penanganan data",
+            "Tinjauan merekam keputusan; sanitasi data dilaksanakan operator dengan metode dan bukti pekerjaan."
+          ]
+        ],
+        "widths": [
+          3.2,
+          12.8
+        ]
+      }
+    ],
+    "figure": null,
+    "figure_caption": null,
+    "figure_note": null,
+    "return_to": "gagasan",
+    "shots": [],
+    "shotpair": [
+      [
+        "19-options-compact.png",
+        "Gambar F4. Pilihan perjalanan dan batas penerimaan."
+      ],
+      [
+        "15-approval-detail.png",
+        "Gambar F5. Persetujuan rencana penugasan."
+      ]
+    ]
+  },
+  {
+    "id": "F.3",
+    "title": "Permintaan dan hasil layanan",
+    "tables": [],
+    "figure": null,
+    "figure_caption": null,
+    "figure_note": null,
+    "return_to": "gagasan",
+    "shots": [
+      [
+        "17-intake-detail.png",
+        "Gambar F6. Pendataan perangkat dan persetujuan pemilik."
+      ],
+      [
+        "18-results-detail.png",
+        "Gambar F7. Rencana 18 perangkat dan kewajiban yang masih terbuka."
+      ]
+    ]
+  },
+  {
+    "id": "G.1",
+    "title": "Perbandingan beban layanan yang setara",
+    "tables": [
+      {
+        "title": "Jarak, biaya dan kelayakan",
+        "headers": [
+          "Ukuran",
+          "Perjalanan tersedia",
+          "Pengumpulan khusus"
+        ],
+        "rows": [
+          [
+            "Permintaan",
+            "18 dari 18",
+            "18 dari 18"
+          ],
+          [
+            "Jarak pemulihan",
+            "28,8 km tambahan",
+            "112,8 km putaran khusus"
+          ],
+          [
+            "Anggaran jasa",
+            "Rp438.700",
+            "Rp662.400"
+          ],
+          [
+            "Kapasitas, waktu dan penerima",
+            "Terpenuhi",
+            "Terpenuhi"
+          ],
+          [
+            "Batas anggaran Rp600.000",
+            "Terpenuhi",
+            "Melebihi Rp62.400"
+          ]
+        ],
+        "widths": [
+          5,
+          5.5,
+          5.5
+        ],
+        "note": "Ilustrasi perencanaan pada jaringan jalan rekaan. Jarak tersedia dihitung terhadap perjalanan awal; biaya mencakup kompensasi dan penanganan skenario, belum seluruh biaya organisasi. Penerima dan beban layanan kedua pilihan sama."
+      }
+    ],
+    "figure": "prototype_comparison",
+    "figure_caption": "Gambar G1. Dua pilihan untuk 18 permintaan yang sama.",
+    "figure_note": null,
+    "return_to": "gagasan",
+    "shots": []
+  },
+  {
+    "id": "G.2",
+    "title": "Cakupan lintas penyedia dan kendala",
+    "tables": [
+      {
+        "title": "Perubahan penawaran dan kapasitas",
+        "headers": [
+          "Kondisi",
+          "Perangkat dalam rencana",
+          "Makna layanan"
+        ],
+        "rows": [
+          [
+            "Jaringan gabungan",
+            "18/18",
+            "Pilihan seluruh penyedia tersedia."
+          ],
+          [
+            "Hanya Lintas Paket",
+            "11/18",
+            "Cakupan tertinggi satu penyedia."
+          ],
+          [
+            "Hanya Sela Kurir",
+            "7/18",
+            "Perjalanan lokal melayani sebagian kebutuhan."
+          ],
+          [
+            "Hanya Angkut Aman",
+            "5/18",
+            "Penanganan besar/khusus melayani sebagian kebutuhan."
+          ],
+          [
+            "Tanpa Lintas Paket",
+            "12/18",
+            "Kapasitas penyedia lain belum menggantikan semuanya."
+          ],
+          [
+            "Tanpa Sela Kurir",
+            "16/18",
+            "Sebagian kebutuhan lokal belum terpenuhi."
+          ],
+          [
+            "Tanpa Angkut Aman",
+            "13/18",
+            "Sebagian kebutuhan penanganan belum terpenuhi."
+          ],
+          [
+            "Anggaran Rp300.000",
+            "14/18",
+            "Sebagian permintaan menunggu dana/pilihan lain."
+          ],
+          [
+            "Kapasitas seluruh penerima nol",
+            "0/18",
+            "Penugasan menunggu kapasitas penerimaan."
+          ],
+          [
+            "Perjalanan tidak tersedia",
+            "0/18",
+            "Penugasan menunggu penawaran lain."
+          ]
+        ],
+        "widths": [
+          5,
+          3,
+          8
+        ],
+        "note": "Data skenario rekaan yang sama; hasil tiap kondisi berdiri sendiri. Cakupan 11, 7 dan 5 tidak dijumlahkan karena permintaan dapat tumpang tindih. Bandingkan biaya hanya pada beban layanan yang setara."
+      }
+    ],
+    "figure": null,
+    "figure_caption": null,
+    "figure_note": null,
+    "return_to": "gagasan",
+    "shots": []
+  },
+  {
+    "id": "H.1",
+    "title": "Prioritas lingkungan layanan",
+    "return_to": "gagasan",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Prioritas PESTEL",
+        "headers": [
+          "Faktor",
+          "Bobot",
+          "Prioritas",
+          "Nilai",
+          "Keputusan pelaksanaan"
+        ],
+        "rows": [
+          [
+            "Politik dan institusi",
+            "0,10",
+            "4",
+            "0,40",
+            "Tetapkan penghubung, kewenangan dan penggunaan fasilitas program."
+          ],
+          [
+            "Ekonomi",
+            "0,24",
+            "5",
+            "1,20",
+            "Tawarkan lingkup yang membiayai koordinasi, transportasi dan tindak lanjut."
+          ],
+          [
+            "Sosial",
+            "0,16",
+            "4",
+            "0,64",
+            "Sediakan informasi, akses bantuan dan pilihan persetujuan yang dipahami."
+          ],
+          [
+            "Teknologi",
+            "0,20",
+            "5",
+            "1,00",
+            "Hubungkan penawaran perjalanan, kapasitas dan catatan lintas pihak."
+          ],
+          [
+            "Lingkungan",
+            "0,12",
+            "4",
+            "0,48",
+            "Pertahankan jalur guna ulang dan pisahkan penanganan menurut kondisi."
+          ],
+          [
+            "Hukum",
+            "0,18",
+            "5",
+            "0,90",
+            "Periksa klasifikasi, lingkup kegiatan, tanggung jawab dan persyaratan data."
+          ],
+          [
+            "Total",
+            "1,00",
+            "—",
+            "4,62",
+            "Prioritaskan kontrak, kapasitas operasional dan kelayakan kategori."
+          ]
+        ],
+        "widths": [
+          3,
+          1.3,
+          1.7,
+          1.5,
+          8.5
+        ],
+        "alignments": [
+          "justify",
+          "right",
+          "right",
+          "right",
+          "justify"
+        ],
+        "note": "Estimasi tim: skor = bobot × prioritas; 1 rutin, 2 rendah, 3 menengah, 4 tinggi, 5 menentukan kesiapan. Kerangka PESTLE: Chartered Institute of Personnel and Development (2025)."
+      }
+    ]
+  },
+  {
+    "id": "H.2",
+    "title": "Penguatan kemampuan operasional",
+    "return_to": "gagasan",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Kemampuan dan kebutuhan komisioning: IFE",
+        "headers": [
+          "Faktor internal",
+          "S/W",
+          "Bobot",
+          "Rating",
+          "Skor"
+        ],
+        "rows": [
+          [
+            "Pencocokan dan batas perjalanan yang dapat dijalankan",
+            "S",
+            "0,14",
+            "3",
+            "0,42"
+          ],
+          [
+            "Konsistensi daftar perangkat dan penugasan",
+            "S",
+            "0,10",
+            "3",
+            "0,30"
+          ],
+          [
+            "Pemisahan pratinjau dan persetujuan",
+            "S",
+            "0,08",
+            "3",
+            "0,24"
+          ],
+          [
+            "Rekaman serah terima dan pengecualian",
+            "S",
+            "0,08",
+            "3",
+            "0,24"
+          ],
+          [
+            "Layanan modular berdasarkan program",
+            "S",
+            "0,10",
+            "3",
+            "0,30"
+          ],
+          [
+            "Penawaran perjalanan belum dikontrak",
+            "W",
+            "0,14",
+            "1",
+            "0,14"
+          ],
+          [
+            "Pendapatan institusi belum dikontrak",
+            "W",
+            "0,12",
+            "1",
+            "0,12"
+          ],
+          [
+            "Catatan lintas organisasi belum tersedia",
+            "W",
+            "0,08",
+            "2",
+            "0,16"
+          ],
+          [
+            "Penugasan tim operasi perlu dibentuk",
+            "W",
+            "0,08",
+            "1",
+            "0,08"
+          ],
+          [
+            "Tarif penyedia dan penerimaan perlu disepakati",
+            "W",
+            "0,08",
+            "1",
+            "0,08"
+          ],
+          [
+            "Total",
+            "—",
+            "1,00",
+            "—",
+            "2,08"
+          ]
+        ],
+        "widths": [
+          8.9,
+          1.1,
+          2,
+          2,
+          2
+        ],
+        "alignments": [
+          "justify",
+          "center",
+          "right",
+          "right",
+          "right"
+        ],
+        "note": "Estimasi tim: 1 kelemahan utama, 2 kelemahan kecil, 3 kekuatan kecil, 4 kekuatan utama; skor = bobot × rating. Adaptasi David et al. (2020)."
+      }
+    ]
+  },
+  {
+    "id": "H.3",
+    "title": "Respons peluang dan tekanan",
+    "return_to": "gagasan",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Respons eksternal: EFE",
+        "headers": [
+          "Faktor eksternal",
+          "O/T",
+          "Bobot",
+          "Respons",
+          "Skor"
+        ],
+        "rows": [
+          [
+            "Institusi dapat membeli layanan untuk komunitasnya",
+            "O",
+            "0,16",
+            "3",
+            "0,48"
+          ],
+          [
+            "Saluran pengumpulan dan pengelola telah tersedia",
+            "O",
+            "0,12",
+            "2",
+            "0,24"
+          ],
+          [
+            "Akses dan informasi relevan bagi pemilik",
+            "O",
+            "0,10",
+            "2",
+            "0,20"
+          ],
+          [
+            "Pilihan moda dan penyedia dapat saling melengkapi",
+            "O",
+            "0,08",
+            "2",
+            "0,16"
+          ],
+          [
+            "Pelaporan memberi nilai pada pembeli program",
+            "O",
+            "0,08",
+            "2",
+            "0,16"
+          ],
+          [
+            "Biaya atau keterlambatan pembayaran",
+            "T",
+            "0,14",
+            "2",
+            "0,28"
+          ],
+          [
+            "Perjalanan atau penerima tidak tersedia",
+            "T",
+            "0,10",
+            "2",
+            "0,20"
+          ],
+          [
+            "Kategori tidak sesuai penanganan",
+            "T",
+            "0,08",
+            "2",
+            "0,16"
+          ],
+          [
+            "Ketidakjelasan data dan tanggung jawab",
+            "T",
+            "0,08",
+            "2",
+            "0,16"
+          ],
+          [
+            "Alternatif khusus memberi layanan lebih sederhana",
+            "T",
+            "0,06",
+            "2",
+            "0,12"
+          ],
+          [
+            "Total",
+            "—",
+            "1,00",
+            "—",
+            "2,16"
+          ]
+        ],
+        "widths": [
+          8.9,
+          1.1,
+          2,
+          2,
+          2
+        ],
+        "alignments": [
+          "justify",
+          "center",
+          "right",
+          "right",
+          "right"
+        ],
+        "note": "Estimasi tim: respons 1 lemah, 2 sedang, 3 di atas rata-rata, 4 sangat baik; skor = bobot × respons. Perubahan satu rating menggeser total sebesar bobotnya, maksimum 0,16. Adaptasi David et al. (2020)."
+      }
+    ]
+  },
+  {
+    "id": "H.4",
+    "title": "Strategi dan tindakan prioritas",
+    "return_to": "gagasan",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "SWOT layanan",
+        "headers": [
+          "Kekuatan dan kelemahan",
+          "Peluang dan ancaman"
+        ],
+        "rows": [
+          [
+            "S: pencocokan yang dapat diperiksa; daftar perangkat konsisten; persetujuan eksplisit; kewajiban tertahan terlihat.",
+            "O: pembeli institusi; saluran pengumpulan yang sudah ada; kebutuhan akses dan pelaporan."
+          ],
+          [
+            "W: kontrak, tim operasi dan catatan bersama belum dibentuk; tarif masih estimasi tim.",
+            "T: penawaran kapasitas berubah; biaya/pembayaran; penanganan tidak sesuai; alternatif khusus."
+          ]
+        ],
+        "widths": [
+          8,
+          8
+        ],
+        "alignments": [
+          "justify",
+          "justify"
+        ]
+      },
+      {
+        "title": "TOWS dan pelaksanaan",
+        "headers": [
+          "Kode",
+          "Tindakan",
+          "Pemilik dan hasil",
+          "Tahap"
+        ],
+        "rows": [
+          [
+            "SO",
+            "Tawarkan paket institusi dengan pilihan perjalanan dan laporan penyelesaian.",
+            "Komersial dan operasi: lingkup, harga serta jadwal.",
+            "Jan–Feb 2027; pembaruan kontrak."
+          ],
+          [
+            "ST",
+            "Gunakan kelayakan, anggaran dan persetujuan sebelum penugasan.",
+            "Operasi: rencana disetujui dan kasus terbuka ditangani.",
+            "Mulai Maret 2027; setiap penugasan."
+          ],
+          [
+            "WO",
+            "Biayai kontrak, petugas dan catatan lintas pihak pada komisioning.",
+            "Pimpinan dan keuangan: perjanjian, petugas dan kas.",
+            "Jan–Feb 2027."
+          ],
+          [
+            "WT",
+            "Dahulukan kewajiban berjalan; gunakan pengumpulan khusus bila perjalanan berbagi tidak sesuai.",
+            "Operasi dan institusi: penyelesaian kasus dan biaya.",
+            "Mulai Maret 2027; saat gangguan."
+          ]
+        ],
+        "widths": [
+          1.1,
+          6.2,
+          5.2,
+          3.5
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify",
+          "justify"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "H.5",
+    "title": "Persaingan dan sumber keunggulan",
+    "return_to": "gagasan",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Lima tekanan persaingan",
+        "headers": [
+          "Tekanan",
+          "Penilaian kualitatif tim",
+          "Respons"
+        ],
+        "rows": [
+          [
+            "Substitusi",
+            "Tinggi: institusi dapat membeli pengumpulan khusus atau memakai saluran yang ada.",
+            "Buktikan nilai pada lingkup dan beban kerja yang setara."
+          ],
+          [
+            "Daya tawar pelanggan",
+            "Tinggi: institusi mengendalikan anggaran dan pembaruan kontrak.",
+            "Penawaran jelas, laporan dapat diperiksa dan perbaikan pelayanan."
+          ],
+          [
+            "Daya tawar penyedia",
+            "Sedang–tinggi: kapasitas dan kompetensi tidak selalu dapat dipertukarkan.",
+            "Beberapa penawaran, kompensasi yang jelas dan batas perjalanan."
+          ],
+          [
+            "Persaingan",
+            "Sedang: pelaku menawarkan lingkup yang berbeda.",
+            "Kerja sama dengan layanan yang saling melengkapi."
+          ],
+          [
+            "Pendatang baru",
+            "Sedang: antarmuka dapat ditiru, jaringan pelaksanaan membutuhkan hubungan kerja.",
+            "Bangun mutu pemenuhan dan rekonsiliasi."
+          ]
+        ],
+        "widths": [
+          3,
+          6.5,
+          6.5
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Penilaian kualitatif tim atas alternatif, daya tawar dan hambatan pelaksanaan."
+      },
+      {
+        "title": "VRIO sumber daya",
+        "headers": [
+          "Sumber daya",
+          "V",
+          "R",
+          "I",
+          "O",
+          "Implikasi"
+        ],
+        "rows": [
+          [
+            "Aturan pencocokan dan catatan",
+            "Ya",
+            "Prinsip tersedia dalam literatur.",
+            "Relatif mudah ditiru.",
+            "Standar dan pemeliharaan aturan.",
+            "Keunggulan bergantung pada konsistensi pelaksanaan."
+          ],
+          [
+            "Hubungan penyedia dan penerima",
+            "Ya",
+            "Bergantung pada kapasitas yang ditawarkan.",
+            "Hubungan membutuhkan waktu.",
+            "Pengelola hubungan dan kontrak.",
+            "Nilai mengikuti kapasitas yang dapat diandalkan."
+          ],
+          [
+            "Riwayat layanan yang dipercaya",
+            "Ya",
+            "Terbentuk dari pengalaman layanan.",
+            "Dibangun bertahap.",
+            "Rekonsiliasi dan penyelesaian sengketa.",
+            "Kepercayaan tumbuh melalui pemenuhan."
+          ],
+          [
+            "Kontrak institusi berulang",
+            "Ya",
+            "Tidak otomatis eksklusif.",
+            "Dapat digantikan alternatif.",
+            "Pembaruan mutu dan ekonomi program.",
+            "Retensi bergantung pada nilai layanan."
+          ]
+        ],
+        "widths": [
+          3.1,
+          0.7,
+          3,
+          2.5,
+          3.4,
+          3.3
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify",
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Estimasi tim; V = bernilai, R = langka, I = sulit ditiru, O = pengorganisasian sumber daya. Kolom O menetapkan fungsi pengelolaan."
+      }
+    ]
+  },
+  {
+    "id": "I.1",
+    "title": "Pasar institusi dan jangkauan layanan",
+    "tables": [
+      {
+        "title": "Pasar ekuivalen layanan dan jangkauan yang direncanakan",
+        "rows": [
+          [
+            "TAM",
+            "4.303perguruan tinggi×1paket referensi×Rp65,76juta",
+            "Rp282,97miliar"
+          ],
+          [
+            "SAM",
+            "100program dalam cakupan penawaran Jabodetabek; estimasi tim",
+            "Rp6,576miliar"
+          ],
+          [
+            "SOM2029",
+            "126bulan-kontrak×Rp5,48juta;12institusi pada akhir tahun",
+            "Rp690,48juta"
+          ]
+        ],
+        "note": "Jumlah nasional bersumber Kementerian Pendidikan Tinggi, Sains, dan Teknologi Republik Indonesia (2026). Satu paket referensi, cakupan 100 program, harga dan penggunaan 40 perangkat/bulan adalah estimasi tim. SAM bukan hitungan institusi Jabodetabek yang sudah diverifikasi. TAM adalah amplop ekuivalen layanan, bukan permintaan teramati.",
+        "headers": [
+          "Lapisan",
+          "Dasar",
+          "Nilai tahunan"
+        ]
+      }
+    ],
+    "figure": "tam_sam_som",
+    "figure_caption": "Gambar I1. TAM, SAM dan SOM layanan institusi.",
+    "figure_note": null,
+    "return_to": "finance",
+    "shots": []
+  },
+  {
+    "id": "I.2",
+    "title": "Tarif dan anggaran pemenuhan",
+    "tables": [
+      {
+        "title": "Tarif dan anggaran pemenuhan per perangkat",
+        "rows": [
+          [
+            "Biasa",
+            "80%",
+            "45.000",
+            "15.000",
+            "12.000",
+            "2.000",
+            "2.000",
+            "31.000"
+          ],
+          [
+            "Besar",
+            "15%",
+            "110.000",
+            "45.000",
+            "30.000",
+            "3.000",
+            "4.000",
+            "82.000"
+          ],
+          [
+            "Khusus",
+            "5%",
+            "190.000",
+            "60.000",
+            "70.000",
+            "5.000",
+            "10.000",
+            "145.000"
+          ]
+        ],
+        "note": "Estimasi tim, rupiah konstan 2027. Kategori khusus hanya dilayani operator yang memenuhi persyaratan. Anggaran pengecualian diasumsikan digunakan.",
+        "headers": [
+          "Kategori",
+          "Bauran",
+          "Tarif Rp",
+          "Angkut Rp",
+          "Terima/tangani Rp",
+          "Tinjau Rp",
+          "Insiden Rp",
+          "Total biaya Rp"
+        ]
+      },
+      {
+        "title": "Ekonomi satu program per bulan",
+        "headers": [
+          "Komponen",
+          "Perhitungan",
+          "Nilai"
+        ],
+        "rows": [
+          [
+            "Koordinasi",
+            "1 program",
+            "Rp3.000.000"
+          ],
+          [
+            "Tarif perangkat",
+            "40 × Rp62.000",
+            "Rp2.480.000"
+          ],
+          [
+            "Penerimaan",
+            "Koordinasi + perangkat",
+            "Rp5.480.000"
+          ],
+          [
+            "Biaya langsung",
+            "40 × Rp44.350",
+            "Rp1.774.000"
+          ],
+          [
+            "Kontribusi biaya bersama",
+            "Penerimaan − biaya langsung",
+            "Rp3.706.000"
+          ]
+        ],
+        "widths": [
+          4.5,
+          6.5,
+          5
+        ],
+        "note": "Estimasi tim, rupiah konstan 2027. Bauran: 80% biasa, 15% besar, 5% khusus. Tarif perangkat ditagih setelah penerimaan tujuan dan rekonsiliasi serah terima."
+      }
+    ],
+    "figure": null,
+    "figure_caption": null,
+    "figure_note": null,
+    "return_to": "finance",
+    "shots": []
+  },
+  {
+    "id": "I.3",
+    "title": "Biaya bersama dan modal awal",
+    "tables": [
+      {
+        "title": "Biaya bersama dan modal awal",
+        "rows": [
+          [
+            "Imbalan pengelola",
+            "Rp6.000.000/bulan",
+            "150jam total ×Rp40.000"
+          ],
+          [
+            "Tenaga operasi",
+            "Rp2juta per50jam/bulan",
+            "Satu blok untuk setiapempat institusi; minimum1blok"
+          ],
+          [
+            "Hosting",
+            "Rp350.000/bulan",
+            "Estimasi tim"
+          ],
+          [
+            "Ruang kerja",
+            "Rp500.000/bulan",
+            "Estimasi tim"
+          ],
+          [
+            "Komunikasi",
+            "Rp250.000/bulan",
+            "Estimasi tim"
+          ],
+          [
+            "Profesional/review",
+            "Rp500.000/bulan",
+            "Estimasi tim"
+          ],
+          [
+            "Perlindungan/administrasi insiden",
+            "Rp250.000/bulan",
+            "Estimasi tim; bukanjaminan pertanggungan"
+          ],
+          [
+            "Perjalanan koordinasi",
+            "Rp250.000/bulan",
+            "Estimasi tim"
+          ],
+          [
+            "Akuisisi/pemasaran",
+            "Rp1/1,2/1,5juta perbulan",
+            "Tahun1/2/3"
+          ],
+          [
+            "Onboarding",
+            "Rp500.000/institusibaru",
+            "Tambahan layanan/latihan dan bahan"
+          ],
+          [
+            "Peralatanawal",
+            "Rp12.000.000",
+            "Belanja awal; tidak ada nilai terminal"
+          ],
+          [
+            "Konfigurasi perangkatlunak/pelatihan",
+            "Rp16.000.000",
+            "Biaya persiapan sebelum operasi"
+          ]
+        ],
+        "note": "Semua nilai estimasi tim. Imbalan pengelola merupakan biaya kerja, terpisah dari distribusi keuntungan.",
+        "headers": [
+          "Komponen",
+          "Nilai",
+          "Dasar"
+        ],
+        "widths": [
+          5.1,
+          3.1,
+          7.8
+        ]
+      }
+    ],
+    "figure": null,
+    "figure_caption": null,
+    "figure_note": null,
+    "return_to": "finance",
+    "shots": []
+  },
+  {
+    "id": "I.4",
+    "title": "Proyeksi penerimaan dan kas tiga tahun",
+    "tables": [
+      {
+        "title": "Rekap tahunan skenario dasar",
+        "rows": [
+          [
+            "Bulan-kontrak",
+            "27",
+            "78",
+            "126"
+          ],
+          [
+            "Host akhir tahun",
+            "4",
+            "8",
+            "12"
+          ],
+          [
+            "Perangkat diterima",
+            "1.080",
+            "3.120",
+            "5.040"
+          ],
+          [
+            "Penerimaan layanan, juta Rp",
+            "147,96",
+            "427,44",
+            "690,48"
+          ],
+          [
+            "Biaya pemenuhan, juta Rp",
+            "47,90",
+            "138,37",
+            "223,52"
+          ],
+          [
+            "Biaya bersama, juta Rp",
+            "133,20",
+            "159,60",
+            "187,20"
+          ],
+          [
+            "Onboarding, juta Rp",
+            "2,00",
+            "2,00",
+            "2,00"
+          ],
+          [
+            "Surplus operasi, juta Rp",
+            "-35,14",
+            "127,47",
+            "277,76"
+          ],
+          [
+            "Kasbersih periode, juta Rp",
+            "-45,06",
+            "117,55",
+            "267,84"
+          ],
+          [
+            "Kasakhir dengan rencana modal, juta Rp",
+            "36,94",
+            "154,49",
+            "422,33"
+          ],
+          [
+            "Piutangakhir, juta Rp",
+            "9,92",
+            "19,84",
+            "29,76"
+          ]
+        ],
+        "note": "Surplus operasi sebelum pajak/bunga. Modal rencana 110 juta masuk sekali sebelum bulan 1; komitmen dana masih 0.",
+        "headers": [
+          "Ukuran",
+          "2027",
+          "2028",
+          "2029"
+        ]
+      }
+    ],
+    "figure": "finance_annual",
+    "figure_caption": "Gambar I2. Penerimaan dan biaya operasi 2027–2029.",
+    "figure_note": null,
+    "return_to": "finance",
+    "shots": []
+  },
+  {
+    "id": "I.5",
+    "title": "Jadwal institusi dan arus kas",
+    "tables": [
+      {
+        "title": "Arus kas bulanan tahun pertama (juta rupiah, kecuali institusi dan perangkat)",
+        "rows": [
+          [
+            "1",
+            "0",
+            "0",
+            "0,00",
+            "11,10",
+            "-11,10",
+            "0,00",
+            "70,90"
+          ],
+          [
+            "2",
+            "0",
+            "0",
+            "0,00",
+            "11,10",
+            "-11,10",
+            "0,00",
+            "59,80"
+          ],
+          [
+            "3",
+            "1",
+            "40",
+            "5,48",
+            "13,37",
+            "-7,89",
+            "3,00",
+            "49,43"
+          ],
+          [
+            "4",
+            "1",
+            "40",
+            "5,48",
+            "12,87",
+            "-7,39",
+            "5,48",
+            "42,03"
+          ],
+          [
+            "5",
+            "2",
+            "80",
+            "10,96",
+            "15,15",
+            "-4,19",
+            "8,48",
+            "35,36"
+          ],
+          [
+            "6",
+            "2",
+            "80",
+            "10,96",
+            "14,65",
+            "-3,69",
+            "10,96",
+            "31,68"
+          ],
+          [
+            "7",
+            "3",
+            "120",
+            "16,44",
+            "16,92",
+            "-0,48",
+            "13,96",
+            "28,71"
+          ],
+          [
+            "8",
+            "3",
+            "120",
+            "16,44",
+            "16,42",
+            "0,02",
+            "16,44",
+            "28,73"
+          ],
+          [
+            "9",
+            "3",
+            "120",
+            "16,44",
+            "16,42",
+            "0,02",
+            "16,44",
+            "28,75"
+          ],
+          [
+            "10",
+            "4",
+            "160",
+            "21,92",
+            "18,70",
+            "3,22",
+            "19,44",
+            "29,49"
+          ],
+          [
+            "11",
+            "4",
+            "160",
+            "21,92",
+            "18,20",
+            "3,72",
+            "21,92",
+            "33,22"
+          ],
+          [
+            "12",
+            "4",
+            "160",
+            "21,92",
+            "18,20",
+            "3,72",
+            "21,92",
+            "36,94"
+          ]
+        ],
+        "note": "Juta Rp, kecuali institusi dan unit. Kas akhir mencakup rencana modal 110 juta dan pengeluaran awal 28 juta.",
+        "headers": [
+          "Bln",
+          "Institusi",
+          "Unit",
+          "Penerimaan",
+          "Biaya",
+          "Surplus",
+          "Kas masuk",
+          "Kas akhir"
+        ],
+        "widths": [
+          0.8,
+          1.6,
+          1.2,
+          2.4,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "title": "Rekap kuartalan tiga tahun (juta rupiah, kecuali institusi dan perangkat)",
+        "rows": [
+          [
+            "2027/Q1",
+            "1",
+            "40",
+            "5,48",
+            "35,57",
+            "-30,09",
+            "-32,57",
+            "49,43"
+          ],
+          [
+            "2027/Q2",
+            "5",
+            "200",
+            "27,40",
+            "42,67",
+            "-15,27",
+            "-17,75",
+            "31,68"
+          ],
+          [
+            "2027/Q3",
+            "9",
+            "360",
+            "49,32",
+            "49,77",
+            "-0,45",
+            "-2,93",
+            "28,75"
+          ],
+          [
+            "2027/Q4",
+            "12",
+            "480",
+            "65,76",
+            "55,09",
+            "10,67",
+            "8,19",
+            "36,94"
+          ],
+          [
+            "2028/Q1",
+            "15",
+            "600",
+            "82,20",
+            "67,01",
+            "15,19",
+            "12,71",
+            "49,65"
+          ],
+          [
+            "2028/Q2",
+            "18",
+            "720",
+            "98,64",
+            "72,33",
+            "26,31",
+            "23,83",
+            "73,48"
+          ],
+          [
+            "2028/Q3",
+            "21",
+            "840",
+            "115,08",
+            "77,65",
+            "37,43",
+            "34,95",
+            "108,43"
+          ],
+          [
+            "2028/Q4",
+            "24",
+            "960",
+            "131,52",
+            "82,98",
+            "48,54",
+            "46,06",
+            "154,49"
+          ],
+          [
+            "2029/Q1",
+            "27",
+            "1.080",
+            "147,96",
+            "95,20",
+            "52,76",
+            "50,28",
+            "204,77"
+          ],
+          [
+            "2029/Q2",
+            "30",
+            "1.200",
+            "164,40",
+            "100,52",
+            "63,88",
+            "61,40",
+            "266,17"
+          ],
+          [
+            "2029/Q3",
+            "33",
+            "1.320",
+            "180,84",
+            "105,84",
+            "75,00",
+            "72,52",
+            "338,69"
+          ],
+          [
+            "2029/Q4",
+            "36",
+            "1.440",
+            "197,28",
+            "111,16",
+            "86,12",
+            "83,64",
+            "422,33"
+          ]
+        ],
+        "note": "Juta Rp, kecuali bulan-kontrak dan unit.",
+        "headers": [
+          "Tahun/Q",
+          "Bulan-kontrak",
+          "Unit",
+          "Penerimaan",
+          "Biaya",
+          "Surplus",
+          "Kas bersih",
+          "Kas akhir"
+        ],
+        "widths": [
+          1.7,
+          1.6,
+          1.2,
+          2.3,
+          2.3,
+          2.3,
+          2.3,
+          2.3
+        ]
+      }
+    ],
+    "figure": "finance_cash",
+    "figure_caption": "Gambar I3. Kas proyek dan kebutuhan dana sepanjang 36 bulan.",
+    "figure_note": null,
+    "return_to": "finance",
+    "shots": []
+  },
+  {
+    "id": "I.6",
+    "title": "Skenario dan ambang keberlanjutan",
+    "tables": [
+      {
+        "title": "Skenario operasi tiga tahun",
+        "rows": [
+          [
+            "NPV sebelum pajak, jutaRp",
+            "-111,50",
+            "224,67",
+            "332,64"
+          ],
+          [
+            "Kebutuhan pendanaan, jutaRp",
+            "180,86",
+            "104,82",
+            "100,24"
+          ],
+          [
+            "Pengembalian kas, bulan",
+            "Tidak tercapai dalam 36 bulan",
+            "22",
+            "19"
+          ],
+          [
+            "Penerimaan tiga tahun, jutaRp",
+            "639,64",
+            "1.265,88",
+            "1.493,60"
+          ]
+        ],
+        "note": "Tidak ada nilai terminal. Downside: bulan-kontrak 65%, volume 75%, tarif tetap 80%, biaya langsung 120%, jeda perangkat 2 bulan dan 80% tarif tetap prabayar. Upside:bulan-kontrak 110%, volume 110%, tarif tetap 105%, biaya langsung 95%.",
+        "headers": [
+          "Ukuran",
+          "Downside",
+          "Dasar",
+          "Upside"
+        ]
+      },
+      {
+        "title": "Ambang operasi dan kebutuhan pendanaan",
+        "rows": [
+          [
+            "Kontribusi per institusi/bulan",
+            "Rp3.706.000",
+            "Tarif tetap+marjin40perangkat; sebelum biaya bersama"
+          ],
+          [
+            "Host minimum",
+            "3",
+            "Pada40perangkat/institusi dan biaya bersama awal11,1juta"
+          ],
+          [
+            "Tarif tetap impas pada3institusi",
+            "Rp2.994.000",
+            "Hampir sama dengan tarif3juta;4institusi memberi ruang lebih besar"
+          ],
+          [
+            "Surplus operasi3bulan berturut-turut",
+            "Bulan10",
+            "Onboarding dan biaya bersama tetap disertakan"
+          ],
+          [
+            "Pengembalian kas proyek",
+            "Bulan22",
+            "Sebelum pajak, pendanaan dan nilai terminal"
+          ],
+          [
+            "Kebutuhan dana dasar",
+            "Rp104.816.500",
+            "Termasuk modal awal dan batas cadangan berjalan"
+          ],
+          [
+            "Modal rencana dasar",
+            "Rp110.000.000",
+            "Komitmen dana0; bukan pendapatan"
+          ],
+          [
+            "Kebutuhan dana P90",
+            "Rp155.631.321",
+            "Hasil skenario asumsi, bukan batas maksimum pasti"
+          ],
+          [
+            "Amplop rencana bertahap",
+            "Rp160.000.000",
+            "110juta dasar+50juta bersyarat; pelepasan sesuai kebutuhan"
+          ]
+        ],
+        "note": "Ambang impas adalah keadaan stabil, tanpa penyiapan institusi baru. Piutang dan cadangan menjelaskan mengapa surplus operasi dan kebutuhan kas berbeda.",
+        "headers": [
+          "Ukuran",
+          "Hasil",
+          "Interpretasi"
+        ]
+      }
+    ],
+    "figure": null,
+    "figure_caption": null,
+    "figure_note": null,
+    "return_to": "finance",
+    "shots": []
+  },
+  {
+    "id": "J.1",
+    "title": "Komisioning UI/Depok pada 2027",
+    "return_to": "implementasi",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Pekerjaan dan ketergantungan tahun pertama",
+        "headers": [
+          "Waktu",
+          "Pekerjaan",
+          "Hasil yang membuka tahap berikut"
+        ],
+        "rows": [
+          [
+            "Bulan 1–2",
+            "Tetapkan lingkup UI/Depok, penghubung, peserta dan kebutuhan kategori.",
+            "Dokumen lingkup dan daftar peran berwenang."
+          ],
+          [
+            "Bulan 1–2",
+            "Sepakati penawaran perjalanan, penerimaan, kompensasi dan anggaran.",
+            "Kapasitas, tarif dan sumber pembayaran tersedia."
+          ],
+          [
+            "Bulan 1–2",
+            "Siapkan catatan bersama, akses, instruksi pemilik dan petugas.",
+            "Peran, rekonsiliasi serta pemulihan catatan dapat dijalankan."
+          ],
+          [
+            "Bulan 3–6",
+            "Jalankan layanan awal dan selesaikan serah terima, biaya serta kasus tertahan.",
+            "Layanan berbayar mulai bulan 3; catatan penerimaan, pembayaran dan penyelesaian."
+          ],
+          [
+            "Bulan 4–9",
+            "Perbaiki jadwal, penawaran kapasitas, komunikasi dan ekonomi layanan.",
+            "Paket layanan yang diperbarui dan keputusan pembaruan program."
+          ],
+          [
+            "Bulan 5–12",
+            "Tambah institusi pada bulan 5, 7 dan 10 sesuai kapasitas petugas, dana, perjalanan dan penerima.",
+            "Program tambahan mempunyai kontrak dan biaya sendiri."
+          ]
+        ],
+        "widths": [
+          2.5,
+          7,
+          6.5
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ]
+      }
+    ],
+    "figure": "gantt_year1",
+    "figure_caption": "Gambar J.1. Persiapan Januari–Februari dan layanan mulai Maret 2027.",
+    "figure_note": "Estimasi tim; institusi bertambah pada bulan 5, 7 dan 10 sesuai rencana kapasitas serta pendanaan."
+  },
+  {
+    "id": "J.2",
+    "title": "Perluasan jaringan 2027–2036",
+    "return_to": "implementasi",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Kemampuan dan dasar perluasan",
+        "headers": [
+          "Periode",
+          "Kemampuan utama",
+          "Dasar melanjutkan"
+        ],
+        "rows": [
+          [
+            "2027",
+            "Komisioning UI/Depok; kontrak awal; catatan dan penyelesaian layanan.",
+            "Pekerjaan diselesaikan, biaya direkonsiliasi dan program diperbarui."
+          ],
+          [
+            "2028–2029",
+            "Beberapa program institusi; jadwal kapasitas dan dukungan lintas program.",
+            "Tim, kas dan penerima mendukung seluruh kewajiban."
+          ],
+          [
+            "2030–2031",
+            "Perluasan jejaring Jabodetabek; penawaran layanan yang lebih seragam.",
+            "Ekonomi dan mutu tiap program dapat dipertahankan."
+          ],
+          [
+            "2032–2033",
+            "Persiapan area baru dan pemindahan proses, pelatihan serta dukungan.",
+            "Institusi, penyedia dan penerima lokal membentuk lingkup yang layak."
+          ],
+          [
+            "2034–2036",
+            "Replikasi lintas wilayah; dukungan mutu dan pembaruan standar layanan.",
+            "Kapasitas dukungan tumbuh bersama kontrak dan penyelesaian kasus."
+          ]
+        ],
+        "widths": [
+          2.8,
+          7,
+          6.2
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ]
+      }
+    ],
+    "figure": "gantt_decade",
+    "figure_caption": "Gambar J.2. Stabilisasi, jejaring institusi dan replikasi wilayah.",
+    "figure_note": "Horizon strategis; replikasi mengikuti mutu pemenuhan, kapasitas lokal dan pembiayaan tiap program."
+  },
+  {
+    "id": "J.3",
+    "title": "Tanggung jawab keputusan",
+    "return_to": "implementasi",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "RACI keputusan layanan",
+        "headers": [
+          "Kegiatan",
+          "Institusi",
+          "JejakBalik",
+          "Penyedia",
+          "Penerima",
+          "Pemilik"
+        ],
+        "rows": [
+          [
+            "Lingkup dan anggaran",
+            "A",
+            "R",
+            "C",
+            "C",
+            "I"
+          ],
+          [
+            "Penawaran perjalanan",
+            "I",
+            "C",
+            "A/R",
+            "C",
+            "I"
+          ],
+          [
+            "Syarat penerimaan",
+            "I",
+            "C",
+            "C",
+            "A/R",
+            "I"
+          ],
+          [
+            "Informasi dan persetujuan pemilik",
+            "I",
+            "C",
+            "I",
+            "C",
+            "A/R"
+          ],
+          [
+            "Penyusunan dan persetujuan penugasan",
+            "C",
+            "A/R",
+            "C",
+            "C",
+            "I"
+          ],
+          [
+            "Penjemputan dan serah terima angkut",
+            "I",
+            "C",
+            "A/R",
+            "I",
+            "C"
+          ],
+          [
+            "Penerimaan dan inspeksi",
+            "I",
+            "C",
+            "C",
+            "A/R",
+            "I"
+          ],
+          [
+            "Penyelesaian pengecualian program",
+            "C",
+            "A/R",
+            "R",
+            "R",
+            "C"
+          ],
+          [
+            "Persetujuan biaya tambahan program",
+            "A",
+            "R",
+            "C",
+            "C",
+            "I"
+          ],
+          [
+            "Laporan serta rekonsiliasi program",
+            "C",
+            "A/R",
+            "R",
+            "R",
+            "I"
+          ],
+          [
+            "Pembaruan program",
+            "A",
+            "R",
+            "C",
+            "C",
+            "I"
+          ]
+        ],
+        "widths": [
+          6,
+          2,
+          2.5,
+          2,
+          2,
+          1.5
+        ],
+        "alignments": [
+          "justify",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center"
+        ],
+        "note": "A penanggung jawab akhir; R pelaksana; C dimintai pertimbangan; I diinformasikan. Satu A tiap baris; perangkapan fungsi mengikuti kompetensi dan jam berbayar; peninjau sengketa terpisah dari persetujuan awal."
+      }
+    ]
+  },
+  {
+    "id": "J.4",
+    "title": "Pembaruan kontrak dan keputusan perluasan",
+    "return_to": "implementasi",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Pembaruan dan replikasi program",
+        "headers": [
+          "Waktu",
+          "Dasar keputusan",
+          "Tindakan"
+        ],
+        "rows": [
+          [
+            "Bulanan",
+            "Peristiwa, biaya, tagihan dan kasus tertahan direkonsiliasi.",
+            "Koreksi catatan; tetapkan penanggung jawab, tenggat dan biaya kasus."
+          ],
+          [
+            "Triwulanan",
+            "Pemenuhan janji, beban kerja, dana, keluhan dan koreksi pelayanan.",
+            "Perbarui harga, kapasitas atau jadwal; perbaiki informasi dan penyebab keluhan."
+          ],
+          [
+            "Akhir kontrak",
+            "Laporan diterima institusi; mutu dan ekonomi program mendukung kelanjutan.",
+            "Perpanjang, sesuaikan lingkup atau tutup secara tertib."
+          ],
+          [
+            "Sebelum program tambahan",
+            "Kontrak, petugas, kas, perjalanan dan penerima mendukung seluruh kewajiban.",
+            "Tambah program dengan lingkup sendiri atau tunda penambahan."
+          ],
+          [
+            "Sebelum wilayah baru",
+            "Pengaturan lokal, biaya, penerimaan dan dukungan dapat mempertahankan layanan.",
+            "Komisioning wilayah baru dengan penanggung jawab serta biaya lokal."
+          ]
+        ],
+        "widths": [
+          3,
+          7.2,
+          5.8
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "K.1",
+    "title": "Prioritas pengendalian risiko",
+    "return_to": "implementasi",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Prioritas dan pemilik risiko",
+        "headers": [
+          "ID",
+          "Risiko",
+          "Awal L × I",
+          "Sasaran L × I",
+          "Pemilik"
+        ],
+        "rows": [
+          [
+            "R1",
+            "Permintaan dan pembaruan program",
+            "4 × 4 = 16",
+            "3 × 4 = 12",
+            "Komersial"
+          ],
+          [
+            "R2",
+            "Pembayaran atau dana operasional",
+            "3 × 5 = 15",
+            "2 × 5 = 10",
+            "Keuangan"
+          ],
+          [
+            "R3",
+            "Kapasitas perjalanan ditarik",
+            "4 × 4 = 16",
+            "2 × 4 = 8",
+            "Operasi"
+          ],
+          [
+            "R4",
+            "Penerima penuh atau menolak",
+            "3 × 4 = 12",
+            "2 × 4 = 8",
+            "Operasi dan penerima"
+          ],
+          [
+            "R5",
+            "Kategori atau kondisi berbahaya",
+            "3 × 5 = 15",
+            "1 × 5 = 5",
+            "Penanggung jawab penanganan"
+          ],
+          [
+            "R6",
+            "Paparan atau pelepasan data",
+            "3 × 5 = 15",
+            "2 × 5 = 10",
+            "Penanggung jawab data"
+          ],
+          [
+            "R7",
+            "Perangkat atau serah terima tidak cocok",
+            "3 × 4 = 12",
+            "1 × 4 = 4",
+            "Operasi"
+          ],
+          [
+            "R8",
+            "Keluhan dan perselisihan",
+            "3 × 4 = 12",
+            "2 × 4 = 8",
+            "Peninjau layanan"
+          ],
+          [
+            "R9",
+            "Biaya pengecualian melebihi lingkup",
+            "3 × 4 = 12",
+            "2 × 4 = 8",
+            "Operasi dan keuangan"
+          ],
+          [
+            "R10",
+            "Beban kerja dan dukungan tertinggal",
+            "3 × 3 = 9",
+            "2 × 3 = 6",
+            "Pimpinan layanan"
+          ]
+        ],
+        "widths": [
+          1.1,
+          4.9,
+          2.5,
+          2.5,
+          5
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Estimasi tim: kemungkinan dan dampak 1–5; skor = L × I. Prioritas 1–4 rendah, 5–9 menengah, 10–16 tinggi, 17–25 kritis; nilai akhir merupakan sasaran pengendalian."
+      }
+    ],
+    "figure": "risk_heatmap",
+    "figure_caption": "Gambar K1. Posisi risiko awal."
+  },
+  {
+    "id": "K.2",
+    "title": "Respons gangguan dan sumber daya",
+    "return_to": "implementasi",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Pemicu, respons dan pembiayaan",
+        "headers": [
+          "Risiko dan pemicu",
+          "Respons",
+          "Sumber daya"
+        ],
+        "rows": [
+          [
+            "R1: kontrak tidak diperbarui",
+            "Sesuaikan lingkup, frekuensi dan komunikasi; gunakan laporan pemenuhan dalam pembaruan.",
+            "Jam komersial dan koordinasi berbayar."
+          ],
+          [
+            "R2: pembayaran terlambat atau kas di bawah cadangan",
+            "Gunakan pembayaran kontrak dan cadangan; batasi komitmen baru.",
+            "Keuangan dan cadangan operasional."
+          ],
+          [
+            "R3: perjalanan batal",
+            "Sebelum pengambilan: rencanakan ulang. Sesudah pengambilan: pertahankan pembawa dan atur serah terima.",
+            "Koordinasi dan biaya insiden."
+          ],
+          [
+            "R4: penerima tidak dapat menerima",
+            "Atur waktu atau tujuan yang disetujui; tanggung jawab tetap pada pembawa saat ini.",
+            "Tindak lanjut dan biaya tambahan disahkan."
+          ],
+          [
+            "R5: kondisi/kategori tidak sesuai",
+            "Hentikan penugasan umum; gunakan pelaksana yang memenuhi persyaratan.",
+            "Anggaran penanganan khusus."
+          ],
+          [
+            "R6: akses atau keputusan data bermasalah",
+            "Batasi akses dan pelepasan; lakukan peninjauan, sanitasi serta dokumentasi.",
+            "Dukungan data, penyimpanan dan kontrak penerima."
+          ],
+          [
+            "R7: catatan tidak cocok dengan perangkat",
+            "Cocokkan identitas dan bukti; perbaiki melalui riwayat koreksi.",
+            "Jam operasi dan peninjauan."
+          ],
+          [
+            "R8: keluhan atau sengketa",
+            "Pisahkan peninjau dari persetujuan awal; tetapkan kewajiban dan penyelesaiannya.",
+            "Jam peninjauan layanan."
+          ],
+          [
+            "R9: biaya insiden melebihi lingkup",
+            "Setujui pekerjaan dan sumber pembayaran sebelum tambahan komitmen.",
+            "Anggaran tambahan disahkan."
+          ],
+          [
+            "R10: antrean dan beban dukungan meningkat",
+            "Kurangi permintaan baru atau tambah petugas sesuai anggaran.",
+            "Jam dukungan dan keputusan kapasitas."
+          ]
+        ],
+        "widths": [
+          4.4,
+          7.5,
+          4.1
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Biaya insiden serta cadangan mengikuti anggaran pemenuhan dan kebutuhan dana program pada Lampiran I.2–I.3."
+      }
+    ]
+  },
+  {
+    "id": "K.3",
+    "title": "Penanganan perangkat dan data",
+    "return_to": "implementasi",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Kelayakan kategori dan pelepasan data",
+        "headers": [
+          "Keputusan",
+          "Pelaksana atau pemilik otoritas",
+          "Dokumen layanan"
+        ],
+        "rows": [
+          [
+            "Identifikasi kategori dan kondisi",
+            "Pemilik memberi informasi; penanggung jawab penanganan meninjau.",
+            "Kategori, kondisi, kebutuhan kemasan dan batas penerimaan."
+          ],
+          [
+            "Kesesuaian penyedia",
+            "Koordinator memeriksa lingkup kegiatan, kendaraan dan penawaran.",
+            "Syarat penyedia serta penanganan yang diizinkan."
+          ],
+          [
+            "Kesiapan penerima",
+            "Penerima menyatakan lingkup, kategori, kapasitas dan waktu.",
+            "Penerimaan dan kegiatan tindak lanjut yang disepakati."
+          ],
+          [
+            "Persetujuan data",
+            "Pemilik atau penanggung jawab data menetapkan instruksi.",
+            "Persetujuan dan batas akses."
+          ],
+          [
+            "Pelaksanaan sanitasi",
+            "Pelaksana yang ditetapkan menangani media dan hasilnya.",
+            "Metode, tanggal, pemeriksaan hasil dan penanggung jawab."
+          ],
+          [
+            "Pelepasan dan tujuan akhir",
+            "Pihak berwenang menyetujui setelah persyaratan terpenuhi.",
+            "Bukti pelepasan, penempatan atau pengolahan."
+          ]
+        ],
+        "widths": [
+          4,
+          6.5,
+          5.5
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Kategori/kegiatan: PP 27/2020, PP 22/2021 dan Permen LHK 6/2021. Data: UU 27/2022 dan Chandramouli & Hibbard (2025)."
+      }
+    ]
+  },
+  {
+    "id": "L.1",
+    "title": "Jangkauan dan kontribusi layanan",
+    "return_to": "dampak",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Jangkauan dan kapasitas kerja 2027–2029",
+        "rows": [
+          [
+            "Perangkat diterima tahun 1",
+            "527",
+            "1.080",
+            "1.307"
+          ],
+          [
+            "Perangkat diterima tahun 3",
+            "2.457",
+            "5.040",
+            "6.098"
+          ],
+          [
+            "Jam kerja dibayar tahun 1",
+            "2.400",
+            "2.400",
+            "2.550"
+          ],
+          [
+            "Jam kerja dibayar tahun 3",
+            "3.000",
+            "3.600",
+            "3.900"
+          ],
+          [
+            "Perangkat diterima tiga tahun",
+            "4.505",
+            "9.240",
+            "11.180"
+          ],
+          [
+            "Jam kerja dibayar tiga tahun",
+            "8.100",
+            "9.000",
+            "9.600"
+          ],
+          [
+            "Kebutuhan jam kerja tiga tahun",
+            "4.982",
+            "6.576",
+            "7.149"
+          ]
+        ],
+        "note": "Estimasi tim; volume memakai skenario finansial yang sama. Jam kerja dibayar merupakan kapasitas pengelola dan operasi, bukan jumlah pekerjaan atau jam angkut.",
+        "headers": [
+          "Ukuran",
+          "Rendah",
+          "Dasar",
+          "Tinggi"
+        ]
+      },
+      {
+        "title": "Asumsi massa rata-rata per kategori",
+        "rows": [
+          [
+            "Biasa",
+            "80%",
+            "1,0",
+            "2,0",
+            "4,0"
+          ],
+          [
+            "Besar",
+            "15%",
+            "15,0",
+            "25,0",
+            "35,0"
+          ],
+          [
+            "Khusus",
+            "5%",
+            "3,0",
+            "6,0",
+            "10,0"
+          ],
+          [
+            "Rata-rata berbobot",
+            "100%",
+            "3,20",
+            "5,65",
+            "8,95"
+          ]
+        ],
+        "note": "Estimasi tim atas rerata campuran kategori, bukan berat minimum/maksimum setiap benda; bukan konversi massa menjadi hasil daur ulang.",
+        "headers": [
+          "Kategori",
+          "Bauran",
+          "Rendah kg",
+          "Dasar kg",
+          "Tinggi kg"
+        ]
+      },
+      {
+        "title": "Pengaruh campuran berat pada volume tiga tahun",
+        "rows": [
+          [
+            "Rendah",
+            "4.505",
+            "14,41",
+            "25,45",
+            "40,32"
+          ],
+          [
+            "Dasar",
+            "9.240",
+            "29,57",
+            "52,21",
+            "82,70"
+          ],
+          [
+            "Tinggi",
+            "11.180",
+            "35,78",
+            "63,17",
+            "100,06"
+          ]
+        ],
+        "note": "Pisahkan ketidakpastian volume dan berat. Pada volume dasar 9.240 perangkat, rentang massa 29,57–82,70 ton; nilai tengah 52,21 ton.",
+        "headers": [
+          "Volume",
+          "Perangkat",
+          "Berat Rendah ton",
+          "Berat Dasar ton",
+          "Berat Tinggi ton"
+        ]
+      },
+      {
+        "title": "Anggaran jasa dan kapasitas kerja pada skenario dasar",
+        "rows": [
+          [
+            "Angkutan, juta Rp",
+            "23,49",
+            "109,62",
+            "200,97"
+          ],
+          [
+            "Penanganan penerima, juta Rp",
+            "19,01",
+            "88,70",
+            "162,62"
+          ],
+          [
+            "Jam dibayar pengelola/operasi",
+            "2.400",
+            "3.600",
+            "9.000"
+          ],
+          [
+            "Kebutuhan jam pengelola/operasi",
+            "1.392",
+            "2.976",
+            "6.576"
+          ]
+        ],
+        "note": "Estimasi tim, rupiah konstan 2027. Anggaran jasa telah masuk biaya langsung; jam dibayar telah masuk biaya bersama. Keduanya tidak dihitung kembali sebagai keuntungan tambahan.",
+        "headers": [
+          "Ukuran",
+          "2027",
+          "2029",
+          "Total tiga tahun"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "L.2",
+    "title": "Rangkaian dampak dan kontribusi SDG",
+    "return_to": "dampak",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Rangkaian perubahan yang dituju",
+        "headers": [
+          "Tingkat",
+          "Komponen JejakBalik",
+          "Ukuran yang sesuai"
+        ],
+        "rows": [
+          [
+            "Masukan",
+            "Anggaran institusi, petugas, penawaran perjalanan dan kapasitas penerima.",
+            "Dana tersedia, jam kerja dan kapasitas yang ditawarkan."
+          ],
+          [
+            "Kegiatan",
+            "Pendataan, pencocokan, persetujuan, angkutan, penerimaan dan tindak lanjut.",
+            "Permintaan, keputusan, peristiwa dan jam kerja."
+          ],
+          [
+            "Keluaran",
+            "Perangkat dijemput, diterima dan dilengkapi bukti tindak lanjut.",
+            "Jumlah serta massa per tahap dan jalur."
+          ],
+          [
+            "Hasil layanan",
+            "Pengembalian yang lebih dapat dipenuhi dan tanggung jawab yang lebih jelas.",
+            "Pemenuhan janji, kasus terbuka, penyelesaian dan biaya per layanan."
+          ],
+          [
+            "Hasil pemanfaatan",
+            "Perangkat berfungsi kembali atau material memasuki pengolahan yang sesuai.",
+            "Bukti penempatan, perbaikan atau penerimaan pengolahan."
+          ],
+          [
+            "Kontribusi jangka panjang",
+            "Pemanfaatan sumber daya yang lebih bertanggung jawab.",
+            "Masa guna dan hasil material bila bukti lanjutan tersedia."
+          ]
+        ],
+        "widths": [
+          2.5,
+          7,
+          6.5
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ]
+      },
+      {
+        "title": "Kontribusi pada target SDG",
+        "headers": [
+          "Target",
+          "Kontribusi layanan",
+          "Bukti kemajuan"
+        ],
+        "rows": [
+          [
+            "12.5",
+            "Perbaikan, penggunaan kembali dan pemulihan melalui jalur yang sesuai.",
+            "Bukti perbaikan, penerimaan pengguna berikut atau pengolahan."
+          ],
+          [
+            "12.4",
+            "Penanganan kategori dan komponen berisiko oleh pelaksana yang sesuai.",
+            "Klasifikasi, serah terima dan dokumen penanganan."
+          ],
+          [
+            "17.17",
+            "Kerja sama institusi, penyedia dan penerima dalam program yang dibiayai.",
+            "Lingkup perjanjian, pembiayaan dan laporan bersama."
+          ]
+        ],
+        "widths": [
+          1.5,
+          7.5,
+          7
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "United Nations Department of Economic and Social Affairs (n.d.-a, n.d.-b); pelaporan mengikuti kontribusi program dan jalur perangkat."
+      }
+    ]
+  },
+  {
+    "id": "L.3",
+    "title": "Sasaran dan definisi layanan",
+    "return_to": "dampak",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Sasaran SMART tahun pertama",
+        "headers": [
+          "Indikator dan target",
+          "Definisi",
+          "Waktu dan pemilik"
+        ],
+        "rows": [
+          [
+            "100% penugasan berpersetujuan",
+            "Penugasan dengan persetujuan sah ÷ seluruh penugasan yang dilepas.",
+            "Setiap pelepasan; operator program."
+          ],
+          [
+            "100% pengambilan tercatat",
+            "Pengambilan dengan identitas, waktu dan pembawa lengkap ÷ seluruh pengambilan.",
+            "Harian; operasi."
+          ],
+          [
+            "≥95% pemenuhan janji",
+            "Layanan dengan penjemputan dan penerimaan keduanya tepat waktu ÷ seluruh layanan yang dijanjikan dan jatuh tempo dalam periode.",
+            "Bulanan; operasi."
+          ],
+          [
+            "100% kasus terbuka mempunyai pemilik",
+            "Kasus tertahan dengan penanggung jawab dan langkah berikut ÷ seluruh kasus tertahan.",
+            "Harian; operasi."
+          ],
+          [
+            "≥90% keluhan ditangani dalam 5 hari kerja",
+            "Keluhan dengan tanggapan dan rencana penanganan dalam lima hari kerja ÷ keluhan dengan tenggat tanggapan jatuh tempo pada periode.",
+            "Bulanan; peninjau layanan."
+          ],
+          [
+            "100% biaya dapat direkonsiliasi",
+            "Biaya dengan pekerjaan, tagihan dan sumber pembayaran yang cocok ÷ seluruh biaya program.",
+            "Bulanan; keuangan."
+          ],
+          [
+            "100% laporan jalur akhir berbukti",
+            "Perangkat yang dilaporkan selesai dengan bukti sesuai jalurnya ÷ perangkat dilaporkan selesai.",
+            "Bulanan; penerima dan koordinator."
+          ]
+        ],
+        "widths": [
+          4.8,
+          7,
+          4.2
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ],
+        "note": "Target tim untuk 2027; pemenuhan janji menghitung setiap layanan sekali, termasuk layanan dijanjikan yang belum dipenuhi."
+      }
+    ]
+  },
+  {
+    "id": "L.4",
+    "title": "Pencatatan hasil perangkat dan sumber daya",
+    "return_to": "dampak",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Akun perangkat, material dan biaya",
+        "headers": [
+          "Akun",
+          "Definisi",
+          "Rekonsiliasi"
+        ],
+        "rows": [
+          [
+            "Permintaan",
+            "Seluruh permintaan unik dalam lingkup dan periode.",
+            "Pisahkan layak, belum lengkap dan di luar lingkup."
+          ],
+          [
+            "Penugasan",
+            "Permintaan yang memperoleh perjalanan dan persetujuan.",
+            "Pertahankan denominator permintaan serta alasan belum terlayani."
+          ],
+          [
+            "Diambil dan diterima",
+            "Perangkat yang berpindah penguasaan pada masing-masing tahap.",
+            "Jangan menggandakan satu perangkat pada total fisik."
+          ],
+          [
+            "Selesai",
+            "Persyaratan jalur dan keputusan yang relevan telah dipenuhi.",
+            "Bukti penempatan, perbaikan atau pengolahan mengikuti jalurnya."
+          ],
+          [
+            "Massa",
+            "Berat perangkat atau lot pada basis penimbangan yang jelas.",
+            "Massa input tidak menjadi klaim hasil material pulih."
+          ],
+          [
+            "Biaya layanan",
+            "Koordinasi, pemenuhan, penanganan dan tindak lanjut pada lingkupnya.",
+            "Tampilkan biaya per layanan selesai dan kewajiban terbuka."
+          ],
+          [
+            "Perjalanan",
+            "Jarak tambahan di atas perjalanan awal yang ditawarkan.",
+            "Bandingkan dengan pengumpulan khusus untuk beban kerja yang sama."
+          ]
+        ],
+        "widths": [
+          3,
+          6.5,
+          6.5
+        ],
+        "alignments": [
+          "justify",
+          "justify",
+          "justify"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "M.1",
+    "title": "Monte Carlo dan kebutuhan pendanaan",
+    "tables": [
+      {
+        "title": "Hasil 10.000 skenario asumsi",
+        "rows": [
+          [
+            "NPV, jutaRp",
+            "-21,19",
+            "94,66",
+            "208,33"
+          ],
+          [
+            "Kebutuhan pendanaan, jutaRp",
+            "109,21",
+            "128,36",
+            "155,63"
+          ],
+          [
+            "Cakupan biaya tahun3",
+            "132,8%",
+            "149,2%",
+            "165,5%"
+          ],
+          [
+            "Kasakhir sebelum pendanaan, jutaRp",
+            "5,57",
+            "150,79",
+            "292,62"
+          ]
+        ],
+        "note": "Seed 20261104; frekuensi NPV≥0:84,74%; cakupan biaya tahun 3≥1:100,0%. Frekuensi bersyarat pada asumsi, bukan peluang keberhasilan pasar.",
+        "headers": [
+          "Ukuran",
+          "P10",
+          "P50",
+          "P90"
+        ]
+      },
+      {
+        "title": "Rencana pendanaan bertahap",
+        "headers": [
+          "Tahap",
+          "Jumlah",
+          "Penggunaan"
+        ],
+        "rows": [
+          [
+            "Dasar",
+            "Rp110 juta",
+            "Persiapan, kebutuhan kas dan cadangan dasar Rp104,82 juta."
+          ],
+          [
+            "Kontinjensi",
+            "Rp50 juta",
+            "Tambahan dihimpun sebelum kapasitas baru yang memerlukan dana dijanjikan."
+          ],
+          [
+            "Batas rencana",
+            "Rp160 juta",
+            "Di atas kebutuhan dana P90 Rp155,63 juta."
+          ],
+          [
+            "Komitmen tersedia",
+            "Rp0",
+            "Rencana penghimpunan, belum komitmen pendana."
+          ]
+        ],
+        "widths": [
+          3,
+          3.4,
+          9.6
+        ],
+        "note": "Estimasi tim, rupiah konstan 2027. NPV positif pada 84,74% penarikan; Rp110 juta memenuhi kebutuhan 11,3% penarikan. Frekuensi bersyarat pada distribusi asumsi, bukan probabilitas keberhasilan pasar."
+      }
+    ],
+    "figure": "mc_npv",
+    "figure_caption": "Gambar M1. Sebaran NPV pada 10.000 kombinasi asumsi.",
+    "figure_note": null,
+    "return_to": "finance",
+    "shots": []
+  },
+  {
+    "id": "M.2",
+    "title": "Penggerak hasil dan kestabilan numerik",
+    "tables": [
+      {
+        "title": "Pemeriksaan kestabilan numerik",
+        "rows": [
+          [
+            "NPV sebelum pajak",
+            "0,71%"
+          ],
+          [
+            "Kebutuhan pendanaan",
+            "0,32%"
+          ],
+          [
+            "Cakupan biaya tahun ketiga",
+            "0,74%"
+          ],
+          [
+            "Kas akhir tanpa pendanaan",
+            "0,83%"
+          ]
+        ],
+        "note": "Membandingkan 5.000 draw pertama dengan 10.000 draw; kuantil P10/P50/P90. Ketelitian numerik tidak membuktikan kebenaran asumsi.",
+        "headers": [
+          "Ukuran",
+          "Pergeseran kuantil maksimum/P90−P10"
+        ]
+      }
+    ],
+    "figure": "mc_drivers",
+    "figure_caption": "Gambar M2. Asosiasi peringkat input dengan NPV.",
+    "figure_note": null,
+    "return_to": "finance",
+    "shots": []
+  },
+  {
+    "id": "M.3",
+    "title": "Distribusi asumsi dan sensitivitas",
+    "tables": [
+      {
+        "title": "Distribusi dan hubungan antarinput",
+        "rows": [
+          [
+            "Partisipasi kontrak",
+            "Triangular 0,55;1,00;1,15",
+            "Faktor bersama bulan-kontrak dan volume"
+          ],
+          [
+            "Volume spesifik",
+            "Triangular 0,65;1,00;1,15",
+            "Volume=0,6×partisipasi+0,4×volume spesifik"
+          ],
+          [
+            "Tarif tetap",
+            "Triangular 0,80;1,00;1,10",
+            "Bulan-kontrak dikalikan1−0,25×(faktor tarif−1)"
+          ],
+          [
+            "Tarif perangkat",
+            "Triangular 0,90;1,00;1,08",
+            "Diterapkan pada tarif setiap kategori"
+          ],
+          [
+            "Biaya pemenuhan",
+            "Triangular 0,90;1,00;1,30",
+            "Faktor bersama biaya langsung"
+          ],
+          [
+            "Biaya bersama spesifik",
+            "Triangular 0,90;1,00;1,20",
+            "Faktor biaya bersama=0,5×biaya langsung+0,5×faktor spesifik"
+          ],
+          [
+            "Jeda tagihan perangkat",
+            "0/1/2bulan; bobot10%/65%/25%",
+            "Perubahan waktu penerimaan, bukan pendapatan baru"
+          ],
+          [
+            "Prapembayaran tarif tetap",
+            "Triangular 0,70;1,00;1,00",
+            "Sisa dibayar bulan berikutnya"
+          ]
+        ],
+        "note": "Estimasi tim. Tidak ada distribusi yang dikalibrasi dari data lapangan JejakBalik. Dependensi dinyatakan agar kelemahan partisipasi tidak diperlakukan terpisah dari volume.",
+        "headers": [
+          "Input",
+          "Rentang/model",
+          "Hubungan"
+        ]
+      },
+      {
+        "title": "Sensitivitas satu faktor",
+        "rows": [
+          [
+            "Volume perangkat -20%",
+            "203,70",
+            "-20,96",
+            "105,14"
+          ],
+          [
+            "Volume perangkat +20%",
+            "245,63",
+            "20,96",
+            "105,30"
+          ],
+          [
+            "Bulan kontrak -20%",
+            "108,68",
+            "-115,99",
+            "115,82"
+          ],
+          [
+            "Bulan kontrak +20%",
+            "331,22",
+            "106,55",
+            "100,20"
+          ],
+          [
+            "Tarif tetap -15%",
+            "141,75",
+            "-82,92",
+            "114,03"
+          ],
+          [
+            "Tarif tetap +15%",
+            "307,59",
+            "82,92",
+            "100,77"
+          ],
+          [
+            "Biaya langsung +20%",
+            "159,29",
+            "-65,38",
+            "111,58"
+          ],
+          [
+            "Biaya langsung -20%",
+            "290,04",
+            "65,38",
+            "101,36"
+          ],
+          [
+            "Biaya bersama +15%",
+            "164,69",
+            "-59,98",
+            "125,59"
+          ],
+          [
+            "Biaya bersama -15%",
+            "284,64",
+            "59,98",
+            "89,83"
+          ],
+          [
+            "Tagihan perangkat tertunda 2 bulan",
+            "199,63",
+            "-25,04",
+            "112,24"
+          ]
+        ],
+        "note": "Input lain tetap. Perubahan bulan-kontrak dapat mengubah blok tenaga operasi sehingga efeknya tidak linear.",
+        "headers": [
+          "Perubahan",
+          "NPVjutaRp",
+          "PerubahanNPV",
+          "DanajutaRp"
+        ]
+      }
+    ],
+    "figure": null,
+    "figure_caption": null,
+    "figure_note": null,
+    "return_to": "finance",
+    "shots": []
+  },
+  {
+    "id": "M.4",
+    "title": "Persamaan operasi, kas dan kapasitas",
+    "return_to": "finance",
+    "paragraphs": [],
+    "tables": [
+      {
+        "title": "Persamaan operasi dan penerimaan kas",
+        "headers": [
+          "Besaran",
+          "Definisi dan persamaan"
+        ],
+        "rows": [
+          [
+            "Perangkat dan pendapatan",
+            "qₜ = 40 × hₜ × v; Tₜ = Rp3.000.000 × hₜ × r; Uₜ = Rp62.000 × qₜ × f; Yₜ = Tₜ + Uₜ. Bauran dan biaya kategori dijelaskan pada Lampiran I.2."
+          ],
+          [
+            "Biaya pemenuhan",
+            "Dₜ = Rp44.350 × qₜ × d. Anggaran pengecualian pada biaya satuan diasumsikan digunakan."
+          ],
+          [
+            "Biaya bersama",
+            "Bₜ = [Rp6.000.000 + Rp2.000.000 × max(1; ceil(hₜ/4)) + Rp2.100.000 + Mₜ] × o; Mₜ = Rp1.000.000/Rp1.200.000/Rp1.500.000 per bulan pada tahun 1/2/3."
+          ],
+          [
+            "Onboarding dan beban",
+            "Aₜ = Rp500.000 × max(0; hₜ − hₜ₋₁), h₀ = 0; Eₜ = Dₜ + Bₜ + Aₜ. Surplus operasi = Yₜ − Eₜ."
+          ],
+          [
+            "Kas masuk dan bersih",
+            "Kₜ = Uₜ₋ℓ + pTₜ + (1 − p)Tₜ₋₁; CFₜ = Kₜ − Eₜ. Untuk ℓ = 0, U diterima pada bulan yang sama."
+          ],
+          [
+            "Kas dan piutang",
+            "C₀ = −I; Cₜ = −I + Σₛ₌₁ᵗ CFₛ; kas dengan dana dasar = Rp110.000.000 + Cₜ. Piutangₜ = Σₛ₌₁ᵗ (Yₛ − Kₛ)."
+          ],
+          [
+            "Kapasitas kerja",
+            "Kebutuhan jam Wₜ = 80 + 8hₜ + 0,2qₜ. Jam dibiayai = 150 + 50 × max(1; ceil(hₜ/4)); setiap skenario harus memenuhi Wₜ ≤ jam dibiayai. Kelayakan perjalanan dan penerima tetap diperiksa terpisah."
+          ]
+        ],
+        "widths": [
+          4,
+          12
+        ]
+      },
+      {
+        "title": "Ambang pendanaan, pengembalian dan impas",
+        "headers": [
+          "Ukuran",
+          "Aturan perhitungan"
+        ],
+        "rows": [
+          [
+            "Cadangan kas",
+            "Zₜ = 2Bₜ + Dₜ/4: dua bulan biaya bersama dan seperempat biaya pemenuhan bulanan."
+          ],
+          [
+            "Kebutuhan dana",
+            "F* = max[0; I + Z₁; maxₜ(Zₜ − Cₜ)]. Dana ini menutup kas proyek dan mempertahankan batas cadangan. Setoran pendanaan bukan pendapatan layanan."
+          ],
+          [
+            "Pengembalian kas",
+            "Bulan pertama t dengan Cₜ ≥ 0 dan seluruh Cₛ ≥ 0 untuk s ≥ t sampai bulan 36. Jika tidak ada, pengembalian tidak tercapai dalam horizon. Dasar: bulan 22."
+          ],
+          [
+            "Cakupan biaya tahun 3",
+            "Σₜ₌₂₅³⁶ Yₜ ÷ Σₜ₌₂₅³⁶ Eₜ; rasio ≥ 1 berarti penerimaan layanan tahun ketiga menutup beban tahun tersebut."
+          ],
+          [
+            "Impas operasi stabil",
+            "Kontribusi per institusi = Rp3.000.000 + 40 × (Rp62.000 − Rp44.350) = Rp3.706.000/bulan. Pada biaya bersama awal Rp11.100.000, ceil(11.100.000/3.706.000) = 3 institusi; tidak ada onboarding baru. Blok tenaga dihitung ulang jika melewati empat institusi."
+          ],
+          [
+            "Tarif atau volume impas",
+            "Untuk h pada tingkat biaya bersama yang berlaku: tarif tetap minimum = B/h − q̄ × (tarif satuan − biaya satuan); perangkat minimum total = max[0; (B − h × tarif tetap)/(tarif satuan − biaya satuan)]. Pada h = 3 dan q̄ = 40: tarif tetap minimum Rp2.994.000/institusi/bulan atau sekitar 119 perangkat total/bulan pada tarif tetap Rp3 juta."
+          ],
+          [
+            "Konfirmasi surplus",
+            "Bulan konfirmasi adalah akhir rangkaian tiga bulan berturut-turut dengan surplus operasi > 0, termasuk onboarding. Dasar: bulan 10; ini berbeda dari pengembalian seluruh kas proyek."
+          ]
+        ],
+        "widths": [
+          4,
+          12
+        ]
+      },
+      {
+        "title": "Parameter dan pembacaan simulasi",
+        "headers": [
+          "Komponen",
+          "Definisi"
+        ],
+        "rows": [
+          [
+            "Horizon dan harga",
+            "36 bulan, Januari 2027–Desember 2029; rupiah konstan 2027. Sebelum pajak, bunga dan distribusi; tidak memasukkan nilai terminal."
+          ],
+          [
+            "Kapasitas dan pembayaran",
+            "40 perangkat/institusi/bulan; koordinasi dibayar di muka dan jasa perangkat satu bulan setelah ditagih pada dasar. Kewajiban yang belum dibayar tetap menjadi piutang."
+          ],
+          [
+            "Input awal",
+            "a, v, r, f, d, o: faktor institusi, volume, retainer, tarif perangkat, biaya langsung dan biaya bersama. I = Rp28 juta; indeks bulan t = 1,…,36."
+          ],
+          [
+            "Diskonto",
+            "12% riil/tahun; ekuivalen bulanan 0,9489%. Estimasi tim."
+          ],
+          [
+            "Monte Carlo",
+            "10.000 penarikan; NumPy default_rng/PCG64, seed 20261104. Satu kombinasi dipakai selama 36 bulan setiap iterasi."
+          ],
+          [
+            "Penarikan primitif",
+            "P perolehan institusi; V volume; R tarif koordinasi; D biaya langsung; O biaya bersama; F tarif perangkat; ℓ jeda pembayaran perangkat; p porsi koordinasi di muka. Primitif independen, ditarik berurutan P, V, R, D, O, F, ℓ, p."
+          ],
+          [
+            "Faktor turunan",
+            "a = clip[P × (1 − 0,25 × (R − 1)); 0,45; 1,25]; v = 0,6P + 0,4V; r = R; f = F; d = D; o = 0,5D + 0,5O."
+          ],
+          [
+            "Kuantil dan asosiasi",
+            "Persentil linear NumPy; frekuensi memenuhi ambang merupakan proporsi penarikan. Spearman memakai korelasi peringkat dengan rata-rata untuk nilai sama; bukan efek kausal."
+          ],
+          [
+            "Kestabilan",
+            "Maksimum selisih absolut kuantil antara 5.000 dan 10.000 penarikan dibagi rentang P90–P10 seluruh penarikan."
+          ]
+        ],
+        "widths": [
+          3.6,
+          12.4
+        ],
+        "note": "Estimasi tim. Tarif dan biaya ditampilkan di Lampiran I.2–I.3; penarikan dan hubungan input di Lampiran M.3."
+      }
+    ]
+  }
+]

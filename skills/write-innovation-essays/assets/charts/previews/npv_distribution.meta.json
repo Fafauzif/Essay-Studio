@@ -1,0 +1,64 @@
+{
+  "id": "npv_distribution",
+  "type": "distribution",
+  "tex": "essay-studio/skills/write-innovation-essays/assets/charts/previews/npv_distribution.tex",
+  "input_sha256": "377c64c7983f2d1b10fbccacd27854f235a499768926ab613995b3dd2a8e7635",
+  "font": "Times New Roman",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {
+    "n": 1200,
+    "bins": 24,
+    "bin_counts": [
+      7,
+      18,
+      34,
+      36,
+      41,
+      68,
+      54,
+      79,
+      83,
+      81,
+      100,
+      92,
+      78,
+      72,
+      79,
+      56,
+      38,
+      51,
+      33,
+      30,
+      30,
+      20,
+      16,
+      4
+    ],
+    "quantiles_linear": {
+      "10": 7.153600000000002,
+      "50": 98.87899999999999,
+      "90": 202.91379999999987
+    }
+  },
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "essay-studio/skills/write-innovation-essays/assets/charts/previews/npv_distribution.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [],
+  "pdf_width_cm": 16.215430340237088,
+  "pdf_height_cm": 5.790141838921441,
+  "png_renderer": "PyMuPDF",
+  "png": "essay-studio/skills/write-innovation-essays/assets/charts/previews/npv_distribution.png",
+  "render_status": "rendered",
+  "pdf_text_fonts": [
+    "CMR9",
+    "CMSY9",
+    "TimesNewRomanPSMT"
+  ],
+  "pdf_text_sizes_pt": [
+    7.97,
+    8.966
+  ],
+  "min_text_pt_at_nominal_width": 7.864213045242773
+}

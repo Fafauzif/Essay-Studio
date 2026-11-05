@@ -1,0 +1,31 @@
+{
+  "id": "stakeholder_structure",
+  "type": "structure_tree",
+  "tex": "essay-studio/skills/write-innovation-essays/assets/charts/previews/stakeholder_structure.tex",
+  "input_sha256": "a05398d7a3589cad52f9a63abfd8896b46eb76ce80652f01c120ef08b57c4076",
+  "font": "Times New Roman",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {
+    "nodes": 10,
+    "leaves": 6
+  },
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "essay-studio/skills/write-innovation-essays/assets/charts/previews/stakeholder_structure.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [],
+  "pdf_width_cm": 16.38723294576009,
+  "pdf_height_cm": 5.509330490960015,
+  "png_renderer": "PyMuPDF",
+  "png": "essay-studio/skills/write-innovation-essays/assets/charts/previews/stakeholder_structure.png",
+  "render_status": "rendered",
+  "pdf_text_fonts": [
+    "TimesNewRomanPS-BoldMT",
+    "TimesNewRomanPSMT"
+  ],
+  "pdf_text_sizes_pt": [
+    9.748
+  ],
+  "min_text_pt_at_nominal_width": 9.517269707122493
+}

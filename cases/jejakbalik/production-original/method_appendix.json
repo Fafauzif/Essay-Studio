@@ -1,0 +1,96 @@
+{
+  "id": "L.4",
+  "title": "Rekonstruksi model arus kas dan kebutuhan dana",
+  "return_to": "gagasan",
+  "paragraphs": [
+    "Seluruh parameter operasi dan distribusi merupakan estimasi tim, dinyatakan dalam rupiah konstan 2027 dan dihitung sebelum pajak, bunga serta distribusi pemilik. Indeks t = 1–36 mencakup Januari 2027–Desember 2029; t = 0 memuat belanja awal I = Rp28.000.000. Tidak ada nilai terminal, penerimaan pemulihan perangkat, kredit karbon, hibah atau pinjaman otomatis. Tarif perangkat diakui ketika perangkat diterima tujuan dan serah terima direkonsiliasi, bukan ketika daur ulang selesai.",
+    "Jadwal dasar institusi aktif h⁰ untuk bulan 1–12 adalah (0; 0; 1; 1; 2; 2; 3; 3; 3; 4; 4; 4). Pada 2028, setiap tiga bulan berturut-turut memakai 5, 6, 7 dan 8 institusi; pada 2029 memakai 9, 10, 11 dan 12. Dalam skenario, hₜ = h⁰ₜ × a dapat berupa ekuivalen bulan-kontrak, bukan jumlah institusi pecahan. Faktor a, v, r, f, d dan o masing-masing mengubah kontrak, volume, tarif tetap, tarif perangkat, biaya langsung dan biaya bersama; semuanya 1 pada dasar. Parameter p = 1 menyatakan bagian tarif tetap yang dibayar pada bulan layanan; jeda tarif perangkat ℓ = 1 bulan. Nilai sebelum bulan pertama dianggap nol.",
+    "NPV = −I + Σₜ₌₁³⁶ [CFₜ ÷ (1 + 0,12)^(t/12)]. Diskonto 12% adalah tingkat riil efektif tahunan; tingkat bulanannya (1,12)^(1/12) − 1. Arus pendanaan tidak masuk NPV. Kas/piutang tersisa pada akhir bulan 36 tidak dicairkan sebagai nilai terminal; cadangan merupakan batas saldo yang harus tersedia, bukan biaya kedua di luar biaya operasi.",
+    "Monte Carlo memakai 10.000 penarikan dengan generator NumPy default_rng (PCG64), seed 20261104. Notasi T(min; modus; maks) adalah triangular. Urutan penarikan per iterasi: P ~ T(0,55; 1; 1,15), V ~ T(0,65; 1; 1,15), R ~ T(0,80; 1; 1,10), D ~ T(0,90; 1; 1,30), O ~ T(0,90; 1; 1,20), F ~ T(0,90; 1; 1,08), ℓ ∈ {0; 1; 2} dengan bobot {0,10; 0,65; 0,25}, lalu p ~ T(0,70; 1; 1). Penarikan primitif tersebut independen; faktor turunannya sengaja saling bergantung: a = clip[P × (1 − 0,25 × (R − 1)); 0,45; 1,25], v = 0,6P + 0,4V, r = R, f = F, d = D, o = 0,5D + 0,5O. Satu kombinasi faktor berlaku sepanjang 36 bulan dalam satu iterasi, bukan ditarik ulang setiap bulan. Model arus kas yang sama dijalankan pada setiap kombinasi.",
+    "Kuantil P10/P50/P90 memakai persentil linear NumPy atas seluruh penarikan. Frekuensi NPV ≥ 0 dan kebutuhan dana ≤ batas pendanaan adalah proporsi penarikan yang memenuhi syarat; nilainya bersyarat pada rentang estimasi tim. Pemeriksaan kestabilan membandingkan kuantil dari 5.000 penarikan pertama dengan 10.000: maksimum selisih absolut ketiga kuantil dibagi rentang P90–P10 hasil lengkap. Asosiasi peringkat memakai korelasi Pearson atas peringkat dengan rata-rata pada nilai sama; hubungan ini tidak dibaca sebagai efek kausal."
+  ],
+  "tables": [
+    {
+      "title": "Persamaan operasi dan penerimaan kas",
+      "headers": [
+        "Besaran",
+        "Definisi dan persamaan"
+      ],
+      "rows": [
+        [
+          "Perangkat dan pendapatan",
+          "qₜ = 40 × hₜ × v; Tₜ = Rp3.000.000 × hₜ × r; Uₜ = Rp62.000 × qₜ × f; Yₜ = Tₜ + Uₜ. Bauran dan biaya kategori dijelaskan pada Lampiran H.2."
+        ],
+        [
+          "Biaya pemenuhan",
+          "Dₜ = Rp44.350 × qₜ × d. Anggaran pengecualian pada biaya satuan diasumsikan digunakan."
+        ],
+        [
+          "Biaya bersama",
+          "Bₜ = [Rp6.000.000 + Rp2.000.000 × max(1; ceil(hₜ/4)) + Rp2.100.000 + Mₜ] × o; Mₜ = Rp1.000.000/Rp1.200.000/Rp1.500.000 per bulan pada tahun 1/2/3."
+        ],
+        [
+          "Onboarding dan beban",
+          "Aₜ = Rp500.000 × max(0; hₜ − hₜ₋₁), h₀ = 0; Eₜ = Dₜ + Bₜ + Aₜ. Surplus operasi = Yₜ − Eₜ."
+        ],
+        [
+          "Kas masuk dan bersih",
+          "Kₜ = Uₜ₋ℓ + pTₜ + (1 − p)Tₜ₋₁; CFₜ = Kₜ − Eₜ. Untuk ℓ = 0, U diterima pada bulan yang sama."
+        ],
+        [
+          "Kas dan piutang",
+          "C₀ = −I; Cₜ = −I + Σₛ₌₁ᵗ CFₛ; kas dengan dana dasar = Rp110.000.000 + Cₜ. Piutangₜ = Σₛ₌₁ᵗ (Yₛ − Kₛ)."
+        ],
+        [
+          "Kapasitas kerja",
+          "Kebutuhan jam Wₜ = 80 + 8hₜ + 0,2qₜ. Jam dibiayai = 150 + 50 × max(1; ceil(hₜ/4)); setiap skenario harus memenuhi Wₜ ≤ jam dibiayai. Kelayakan perjalanan dan penerima tetap diperiksa terpisah."
+        ]
+      ],
+      "widths": [
+        4,
+        12
+      ]
+    },
+    {
+      "title": "Ambang pendanaan, pengembalian dan impas",
+      "headers": [
+        "Ukuran",
+        "Aturan perhitungan"
+      ],
+      "rows": [
+        [
+          "Cadangan kas",
+          "Zₜ = 2Bₜ + Dₜ/4: dua bulan biaya bersama dan seperempat biaya pemenuhan bulanan."
+        ],
+        [
+          "Kebutuhan dana",
+          "F* = max[0; I + Z₁; maxₜ(Zₜ − Cₜ)]. Dana ini menutup kas proyek dan mempertahankan batas cadangan. Setoran pendanaan bukan pendapatan layanan."
+        ],
+        [
+          "Pengembalian kas",
+          "Bulan pertama t dengan Cₜ ≥ 0 dan seluruh Cₛ ≥ 0 untuk s ≥ t sampai bulan 36. Jika tidak ada, pengembalian tidak tercapai dalam horizon. Dasar: bulan 22."
+        ],
+        [
+          "Cakupan biaya tahun 3",
+          "Σₜ₌₂₅³⁶ Yₜ ÷ Σₜ₌₂₅³⁶ Eₜ; rasio ≥ 1 berarti penerimaan layanan tahun ketiga menutup beban tahun tersebut."
+        ],
+        [
+          "Impas operasi stabil",
+          "Kontribusi per institusi = Rp3.000.000 + 40 × (Rp62.000 − Rp44.350) = Rp3.706.000/bulan. Pada biaya bersama awal Rp11.100.000, ceil(11.100.000/3.706.000) = 3 institusi; tidak ada onboarding baru. Blok tenaga dihitung ulang jika melewati empat institusi."
+        ],
+        [
+          "Tarif atau volume impas",
+          "Untuk h pada tingkat biaya bersama yang berlaku: tarif tetap minimum = B/h − q̄ × (tarif satuan − biaya satuan); perangkat minimum total = max[0; (B − h × tarif tetap)/(tarif satuan − biaya satuan)]. Pada h = 3 dan q̄ = 40: tarif tetap minimum Rp2.994.000/institusi/bulan atau sekitar 119 perangkat total/bulan pada tarif tetap Rp3 juta."
+        ],
+        [
+          "Konfirmasi surplus",
+          "Bulan konfirmasi adalah akhir rangkaian tiga bulan berturut-turut dengan surplus operasi > 0, termasuk onboarding. Dasar: bulan 10; ini berbeda dari pengembalian seluruh kas proyek."
+        ]
+      ],
+      "widths": [
+        4,
+        12
+      ]
+    }
+  ]
+}

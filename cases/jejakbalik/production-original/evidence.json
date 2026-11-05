@@ -1,0 +1,479 @@
+{
+  "project": "JejakBalik",
+  "checked_date": "2026-11-04",
+  "purpose": "Claim-level source pack for essay and appendix production. Team projections and product design are separate from external findings.",
+  "sources": [
+    {
+      "id": "GEM2024",
+      "citation": "Baldé et al. (2024)",
+      "apa": "Baldé, C. P., Kuehr, R., Yamamoto, T., McDonald, R., D’Angelo, E., Althaf, S., Bel, G., Deubzer, O., Fernandez-Cubillo, E., Forti, V., Gray, V., Herat, S., Honda, S., Iattoni, G., Khetriwal, D. S., Luda di Cortemiglia, V., Lobuntsova, Y., Nnorom, I., Pralat, N., & Wagner, M. (2024). The global e-waste monitor 2024. International Telecommunication Union & United Nations Institute for Training and Research. https://www.itu.int/dms_pub/itu-d/opb/gen/D-GEN-E_WASTE.01-2024-PDF-E.pdf",
+      "url": "https://www.itu.int/dms_pub/itu-d/opb/gen/D-GEN-E_WASTE.01-2024-PDF-E.pdf",
+      "supporting_urls": [
+        "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/The-Global-E-waste-Monitor-2024.aspx",
+        "https://globalewaste.org/map/"
+      ],
+      "checked_refs": [
+        "turn8view0",
+        "turn18search28",
+        "turn18search2"
+      ],
+      "claims": [
+        {
+          "text": "Global e-waste generated in 2022 was 62 million tonnes; 22.3% by mass was documented as formally collected and recycled.",
+          "locator": "Official ITU publication landing page; key findings",
+          "scope": "Global; reporting year 2022; mass denominator",
+          "boundary": "Neither Indonesia's formal rate nor a JejakBalik baseline."
+        },
+        {
+          "text": "Environmentally sound treatment was estimated at USD 0.36/kg, versus USD 0.12/kg across other handling routes; separate collection costs at municipalities or retailers were not assessed.",
+          "locator": "Chapter 9, printed p.54 in original edition; footnote viii",
+          "scope": "Global economic assessment of 2022 flows; 13.7 billion kg environmentally sound treatment cohort",
+          "boundary": "Context for funding real treatment costs; not an Indonesian quotation or unit-cost input."
+        }
+      ],
+      "verification": "Official publisher landing page and indexed report chapter checked. Whole 15.9 MB PDF exceeds web reader size limit; cited chapter text and official metadata were retrieved separately."
+    },
+    {
+      "id": "ITU_INDONESIA",
+      "citation": "International Telecommunication Union (n.d.)",
+      "apa": "International Telecommunication Union. (n.d.). Indonesia. Retrieved November 4, 2026, from https://www.itu.int/en/ITU-D/Environment/Pages/Priority-Areas/E-waste/Country%20Pages/Indonesia.aspx",
+      "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Priority-Areas/E-waste/Country%20Pages/Indonesia.aspx",
+      "checked_refs": [
+        "turn9view1"
+      ],
+      "claims": [
+        {
+          "text": "Indonesia generated 1,886 million kg of e-waste in 2022, approximately 1.9 million tonnes.",
+          "locator": "Country profile introductory prose",
+          "scope": "Indonesia, annual generation in 2022",
+          "boundary": "Use introductory prose. Page's compact data bullets transpose mass and per-capita values; do not reproduce those bullets. Do not use its outdated PP 101/2014 mention for current law."
+        }
+      ]
+    },
+    {
+      "id": "BRANDO2024",
+      "citation": "Brando et al. (2024)",
+      "apa": "Brando, R. M., Ardi, R., Kunharyanto, S. A., & Mayasari, R. (2024). Factors influencing household behavior in storing WEEE: A case study from Java. International Journal of Sustainable Development and Planning, 19(12), 4663–4673. https://doi.org/10.18280/ijsdp.191214",
+      "url": "https://iieta.org/journals/ijsdp/paper/10.18280/ijsdp.191214",
+      "checked_refs": [
+        "turn8view1",
+        "turn20view0"
+      ],
+      "claims": [
+        {
+          "text": "The study surveyed 403 respondents in six Java provinces; 305 reported storing used or damaged electronics.",
+          "locator": "Methods and results",
+          "scope": "Study sample, not representative UI population"
+        },
+        {
+          "text": "Among the 305 storers, 75 (24.6%) gave not knowing where to dispose as the household-device reason; 99 (32.5%) intended later repair.",
+          "locator": "Table 6",
+          "scope": "Household-device reasons; denominator 305, not 403",
+          "boundary": "Do not present as nationwide household prevalence or UI measurements."
+        },
+        {
+          "text": "For personal devices, 19 of 305 (6.23%) selected personal data security as the storage reason.",
+          "locator": "Table 7",
+          "scope": "Personal-device reasons; denominator 305",
+          "boundary": "Separate question and category from Table 6; do not add household and personal percentages."
+        }
+      ]
+    },
+    {
+      "id": "SIRINGO2020",
+      "citation": "Siringo et al. (2020)",
+      "apa": "Siringo, R., Herdiansyah, H., & Kusumastuti, R. D. (2020). Underlying factors behind the low participation rate in electronic waste recycling. Global Journal of Environmental Science and Management, 6(2), 203–214. https://doi.org/10.22034/gjesm.2020.02.06",
+      "url": "https://scholar.ui.ac.id/en/publications/underlying-factors-behind-the-low-participation-rate-in-electroni/",
+      "checked_refs": [
+        "turn8view2",
+        "turn20view2"
+      ],
+      "claims": [
+        {
+          "text": "A survey of 208 Jakarta respondents in 2018 found intention correlated with information (r=0.521) and convenience (r=0.411).",
+          "locator": "Author institution abstract",
+          "scope": "Jakarta survey conducted 2018; correlations",
+          "boundary": "Association rather than causal effect; not a current formal recycling rate for Indonesia or UI."
+        },
+        {
+          "text": "Only 2% of the study's respondents reported recycling at formal facilities.",
+          "locator": "Abstract",
+          "scope": "208 respondents, Jakarta, 2018",
+          "boundary": "Optional historical context only; do not foreground as current national rate."
+        }
+      ],
+      "verification": "Publisher DOI resolves to restricted page; author-university publication record reproduces abstract and complete bibliographic details."
+    },
+    {
+      "id": "LINTASARTA2026",
+      "citation": "Lintasarta (2026)",
+      "apa": "Lintasarta. (2026, September 23). [Official fact sheet] Pengelolaan perangkat elektronik dan e-waste di Lintasarta. https://www.lintasarta.net/berita/official-fact-sheet-pengelolaan-perangkat-elektronik-dan-e-waste-di-lintasarta/",
+      "url": "https://www.lintasarta.net/berita/official-fact-sheet-pengelolaan-perangkat-elektronik-dan-e-waste-di-lintasarta/",
+      "checked_refs": [
+        "turn8view3"
+      ],
+      "claims": [
+        {
+          "text": "#AksiCintaBumi is a Lintasarta Peduli Negeri program under Pilar Cinta Bumi with EwasteRJ, using five dropboxes including UI and a September–November 2026 collection target of 380 kg.",
+          "locator": "Official fact sheet, public collection program section",
+          "scope": "Named 2026 program and target",
+          "boundary": "380 kg is a target, not achieved collection. Existing program is not evidence of JejakBalik funding, data access, or partnership."
+        },
+        {
+          "text": "Public collection and Lintasarta's internal corporate asset disposal are separate processes.",
+          "locator": "Official fact sheet clarifications",
+          "scope": "Company's own account",
+          "boundary": "Do not reassign internal repair statistics to donated/publicly collected devices or claim AI currently drives disposal."
+        }
+      ]
+    },
+    {
+      "id": "EWASTERJ",
+      "citation": "EwasteRJ (n.d.)",
+      "apa": "EwasteRJ. (n.d.). Electronic waste circular ecosystem. Retrieved November 4, 2026, from https://ewasterj.com/",
+      "url": "https://ewasterj.com/",
+      "checked_refs": [
+        "turn9view0"
+      ],
+      "claims": [
+        {
+          "text": "The service catalogue includes business e-waste pickup and recycling, customized dropboxes, sustainability reports, upcycled products, education, and sourcing.",
+          "locator": "Homepage service catalogue",
+          "scope": "Operator's publicly advertised services",
+          "boundary": "Verify specific recipient authorization during onboarding. Public marketing is not an audited certificate, a live cross-provider journey feed, or a JejakBalik agreement."
+        }
+      ]
+    },
+    {
+      "id": "YANG2024",
+      "citation": "Yang et al. (2024)",
+      "apa": "Yang, D., Hyland, M. F., & Jayakrishnan, R. (2024). Tackling the crowdsourced shared-trip delivery problem at scale with a novel decomposition heuristic (Version 2) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2203.14719",
+      "url": "https://arxiv.org/abs/2203.14719",
+      "checked_refs": [
+        "turn9view2",
+        "turn20view1"
+      ],
+      "claims": [
+        {
+          "text": "Shared-trip vehicles have their own origins and destinations; feasible assignment is constrained by time windows, tour duration, and capacity. Cost reduction can coexist with increased vehicle distance.",
+          "locator": "Abstract, revised June 17, 2024",
+          "scope": "Computational urban crowdsourced delivery model",
+          "boundary": "Supports matching logic and measurement of incremental distance. Does not establish JejakBalik savings or justify zero-emission claims."
+        }
+      ]
+    },
+    {
+      "id": "SARI2024",
+      "citation": "Puspita-Sari et al. (2024)",
+      "apa": "Puspita-Sari, D., Aini-Masruroh, N., & Sri-Asih, A. M. (2024). Economic and environmental benefits of e-waste management networks design in Yogyakarta province, Indonesia. Journal of Industrial Engineering and Management, 17(1), 292–320. https://doi.org/10.3926/jiem.6651",
+      "url": "https://jiem.org/index.php/jiem/article/download/6651/1084",
+      "checked_refs": [
+        "turn14view3",
+        "turn17view1",
+        "turn17view2"
+      ],
+      "claims": [
+        {
+          "text": "The study models collaboration among consumers, collectors, repair centers, and formal processing actors; recycling is assigned to formal channels while repair and secondhand activity retain a role for existing local actors.",
+          "locator": "Abstract; sections 3 and 3.1, pp.292–297",
+          "scope": "Deterministic MILP design for Yogyakarta smartphone flows",
+          "boundary": "Use as network-design precedent. Do not import modeled profit or 33% threshold into JejakBalik, and do not repeat the paper's outdated claim that Indonesia has no collection regulation."
+        }
+      ],
+      "verification": "Publisher full PDF checked; bibliography follows its printed preferred citation spelling (Puspita-Sari et al.)."
+    },
+    {
+      "id": "PP27_2020",
+      "citation": "Republik Indonesia (2020)",
+      "apa": "Republik Indonesia. (2020). Peraturan Pemerintah Republik Indonesia Nomor 27 Tahun 2020 tentang Pengelolaan Sampah Spesifik. https://peraturan.bpk.go.id/Details/138876/pp-no-27-tahun-2020",
+      "url": "https://peraturan.bpk.go.id/Details/138876/pp-no-27-tahun-2020",
+      "checked_refs": [
+        "turn11view1"
+      ],
+      "claims": [
+        {
+          "text": "Management of specific waste is governed by a distinct national instrument, including waste containing hazardous substances and/or hazardous waste.",
+          "locator": "Official BPK regulation record and abstract",
+          "scope": "Indonesia; status listed Berlaku on check date",
+          "boundary": "Category assessment is needed before choosing a handling route; the app does not confer transport or processing authorization."
+        }
+      ]
+    },
+    {
+      "id": "PP22_2021",
+      "citation": "Republik Indonesia (2021)",
+      "apa": "Republik Indonesia. (2021). Peraturan Pemerintah Republik Indonesia Nomor 22 Tahun 2021 tentang Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup. https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021",
+      "url": "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021",
+      "checked_refs": [
+        "turn11view2"
+      ],
+      "claims": [
+        {
+          "text": "The current environmental management framework includes B3 waste management; this regulation repealed PP 101/2014.",
+          "locator": "Official BPK regulation record; status and repeal list",
+          "scope": "Indonesia; status listed Berlaku on check date",
+          "boundary": "Do not use PP 101/2014 as the controlling current regulation or treat all devices and conditions as one legal category."
+        }
+      ]
+    },
+    {
+      "id": "PERMEN6_2021",
+      "citation": "Kementerian Lingkungan Hidup dan Kehutanan (2021)",
+      "apa": "Kementerian Lingkungan Hidup dan Kehutanan Republik Indonesia. (2021). Peraturan Menteri Lingkungan Hidup dan Kehutanan Republik Indonesia Nomor 6 Tahun 2021 tentang Tata Cara dan Persyaratan Pengelolaan Limbah Bahan Berbahaya dan Beracun. https://peraturan.bpk.go.id/Details/211000/permen-lhk-no-6-tahun-2021",
+      "url": "https://peraturan.bpk.go.id/Details/211000/permen-lhk-no-6-tahun-2021",
+      "checked_refs": [
+        "turn11view3"
+      ],
+      "claims": [
+        {
+          "text": "B3 waste handling has specific procedures and requirements, including transport-related provisions; eligibility and documentation are checked against the activity and category.",
+          "locator": "Official BPK regulation record; title, abstract, repealed-instruments list",
+          "scope": "Indonesia; status listed Berlaku on check date",
+          "boundary": "No basis to say every ojek, courier, or 3PL can carry all e-waste. Ordinary journeys are eligible only for categories and conditions their operator can lawfully accept."
+        }
+      ]
+    },
+    {
+      "id": "HEI2025",
+      "citation": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi (2026)",
+      "apa": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi Republik Indonesia. (2026). Statistik pendidikan tinggi 2025. https://kemdiktisaintek.go.id/api/file/humas-production/books/2026/5/pdfs/14c84a6c-9d32-40d5-bc39-5cce1ecbfceb/Buku_Statistik_Pendidikan_Tinggi_Tahun_2025.pdf",
+      "url": "https://kemdiktisaintek.go.id/api/file/humas-production/books/2026/5/pdfs/14c84a6c-9d32-40d5-bc39-5cce1ecbfceb/Buku_Statistik_Pendidikan_Tinggi_Tahun_2025.pdf",
+      "supporting_urls": [
+        "https://www.kemdiktisaintek.go.id/",
+        "https://lldikti3.kemdiktisaintek.go.id/wp-content/uploads/2026/05/Buku-Statistik-Pendidikan-Tinggi-Tahun-2025.pdf"
+      ],
+      "checked_refs": [
+        "turn12search38",
+        "turn19search2",
+        "turn19search5"
+      ],
+      "claims": [
+        {
+          "text": "The 2025 national higher-education statistics count 4,303 higher-education institutions across ministries.",
+          "locator": "Overview, Graphic 1.1–1.2, printed pp.3–4; official ministry homepage statistics",
+          "scope": "All Indonesia, reporting year 2025, institutional count",
+          "boundary": "Broad universe only. Not all are eligible buyers, campuses, offices, or programs. Regional SAM and expected paid adoption require explicit team selection/assumptions."
+        }
+      ],
+      "verification": "Full statistics PDF is larger than web reader cap; cited overview retrieved from official PDF search index and cross-checked against current ministry homepage."
+    },
+    {
+      "id": "NIST2025",
+      "citation": "Chandramouli and Hibbard (2025)",
+      "apa": "Chandramouli, R., & Hibbard, E. (2025). Guidelines for media sanitization (NIST Special Publication 800-88, Rev. 2). National Institute of Standards and Technology. https://doi.org/10.6028/NIST.SP.800-88r2",
+      "url": "https://csrc.nist.gov/pubs/sp/800/88/r2/final",
+      "checked_refs": [
+        "turn14view1"
+      ],
+      "claims": [
+        {
+          "text": "Media sanitization requires an organizational program with techniques and controls suited to information sensitivity; revision 2 superseded revision 1 in September 2025.",
+          "locator": "Official publication abstract and document history",
+          "scope": "Technical guidance, not Indonesian law",
+          "boundary": "JejakBalik should record assignment and completion evidence; a QR handoff alone cannot certify sanitization."
+        }
+      ]
+    },
+    {
+      "id": "CIPD2025",
+      "citation": "Chartered Institute of Personnel and Development (2025)",
+      "apa": "Chartered Institute of Personnel and Development. (2025, March 21). PESTLE analysis. https://www.cipd.org/en/knowledge/factsheets/pestle-analysis-factsheet/",
+      "url": "https://www.cipd.org/en/knowledge/factsheets/pestle-analysis-factsheet/",
+      "checked_refs": [
+        "turn14view0",
+        "turn15view3"
+      ],
+      "claims": [
+        {
+          "text": "PESTLE organizes political, economic, social, technological, legal, and environmental influences; analysis prioritizes issues and translates them into options and actions.",
+          "locator": "What is a PESTLE analysis?; How to do a PESTLE analysis",
+          "scope": "Management methodology",
+          "boundary": "JejakBalik's numerical weights and ratings remain team analytical judgments, not data supplied or endorsed by CIPD."
+        }
+      ]
+    },
+    {
+      "id": "DAVID2020",
+      "citation": "David et al. (2020)",
+      "apa": "David, F. R., David, F. R., & David, M. E. (2020). Strategic management: Concepts: A competitive advantage approach (17th ed.). Pearson. https://www.pearsonhighered.com/assets/preface/0/1/3/5/0135192226.pdf",
+      "url": "https://www.pearsonhighered.com/assets/preface/0/1/3/5/0135192226.pdf",
+      "checked_refs": [
+        "turn15view0",
+        "turn16view1",
+        "turn16view2"
+      ],
+      "claims": [
+        {
+          "text": "The framework includes external and internal factor evaluation: identify factors, assign weights, rate responses, compute weighted and total scores; SWOT and strategic choice complement the assessment.",
+          "locator": "Official publisher table of contents, chapters 3, 4, and 6; EFE pp.79–81 and IFE pp.113–116",
+          "scope": "Methodological reference",
+          "boundary": "Public frontmatter verifies the framework and step labels, not a complete reproduction of the book. Scores in JejakBalik are estimasi/penilaian tim."
+        }
+      ]
+    },
+    {
+      "id": "UN_SDG12",
+      "citation": "United Nations Department of Economic and Social Affairs (n.d.)",
+      "apa": "United Nations Department of Economic and Social Affairs. (n.d.-a). Goal 12: Ensure sustainable consumption and production patterns. Retrieved November 4, 2026, from https://sdgs.un.org/goals/goal12",
+      "url": "https://sdgs.un.org/goals/goal12",
+      "checked_refs": [
+        "turn14view2"
+      ],
+      "claims": [
+        {
+          "text": "Targets 12.4, 12.5, and 12.6 address sound life-cycle waste management, prevention/reuse/recycling, and company sustainability reporting.",
+          "locator": "Targets and indicators 12.4–12.6",
+          "scope": "International policy targets",
+          "boundary": "Alignment is not certification, endorsement, or a measured contribution to national indicators."
+        }
+      ]
+    },
+    {
+      "id": "UU27_2022",
+      "citation": "Republik Indonesia (2022)",
+      "apa": "Republik Indonesia. (2022). Undang-Undang Republik Indonesia Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi. https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022",
+      "url": "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022",
+      "checked_refs": [
+        "turn19search0",
+        "turn20view3"
+      ],
+      "claims": [
+        {
+          "text": "Personal-data processing is subject to duties of controllers/processors and rights of data subjects; data collection and access in JejakBalik require a defined lawful purpose and controls.",
+          "locator": "Official BPK abstract and current status",
+          "scope": "Indonesia; listed Berlaku",
+          "boundary": "Operational design inference from the instrument, not certification of prototype compliance. BPK notes constitutional interpretation of Pasal 53(1)(b); do not make specific DPO-threshold claims without that interpretation."
+        }
+      ]
+    },
+    {
+      "id": "UN_SDG17",
+      "citation": "United Nations Department of Economic and Social Affairs (n.d.)",
+      "apa": "United Nations Department of Economic and Social Affairs. (n.d.-b). Goal 17: Strengthen the means of implementation and revitalize the global partnership for sustainable development. Retrieved November 4, 2026, from https://sdgs.un.org/goals/goal17",
+      "url": "https://sdgs.un.org/goals/goal17",
+      "checked_refs": [
+        "turn21view0",
+        "turn21view1"
+      ],
+      "claims": [
+        {
+          "text": "Target 17.17 promotes effective public, public-private, and civil-society partnerships, building on partnership experience and resourcing strategies.",
+          "locator": "Target 17.17",
+          "scope": "International policy target",
+          "boundary": "Design alignment, not an existing partnership or quantified contribution to indicator 17.17.1."
+        }
+      ]
+    }
+  ],
+  "issue_tree": {
+    "goal": "Perangkat elektronik kembali ke jalur pemanfaatan atau pengolahan yang tepat dan dapat dipertanggungjawabkan.",
+    "problem": "Pengembalian perangkat tersendat sebelum mencapai penerima yang sesuai.",
+    "branches": [
+      {
+        "subproblem": "Keputusan pemilik tertahan",
+        "roots": [
+          {
+            "label": "Tujuan pengembalian tidak jelas",
+            "source_ids": [
+              "BRANDO2024"
+            ],
+            "evidence": "75/305 (24,6%) alasan perangkat rumah tangga: tidak tahu tempat pembuangan.",
+            "solution": "Pilihan penerima dan jalur pemanfaatan yang jelas pada saat pendaftaran."
+          },
+          {
+            "label": "Perbaikan dan keamanan data belum terselesaikan",
+            "source_ids": [
+              "BRANDO2024",
+              "NIST2025"
+            ],
+            "evidence": "99/305 (32,5%) alasan perangkat rumah tangga: diperbaiki nanti; secara terpisah 19/305 (6,23%) alasan perangkat personal: keamanan data.",
+            "solution": "Triage perbaikan/penggunaan ulang serta penugasan penghapusan data dengan bukti hasil."
+          }
+        ]
+      },
+      {
+        "subproblem": "Akses penyerahan belum menjadi perjalanan yang layak",
+        "roots": [
+          {
+            "label": "Waktu dan perjalanan harus bertemu",
+            "source_ids": [
+              "SIRINGO2020",
+              "YANG2024"
+            ],
+            "evidence": "Korelasi convenience–intention r=0,411 dalam survei Jakarta n=208 (2018); penelitian shared-trip menempatkan asal-tujuan dan batas waktu sebagai kendala pencocokan.",
+            "solution": "Pencocokan perjalanan yang sudah direncanakan lintas penyedia, dengan batas detour dan fallback terjadwal."
+          },
+          {
+            "label": "Kapasitas dan kelayakan penanganan membatasi penerimaan",
+            "source_ids": [
+              "YANG2024",
+              "PERMEN6_2021",
+              "PP27_2020",
+              "PP22_2021"
+            ],
+            "evidence": "Kapasitas adalah kendala model logistik; ketentuan Indonesia membedakan kategori dan persyaratan penanganan. Ini kendala sistem yang diturunkan dari sumber, bukan temuan kapasitas UI.",
+            "solution": "Pemeriksaan kategori, kondisi, kapasitas, serta kelayakan operator sebelum penugasan."
+          }
+        ]
+      },
+      {
+        "subproblem": "Penyelesaian layanan perlu biaya dan penanggung jawab",
+        "roots": [
+          {
+            "label": "Penanganan yang tepat memiliki biaya nyata",
+            "source_ids": [
+              "GEM2024"
+            ],
+            "evidence": "Biaya pengolahan global: USD0,36/kg pada penanganan sesuai standar versus USD0,12/kg pada jalur lainnya; pengumpulan terpisah tidak termasuk.",
+            "solution": "Kontrak institusi membiayai kesiapan layanan; biaya variabel per kilogram dipisahkan dan dibatasi."
+          },
+          {
+            "label": "Tanggung jawab harus tersambung antaraktor",
+            "source_ids": [
+              "SARI2024",
+              "PP22_2021",
+              "UU27_2022"
+            ],
+            "evidence": "Desain jaringan Indonesia memerlukan kolaborasi aktor dan pemrosesan formal. Kebutuhan sambungan tanggung jawab adalah implikasi desain, bukan statistik kehilangan perangkat.",
+            "solution": "Pemilik kasus, serah-terima berpasangan, bukti penerimaan, dan alur penanganan pengecualian."
+          }
+        ]
+      }
+    ]
+  },
+  "material_evidence_gap": "Belum ada penawaran harga terikat, komitmen pembayar, atau data perjalanan/operasi mitra JejakBalik. Karena itu tarif, volume, tingkat perpanjangan, efisiensi jarak, dan arus kas diposisikan sebagai estimasi tim; tiga bukti untuk keputusan pilot ialah kontrak layanan, kesesuaian operator/penerima per kategori, serta log penyelesaian dan biaya perjalanan nyata. Ini batas bukti komersial dan operasional, bukan alasan melemahkan uraian sistem yang dituju.",
+  "logos": [
+    {
+      "file": "production/assets/logos/source-87.png",
+      "identity": "Empowering Beyond | Lintasarta",
+      "source": "Guidebook Essay Competition, PDF page 2, embedded image xref87",
+      "appearance": "Original white brand art on transparent background",
+      "black_mask_file": "production/assets/logos/lintasarta-black.png",
+      "conversion": "Original alpha mask rendered as solid black and cropped to non-transparent bounds; no geometry generation or alteration."
+    },
+    {
+      "file": "production/assets/logos/source-88.png",
+      "identity": "EwasteRJ",
+      "source": "Guidebook Essay Competition, PDF page 2, embedded image xref88",
+      "appearance": "Original white brand art on transparent background",
+      "black_mask_file": "production/assets/logos/ewasterj-black.png",
+      "conversion": "Original alpha mask rendered as solid black and cropped to non-transparent bounds; no geometry generation or alteration."
+    },
+    {
+      "file": "production/assets/logos/source-89.png",
+      "identity": "DLH BEM UI emblem",
+      "source": "Guidebook Essay Competition, PDF page 2, embedded image xref89",
+      "appearance": "Original white emblem on transparent background; accompanying label is separate PDF text",
+      "black_mask_file": "production/assets/logos/dlh-bemui-black.png",
+      "conversion": "Original alpha mask rendered as solid black and cropped to non-transparent bounds; no geometry generation or alteration."
+    },
+    {
+      "file": "production/assets/logos/source-90.png",
+      "identity": "Lintasarta Peduli Negeri",
+      "source": "Guidebook Essay Competition, PDF page 2, embedded image xref90",
+      "appearance": "Original white emblem on transparent background",
+      "black_mask_file": "production/assets/logos/lintasarta-peduli-black.png",
+      "conversion": "Original alpha mask rendered as solid black and cropped to non-transparent bounds; no geometry generation or alteration."
+    }
+  ]
+}

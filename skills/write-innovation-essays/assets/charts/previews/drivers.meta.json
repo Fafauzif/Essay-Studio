@@ -1,0 +1,40 @@
+{
+  "id": "drivers",
+  "type": "drivers",
+  "tex": "essay-studio/skills/write-innovation-essays/assets/charts/previews/drivers.tex",
+  "input_sha256": "a4cd261a97f9e1a9933837da74766649e1681a08b13a4d15d54e7767c6dffecf",
+  "font": "Times New Roman",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {
+    "interpretation": "rank association, not causal effect"
+  },
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "essay-studio/skills/write-innovation-essays/assets/charts/previews/drivers.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [
+    "Underfull \\hbox (badness 3168) in paragraph at lines 26--26",
+    "Underfull \\hbox (badness 2573) in paragraph at lines 26--26",
+    "Underfull \\hbox (badness 3907) in paragraph at lines 26--26",
+    "Underfull \\hbox (badness 4416) in paragraph at lines 26--26",
+    "Underfull \\hbox (badness 4279) in paragraph at lines 26--26",
+    "Underfull \\hbox (badness 4819) in paragraph at lines 26--26",
+    "Underfull \\hbox (badness 3088) in paragraph at lines 26--26"
+  ],
+  "pdf_width_cm": 16.17627252366808,
+  "pdf_height_cm": 6.236758096483019,
+  "png_renderer": "PyMuPDF",
+  "png": "essay-studio/skills/write-innovation-essays/assets/charts/previews/drivers.png",
+  "render_status": "rendered",
+  "pdf_text_fonts": [
+    "CMMI9",
+    "CMR9",
+    "CMSY9",
+    "TimesNewRomanPSMT"
+  ],
+  "pdf_text_sizes_pt": [
+    8.966
+  ],
+  "min_text_pt_at_nominal_width": 8.868693460365796
+}

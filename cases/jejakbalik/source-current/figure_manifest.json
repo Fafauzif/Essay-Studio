@@ -1,0 +1,21 @@
+[
+  {
+    "name": "service_flow",
+    "png": "/workspace/scratch/91cdcc6b9385/revision_v2/assets/figures/service_flow.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/revision_v2/assets/figures/service_flow.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/revision_v2/figures/service_flow.tex",
+    "width_cm": 15.83,
+    "height_cm": 7.51,
+    "job": "Enam langkah normal dengan pemeriksaan kelanjutan dan tanggung jawab yang tetap melekat pada pemegang perangkat saat kasus tertahan."
+  },
+  {
+    "name": "issue_tree_horizontal",
+    "png": "/workspace/scratch/91cdcc6b9385/revision_v2/assets/figures/issue_tree_horizontal.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/revision_v2/assets/figures/issue_tree_horizontal.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/revision_v2/figures/issue_tree_horizontal.tex",
+    "width_cm": 15.5,
+    "height_cm": 15.8,
+    "job": "Pohon masalah horizontal empat kolom dengan enam penyebab dan tautan bukti yang mengikuti analisis sebab, bukan daftar kebutuhan sistem.",
+    "source_json": "/workspace/scratch/91cdcc6b9385/revision_v2/figures/issue_tree_data.json"
+  }
+]

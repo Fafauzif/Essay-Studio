@@ -1,0 +1,56 @@
+{
+  "release": "Essay Studio Private Full Kit 1.0",
+  "prepared_date": "2026-11-05",
+  "intended_delivery": "Private repository-ready ZIP; no installation or remote publication.",
+  "fresh_folder_regressions": {
+    "tests": 29,
+    "passed": 29,
+    "failed": 0,
+    "cwd": "outside the repository"
+  },
+  "structure": {
+    "status": "pass",
+    "checks": {
+      "skill_lines": 54,
+      "skill_frontmatter": "valid",
+      "local_links_checked": 441,
+      "original_v5_sha256": "matches",
+      "source_files_checked": 193,
+      "python_files_parsed": 13,
+      "repository_files": 427
+    },
+    "failures": [],
+    "warnings": [],
+    "scope": "Structure, links, supplied-file hashes, syntax and portable paths. Functional tools and actual visual QA require their separate recorded tests. No installed-skill claim."
+  },
+  "archived_sources": {
+    "records_verified": 193,
+    "unique_binary_hashes": 170,
+    "full_v5_exact": true
+  },
+  "chart_gallery": {
+    "families": 12,
+    "rendered_examples": 13,
+    "input_pdf_png_hashes_rechecked": true,
+    "independent_visual_review": "all thirteen examples; concrete repairs recorded"
+  },
+  "documents": {
+    "recorded_example_hashes_rechecked": 3,
+    "actual_render_checks": "short demo, neutral template and figure-placement fixture; see tests/document-verification.json"
+  },
+  "intake": "Six passing synthetic-fixture tests and one bounded real English OCR smoke; extraction is not certified reading.",
+  "reviews": "Independent instruction, calculation, visual/data and held-out cold-start reviews are preserved under validation/.",
+  "archive_contract": {
+    "top_level_folder": "essay-studio",
+    "file_manifest": "FILE-MANIFEST.json",
+    "manifest_excludes_itself": true,
+    "paths": "relative, unique without case collisions, no symlinks",
+    "zip_validation": "CRC and member SHA-256 checked after creation; the ZIP cannot contain its own final hash.",
+    "excluded": "Python caches and unindexed transfer/build intermediates; all 193 registered source records preserved."
+  },
+  "remaining_source_limits": [
+    "Original annotated Word binary unavailable through current recovery; all 49 comment records, scopes and resolutions preserved.",
+    "Original GINTECH missing printed pages 8–10, anthology continuation cutoff and blurred source microtext remain recorded in the source audit."
+  ],
+  "capability_limits": "Future source verification, final page inspection and local dependencies remain task-specific. The capability inventory alone is not a compile/render certification."
+}

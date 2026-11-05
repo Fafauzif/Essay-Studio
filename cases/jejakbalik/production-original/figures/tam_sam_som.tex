@@ -1,0 +1,30 @@
+\documentclass[tikz,border=3pt]{standalone}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage{tikz,pgfplots}
+\usetikzlibrary{arrows.meta,positioning,calc,fit,backgrounds,shapes.geometric}
+\pgfplotsset{compat=1.18}
+\definecolor{forest}{HTML}{346E57}
+\definecolor{sage}{HTML}{E8EFEA}
+\definecolor{clay}{HTML}{AC653F}
+\definecolor{sand}{HTML}{F4EAE2}
+\definecolor{ink}{HTML}{252525}
+\definecolor{light}{HTML}{F5F5F3}
+\definecolor{gridgray}{HTML}{D8DAD6}
+\tikzset{box/.style={draw=ink!70,line width=.5pt,rectangle,rounded corners=1pt,fill=white,align=center,font=\fontsize{11}{12}\selectfont,inner sep=6pt}, flow/.style={-{Latex[length=2.4mm]},line width=.7pt,draw=ink!80}, data/.style={flow,densely dashed,draw=forest}, label/.style={font=\fontsize{10}{11}\selectfont,fill=white,inner sep=2pt,align=center}}
+\hyphenpenalty=10000\exhyphenpenalty=10000\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm]
+\fill[forest!38](3.1,3.1)circle(3.05);
+\fill[forest!18](3.1,2.25)circle(2.2);
+\fill[sand](3.1,1.35)circle(1.3);
+\node[align=center,font=\fontsize{12}{14}\selectfont]at(3.1,5.2){\textbf{TAM}\\Rp282,97 miliar};
+\node[align=center,font=\fontsize{12}{14}\selectfont]at(3.1,3.7){\textbf{SAM}\\Rp6,58 miliar};
+\node[align=center,font=\fontsize{12}{14}\selectfont]at(3.1,1.35){\textbf{SOM}\\Rp690,48 juta};
+\draw[ink!50](5.15,5.2)--(7.0,5.2);
+\draw[ink!50](5.05,3.7)--(7.0,3.7);
+\draw[ink!50](4.4,1.35)--(7.0,1.35);
+\node[anchor=west,text width=7.2cm,font=\fontsize{11}{13}\selectfont]at(7.2,5.2){\textbf{Pasar perguruan tinggi nasional}\\4.303 institusi $\times$ satu paket tahunan acuan.};
+\node[anchor=west,text width=7.2cm,font=\fontsize{11}{13}\selectfont]at(7.2,3.55){\textbf{Cakupan penawaran Jabodetabek}\\100 program sasaran sebagai estimasi tim.};
+\node[anchor=west,text width=7.2cm,font=\fontsize{11}{13}\selectfont]at(7.2,1.35){\textbf{Layanan tahun ketiga}\\126 bulan-kontrak; 5.040 perangkat.\\12 program aktif pada akhir tahun.};
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,1525 @@
+{
+  "status": "Exploratory executed software scenarios using authored fictional inputs; not field evidence, partner performance or forecast",
+  "executionDate": "2026-11-04",
+  "sourceCommit": "82c86a9e9a7664bf74c4da9c1d84a51d2bbe47fb",
+  "executionMethod": "Node.js24 native TypeScript type stripping; byte-for-byte source copied into a scratch execution folder, with only relative module specifiers given .ts suffixes for ESM resolution; repository source unchanged",
+  "sourceFiles": {
+    "model.ts": "ff2f21b8ec083a65e4f8a121d571dd288b6639ab06128b2fe82822ce7e13ad42",
+    "seed.ts": "b0d74086425e6cb3356131d0afa502233c5adc8710fa45cabbaea47bcbc477c2",
+    "types.ts": "b0799ad7a33902a07a99903cd47a2802c5033684e7523d5ab33581c98155e9bb"
+  },
+  "sourcePaths": [
+    "src/recovery/model.ts",
+    "src/recovery/seed.ts",
+    "src/recovery/types.ts"
+  ],
+  "boundary": "Each case begins from fresh pre-departure reference scenario. Existing origin, forward stops and destination remain. Only indicated availability, budget or receiver-capacity input changes. No approval or service event is executed.",
+  "comparisonBoundary": "Each case baseline serves only that case accepted workload. Restricted-provider cases usually serve fewer devices. Do not compare costs or kilometres across unequal-service cases as savings. This exploratory ablation shows coverage dependence on offered provider capabilities and journey options, not an isolated empirical cross-provider efficiency effect.",
+  "fieldSemantics": {
+    "served": "Requests assigned in the pre-departure plan, not completed recoveries",
+    "baselineFeasible": "Operational service coverage for the accepted workload only; does not mean within scenario budget. Zero accepted requests yields true vacuously.",
+    "baselineServed": "Dedicated grouped collection service for that case accepted workload",
+    "outstandingHandlingAllowanceIdr": "All accepted handling allowances remain outstanding before service events; distinct from total service cost"
+  },
+  "domainTests": {
+    "command": "npm test -- tests/domain/recovery-v3.test.ts",
+    "passed": 17,
+    "failed": 0,
+    "observedDate": "2026-11-04"
+  },
+  "checks": "10 case accounting/coverage/budget identities and canonical reference values passed",
+  "results": [
+    {
+      "id": "base",
+      "label": "Semua penyedia tersedia",
+      "requests": 18,
+      "served": 18,
+      "unserved": 0,
+      "budgetIdr": 600000,
+      "addedKm": 28.8,
+      "totalCostIdr": 438700,
+      "additionalMinutes": 144,
+      "baselineFeasible": true,
+      "baselineServed": 18,
+      "baselineKm": 112.8,
+      "baselineCostIdr": 662400,
+      "outstandingHandlingAllowanceIdr": 262500,
+      "providerPaymentIdr": 176200,
+      "handlingAllowanceIdr": 262500,
+      "providersUsed": [
+        "lintas",
+        "sela",
+        "angkut"
+      ],
+      "categoryCoverage": {
+        "laptop": {
+          "requested": 2,
+          "served": 2
+        },
+        "phone": {
+          "requested": 3,
+          "served": 3
+        },
+        "accessories": {
+          "requested": 2,
+          "served": 2
+        },
+        "tablet": {
+          "requested": 2,
+          "served": 2
+        },
+        "router": {
+          "requested": 2,
+          "served": 2
+        },
+        "small_appliance": {
+          "requested": 2,
+          "served": 2
+        },
+        "monitor": {
+          "requested": 1,
+          "served": 1
+        },
+        "printer": {
+          "requested": 1,
+          "served": 1
+        },
+        "large_appliance": {
+          "requested": 1,
+          "served": 1
+        },
+        "battery": {
+          "requested": 2,
+          "served": 2
+        }
+      },
+      "handlingCoverage": {
+        "ordinary": {
+          "requested": 13,
+          "served": 13
+        },
+        "bulky": {
+          "requested": 3,
+          "served": 3
+        },
+        "specialist": {
+          "requested": 2,
+          "served": 2
+        }
+      },
+      "rejectionCodes": {},
+      "assignments": [
+        {
+          "requestId": "JB-001",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 6,
+          "receivedMinute": 86
+        },
+        {
+          "requestId": "JB-008",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 20,
+          "receivedMinute": 76
+        },
+        {
+          "requestId": "JB-005",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 31,
+          "receivedMinute": 80
+        },
+        {
+          "requestId": "JB-004",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 36,
+          "receivedMinute": 82
+        },
+        {
+          "requestId": "JB-002",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 44,
+          "receivedMinute": 84
+        },
+        {
+          "requestId": "JB-007",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 49,
+          "receivedMinute": 78
+        },
+        {
+          "requestId": "JB-012",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 60,
+          "receivedMinute": 74
+        },
+        {
+          "requestId": "JB-006",
+          "journeyId": "SK-01",
+          "receiverId": "material",
+          "pickupMinute": 11,
+          "receivedMinute": 70
+        },
+        {
+          "requestId": "JB-003",
+          "journeyId": "SK-01",
+          "receiverId": "material",
+          "pickupMinute": 25,
+          "receivedMinute": 72
+        },
+        {
+          "requestId": "JB-011",
+          "journeyId": "SK-01",
+          "receiverId": "material",
+          "pickupMinute": 45,
+          "receivedMinute": 68
+        },
+        {
+          "requestId": "JB-015",
+          "journeyId": "SK-02",
+          "receiverId": "material",
+          "pickupMinute": 39,
+          "receivedMinute": 49
+        },
+        {
+          "requestId": "JB-018",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 44,
+          "receivedMinute": 80
+        },
+        {
+          "requestId": "JB-014",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 60,
+          "receivedMinute": 82
+        },
+        {
+          "requestId": "JB-010",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 21,
+          "receivedMinute": 62
+        },
+        {
+          "requestId": "JB-009",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 29,
+          "receivedMinute": 64
+        },
+        {
+          "requestId": "JB-013",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 43,
+          "receivedMinute": 60
+        },
+        {
+          "requestId": "JB-016",
+          "journeyId": "AA-02",
+          "receiverId": "jaga",
+          "pickupMinute": 36,
+          "receivedMinute": 69
+        },
+        {
+          "requestId": "JB-017",
+          "journeyId": "AA-02",
+          "receiverId": "jaga",
+          "pickupMinute": 47,
+          "receivedMinute": 67
+        }
+      ]
+    },
+    {
+      "id": "lintas_only",
+      "label": "Hanya Lintas Paket",
+      "requests": 18,
+      "served": 11,
+      "unserved": 7,
+      "budgetIdr": 600000,
+      "addedKm": 28.8,
+      "totalCostIdr": 187700,
+      "additionalMinutes": 116,
+      "baselineFeasible": true,
+      "baselineServed": 11,
+      "baselineKm": 57.6,
+      "baselineCostIdr": 229100,
+      "outstandingHandlingAllowanceIdr": 82500,
+      "providerPaymentIdr": 105200,
+      "handlingAllowanceIdr": 82500,
+      "providersUsed": [
+        "lintas"
+      ],
+      "categoryCoverage": {
+        "laptop": {
+          "requested": 2,
+          "served": 2
+        },
+        "phone": {
+          "requested": 3,
+          "served": 3
+        },
+        "accessories": {
+          "requested": 2,
+          "served": 2
+        },
+        "tablet": {
+          "requested": 2,
+          "served": 2
+        },
+        "router": {
+          "requested": 2,
+          "served": 1
+        },
+        "small_appliance": {
+          "requested": 2,
+          "served": 1
+        },
+        "monitor": {
+          "requested": 1,
+          "served": 0
+        },
+        "printer": {
+          "requested": 1,
+          "served": 0
+        },
+        "large_appliance": {
+          "requested": 1,
+          "served": 0
+        },
+        "battery": {
+          "requested": 2,
+          "served": 0
+        }
+      },
+      "handlingCoverage": {
+        "ordinary": {
+          "requested": 13,
+          "served": 11
+        },
+        "bulky": {
+          "requested": 3,
+          "served": 0
+        },
+        "specialist": {
+          "requested": 2,
+          "served": 0
+        }
+      },
+      "rejectionCodes": {
+        "carrier_unavailable": 7
+      },
+      "assignments": [
+        {
+          "requestId": "JB-001",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 6,
+          "receivedMinute": 86
+        },
+        {
+          "requestId": "JB-008",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 20,
+          "receivedMinute": 76
+        },
+        {
+          "requestId": "JB-005",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 31,
+          "receivedMinute": 80
+        },
+        {
+          "requestId": "JB-004",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 36,
+          "receivedMinute": 82
+        },
+        {
+          "requestId": "JB-002",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 44,
+          "receivedMinute": 84
+        },
+        {
+          "requestId": "JB-007",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 49,
+          "receivedMinute": 78
+        },
+        {
+          "requestId": "JB-012",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 60,
+          "receivedMinute": 74
+        },
+        {
+          "requestId": "JB-003",
+          "journeyId": "LP-02",
+          "receiverId": "material",
+          "pickupMinute": 25,
+          "receivedMinute": 108
+        },
+        {
+          "requestId": "JB-014",
+          "journeyId": "LP-02",
+          "receiverId": "guna",
+          "pickupMinute": 39,
+          "receivedMinute": 56
+        },
+        {
+          "requestId": "JB-011",
+          "journeyId": "LP-02",
+          "receiverId": "material",
+          "pickupMinute": 64,
+          "receivedMinute": 104
+        },
+        {
+          "requestId": "JB-006",
+          "journeyId": "LP-02",
+          "receiverId": "material",
+          "pickupMinute": 72,
+          "receivedMinute": 106
+        }
+      ]
+    },
+    {
+      "id": "sela_only",
+      "label": "Hanya Sela Kurir",
+      "requests": 18,
+      "served": 7,
+      "unserved": 11,
+      "budgetIdr": 600000,
+      "addedKm": 19.2,
+      "totalCostIdr": 115900,
+      "additionalMinutes": 76,
+      "baselineFeasible": true,
+      "baselineServed": 7,
+      "baselineKm": 33.6,
+      "baselineCostIdr": 145900,
+      "outstandingHandlingAllowanceIdr": 52500,
+      "providerPaymentIdr": 63400,
+      "handlingAllowanceIdr": 52500,
+      "providersUsed": [
+        "sela"
+      ],
+      "categoryCoverage": {
+        "laptop": {
+          "requested": 2,
+          "served": 1
+        },
+        "phone": {
+          "requested": 3,
+          "served": 2
+        },
+        "accessories": {
+          "requested": 2,
+          "served": 1
+        },
+        "tablet": {
+          "requested": 2,
+          "served": 2
+        },
+        "router": {
+          "requested": 2,
+          "served": 1
+        },
+        "small_appliance": {
+          "requested": 2,
+          "served": 0
+        },
+        "monitor": {
+          "requested": 1,
+          "served": 0
+        },
+        "printer": {
+          "requested": 1,
+          "served": 0
+        },
+        "large_appliance": {
+          "requested": 1,
+          "served": 0
+        },
+        "battery": {
+          "requested": 2,
+          "served": 0
+        }
+      },
+      "handlingCoverage": {
+        "ordinary": {
+          "requested": 13,
+          "served": 7
+        },
+        "bulky": {
+          "requested": 3,
+          "served": 0
+        },
+        "specialist": {
+          "requested": 2,
+          "served": 0
+        }
+      },
+      "rejectionCodes": {
+        "carrier_unavailable": 11
+      },
+      "assignments": [
+        {
+          "requestId": "JB-001",
+          "journeyId": "SK-01",
+          "receiverId": "guna",
+          "pickupMinute": 8,
+          "receivedMinute": 52
+        },
+        {
+          "requestId": "JB-002",
+          "journeyId": "SK-01",
+          "receiverId": "guna",
+          "pickupMinute": 13,
+          "receivedMinute": 50
+        },
+        {
+          "requestId": "JB-003",
+          "journeyId": "SK-01",
+          "receiverId": "material",
+          "pickupMinute": 21,
+          "receivedMinute": 72
+        },
+        {
+          "requestId": "JB-005",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 18,
+          "receivedMinute": 84
+        },
+        {
+          "requestId": "JB-004",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 23,
+          "receivedMinute": 86
+        },
+        {
+          "requestId": "JB-007",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 37,
+          "receivedMinute": 82
+        },
+        {
+          "requestId": "JB-012",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 69,
+          "receivedMinute": 80
+        }
+      ]
+    },
+    {
+      "id": "angkut_only",
+      "label": "Hanya Angkut Aman",
+      "requests": 18,
+      "served": 5,
+      "unserved": 13,
+      "budgetIdr": 600000,
+      "addedKm": 0,
+      "totalCostIdr": 232000,
+      "additionalMinutes": 20,
+      "baselineFeasible": true,
+      "baselineServed": 5,
+      "baselineKm": 36,
+      "baselineCostIdr": 348000,
+      "outstandingHandlingAllowanceIdr": 165000,
+      "providerPaymentIdr": 67000,
+      "handlingAllowanceIdr": 165000,
+      "providersUsed": [
+        "angkut"
+      ],
+      "categoryCoverage": {
+        "laptop": {
+          "requested": 2,
+          "served": 0
+        },
+        "phone": {
+          "requested": 3,
+          "served": 0
+        },
+        "accessories": {
+          "requested": 2,
+          "served": 0
+        },
+        "tablet": {
+          "requested": 2,
+          "served": 0
+        },
+        "router": {
+          "requested": 2,
+          "served": 0
+        },
+        "small_appliance": {
+          "requested": 2,
+          "served": 0
+        },
+        "monitor": {
+          "requested": 1,
+          "served": 1
+        },
+        "printer": {
+          "requested": 1,
+          "served": 1
+        },
+        "large_appliance": {
+          "requested": 1,
+          "served": 1
+        },
+        "battery": {
+          "requested": 2,
+          "served": 2
+        }
+      },
+      "handlingCoverage": {
+        "ordinary": {
+          "requested": 13,
+          "served": 0
+        },
+        "bulky": {
+          "requested": 3,
+          "served": 3
+        },
+        "specialist": {
+          "requested": 2,
+          "served": 2
+        }
+      },
+      "rejectionCodes": {
+        "handling_incompatible": 13
+      },
+      "assignments": [
+        {
+          "requestId": "JB-010",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 21,
+          "receivedMinute": 62
+        },
+        {
+          "requestId": "JB-009",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 29,
+          "receivedMinute": 64
+        },
+        {
+          "requestId": "JB-013",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 43,
+          "receivedMinute": 60
+        },
+        {
+          "requestId": "JB-016",
+          "journeyId": "AA-02",
+          "receiverId": "jaga",
+          "pickupMinute": 36,
+          "receivedMinute": 69
+        },
+        {
+          "requestId": "JB-017",
+          "journeyId": "AA-02",
+          "receiverId": "jaga",
+          "pickupMinute": 47,
+          "receivedMinute": 67
+        }
+      ]
+    },
+    {
+      "id": "no_lintas",
+      "label": "Lintas Paket tidak tersedia",
+      "requests": 18,
+      "served": 12,
+      "unserved": 6,
+      "budgetIdr": 600000,
+      "addedKm": 19.2,
+      "totalCostIdr": 347900,
+      "additionalMinutes": 96,
+      "baselineFeasible": true,
+      "baselineServed": 12,
+      "baselineKm": 69.6,
+      "baselineCostIdr": 493900,
+      "outstandingHandlingAllowanceIdr": 217500,
+      "providerPaymentIdr": 130400,
+      "handlingAllowanceIdr": 217500,
+      "providersUsed": [
+        "sela",
+        "angkut"
+      ],
+      "categoryCoverage": {
+        "laptop": {
+          "requested": 2,
+          "served": 1
+        },
+        "phone": {
+          "requested": 3,
+          "served": 2
+        },
+        "accessories": {
+          "requested": 2,
+          "served": 1
+        },
+        "tablet": {
+          "requested": 2,
+          "served": 2
+        },
+        "router": {
+          "requested": 2,
+          "served": 1
+        },
+        "small_appliance": {
+          "requested": 2,
+          "served": 0
+        },
+        "monitor": {
+          "requested": 1,
+          "served": 1
+        },
+        "printer": {
+          "requested": 1,
+          "served": 1
+        },
+        "large_appliance": {
+          "requested": 1,
+          "served": 1
+        },
+        "battery": {
+          "requested": 2,
+          "served": 2
+        }
+      },
+      "handlingCoverage": {
+        "ordinary": {
+          "requested": 13,
+          "served": 7
+        },
+        "bulky": {
+          "requested": 3,
+          "served": 3
+        },
+        "specialist": {
+          "requested": 2,
+          "served": 2
+        }
+      },
+      "rejectionCodes": {
+        "handling_incompatible": 6
+      },
+      "assignments": [
+        {
+          "requestId": "JB-001",
+          "journeyId": "SK-01",
+          "receiverId": "guna",
+          "pickupMinute": 8,
+          "receivedMinute": 52
+        },
+        {
+          "requestId": "JB-002",
+          "journeyId": "SK-01",
+          "receiverId": "guna",
+          "pickupMinute": 13,
+          "receivedMinute": 50
+        },
+        {
+          "requestId": "JB-003",
+          "journeyId": "SK-01",
+          "receiverId": "material",
+          "pickupMinute": 21,
+          "receivedMinute": 72
+        },
+        {
+          "requestId": "JB-005",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 18,
+          "receivedMinute": 84
+        },
+        {
+          "requestId": "JB-004",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 23,
+          "receivedMinute": 86
+        },
+        {
+          "requestId": "JB-007",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 37,
+          "receivedMinute": 82
+        },
+        {
+          "requestId": "JB-012",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 69,
+          "receivedMinute": 80
+        },
+        {
+          "requestId": "JB-010",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 21,
+          "receivedMinute": 62
+        },
+        {
+          "requestId": "JB-009",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 29,
+          "receivedMinute": 64
+        },
+        {
+          "requestId": "JB-013",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 43,
+          "receivedMinute": 60
+        },
+        {
+          "requestId": "JB-016",
+          "journeyId": "AA-02",
+          "receiverId": "jaga",
+          "pickupMinute": 36,
+          "receivedMinute": 69
+        },
+        {
+          "requestId": "JB-017",
+          "journeyId": "AA-02",
+          "receiverId": "jaga",
+          "pickupMinute": 47,
+          "receivedMinute": 67
+        }
+      ]
+    },
+    {
+      "id": "no_sela",
+      "label": "Sela Kurir tidak tersedia",
+      "requests": 18,
+      "served": 16,
+      "unserved": 2,
+      "budgetIdr": 600000,
+      "addedKm": 28.8,
+      "totalCostIdr": 419700,
+      "additionalMinutes": 136,
+      "baselineFeasible": true,
+      "baselineServed": 16,
+      "baselineKm": 93.6,
+      "baselineCostIdr": 577100,
+      "outstandingHandlingAllowanceIdr": 247500,
+      "providerPaymentIdr": 172200,
+      "handlingAllowanceIdr": 247500,
+      "providersUsed": [
+        "lintas",
+        "angkut"
+      ],
+      "categoryCoverage": {
+        "laptop": {
+          "requested": 2,
+          "served": 2
+        },
+        "phone": {
+          "requested": 3,
+          "served": 3
+        },
+        "accessories": {
+          "requested": 2,
+          "served": 2
+        },
+        "tablet": {
+          "requested": 2,
+          "served": 2
+        },
+        "router": {
+          "requested": 2,
+          "served": 1
+        },
+        "small_appliance": {
+          "requested": 2,
+          "served": 1
+        },
+        "monitor": {
+          "requested": 1,
+          "served": 1
+        },
+        "printer": {
+          "requested": 1,
+          "served": 1
+        },
+        "large_appliance": {
+          "requested": 1,
+          "served": 1
+        },
+        "battery": {
+          "requested": 2,
+          "served": 2
+        }
+      },
+      "handlingCoverage": {
+        "ordinary": {
+          "requested": 13,
+          "served": 11
+        },
+        "bulky": {
+          "requested": 3,
+          "served": 3
+        },
+        "specialist": {
+          "requested": 2,
+          "served": 2
+        }
+      },
+      "rejectionCodes": {
+        "handling_incompatible": 2
+      },
+      "assignments": [
+        {
+          "requestId": "JB-001",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 6,
+          "receivedMinute": 86
+        },
+        {
+          "requestId": "JB-008",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 20,
+          "receivedMinute": 76
+        },
+        {
+          "requestId": "JB-005",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 31,
+          "receivedMinute": 80
+        },
+        {
+          "requestId": "JB-004",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 36,
+          "receivedMinute": 82
+        },
+        {
+          "requestId": "JB-002",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 44,
+          "receivedMinute": 84
+        },
+        {
+          "requestId": "JB-007",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 49,
+          "receivedMinute": 78
+        },
+        {
+          "requestId": "JB-012",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 60,
+          "receivedMinute": 74
+        },
+        {
+          "requestId": "JB-003",
+          "journeyId": "LP-02",
+          "receiverId": "material",
+          "pickupMinute": 25,
+          "receivedMinute": 108
+        },
+        {
+          "requestId": "JB-014",
+          "journeyId": "LP-02",
+          "receiverId": "guna",
+          "pickupMinute": 39,
+          "receivedMinute": 56
+        },
+        {
+          "requestId": "JB-011",
+          "journeyId": "LP-02",
+          "receiverId": "material",
+          "pickupMinute": 64,
+          "receivedMinute": 104
+        },
+        {
+          "requestId": "JB-006",
+          "journeyId": "LP-02",
+          "receiverId": "material",
+          "pickupMinute": 72,
+          "receivedMinute": 106
+        },
+        {
+          "requestId": "JB-010",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 21,
+          "receivedMinute": 62
+        },
+        {
+          "requestId": "JB-009",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 29,
+          "receivedMinute": 64
+        },
+        {
+          "requestId": "JB-013",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 43,
+          "receivedMinute": 60
+        },
+        {
+          "requestId": "JB-016",
+          "journeyId": "AA-02",
+          "receiverId": "jaga",
+          "pickupMinute": 36,
+          "receivedMinute": 69
+        },
+        {
+          "requestId": "JB-017",
+          "journeyId": "AA-02",
+          "receiverId": "jaga",
+          "pickupMinute": 47,
+          "receivedMinute": 67
+        }
+      ]
+    },
+    {
+      "id": "no_angkut",
+      "label": "Angkut Aman tidak tersedia",
+      "requests": 18,
+      "served": 13,
+      "unserved": 5,
+      "budgetIdr": 600000,
+      "addedKm": 28.8,
+      "totalCostIdr": 206700,
+      "additionalMinutes": 124,
+      "baselineFeasible": true,
+      "baselineServed": 13,
+      "baselineKm": 76.8,
+      "baselineCostIdr": 314400,
+      "outstandingHandlingAllowanceIdr": 97500,
+      "providerPaymentIdr": 109200,
+      "handlingAllowanceIdr": 97500,
+      "providersUsed": [
+        "lintas",
+        "sela"
+      ],
+      "categoryCoverage": {
+        "laptop": {
+          "requested": 2,
+          "served": 2
+        },
+        "phone": {
+          "requested": 3,
+          "served": 3
+        },
+        "accessories": {
+          "requested": 2,
+          "served": 2
+        },
+        "tablet": {
+          "requested": 2,
+          "served": 2
+        },
+        "router": {
+          "requested": 2,
+          "served": 2
+        },
+        "small_appliance": {
+          "requested": 2,
+          "served": 2
+        },
+        "monitor": {
+          "requested": 1,
+          "served": 0
+        },
+        "printer": {
+          "requested": 1,
+          "served": 0
+        },
+        "large_appliance": {
+          "requested": 1,
+          "served": 0
+        },
+        "battery": {
+          "requested": 2,
+          "served": 0
+        }
+      },
+      "handlingCoverage": {
+        "ordinary": {
+          "requested": 13,
+          "served": 13
+        },
+        "bulky": {
+          "requested": 3,
+          "served": 0
+        },
+        "specialist": {
+          "requested": 2,
+          "served": 0
+        }
+      },
+      "rejectionCodes": {
+        "carrier_unavailable": 5
+      },
+      "assignments": [
+        {
+          "requestId": "JB-001",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 6,
+          "receivedMinute": 86
+        },
+        {
+          "requestId": "JB-008",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 20,
+          "receivedMinute": 76
+        },
+        {
+          "requestId": "JB-005",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 31,
+          "receivedMinute": 80
+        },
+        {
+          "requestId": "JB-004",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 36,
+          "receivedMinute": 82
+        },
+        {
+          "requestId": "JB-002",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 44,
+          "receivedMinute": 84
+        },
+        {
+          "requestId": "JB-007",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 49,
+          "receivedMinute": 78
+        },
+        {
+          "requestId": "JB-012",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 60,
+          "receivedMinute": 74
+        },
+        {
+          "requestId": "JB-006",
+          "journeyId": "SK-01",
+          "receiverId": "material",
+          "pickupMinute": 11,
+          "receivedMinute": 70
+        },
+        {
+          "requestId": "JB-003",
+          "journeyId": "SK-01",
+          "receiverId": "material",
+          "pickupMinute": 25,
+          "receivedMinute": 72
+        },
+        {
+          "requestId": "JB-011",
+          "journeyId": "SK-01",
+          "receiverId": "material",
+          "pickupMinute": 45,
+          "receivedMinute": 68
+        },
+        {
+          "requestId": "JB-015",
+          "journeyId": "SK-02",
+          "receiverId": "material",
+          "pickupMinute": 39,
+          "receivedMinute": 49
+        },
+        {
+          "requestId": "JB-018",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 44,
+          "receivedMinute": 80
+        },
+        {
+          "requestId": "JB-014",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 60,
+          "receivedMinute": 82
+        }
+      ]
+    },
+    {
+      "id": "budget_300000",
+      "label": "Anggaran Rp300.000",
+      "requests": 18,
+      "served": 14,
+      "unserved": 4,
+      "budgetIdr": 300000,
+      "addedKm": 24,
+      "totalCostIdr": 287700,
+      "additionalMinutes": 116,
+      "baselineFeasible": true,
+      "baselineServed": 14,
+      "baselineKm": 74.4,
+      "baselineCostIdr": 383100,
+      "outstandingHandlingAllowanceIdr": 157500,
+      "providerPaymentIdr": 130200,
+      "handlingAllowanceIdr": 157500,
+      "providersUsed": [
+        "lintas",
+        "sela",
+        "angkut"
+      ],
+      "categoryCoverage": {
+        "laptop": {
+          "requested": 2,
+          "served": 2
+        },
+        "phone": {
+          "requested": 3,
+          "served": 3
+        },
+        "accessories": {
+          "requested": 2,
+          "served": 2
+        },
+        "tablet": {
+          "requested": 2,
+          "served": 2
+        },
+        "router": {
+          "requested": 2,
+          "served": 1
+        },
+        "small_appliance": {
+          "requested": 2,
+          "served": 1
+        },
+        "monitor": {
+          "requested": 1,
+          "served": 1
+        },
+        "printer": {
+          "requested": 1,
+          "served": 1
+        },
+        "large_appliance": {
+          "requested": 1,
+          "served": 1
+        },
+        "battery": {
+          "requested": 2,
+          "served": 0
+        }
+      },
+      "handlingCoverage": {
+        "ordinary": {
+          "requested": 13,
+          "served": 11
+        },
+        "bulky": {
+          "requested": 3,
+          "served": 3
+        },
+        "specialist": {
+          "requested": 2,
+          "served": 0
+        }
+      },
+      "rejectionCodes": {
+        "handling_incompatible": 2,
+        "budget": 2
+      },
+      "assignments": [
+        {
+          "requestId": "JB-001",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 6,
+          "receivedMinute": 86
+        },
+        {
+          "requestId": "JB-008",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 20,
+          "receivedMinute": 76
+        },
+        {
+          "requestId": "JB-005",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 31,
+          "receivedMinute": 80
+        },
+        {
+          "requestId": "JB-004",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 36,
+          "receivedMinute": 82
+        },
+        {
+          "requestId": "JB-002",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 44,
+          "receivedMinute": 84
+        },
+        {
+          "requestId": "JB-007",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 49,
+          "receivedMinute": 78
+        },
+        {
+          "requestId": "JB-012",
+          "journeyId": "LP-01",
+          "receiverId": "guna",
+          "pickupMinute": 60,
+          "receivedMinute": 74
+        },
+        {
+          "requestId": "JB-006",
+          "journeyId": "SK-01",
+          "receiverId": "material",
+          "pickupMinute": 11,
+          "receivedMinute": 70
+        },
+        {
+          "requestId": "JB-003",
+          "journeyId": "SK-01",
+          "receiverId": "material",
+          "pickupMinute": 25,
+          "receivedMinute": 72
+        },
+        {
+          "requestId": "JB-011",
+          "journeyId": "SK-01",
+          "receiverId": "material",
+          "pickupMinute": 45,
+          "receivedMinute": 68
+        },
+        {
+          "requestId": "JB-014",
+          "journeyId": "SK-02",
+          "receiverId": "guna",
+          "pickupMinute": 42,
+          "receivedMinute": 62
+        },
+        {
+          "requestId": "JB-010",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 21,
+          "receivedMinute": 62
+        },
+        {
+          "requestId": "JB-009",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 29,
+          "receivedMinute": 64
+        },
+        {
+          "requestId": "JB-013",
+          "journeyId": "AA-01",
+          "receiverId": "material",
+          "pickupMinute": 43,
+          "receivedMinute": 60
+        }
+      ]
+    },
+    {
+      "id": "receiver_capacity_zero",
+      "label": "Semua kapasitas penerima nol",
+      "requests": 18,
+      "served": 0,
+      "unserved": 18,
+      "budgetIdr": 600000,
+      "addedKm": 0,
+      "totalCostIdr": 0,
+      "additionalMinutes": 0,
+      "baselineFeasible": true,
+      "baselineServed": 0,
+      "baselineKm": 0,
+      "baselineCostIdr": 0,
+      "outstandingHandlingAllowanceIdr": 0,
+      "providerPaymentIdr": 0,
+      "handlingAllowanceIdr": 0,
+      "providersUsed": [],
+      "categoryCoverage": {
+        "laptop": {
+          "requested": 2,
+          "served": 0
+        },
+        "phone": {
+          "requested": 3,
+          "served": 0
+        },
+        "accessories": {
+          "requested": 2,
+          "served": 0
+        },
+        "tablet": {
+          "requested": 2,
+          "served": 0
+        },
+        "router": {
+          "requested": 2,
+          "served": 0
+        },
+        "small_appliance": {
+          "requested": 2,
+          "served": 0
+        },
+        "monitor": {
+          "requested": 1,
+          "served": 0
+        },
+        "printer": {
+          "requested": 1,
+          "served": 0
+        },
+        "large_appliance": {
+          "requested": 1,
+          "served": 0
+        },
+        "battery": {
+          "requested": 2,
+          "served": 0
+        }
+      },
+      "handlingCoverage": {
+        "ordinary": {
+          "requested": 13,
+          "served": 0
+        },
+        "bulky": {
+          "requested": 3,
+          "served": 0
+        },
+        "specialist": {
+          "requested": 2,
+          "served": 0
+        }
+      },
+      "rejectionCodes": {
+        "receiver_capacity": 18
+      },
+      "assignments": []
+    },
+    {
+      "id": "all_journeys_unavailable",
+      "label": "Semua perjalanan tidak tersedia",
+      "requests": 18,
+      "served": 0,
+      "unserved": 18,
+      "budgetIdr": 600000,
+      "addedKm": 0,
+      "totalCostIdr": 0,
+      "additionalMinutes": 0,
+      "baselineFeasible": true,
+      "baselineServed": 0,
+      "baselineKm": 0,
+      "baselineCostIdr": 0,
+      "outstandingHandlingAllowanceIdr": 0,
+      "providerPaymentIdr": 0,
+      "handlingAllowanceIdr": 0,
+      "providersUsed": [],
+      "categoryCoverage": {
+        "laptop": {
+          "requested": 2,
+          "served": 0
+        },
+        "phone": {
+          "requested": 3,
+          "served": 0
+        },
+        "accessories": {
+          "requested": 2,
+          "served": 0
+        },
+        "tablet": {
+          "requested": 2,
+          "served": 0
+        },
+        "router": {
+          "requested": 2,
+          "served": 0
+        },
+        "small_appliance": {
+          "requested": 2,
+          "served": 0
+        },
+        "monitor": {
+          "requested": 1,
+          "served": 0
+        },
+        "printer": {
+          "requested": 1,
+          "served": 0
+        },
+        "large_appliance": {
+          "requested": 1,
+          "served": 0
+        },
+        "battery": {
+          "requested": 2,
+          "served": 0
+        }
+      },
+      "handlingCoverage": {
+        "ordinary": {
+          "requested": 13,
+          "served": 0
+        },
+        "bulky": {
+          "requested": 3,
+          "served": 0
+        },
+        "specialist": {
+          "requested": 2,
+          "served": 0
+        }
+      },
+      "rejectionCodes": {
+        "carrier_unavailable": 18
+      },
+      "assignments": []
+    }
+  ]
+}

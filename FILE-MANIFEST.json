@@ -1,0 +1,2136 @@
+{
+  "release": "1.0",
+  "scope": "Every delivered repository file except this manifest itself. Historical sources retain their separate source provenance manifest.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 173,
+      "sha256": "2d395929cc60ebd32d91a3db3665a7a948f55945dc1bb68598ad26d0f5ff3c88"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 3911,
+      "sha256": "3ad476fcb5a637bfe43a65f723a6515a3e618895aff119824457ab1441571732"
+    },
+    {
+      "path": "LICENSE-NOTICE.md",
+      "bytes": 827,
+      "sha256": "8f1c0393bf9d2ccad88228f0dc68445fc7acf7660cdb1df57b094457d25097e2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4737,
+      "sha256": "9cd380343f3bd21fd82dbd6e5e9e2356a1b89b5770990301a91e95d5bb75f65c"
+    },
+    {
+      "path": "assets/chart-gallery-preview.jpg",
+      "bytes": 222152,
+      "sha256": "95ec22976ca298fcf59cdfd48b8d4582f92c91b98d28149ef8a75d060c8d12d2"
+    },
+    {
+      "path": "assets/reference-previews/citizen-charter.png",
+      "bytes": 168802,
+      "sha256": "d2c4b91bece4d3b1f80202f64bc0829ffe4d70edcadb6b3f35b96d434eeb3f5c"
+    },
+    {
+      "path": "assets/reference-previews/corpus-selection-contact-sheet.jpg",
+      "bytes": 447459,
+      "sha256": "c8b6ec92d10724f6551160b30e494a7fb4ae2c18d01ccb8247e89fbfaf82dd3d"
+    },
+    {
+      "path": "assets/reference-previews/dua-comparison.png",
+      "bytes": 205439,
+      "sha256": "e7ae0d8470f55bf45c137303f9847613f44a59520ce9441af4998727bf575715"
+    },
+    {
+      "path": "assets/reference-previews/dua-implementation.png",
+      "bytes": 205193,
+      "sha256": "f988c28a43c80b4eb31cbac81204dd29d41560f758774c718dd5ce72c1f72326"
+    },
+    {
+      "path": "assets/reference-previews/fishee-opening.png",
+      "bytes": 282694,
+      "sha256": "afa2f89e38831fc7b71d722c49134dbc2208743351619377216537754570e6bc"
+    },
+    {
+      "path": "assets/reference-previews/fishee-transaction.png",
+      "bytes": 295298,
+      "sha256": "0b8276925a17fb4f426b7713435f67bb055b41347a024a3c2a27381cea0179d8"
+    },
+    {
+      "path": "assets/reference-previews/jakarta-system.png",
+      "bytes": 504328,
+      "sha256": "299fa8e15f4d573ade3ed62c6c1a1fd07d488005612fe7c1b7baa2a144b8c028"
+    },
+    {
+      "path": "assets/reference-previews/pi-mt-writing.png",
+      "bytes": 227893,
+      "sha256": "fa97f97a0d3f8dee1888494cdeb8f25f28c6f307b1ecd3c834fc1afb96fc9310"
+    },
+    {
+      "path": "assets/reference-previews/preview-manifest.json",
+      "bytes": 8085,
+      "sha256": "d1f4c680cf25c97ebb89f6449cad836182f6cb6776c5390cc177c5fa0848a9a1"
+    },
+    {
+      "path": "assets/reference-previews/refeel-market-exhibit.png",
+      "bytes": 380657,
+      "sha256": "4d0b0d6456343b349e22b380623d732427efdebddd4e28304575a128ae16af54"
+    },
+    {
+      "path": "assets/reference-previews/refeel-service-workflow.png",
+      "bytes": 306389,
+      "sha256": "b65f2146042704588bc8748c977d1e9360722ec90e1e92456a3e07cf76b1f6eb"
+    },
+    {
+      "path": "assets/reference-previews/sakara-business-flow.png",
+      "bytes": 211446,
+      "sha256": "a1feb013e76b143dcc57ea47912e6b31ff74e7df0242d588885d007b98c53441"
+    },
+    {
+      "path": "assets/reference-previews/solvaerophil-appendix-calls.png",
+      "bytes": 172959,
+      "sha256": "6605c53ce35890a82201c93621395313a90af26c8c95ee003d595f640da525b7"
+    },
+    {
+      "path": "assets/reference-previews/taste-01.png",
+      "bytes": 256169,
+      "sha256": "099e03307e1729742884bc757d89c0d3e073f2bbd50aa71b19ba1b06d5bade9b"
+    },
+    {
+      "path": "assets/reference-previews/taste-02.png",
+      "bytes": 216888,
+      "sha256": "eb81aad8a8a445f1024a3cacabac9e0f953df4c346e12d4539ab29514dfc1081"
+    },
+    {
+      "path": "assets/reference-previews/taste-03.png",
+      "bytes": 134185,
+      "sha256": "b8e257208e589fb40ccca6d51365b7dda4d30dc257afb1930e6ec9725dcf237c"
+    },
+    {
+      "path": "assets/reference-previews/taste-04.png",
+      "bytes": 48317,
+      "sha256": "beda4b35261bac6c9f6f33c3cd9921d3bcbb7066d20130689f1835094869a08a"
+    },
+    {
+      "path": "assets/reference-previews/taste-05.png",
+      "bytes": 119418,
+      "sha256": "6e87790b2f6c4d0f3ec27d9f81e7c26806302227d36c5f58efa386ad307c4030"
+    },
+    {
+      "path": "assets/reference-previews/taste-06.png",
+      "bytes": 126337,
+      "sha256": "afd5b1ca8ae3254c495dbf96d75e79fda2ec7e77c8cc83665d79a5bc95ddf102"
+    },
+    {
+      "path": "assets/reference-previews/taste-07.png",
+      "bytes": 125691,
+      "sha256": "f7f78ef90eebfd20e24b0e246f5fb56c15d573d9ab62a1cd86fe8f2536c57d4a"
+    },
+    {
+      "path": "assets/reference-previews/taste-08.png",
+      "bytes": 88997,
+      "sha256": "040f9778212ee8fc3c3349551e0fd2463436ddc0614f494644b8f35661380b31"
+    },
+    {
+      "path": "assets/reference-previews/taste-09.png",
+      "bytes": 216147,
+      "sha256": "dd04b6c751583fc57bffaf04c8c362f982ea54655e29c1f39f2401291b1d5a05"
+    },
+    {
+      "path": "assets/reference-previews/taste-10.png",
+      "bytes": 127544,
+      "sha256": "2b8488e6b181febab6ebe812f94aca3085e6daef56ff77b220cc1ec15c6e350d"
+    },
+    {
+      "path": "assets/reference-previews/taste-11.png",
+      "bytes": 166259,
+      "sha256": "ff18fa4e3afd1ed5e78c7eef45a7c1eb5bde6a07158d40e5785368ad21fd1fe6"
+    },
+    {
+      "path": "assets/reference-previews/taste-12.png",
+      "bytes": 281456,
+      "sha256": "50997755336e41eac69b89d17918c8cdfc5902704b21a5b2e05c494ab22799f6"
+    },
+    {
+      "path": "assets/reference-previews/taste-13.png",
+      "bytes": 206242,
+      "sha256": "b2321a54a7ef588fa4f3cc884ba0b6b8833c81314c5c1f77ec584e35dc8e839b"
+    },
+    {
+      "path": "assets/reference-previews/taste-contact-sheet.jpg",
+      "bytes": 308930,
+      "sha256": "2284a67b54c758e31028805cdbb2fb85db22f3aaf4d5aac76c6e845eb0d54a50"
+    },
+    {
+      "path": "assets/reference-previews/taste-manifest.json",
+      "bytes": 5915,
+      "sha256": "39d8faf375dcca3d40b5c8d28d936ce6c938e7c280ab69709908d1f73bd19082"
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Esai_Revisi_2.docx",
+      "bytes": 3060905,
+      "sha256": "cb9df1909d274bc9d58eec80bd9d4333a8b216c26697f685de512b2f8ee2f552"
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Esai_dan_Lampiran.docx",
+      "bytes": 5851611,
+      "sha256": "2a6da711f723c1cba35d789da491e43a147556fc1bbabcc529c00071a50ed4ff"
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Esai_dan_Lampiran.pdf",
+      "bytes": 3562679,
+      "sha256": "50a7b3ed6940d81373634908f7e0e680ab0713c8a721a9d77154449b77fd54f6"
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Master_AI_Context_v3.md",
+      "bytes": 27403,
+      "sha256": "8227ffaa8be07eab8070097926ba02c38b769e4aeda13c580bfd65f55b43c7be"
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Master_AI_Context_v4.md",
+      "bytes": 488546,
+      "sha256": "affa3f42ab616a0d95a2fe29fbf1d3c0344c9f290706d41ff223865ef08f4370"
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Sumber_Produksi.zip",
+      "bytes": 11321950,
+      "sha256": "35671591fae778831b9a412abe566b75418986267032fdb18dfe19f8b5c41103"
+    },
+    {
+      "path": "cases/jejakbalik/README.md",
+      "bytes": 7699,
+      "sha256": "7c351e5ee8e8dcd34d707c575d3455b5f664b385a0e7f31f98319b6be7d309c0"
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183445.png",
+      "bytes": 447351,
+      "sha256": "267badae07c6100b6ad3e892ae512febd019ee185d577a8a0fdfa575a0cca6c7"
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183449.png",
+      "bytes": 61152,
+      "sha256": "bbdb968a845009056dccbd7af935b96794c1f9ab4079947633a58c02bec8497b"
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183501.png",
+      "bytes": 496082,
+      "sha256": "47a970754929ec66655aafb0d5469ccda114c9a23aeb48f88c7acad3febf0797"
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183507.png",
+      "bytes": 355038,
+      "sha256": "ea17cb1f3fb920fd86dc90a2ea72a208e0ad3ac8b906b5111ae46f3be1a332ea"
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183513.png",
+      "bytes": 448281,
+      "sha256": "37d82c4a288e0f1a9810c86eba96340952f49fad740e16813c2d0d44b6a761c0"
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183521.png",
+      "bytes": 334416,
+      "sha256": "a41fdc5d5b37dc8ac28e4e54ddbf180e7a178af59282afba0a98b9d7bffcfa5b"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/appendix_content.json",
+      "bytes": 59151,
+      "sha256": "697bacd4ced9de2da3f40ed4fe0757a9fcd9d7b07b85a7eef31137ef7b40b364"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/concept_service.png",
+      "bytes": 2798725,
+      "sha256": "19c13bf07363e4807c5ad0cf72f84ae732a1c7d008dcefb84d14d543811905d3"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_annual.pdf",
+      "bytes": 15981,
+      "sha256": "1993b1393293c5f9ea9b781882e6654fabaef4bf367e8e716ba8ecd6ca39f95f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_annual.png",
+      "bytes": 60385,
+      "sha256": "eb190c4bb0e35682b96e7a3dd856b4328741ccacf9cefe98abea1b56e74029f1"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_cash.pdf",
+      "bytes": 24254,
+      "sha256": "24125502bc4db30bcadccabf86328386beddae8e54dd56100d2f28368ab3bf8d"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_cash.png",
+      "bytes": 76529,
+      "sha256": "f85b0de67c3ede7c994a5440fdee706ab8bc2af1704ab56d9e8af1674606e53e"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_sensitivity.pdf",
+      "bytes": 26803,
+      "sha256": "305b7f57421ceb0e99a2865baeeb402d769145bac4b984822f2f2f08ee86bff1"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_sensitivity.png",
+      "bytes": 132087,
+      "sha256": "c9e9151ab64e744303c749ff17beca0c43013c570764f37d4f316a6de0954969"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/gantt_decade.pdf",
+      "bytes": 16924,
+      "sha256": "23f91919ad9166c6d366df9c15a216c14e608241c16ea05ae594c52d5674b251"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/gantt_decade.png",
+      "bytes": 90744,
+      "sha256": "e48725f0da62149a8ba00f5e09606b12b49162d3ec5967035d4d500e80dff73a"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/gantt_year1.pdf",
+      "bytes": 17669,
+      "sha256": "c75c019a9c032f3ddad89014b39aa27cc375c3bb6340659840d900d5c4c1c2ef"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/gantt_year1.png",
+      "bytes": 122109,
+      "sha256": "3b042fad4a1195b7a0eef12eafda13880b69642f20bb2b02676d2a57de47b37b"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/issue_tree.pdf",
+      "bytes": 29918,
+      "sha256": "d4b92c32186fdeb96ff28a0907cc4410b6f4c8197c1032e45dff72cdf9a96532"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/issue_tree.png",
+      "bytes": 194639,
+      "sha256": "ea2c95b553fa80e38b43419ce55e616731b32ae46bd73c90206711a355b63a1b"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/main_system.pdf",
+      "bytes": 25669,
+      "sha256": "f8d2aa400c06d0c42aade067d2b451d1681db6d46d6f93cfa7395afac89e1152"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/main_system.png",
+      "bytes": 124075,
+      "sha256": "67c36fbcc5da0d779fdc8dbaab53a8b8da8c812e5fe552f39097652b16218f3f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/manifest.json",
+      "bytes": 6466,
+      "sha256": "33508ccede3757ffe0a0f080570d1226a1fc5b6f46988ff390056c8cecf08b54"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_drivers.pdf",
+      "bytes": 32991,
+      "sha256": "6dfbc0e0bb5544707d99ee9e048242933026371900ab23ed6b69fc49f9e5bd2b"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_drivers.png",
+      "bytes": 82388,
+      "sha256": "db88cb6352243e3392249df87a431f281864a5b241d30cd6411e8494c5373b02"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_funding.pdf",
+      "bytes": 17162,
+      "sha256": "928c33979f15e7549abfc7420fe2603ef9636434cadb298a5419f8c3ecae4bb2"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_funding.png",
+      "bytes": 60214,
+      "sha256": "571a558632a54dc171824d756b1646fd4eab1a34cb992c0de2b6a8ce30a044b6"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_npv.pdf",
+      "bytes": 25332,
+      "sha256": "3f65c9a637964609f1d867ae7e5ac6c2e4bd3e63d7cced13a26e7a51936f34b2"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_npv.png",
+      "bytes": 49421,
+      "sha256": "6f39e6ac6b7cb624fae2a88822d8b4fa1140d6e5f6e4b3c0ea3504d04f75bafe"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/prototype_comparison.pdf",
+      "bytes": 15805,
+      "sha256": "d4a3d897088586daeefbf9af8e6c6f9b2af62ff1448fa044cde8aa5f1ba2c26b"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/prototype_comparison.png",
+      "bytes": 46932,
+      "sha256": "8e250be8084a53ed2f6bc5d72fb659cb1af4490f722425e17bc56fca6c201ae7"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/risk_heatmap.pdf",
+      "bytes": 17033,
+      "sha256": "952ecf5300dbac69eaee4c2a5b99dcce286d43a70d1583462231b2fa04fa783d"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/risk_heatmap.png",
+      "bytes": 140789,
+      "sha256": "093542389c0e121017788455a48b1f798f760fb97c53347a9c920b32c684a1f6"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/service_swimlane.pdf",
+      "bytes": 26362,
+      "sha256": "4fc7f2468d786f242fdcf9be35f9e24774cce4d45e0e7e076b0cfe4c42252fbc"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/service_swimlane.png",
+      "bytes": 136993,
+      "sha256": "5c86d43972e7909f9db28fadbbd57be5e4ad601b191a8b0668dc5448da0961d4"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/tam_sam_som.pdf",
+      "bytes": 35110,
+      "sha256": "f63abb7071cd5bed30cb4c541fd6a6dc9cac28a0e18a15e82e21538ba7986b2f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/tam_sam_som.png",
+      "bytes": 112323,
+      "sha256": "c4c26f9def0bddac1dc879e1bfb5e4541edc6024e87bd60aca9d10820599903d"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/dlh-bemui-black.png",
+      "bytes": 7262,
+      "sha256": "d92880be31f46b447708b26f85caf89ed3068e356a2cbf424283caa2262f287f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/ewasterj-black.png",
+      "bytes": 38215,
+      "sha256": "e2607ef092a10e986ed941ea93eba767bc6113fe2478a14e3efc966013860534"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/lintasarta-black.png",
+      "bytes": 11128,
+      "sha256": "10a72597a0ebcf3115442e7377f7f4281fb18488320e984e7864a0216a51a8b6"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/lintasarta-peduli-black.png",
+      "bytes": 8082,
+      "sha256": "21fefc21e23ccf25205825d8a47e29e5b85d7d8b8493e7bb0196343bda00e76d"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/source-87.png",
+      "bytes": 13996,
+      "sha256": "31d7131c606260ae728a3214319e4a82dc47bd9ef050e967ffcf81b4a434f79f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/source-88.png",
+      "bytes": 49565,
+      "sha256": "88070e26d59233c148d16708389011500dd5aa09d4d70503fd84d026a2a0c9b5"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/source-89.png",
+      "bytes": 10386,
+      "sha256": "2a707098d247e45ca29597af2cade0c55b14a2093809c8e46706974c19ff73af"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/source-90.png",
+      "bytes": 10597,
+      "sha256": "d6dae9428875646284d214d73d4dcc7efb06ffe1b0e28b762d88bf716dc386fd"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/01-network.png",
+      "bytes": 785825,
+      "sha256": "fbf4f93001f8bdfd886d194b0b1335d1e838b1ff6842a485282231642bf89038"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/02-journey-comparison.png",
+      "bytes": 1014824,
+      "sha256": "6156fc296202b44a654b53dc532d503dc61a8c64fae1e118844f19e930fe49b0"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/03-approval.png",
+      "bytes": 775907,
+      "sha256": "802895e6b20f80052c6cb3ed341c506b4263dd9e4a93ab43763aca301b3c135f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/04-custody-exception.png",
+      "bytes": 248563,
+      "sha256": "3ec7bb115398e165d5e027b56795518b8bed186425bbe6c4594812470baafa60"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/05-data-hold.png",
+      "bytes": 254468,
+      "sha256": "7b57341ad50681cf97daa0aafad5662d73bf5629d835d70416ce6176f374146e"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/06-results.png",
+      "bytes": 224459,
+      "sha256": "83edb84c2c696712dd12882a095939022cf558defe8248d31da3067f7f5d5d54"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/07-intake.png",
+      "bytes": 281310,
+      "sha256": "f4dfe52bf17ae2d6f26de5ac0cb57e1f71906381971abc512394b8548d0610c7"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/08-reference-results.png",
+      "bytes": 230596,
+      "sha256": "eb67ac10daef6923800b9dae564d6406aff29a42285cd196dcdd45c9663d0cc0"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/09-options-detail.png",
+      "bytes": 369321,
+      "sha256": "87548da593005b42843974c3cc33f301ee27adf5e49faca2c26dec7eec73b7c5"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/10-device-view.png",
+      "bytes": 416713,
+      "sha256": "15ea957546e001aca6973bbdd797840ad58a124c56cebe23a58b405357352be7"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/11-owner-vehicle.png",
+      "bytes": 249817,
+      "sha256": "ff09c3797a99c8245063d38f11cc911afc218ebab7234f33a113eb0dae97fb50"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/12-owner-facility.png",
+      "bytes": 281583,
+      "sha256": "cce0dd13161f230b91d77b69ddac8c478ec5d36171af033ab53079a8b10a0605"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/13-custody-detail.png",
+      "bytes": 67968,
+      "sha256": "5f437646a22395a9f88d0facdf5c2ca81f4285d1ac67cbe67d221d0370a40fc3"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/14-data-detail.png",
+      "bytes": 53544,
+      "sha256": "54f7b01fb33e51e87ef821a7d2993745fddb6b1d43bd02714efebbde227346ab"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/15-approval-detail.png",
+      "bytes": 131974,
+      "sha256": "3b517d06654e4c1d44a18c6f393946115186de6b9b657808e1bd71ad01340166"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/16-options-detail.png",
+      "bytes": 87673,
+      "sha256": "8862334bc2ab2583f05fd48729d737fefd6afd0ff67d5ab19d4e7046774a4e57"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/17-intake-detail.png",
+      "bytes": 86755,
+      "sha256": "029d7b1b412fcc12e03ab6231daaee8629f93edd42173cdf7866e82b8cba602b"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/18-results-detail.png",
+      "bytes": 177831,
+      "sha256": "c4188302c0154c3239b064e612a71351097e0636eb3dd3b3c79e08014ec05a49"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/19-options-compact.png",
+      "bytes": 73789,
+      "sha256": "5a6b1531f050548e6033d440c5baf9d6541d1f0ec4921f55e04d58118afb9022"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/manifest.json",
+      "bytes": 4045,
+      "sha256": "550aa6faa3a131118cc8a7f3751079e4118958ce0246d3dd4a1a2bd00833b652"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/build_document.py",
+      "bytes": 37946,
+      "sha256": "736659e4f27dacb62864538160125adf23423d8947889313a020c3cd414d9b59"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/evidence.json",
+      "bytes": 27412,
+      "sha256": "0fde1c813f129b3a214f6fe5eabb80572811e93db5b9dba90615d7be91895f73"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/build_figures.py",
+      "bytes": 13139,
+      "sha256": "c507e6264dc071d1db294ccde0c2e4f0fb41cf2b86138d6b0774ac010180bf96"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/build_finance_figures.py",
+      "bytes": 9829,
+      "sha256": "8fe3688efa60f2131e9aebfcd4dd53f53d04206c1e547ce28af7542db0f74f06"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/finance_annual.tex",
+      "bytes": 1941,
+      "sha256": "03fd7ca60ed05a11144dff5cecbc1f0446d70be05712488863befe2920e30a34"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/finance_cash.tex",
+      "bytes": 2925,
+      "sha256": "3939c0ce31bce4191c32b28669520f2373e09ce5762bbbba982c7717db2ed943"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/finance_sensitivity.tex",
+      "bytes": 1927,
+      "sha256": "64cf41da8de1f10db383087e943e08adef1c166b906d4cc1ad0eca415c7d90b6"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/gantt_decade.tex",
+      "bytes": 1870,
+      "sha256": "675477f84c11dc6a8b17c88ef39670fdea14167a16a92654efdb693d205e2c8e"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/gantt_year1.tex",
+      "bytes": 1891,
+      "sha256": "3418d251d24a318b7e50b7fcc1b97405e18de1d907419af99abc690f779c9185"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/issue_tree.tex",
+      "bytes": 2721,
+      "sha256": "92438d6d3ea303b21141ef76f7721dd2ee78e0997b3b849d4c96e1cd56332aff"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/main_system.tex",
+      "bytes": 1947,
+      "sha256": "406d5f5b6fb7fcb421824be35839eccaa48ce9de50dc6b161d5485632a96e05e"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/mc_drivers.tex",
+      "bytes": 1803,
+      "sha256": "6d5e5284f0263f62c02f0152ae7f812068b9a51058d4fc835ab35032683249d8"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/mc_funding.tex",
+      "bytes": 2658,
+      "sha256": "4eba645ea74e29d786e6565b31ebc0c96ea93f19d5bf95c3e384ab7c72d9776f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/mc_npv.tex",
+      "bytes": 2434,
+      "sha256": "821e9945a13d12e6950be8b1fdd5e459e2cff3eabc1617a7ebe470d8ebaf1ae5"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/prototype_comparison.tex",
+      "bytes": 2030,
+      "sha256": "fcceb0c5badc5527c4b0581522843f8f5d4f62893253706bfd5acb7ce49a4748"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/risk_heatmap.tex",
+      "bytes": 4068,
+      "sha256": "c8665b146bbd41acc9b1017fea280929b89ba4a65e6b0df583a8f901497f8551"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/service_swimlane.tex",
+      "bytes": 2472,
+      "sha256": "a2aaf973e88dc41ab131548a8e74cd2a67598dc6dbcbfb2800d1c4a72deb6af7"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/tam_sam_som.tex",
+      "bytes": 1977,
+      "sha256": "a62ebc34c0a8f91824a3b1af52023363e3fac04d9b1423fda00a872501237857"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/finance.json",
+      "bytes": 38123,
+      "sha256": "a57f6827cdfe9612e64e669954541cd939a1ebf2ec7a50872c74fd6c4553ab9f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/finance_mc_draws.csv",
+      "bytes": 2332045,
+      "sha256": "47a66280fb9bb86a927aad1ab0ded12d97389de49c52d15874dad5799233b0ba"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/finance_model.py",
+      "bytes": 22747,
+      "sha256": "d82d92ef3db076035dd58be224f42d75851f18be90713eb61d78a6057d501359"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/finance_tables.json",
+      "bytes": 15516,
+      "sha256": "72ef0b81d54926c27cb32a6363694cd19e29dd3b9c7bf7c949d4c6a83796b1b6"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/main.json",
+      "bytes": 12409,
+      "sha256": "3b7acc252a40bb848f1b838c8599a4aa9ebe2936e68a4a74005f739cd6243aab"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/method_appendix.json",
+      "bytes": 6592,
+      "sha256": "a3f9fdd116d2c8193f96f231deb2485413be0298741c2dc8e8e63b0bdc3e28a9"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/prototype-execution/run.mjs",
+      "bytes": 5535,
+      "sha256": "56bc17537e95c9ab59a24808ae5329c8393247f553e467a39b23c73d19ce805d"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/prototype_scenarios.json",
+      "bytes": 37359,
+      "sha256": "d7c8010e11d33bfd310b87a26d8a79cc529edffec7a43362c486be4e3d89a421"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/qa_final.json",
+      "bytes": 640,
+      "sha256": "89647af4b66a6718e0235292baafdb3b826c532279e201f67535dd23531394ba"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/all-49-comments.json",
+      "bytes": 75830,
+      "sha256": "e22b0f9f0331f062c92025b218e60aa24364084a1f43e7c8b705fd62aab15171"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/assembled_sections.json",
+      "bytes": 92552,
+      "sha256": "22b8afe70316732af390f54496a17358cbb3c2151e7393eb0710feb537721caa"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media-index.json",
+      "bytes": 10961,
+      "sha256": "8ec7837a134b6aecc493b21a1f146171640cc1c081915c59ced499a48ce1bf45"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image30.png",
+      "bytes": 7262,
+      "sha256": "d92880be31f46b447708b26f85caf89ed3068e356a2cbf424283caa2262f287f"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image31.png",
+      "bytes": 11128,
+      "sha256": "10a72597a0ebcf3115442e7377f7f4281fb18488320e984e7864a0216a51a8b6"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image32.png",
+      "bytes": 435297,
+      "sha256": "c213f865cd875647b326f9bd5f8f03bbfd83fd9144a84bfcf2aeab07663f7e34"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image33.png",
+      "bytes": 695,
+      "sha256": "52af592826d1b950ab64d240becf0d5156ab159e2abe3360d01d320219fee559"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image34.png",
+      "bytes": 378874,
+      "sha256": "39b7801c81c192417d3cb4b7758461b218cf743337a3794133d5ab4547b37ca7"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image35.png",
+      "bytes": 189109,
+      "sha256": "76073f940afdc583a0a7138e11767ed7db0ff452db7b1c85e945793bc7170a3d"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image36.png",
+      "bytes": 785825,
+      "sha256": "fbf4f93001f8bdfd886d194b0b1335d1e838b1ff6842a485282231642bf89038"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image37.png",
+      "bytes": 67968,
+      "sha256": "5f437646a22395a9f88d0facdf5c2ca81f4285d1ac67cbe67d221d0370a40fc3"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image38.png",
+      "bytes": 53544,
+      "sha256": "54f7b01fb33e51e87ef821a7d2993745fddb6b1d43bd02714efebbde227346ab"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image39.png",
+      "bytes": 73789,
+      "sha256": "5a6b1531f050548e6033d440c5baf9d6541d1f0ec4921f55e04d58118afb9022"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image40.png",
+      "bytes": 131974,
+      "sha256": "3b517d06654e4c1d44a18c6f393946115186de6b9b657808e1bd71ad01340166"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image41.png",
+      "bytes": 86755,
+      "sha256": "029d7b1b412fcc12e03ab6231daaee8629f93edd42173cdf7866e82b8cba602b"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image42.png",
+      "bytes": 177831,
+      "sha256": "c4188302c0154c3239b064e612a71351097e0636eb3dd3b3c79e08014ec05a49"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image43.png",
+      "bytes": 46932,
+      "sha256": "8e250be8084a53ed2f6bc5d72fb659cb1af4490f722425e17bc56fca6c201ae7"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image44.png",
+      "bytes": 112323,
+      "sha256": "c4c26f9def0bddac1dc879e1bfb5e4541edc6024e87bd60aca9d10820599903d"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image45.png",
+      "bytes": 60385,
+      "sha256": "eb190c4bb0e35682b96e7a3dd856b4328741ccacf9cefe98abea1b56e74029f1"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image46.png",
+      "bytes": 76529,
+      "sha256": "f85b0de67c3ede7c994a5440fdee706ab8bc2af1704ab56d9e8af1674606e53e"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image47.png",
+      "bytes": 122109,
+      "sha256": "3b042fad4a1195b7a0eef12eafda13880b69642f20bb2b02676d2a57de47b37b"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image48.png",
+      "bytes": 90744,
+      "sha256": "e48725f0da62149a8ba00f5e09606b12b49162d3ec5967035d4d500e80dff73a"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image49.png",
+      "bytes": 140789,
+      "sha256": "093542389c0e121017788455a48b1f798f760fb97c53347a9c920b32c684a1f6"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image50.png",
+      "bytes": 49421,
+      "sha256": "6f39e6ac6b7cb624fae2a88822d8b4fa1140d6e5f6e4b3c0ea3504d04f75bafe"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image51.png",
+      "bytes": 82388,
+      "sha256": "db88cb6352243e3392249df87a431f281864a5b241d30cd6411e8494c5373b02"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/figure_manifest.json",
+      "bytes": 1121,
+      "sha256": "14f98fdd6ca9d005135756e959315e3f90cbe1d7f8e396262379ba64b8c7bed6"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/final_audit.json",
+      "bytes": 1627,
+      "sha256": "7146ceabcb04f82cb47ec5ef919f5a12950f2fe379ee3e2b856f9d602139fd83"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/finance_model.py",
+      "bytes": 22747,
+      "sha256": "d82d92ef3db076035dd58be224f42d75851f18be90713eb61d78a6057d501359"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/impact.py",
+      "bytes": 16379,
+      "sha256": "1578e97c2d7a89ed09a5770b0d9d9140595d2c95500cf997c1fc78b62c3a3d6b"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/issue_tree_horizontal.tex",
+      "bytes": 4907,
+      "sha256": "7456e5426e31a4dce5a3f92500c758e46de12d54b35b668f1a38219b2a19a60c"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/main_overview_strip.tex",
+      "bytes": 1337,
+      "sha256": "928fc753bbba07e789de19d8ed0ac029751a584c5f4dc5aad1185e1502b1e1e5"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/media_manifest.json",
+      "bytes": 3265,
+      "sha256": "6e6f3036582ae65081cf632b5e7b26f86fa945eb28bab4bc9c50dd87722ba642"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/overview_sources.json",
+      "bytes": 1632,
+      "sha256": "5d602366cf712a1dcacaa3f8a10241e7cc671b63f75ba6616f112dd04adda766"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/prototype_scenarios.json",
+      "bytes": 37360,
+      "sha256": "a1dc7849b105963acbdc3d5c04f8184a3bab5681c8a6cad7718309d5a15475e0"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/service_flow.tex",
+      "bytes": 2428,
+      "sha256": "bbd783ea0f4bcec64d2654fb51cc9d7391cabbc9ad776a42301db9e1be3cb7c9"
+    },
+    {
+      "path": "cases/jejakbalik/source-history/JejakBalik_Master_AI_Context_v3(1).md",
+      "bytes": 27403,
+      "sha256": "8227ffaa8be07eab8070097926ba02c38b769e4aeda13c580bfd65f55b43c7be"
+    },
+    {
+      "path": "docs/calculation-tools.md",
+      "bytes": 4543,
+      "sha256": "bbcc76ab74ffeef4fc1a36f4ebef62c7619fd6557f8670e65fb0f312d3a0db39"
+    },
+    {
+      "path": "docs/chart-gallery.md",
+      "bytes": 26489,
+      "sha256": "a44a6df1fb69627c6dc3126916cb8f015209bc03efaf99ddc81a9c8b66f97c0d"
+    },
+    {
+      "path": "docs/document-intake.md",
+      "bytes": 7465,
+      "sha256": "edfe4f69f38ff71e222a2b04a09b90781df52ff4cd6d0fa03a3ee9efbbe51128"
+    },
+    {
+      "path": "docs/document-schema.md",
+      "bytes": 14817,
+      "sha256": "5734db183a8c06f772c1407fd16b3245f9881d22e2962bd4295cd83d24685f5d"
+    },
+    {
+      "path": "docs/portability.md",
+      "bytes": 3237,
+      "sha256": "d10a453f179c6883066e7e36310249c52a61848293465030bedbd3c95eb37dff"
+    },
+    {
+      "path": "docs/reference-atlas.md",
+      "bytes": 8742,
+      "sha256": "b8389f5d43a0243043ecd4063eb15bae03c436847f50abd80340e9d4d607a7f9"
+    },
+    {
+      "path": "docs/review-playbook.md",
+      "bytes": 2621,
+      "sha256": "2a046a80ba07acd40fababdbab482627bcb0e430107f63c919b6aebe5b32c3b2"
+    },
+    {
+      "path": "docs/style-guide.md",
+      "bytes": 2744,
+      "sha256": "2b58a2056a3b1c00b59abdd6d8fbc026aa25e80ee42970c56f53ca79a2514fbd"
+    },
+    {
+      "path": "docs/workflow.md",
+      "bytes": 2763,
+      "sha256": "83f72d6f04d8507a2c6d91e5d375a4f4c9568ff4a157a670db413c5029b40cc3"
+    },
+    {
+      "path": "examples/figure-demo.json",
+      "bytes": 966,
+      "sha256": "df51a1600758414c626889c8706f93bdb491c1d4473d941d9efd18e47cde6268"
+    },
+    {
+      "path": "examples/finance-plan-results.json",
+      "bytes": 6913,
+      "sha256": "51bc223191c3dcdaaed6d59347a3ba1e69b7f4d8cc41c1941636c9dafe9d7176"
+    },
+    {
+      "path": "examples/finance-plan.json",
+      "bytes": 1121,
+      "sha256": "6961a6ec98c63e6d1377381e70d15e7570a0785b0762c6d3c94d3bd9809a4d33"
+    },
+    {
+      "path": "examples/project-record-template.json",
+      "bytes": 773,
+      "sha256": "0e8836e407be0fc1b02de94578d80679be3636eb2c29cd2bc857cc048f397677"
+    },
+    {
+      "path": "examples/short-demo.docx",
+      "bytes": 40922,
+      "sha256": "0e8db5270dfdda8ab722db509124363e193519521b56f39305f741d3f1eab483"
+    },
+    {
+      "path": "examples/short-demo.json",
+      "bytes": 7606,
+      "sha256": "496cc44c4999b18318a8513e7bf645805878b867ce33b8f1c22393585db36c1c"
+    },
+    {
+      "path": "examples/short-demo.pdf",
+      "bytes": 160306,
+      "sha256": "6df2671fa74fde1a2b0e8bece9f3624a5b7b035eaa4e29503ad88e277d37e18e"
+    },
+    {
+      "path": "examples/weighted-score-results.json",
+      "bytes": 1049,
+      "sha256": "c168a10c6086cc2532228ab235771eeff03b26f50b82605f2f56862e39c3046b"
+    },
+    {
+      "path": "examples/weighted-score.json",
+      "bytes": 526,
+      "sha256": "588c1acf8eebb7fc846d117c50da37c8f97d333b441f297995bc56a7f0b454cd"
+    },
+    {
+      "path": "library/catalog-data.json",
+      "bytes": 23813,
+      "sha256": "535cf292853ff41f4c1669300823bafabd3a133e6aa7dd4dc9c06ead22d22601"
+    },
+    {
+      "path": "library/catalog.md",
+      "bytes": 14202,
+      "sha256": "c470120f575f245c6f9649ab0d2cc6ca8605f25c0931bc2a85ed9518b479d45d"
+    },
+    {
+      "path": "library/lessons/corpus-01-the-ozone-fire-shield-protector.md",
+      "bytes": 2991,
+      "sha256": "ac80f87cf1d17af2f6089fe2b17e7f939eff4e1018b0197751707de444681bbb"
+    },
+    {
+      "path": "library/lessons/corpus-02-digital-services-act-mitigasi-konten-berisiko.md",
+      "bytes": 2882,
+      "sha256": "a7203b00bfa74c6445e7e6b16d903330409e80133ee50f38c729b1cc62e31caf"
+    },
+    {
+      "path": "library/lessons/corpus-03-fenomena-mandi-lumpur-dalam-tinjauan-dramaturgi.md",
+      "bytes": 2962,
+      "sha256": "fb70dfef5391b9aaaf0ce8e7fef5be7e9b586c8cd5a6e94f4d07de2c4be4de72"
+    },
+    {
+      "path": "library/lessons/corpus-04-fishee-id.md",
+      "bytes": 2877,
+      "sha256": "5ed4387270db651495e1eb55ef429b6a202c955147f31c7505ed44ab82471d11"
+    },
+    {
+      "path": "library/lessons/corpus-05-bio-soleen.md",
+      "bytes": 2764,
+      "sha256": "45881175e34a841d526d0af1fdc52b390db7d2c4bc155a3acb66c0f52361192f"
+    },
+    {
+      "path": "library/lessons/corpus-06-jenis-jenis-penelitian.md",
+      "bytes": 2781,
+      "sha256": "1e462025ce6720cb021a9e84a48a6e92db6978639cdd1d1145457c64c7231e6b"
+    },
+    {
+      "path": "library/lessons/corpus-07-nutrizone-diet-programme-for-autistic-children.md",
+      "bytes": 2916,
+      "sha256": "a5e1182a2fb1000ec3346b689017291315084c64e9a4a27d27ddc4e91caca6f7"
+    },
+    {
+      "path": "library/lessons/corpus-08-jakarta-smart-island.md",
+      "bytes": 2967,
+      "sha256": "6674256fd7be144e25d144c42ff5271c8381304ded3a5b217614804b431036df"
+    },
+    {
+      "path": "library/lessons/corpus-09-integrasi-tiga-titik.md",
+      "bytes": 2833,
+      "sha256": "2cb0b6cf3d3a9952e1aec1a5a73d84d8139326d15deddea75ae260d5fcf1e34c"
+    },
+    {
+      "path": "library/lessons/corpus-10-e-ceng.md",
+      "bytes": 2861,
+      "sha256": "72c3f7e0fc6d48654a570d279ff27e27c73198048f7f76d4b996da13f4f1f606"
+    },
+    {
+      "path": "library/lessons/corpus-11-solvaerophil.md",
+      "bytes": 2893,
+      "sha256": "194afcbbacff4fa26a82d20e9f2b3b0014afaeed5b6027ed7ff28508c0360327"
+    },
+    {
+      "path": "library/lessons/corpus-12-kontura-tana-madhura.md",
+      "bytes": 2783,
+      "sha256": "2bf1d4e5a26dd82089ec5e37e71aaf04ae7dd2903c00b74dfd7f27a4bea1e592"
+    },
+    {
+      "path": "library/lessons/corpus-13-tpqline.md",
+      "bytes": 2797,
+      "sha256": "15b137afa48682e34332f13e6c1b3c71de86e21df81f9d1b03e1c7b58472ae5c"
+    },
+    {
+      "path": "library/lessons/corpus-14-29-flowers-1-garden.md",
+      "bytes": 2759,
+      "sha256": "bca1509dbacf0feeb7d8b003c0fa31c37eac151e89faf5a4f0cb74fed5a10449"
+    },
+    {
+      "path": "library/lessons/corpus-15-siapa-penulis-opini-ini.md",
+      "bytes": 2865,
+      "sha256": "0da44234b854893f5160b88d70f3817da396b53609b22460fb48b47531817360"
+    },
+    {
+      "path": "library/lessons/corpus-16-transformasi-legislasi-e-legislation.md",
+      "bytes": 2802,
+      "sha256": "d76cb5371488f086310752e27aef12fe876f9f2510733447383546e0d6f0e7cf"
+    },
+    {
+      "path": "library/lessons/corpus-17-curhatin-yuk.md",
+      "bytes": 2744,
+      "sha256": "382484a954d26f336f171dc7c0ba7468b148d7c57bdd9cd683c0eef40f0e2d07"
+    },
+    {
+      "path": "library/lessons/corpus-18-aquanet.md",
+      "bytes": 2755,
+      "sha256": "e39762fb478deede6bc0ef74bdc3ed0f22bd64bc6b2eb6be7729513280442fdd"
+    },
+    {
+      "path": "library/lessons/corpus-19-grow-together.md",
+      "bytes": 2841,
+      "sha256": "14bc900d5fbe840ec389315e773b78e74c7352ab50fb78c76b99dd3ae126f7bd"
+    },
+    {
+      "path": "library/lessons/corpus-20-essay-anthology-excerpt.md",
+      "bytes": 2893,
+      "sha256": "132b40a016d505dfda44c6ac6ac6d00b3cad8958383484961c367d548bd66c65"
+    },
+    {
+      "path": "library/lessons/corpus-21-ummahub-apps.md",
+      "bytes": 2760,
+      "sha256": "107e1c4916f97353b32f59e32c6825c1599ad1255514986fecc9fab6dde54a9a"
+    },
+    {
+      "path": "library/lessons/corpus-22-agriverse.md",
+      "bytes": 2854,
+      "sha256": "ac79853b544e7671b3e978e7e3f6d53ecdd77f0a11c83bd2705297e66aa3d42f"
+    },
+    {
+      "path": "library/lessons/corpus-24-adrodeco.md",
+      "bytes": 2880,
+      "sha256": "c787bb1bc91473aec0649fb85d6fa832f8fa9011258c0abe2ec4c48dc57e115d"
+    },
+    {
+      "path": "library/lessons/corpus-25-gintech.md",
+      "bytes": 2849,
+      "sha256": "5a66aa5de37ed80b26b142fc3fdd710fbc249941b49009eae5c8193a0dcbc9c0"
+    },
+    {
+      "path": "library/lessons/corpus-26-healthlink-apps.md",
+      "bytes": 2774,
+      "sha256": "eaad56e9ce855ac1eebe7ba8c3a7e2b7ce1be112d277180b101816019a37c150"
+    },
+    {
+      "path": "library/lessons/corpus-27-cinnamaldehyde-and-type-a-polyphenols.md",
+      "bytes": 2801,
+      "sha256": "a281c9233f5bbb40fdaa752303ec0d19f440d8fbf38e361fe7fb959f4a6162b5"
+    },
+    {
+      "path": "library/lessons/corpus-28-nexus-point.md",
+      "bytes": 2808,
+      "sha256": "180be58b44671a28265df874005d0f26d8bf1a6490d8cff3b9c93c016f316e05"
+    },
+    {
+      "path": "library/lessons/corpus-29-poseidon.md",
+      "bytes": 2849,
+      "sha256": "eeae336d4179f11787377fedf7f218332e43a0510c4fa155f96022b2ae8542a5"
+    },
+    {
+      "path": "library/lessons/corpus-30-ecois.md",
+      "bytes": 2797,
+      "sha256": "0d417a6938a97c714e3fce3544ef684ea2e267a3d43ce931cd339ad0e736d59c"
+    },
+    {
+      "path": "library/lessons/corpus-31-eduhub-ecosystem.md",
+      "bytes": 2741,
+      "sha256": "de322a5ec28d83e332c8fd040744df4986d8dda0fef129c6c7ef477e9faf6c45"
+    },
+    {
+      "path": "library/lessons/corpus-32-kumpulan-naskah-esai.md",
+      "bytes": 2934,
+      "sha256": "274c0eac5bc77039ea676e4fb5e185168d0cedcd8ba09e85519dbb65b96bb807"
+    },
+    {
+      "path": "library/lessons/corpus-34-membidik-masa-depan-econesia-apps.md",
+      "bytes": 2884,
+      "sha256": "552c06f62b6d7f6fec9a20f4b21fb7d567e0628da8166abb5c5f778d45ccfd2c"
+    },
+    {
+      "path": "library/lessons/corpus-35-transformasi-legislasi-e-legislation-including-turnitin-version.md",
+      "bytes": 2967,
+      "sha256": "2b1c26920ca8e6743bfc4a69d494b6fe25207440d696a371973b7258736ff061"
+    },
+    {
+      "path": "library/lessons/corpus-36-nostalgia.md",
+      "bytes": 2988,
+      "sha256": "212c2c3cebff5e504b9f4ebd0d3fb42571e301f8d95e646e08d056f48d9f43b9"
+    },
+    {
+      "path": "library/lessons/corpus-37-sakara.md",
+      "bytes": 2994,
+      "sha256": "5f43a43a0e7c8e5b338c2597c7b333d170a01a6ef394b582186d6657f346e3cf"
+    },
+    {
+      "path": "library/lessons/user-models.md",
+      "bytes": 12282,
+      "sha256": "571ebeb9c61a2f599d7aaf7d51d0324dfbb6f48fe05c20e58eb3400e2e11183d"
+    },
+    {
+      "path": "library/lessons/visual-references.md",
+      "bytes": 7072,
+      "sha256": "e411532dfd574b6e23ac02f07a947891ebac23247ce1f70fbd437749be30d774"
+    },
+    {
+      "path": "library/originals/drive-download-20261104T150410Z-1-001.zip",
+      "bytes": 66149872,
+      "sha256": "a14a15af8149084cb632ef03e5670b8c83690ca2bd37698b7cb1adc14b1af0ba"
+    },
+    {
+      "path": "library/originals/essays/Dua_Athifa Ardhani_UI.pdf",
+      "bytes": 17727159,
+      "sha256": "4f24ee77bcf3a8b06b2628c26dea03f43502170e2e665ee5f0d4c93d646396e9"
+    },
+    {
+      "path": "library/originals/essays/Gotong-Sampah.pdf",
+      "bytes": 8453368,
+      "sha256": "5ed675cb7bf111f8e128aea150ba18338c638213d1ee645b2ae982c5989dd186"
+    },
+    {
+      "path": "library/originals/essays/PI MT.docx.pdf",
+      "bytes": 279807,
+      "sha256": "c01050b75fde3c47e7d2be724ebf6357812211baa88abedf743b6f8e36fc7167"
+    },
+    {
+      "path": "library/originals/essays/SIRKULA.pdf",
+      "bytes": 11838292,
+      "sha256": "fb66a65305bf0e41e600483727d7482001e0442897d497a634920170e7459ba1"
+    },
+    {
+      "path": "library/originals/essays/Semifinal Round_Faga_Hamiz Ghanir_BPC21MX..pdf",
+      "bytes": 22758076,
+      "sha256": "a3cde55fd2a9b4eb2758b16e8c5aadadf5c6cd65814873386156929df68afa8b"
+    },
+    {
+      "path": "library/originals/guidebooks/Guidebook Essay Competition (1)(1).pdf",
+      "bytes": 52901564,
+      "sha256": "8d2ba6fa0e18a69b6fdff28234768ebb5bcc16e64e692c8f44d6c4888e1c4c0e"
+    },
+    {
+      "path": "library/originals/manuals/JejakBalik_Master_AI_Context_v3(1).md",
+      "bytes": 27403,
+      "sha256": "8227ffaa8be07eab8070097926ba02c38b769e4aeda13c580bfd65f55b43c7be"
+    },
+    {
+      "path": "library/originals/manuals/innovation-essay-hub-v5(2).md",
+      "bytes": 130216,
+      "sha256": "eed46f6bee81ed206c500f78a54ff5b7926d2dc7be325d57b41f62d60c7e18ff"
+    },
+    {
+      "path": "library/originals/reference-corpus/10-E-CENG.pdf",
+      "bytes": 1608380,
+      "sha256": "3afb7c6b0d0ccfab312b726e248f99fc570cee0aa171f16587cfb6b1b945f8f0"
+    },
+    {
+      "path": "library/originals/reference-corpus/17-CURHATIN-YUK.pdf",
+      "bytes": 2130834,
+      "sha256": "f37c48fc4382f8a48dbb4cbd49ef40ab50ae1c09c309159559163cebccb8ddd9"
+    },
+    {
+      "path": "library/originals/reference-corpus/23-CURHATIN-YUK-duplicate.pdf",
+      "bytes": 2130834,
+      "sha256": "f37c48fc4382f8a48dbb4cbd49ef40ab50ae1c09c309159559163cebccb8ddd9"
+    },
+    {
+      "path": "library/originals/reference-corpus/33-E-CENG-duplicate.pdf",
+      "bytes": 1608380,
+      "sha256": "3afb7c6b0d0ccfab312b726e248f99fc570cee0aa171f16587cfb6b1b945f8f0"
+    },
+    {
+      "path": "library/originals/reference-corpus/Amaliya Putri - SOLVEAROPHILE.pdf",
+      "bytes": 1028537,
+      "sha256": "59b2492b6c9e7a992768676e07d8f6e12db7ad663e81cc8d9204ec9d71d8c00a"
+    },
+    {
+      "path": "library/originals/reference-corpus/BIO-SOLEEN Biodegradable Plastic.pdf",
+      "bytes": 1657739,
+      "sha256": "156507830143ea4f1781920c4ba84c354e90a50a622879f299d7d3c668dab00f"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of 1. MARIO DWI PRASETYO_INSTITUT TEKNOLOGI SEPULUH NOPEMBER_JAKARTA SMART ISLAND - Mario Dwi Prasetyo.pdf",
+      "bytes": 1425009,
+      "sha256": "30677ae4e1352b7bb0fd53e8a576dba06f42bd5ead597274d5dc173ea2860184"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of ESAI_MAKARA TEAM_UNIVERSITAS INDONESIA_SAKARA (Sarana Karbon Nusantara).pdf",
+      "bytes": 6565121,
+      "sha256": "8f24d577c4c246e0399ca533cd175aee4e014d0fd9433b5ede9312ba5b09f314"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of FENOMENA MANDI LUMPUR SEBAGAI PENYALAHGUNAAN KEBEBASAN BEREKSPRESI DI SOSIAL MEDIA DALAM TINJAUAN TEORI SOSIOLOGI DRAMATURGI.docx",
+      "bytes": 111100,
+      "sha256": "c2006e37563f8a7522618455131d7babbb5affe0018fb322b56edd77d24bff84"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of Farrel Mukti Attallah_Essay Competition_The Nexus Point.docx",
+      "bytes": 1358616,
+      "sha256": "77600eb378afa3838e7b6f401f81dccd6d8ec8446ee4c5600a9191bba1a46846"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of Farrel Mukti Attallah_Lomba Opini AKSARA UEA .docx",
+      "bytes": 969813,
+      "sha256": "69e1e8cc6cf9f2d644283aba95ddcf291843cc2d2542e9cbd82163e01238cb1d"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of Farrel Mukti Attallah_NOSTALGIA MENELUSURI JEJAK PSIKOLOGI YANG MEMBAWA KEJAYAAN DALAM DUNIA SINEMA.docx",
+      "bytes": 590176,
+      "sha256": "7ef01c7194db6d9725faec597bb8753a3736a9158ccbbabe0913c9d8a69aed1f"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of ISIC 2024 ESSAY COMPETITION.docx",
+      "bytes": 571105,
+      "sha256": "f30d1ab56b78e2cc70912a062e1c2a95a8a75ea2da1bc245352a03bb13277ab1"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of Ilhammuhammad_universitasdiponegoro_PKM-GFT (1).pdf",
+      "bytes": 490705,
+      "sha256": "0cea76b0583fbc68fd22787724b88d3af3fb8e5077721b79686352f252897161"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of JUARA 3 INTEGRASI TIGA TITIK.pdf",
+      "bytes": 395876,
+      "sha256": "eeaa1b3ad36853f3d79a77f03f6e0ca0169e1dbb93bd471df1a3e6af31e09534"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of PENELITIAN+2+JENIS+PENELITIAN.pdf",
+      "bytes": 988215,
+      "sha256": "53696180274a8aba646565c0a42a2d23267de8022bb835c644b2ac36d89dca67"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of ilhammuhammad_universitasdiponegoro_PKM-PM.pdf",
+      "bytes": 492065,
+      "sha256": "95adcb2ec8522e30f856a6f593869283e076955a4f94380cfd0c648a003ee474"
+    },
+    {
+      "path": "library/originals/reference-corpus/Energi dan Teknologi_MEC4_Amaliya Putri_Universitas Diponegoro_ADRODECO (Aeromonas hydrophila Detection and Control).pdf",
+      "bytes": 2910009,
+      "sha256": "5c201d716aadbe22b76046a521679e4eab9c1590b8591ff913ab80d1f1906d11"
+    },
+    {
+      "path": "library/originals/reference-corpus/Esai_M Alfren Rolegian_Institut Teknologi Bandung_Membidik Masa Depan_IC 2024.pdf",
+      "bytes": 3407421,
+      "sha256": "21b9921a5c4fa92ea1e32f05b4ca9a5d0768d41eb769d8d1a574dae6fecb3e23"
+    },
+    {
+      "path": "library/originals/reference-corpus/Esai_Muhamad Alfren Rolegian_Institut Teknologi Bandung.pdf",
+      "bytes": 3989376,
+      "sha256": "e2da05b4d62c42faaed866bf93016111996b26175ede30fd998295be5703e77e"
+    },
+    {
+      "path": "library/originals/reference-corpus/IBC2024_Muhamad Alfren Rolegian_Institut Teknologi Bandung_ECOIS THE APLICATION.pdf",
+      "bytes": 1713456,
+      "sha256": "371919bd4f79e69275acd880ef87554f816486a0ca789d8a0e239af5c1a1aaf1"
+    },
+    {
+      "path": "library/originals/reference-corpus/KARYA 1_GINTECH_CECILIA FAUZIAH_X.pdf",
+      "bytes": 2921427,
+      "sha256": "2552ab3ff40e9e8ea9722315bbe3a7cb8997332f7868c638bbf513e5218ef936"
+    },
+    {
+      "path": "library/originals/reference-corpus/KARYA 2_AGRIVERSE_CECILIA FAUZIAH_X.pdf",
+      "bytes": 3585377,
+      "sha256": "35a89054969735ee9bf8bf0e02af2b78f9bc7e9e0d07b6f4e3598fad2f7a3725"
+    },
+    {
+      "path": "library/originals/reference-corpus/KARYA 3_POSEIDON_CECILIA FAUZIAH_X.pdf",
+      "bytes": 3739312,
+      "sha256": "fd6c9fd57934939952371f62e040feee69c4aab01d36293b98f9193854ceafa7"
+    },
+    {
+      "path": "library/originals/reference-corpus/Kumpulan Karya Esai Ilmiah dan Populer (1).pdf",
+      "bytes": 1235307,
+      "sha256": "7e668a033521f47de6774dcc81bbe079ce0070504dc630dfa0cd99bea121903a"
+    },
+    {
+      "path": "library/originals/reference-corpus/Kumpulan Naskah Esai.pdf",
+      "bytes": 6402676,
+      "sha256": "b178afb84cb3d0efad2af546589130ad91dd9b78e2e7f23850f8f5c6a4bfdeaf"
+    },
+    {
+      "path": "library/originals/reference-corpus/Naskah Juara 1 Lomba Esai Nasional.pdf",
+      "bytes": 1362787,
+      "sha256": "c0e2f4785cd807c30b68da2e10b4c34da87b75c53a120ab3e1cc427fd10d8094"
+    },
+    {
+      "path": "library/originals/reference-corpus/Naskah Lomba Esai Nasional.pdf",
+      "bytes": 770088,
+      "sha256": "cc4f40a7ddeb14a810484052b41a57df4eaffd9b1bad4651be68deb2fa48cf68"
+    },
+    {
+      "path": "library/originals/reference-corpus/Naskah_M Alfren Rolegian.pdf",
+      "bytes": 1657846,
+      "sha256": "cdd58e3550230c3a2b582a92b6d0e1ee1dd2593e200eda4d6e6e0dc42e108895"
+    },
+    {
+      "path": "library/originals/reference-corpus/Naskah_M Alfren Rolegian_Institut Teknologi Bandung_HealthLink Apps.pdf",
+      "bytes": 3284944,
+      "sha256": "bd1f5462ff20f55c373df130a2180fa719c63983c95fc1eecd2e7f581b567abc"
+    },
+    {
+      "path": "library/originals/reference-corpus/PEKTIN_ESSAY_MUHAMMAD RIDWAN_UNIVERSITAS JEMBER_HUKUM DAN POLITIK.pdf",
+      "bytes": 431486,
+      "sha256": "69245eb5c800a8922ffb159e6fcf742ee05a10a91e20ce665c327abe2eaff015"
+    },
+    {
+      "path": "library/originals/reference-corpus/PIMPEL 2024_M Ridwan E_TPQ LIne Mewujudkan Pembelajaran_Universitas Jember.pdf",
+      "bytes": 641817,
+      "sha256": "15b3e4aa4d574290a5bc43784952d1ab3160b02b17dcefbba704d177ecc95f27"
+    },
+    {
+      "path": "library/originals/reference-corpus/POTENSI CINNAMALDEHYDE (CND).pdf",
+      "bytes": 3234952,
+      "sha256": "40c93aa311cfc08ce3f509b0babdef278c1e2187d576fcbeaf6c081060841148"
+    },
+    {
+      "path": "library/originals/reference-corpus/Paper_Muh Ridwan E_Digital Servive Act.pdf",
+      "bytes": 434615,
+      "sha256": "c4b1a0274c9f46a6f084d2b3207048c39fb3505a6d0d8de3fcb849396fa1e3f7"
+    },
+    {
+      "path": "library/originals/reference-corpus/[ESAIFLF2024_Tim Francis Bacon_M.RIDWAN EFFENDI_UNIVERSITAS JEMBER_TRANSFORMASI LEGISLASI DI INDONESIA ME.pdf",
+      "bytes": 1777221,
+      "sha256": "a920a2467800a74e4d5b5f6f86f41996c12eda36ecee8b5ebd7ed3110ab6f95e"
+    },
+    {
+      "path": "library/originals/reference-corpus/downloadfile.pdf",
+      "bytes": 2917510,
+      "sha256": "28ee7c1087a4937d5456407599eb183fee72e34eaf6eccce24c6a3b1535af8c6"
+    },
+    {
+      "path": "library/originals/reference-corpus/huhu- ESAIAKLAMASI2025_MUH. RIDWAN EFENDI_UNIVERSITAS JEMBER_GROW TOGETHER (GT).pdf",
+      "bytes": 1363969,
+      "sha256": "671df7ca0a5ea3ed45192a8fedcc0f5488bb481ccfe0aedad605078dbfa0ec16"
+    },
+    {
+      "path": "library/originals/templates/David Muhammad Thorique_Universitas Indonesia_ RegenCity Grid Indonesia (1)(1).docx",
+      "bytes": 17321920,
+      "sha256": "b85628c53b1bcfee9e36b4fc77639cb5660e2ad40fb6a5136a6949b001b13173"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-24 231904(1).png",
+      "bytes": 303758,
+      "sha256": "df8b411fe0d541a764318f295e5dd5973ed0df54b5c27933a6cce12f764ac5c8"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131141(1).png",
+      "bytes": 245781,
+      "sha256": "4c0b422091b30aa41b59b96f55fc49366e228f9233830b9335f36bbc7b034c4e"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131206(1).png",
+      "bytes": 160931,
+      "sha256": "340f78b64ff7cf005103876830d10b5af83c124d4eb49dd7c0cde220bff429b5"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131211.png",
+      "bytes": 55250,
+      "sha256": "5443dd63244c1fb7f89aa8684c1fec5a4ce4212b8d378f99a325317923d0960e"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131222.png",
+      "bytes": 136278,
+      "sha256": "8b74654087b82d9b474547ee19f9da2cdd5a25846a80b5dacd491ee4d89d258f"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131320.png",
+      "bytes": 153158,
+      "sha256": "78c8e661195f977c9337aefb17ce8fbf71b0f23d90d409890f01500273207c07"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131326(1).png",
+      "bytes": 144516,
+      "sha256": "a4f350710d3d020114923930a41df01d397736b0f797ae73d3926ebe930b7cbf"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131332(1).png",
+      "bytes": 99305,
+      "sha256": "40b8a387c5e1cb0c9e16fe91a632780f84e30718771d80dc0d84f9bcdeaebd3c"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131336(1).png",
+      "bytes": 246911,
+      "sha256": "8e3429d7bde31bbca071bf42fd4cf6e14b60e8e9e3c3ab5a6e64b6ffc8d72f4b"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131340(1).png",
+      "bytes": 147711,
+      "sha256": "1100cb5811be2103a0259d3bc5aba82709bb89c921882a98b99abf54d3d36f01"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131346(1).png",
+      "bytes": 192752,
+      "sha256": "7263bdefe977b3c0eda1d11ba22ecb484aee1a8fb14518f7855cd5372eb1110f"
+    },
+    {
+      "path": "library/originals/visual-references/image(20261104-153424).png",
+      "bytes": 239900,
+      "sha256": "288cde19e37914de7f7f4dc2484559bf49606d1630c2ebf7fca43e495fe2e8a7"
+    },
+    {
+      "path": "library/originals/visual-references/image(20261104-153430).png",
+      "bytes": 157963,
+      "sha256": "6215423c86bf4c7d8fbfc3df84ce7cca92d1960beb340a9b3ea5f0a484d53ea6"
+    },
+    {
+      "path": "library/reading-routes.md",
+      "bytes": 8878,
+      "sha256": "bc2c411674e9e7ec846d77d1dfd4e8f872825681958725d4719701a52b1c6c18"
+    },
+    {
+      "path": "library/source-audit.md",
+      "bytes": 4138,
+      "sha256": "2fada9f27e17d30b6b1877525c5d801493c2070bf5d4e1a479c05fe0bde21026"
+    },
+    {
+      "path": "library/source-availability.md",
+      "bytes": 5967,
+      "sha256": "dffeebc508c3946cf756b1d2a4ee343c3b47fd2aa170904dd5fbf3112e03f68d"
+    },
+    {
+      "path": "library/source-manifest.json",
+      "bytes": 104032,
+      "sha256": "46bf5b9279e5551c19684734976be640f29c15b291dcd74caba5e06c0362b40d"
+    },
+    {
+      "path": "requirements-optional.txt",
+      "bytes": 81,
+      "sha256": "8a34c9af7d89b4a96a6bec13549d257b4b5fd8eccf655caec401b842caf5606d"
+    },
+    {
+      "path": "requirements-tested.txt",
+      "bytes": 182,
+      "sha256": "2a1b8148d44f803f042f57c53546dde43df19b556609a4644aa80ca7748d0b82"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 52,
+      "sha256": "905b96dbda141d6c238dadae2d7adc532a19d592c35ab43be051e71d572b70b0"
+    },
+    {
+      "path": "schemas/source-record.schema.json",
+      "bytes": 1331,
+      "sha256": "289466b0fca9accca4a2907fb3ce100ce1bea15a0887b55eb4292d9d77daaeee"
+    },
+    {
+      "path": "skills/write-innovation-essays/SKILL.md",
+      "bytes": 7321,
+      "sha256": "bfcb5aadbf9f0e7b901fc335bef953e2a6895d059fd9c98b1ef10c5e59f1ed68"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/catalog.json",
+      "bytes": 12807,
+      "sha256": "ee943d291063d29eae580884531d2d7561ac0d9a3ba8f69c991eee0e0338fa45"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/cash.json",
+      "bytes": 1388,
+      "sha256": "6025b7bbfa3f3f98fd19751d97d61931f39211421a4024bd9952088672554242"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/comparison.json",
+      "bytes": 575,
+      "sha256": "56dea954ce023c4cbab8ecfbd728b4441cfc29e87d586b7ce9d3657bf2119847"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/drivers.json",
+      "bytes": 646,
+      "sha256": "a4cd261a97f9e1a9933837da74766649e1681a08b13a4d15d54e7767c6dffecf"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/gantt_strategy.json",
+      "bytes": 968,
+      "sha256": "9b74cee533fa12d2a03eeb4a2d3a3012ebec576924e379c1c6f0cbdc7903ddad"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/gantt_year1.json",
+      "bytes": 1081,
+      "sha256": "8e942071823aa5e6d6a8e8f9a8c8c7792cd00cbdb8de8fdeaefc12804e4e996f"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/issue_tree.json",
+      "bytes": 1793,
+      "sha256": "0f624dea1966fdaf6cf0a8d922b88ef1e3c3e8a211f08fbc8eca507698fb76d8"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/market_layers.json",
+      "bytes": 925,
+      "sha256": "46dd5fa2727f217d090358f6cf3344fbd1e79c8358cacb40ecc602e0c01ddf15"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/npv_distribution.json",
+      "bytes": 15409,
+      "sha256": "377c64c7983f2d1b10fbccacd27854f235a499768926ab613995b3dd2a8e7635"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/positioning.json",
+      "bytes": 794,
+      "sha256": "868def6809a3a2c312d30b231d5529b88f22aed46713846c05070874fb3ad947"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/risk_heatmap.json",
+      "bytes": 955,
+      "sha256": "ce83d92956d0a9ddea69f490d799b5cf3f847044928876bd9c70043381d9e517"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/service_flow.json",
+      "bytes": 911,
+      "sha256": "8c172ee8d5260ba1ea0c13553ea4871ac38fa41012bfea12f57ca4782535c475"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/stakeholder_structure.json",
+      "bytes": 1355,
+      "sha256": "a05398d7a3589cad52f9a63abfd8896b46eb76ce80652f01c120ef08b57c4076"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/examples/value_proposition.json",
+      "bytes": 1233,
+      "sha256": "ef46054ba73d9b83f91a8f412118c2e51bb10b11290663542a5bb6b64ccffc49"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/cash.meta.json",
+      "bytes": 1034,
+      "sha256": "6debdd1e1482455d2c94aedfb69930c8ae22d8237992ff6dafc72849be72f6cb"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/cash.pdf",
+      "bytes": 23509,
+      "sha256": "a19deb64c97166a2b4e97feb1cad146c84625327f1404e2c7baeb97ac4315ba5"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/cash.png",
+      "bytes": 56026,
+      "sha256": "c085816bf401a5582ec791952732a51e61c6ad9f525a0f5f546c87f5389819a0"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/cash.tex",
+      "bytes": 1664,
+      "sha256": "af6b00e03fcd2e9ec147752bfe87291193308423cf6fc3cd308071670b2dc8e8"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/comparison.meta.json",
+      "bytes": 1132,
+      "sha256": "43715922df78953076c32eb88d8c321e6f71d1054ee5d568a4f7eaefa048d277"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/comparison.pdf",
+      "bytes": 21484,
+      "sha256": "19aa1c4f5556552aa86a484f041909bb9a48d2171dc0b8d3e61146b63cbf562f"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/comparison.png",
+      "bytes": 23091,
+      "sha256": "c053cefaddfcf18c3477b1c01e89092d59198c8a4ed448832d28148e7caded75"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/comparison.tex",
+      "bytes": 1434,
+      "sha256": "ac694f288a8dc01a6bb7255a43c4b716de56da4b8cad3a6fde401fd4d90a851b"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/drivers.meta.json",
+      "bytes": 1610,
+      "sha256": "117d7bb250b74e739d843b8ca0f4195fae92eca3c4de69e182646691dfc75a5d"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/drivers.pdf",
+      "bytes": 26174,
+      "sha256": "49e32eccd4b047e7208e685d9334134c68c177dfe42fcecf5ac925c62e41626d"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/drivers.png",
+      "bytes": 41647,
+      "sha256": "70761e6888d5ded1a3186145b22675b7bc2104a05c5b864e1068a37666c1e981"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/drivers.tex",
+      "bytes": 1516,
+      "sha256": "754c8d9c8d80def2294ee20f7d20a2cb17f550260c41c95b472bd4f1b575e371"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/gallery-contact-1.jpg",
+      "bytes": 134122,
+      "sha256": "26ddf732b7d14c99ed3864ab25c2bf1bba5e90c31f5c9f9ff252833c17b8910a"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/gallery-contact-2.jpg",
+      "bytes": 134021,
+      "sha256": "fea9adbcd17bcf6c50288a6c24545466cb1b76d1600769245e054c38c2eea295"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/gallery-contact-3.jpg",
+      "bytes": 65202,
+      "sha256": "cd09ea9155e3b95bb98b07824df2d5b954d718b7526270651879200e009885ad"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/gantt_strategy.meta.json",
+      "bytes": 1339,
+      "sha256": "5a272635dfa8cf304dcf1d10f8f4b3b60d6bca6bb9a7d0f27a7d6a1c98f36cd4"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/gantt_strategy.pdf",
+      "bytes": 24308,
+      "sha256": "ac27d43f8050a7cc09caf0f1ae3045a0febc39b8c1bd338f4faba8176ecc775b"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/gantt_strategy.png",
+      "bytes": 37839,
+      "sha256": "440c6a254a6e4516e2c29599a98569287e59b8955ad57077508fe84c251aea4c"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/gantt_strategy.tex",
+      "bytes": 3906,
+      "sha256": "76f61834550c3de76a75cbc3186015f563c5b21a8febed2ebdad5a976b2b80e7"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/gantt_year1.meta.json",
+      "bytes": 1599,
+      "sha256": "030799605210dd925ff8fade17c146d54ab2051cb9529e290a8aafd233bdbf03"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/gantt_year1.pdf",
+      "bytes": 24409,
+      "sha256": "15426bc0c439a3194da2e4da579c96cfce54db8ac89470aec081466913aace41"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/gantt_year1.png",
+      "bytes": 48257,
+      "sha256": "f79b9686e66c56caec0edeaa8abb3770815e9a9c41ef77a735819503d8013e3e"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/gantt_year1.tex",
+      "bytes": 4778,
+      "sha256": "a0ad9468bcf07a8f0e8f6110c03413997c2f0b2240da2c952f8e6dd93fe0ba25"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/issue_tree.meta.json",
+      "bytes": 1103,
+      "sha256": "89d8b82780acfbf311b06078a7e181849ac48b1ce82e0a63344f8ae9ad19652b"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/issue_tree.pdf",
+      "bytes": 40627,
+      "sha256": "699422eca51925979f9b36e02d4da960cac8dc242819c262dfe0240b1aa6fa67"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/issue_tree.png",
+      "bytes": 120903,
+      "sha256": "79ef19eacbb19ea14e81983a444731097fd5031ed4b5788f35d184445b8a41bf"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/issue_tree.tex",
+      "bytes": 3567,
+      "sha256": "be86b4ec897b9982bd035db884ce5543b7b4988f825f09cf7dfc6f7af3edd179"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/market_layers.meta.json",
+      "bytes": 1148,
+      "sha256": "2f288116e8e82bfb0068e585c21401dc384c24973cdcbe18423ba50c65d7cfd2"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/market_layers.pdf",
+      "bytes": 39919,
+      "sha256": "59248d639fc710746be1afe0f04da00ce02c0d3a0d410bcc9af78008d3236b68"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/market_layers.png",
+      "bytes": 77638,
+      "sha256": "72a89c875a95a4de9006bc010a76cf3667123e34f196a70c309118190f485883"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/market_layers.tex",
+      "bytes": 1701,
+      "sha256": "9c70905b12aead790f7719325019e435a26582e57d79d20b6de62b71deb26698"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/npv_distribution.meta.json",
+      "bytes": 1532,
+      "sha256": "5ab23532b1f85d74d46084310ba166146eb87125c49831853cbc5adac1d9b17e"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/npv_distribution.pdf",
+      "bytes": 24296,
+      "sha256": "272d46c76b38e61965120515e73e1694d8c22b0f9b1f8c22368bdbc66267fd91"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/npv_distribution.png",
+      "bytes": 31292,
+      "sha256": "0040380c8f24298470d56ed164e0c004e4eae3678d93e83d0835757d27d15c44"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/npv_distribution.tex",
+      "bytes": 2167,
+      "sha256": "102149d4b6f352c5fe2228920307dc6109f75ab0fc926e1d4be3d51ac27cb949"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/positioning.meta.json",
+      "bytes": 1163,
+      "sha256": "92ec57701c80479b4a9131b4f36b0782f0b842aac6d3c48082bd6b3b64709897"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/positioning.pdf",
+      "bytes": 22754,
+      "sha256": "f9fd2bbfa8be771357f3fdadb29cc2b9d3ebdd9e4e7c1d3a7386dfde1072b92c"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/positioning.png",
+      "bytes": 29606,
+      "sha256": "238a9f2d729abeec60a7521e772f69b56057c7f94bca9ed748abe07a035d2de7"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/positioning.tex",
+      "bytes": 1687,
+      "sha256": "8793bec148ea2dbe6053159862b164051077b850e2b507951258af31f8978a31"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/risk_heatmap.meta.json",
+      "bytes": 1141,
+      "sha256": "b7d9be1dd03a954cbbe5b2d0d32ecb7a7a8c11e95c91f59275acf902d40b25d2"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/risk_heatmap.pdf",
+      "bytes": 23141,
+      "sha256": "ec9300ab8f944c83ec6c10b698e14b6a25407113b44730031b4ef38bd7fcd3a4"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/risk_heatmap.png",
+      "bytes": 43261,
+      "sha256": "acc6cb58038ce2e9e1106c12d4c110739ab0356c21110c010e1ff2bfbd6299c0"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/risk_heatmap.tex",
+      "bytes": 3516,
+      "sha256": "927a1cb5444c8e51ece916347ef4833492ab3a84b69b0967c6c38700ad8b078d"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/service_flow.meta.json",
+      "bytes": 1086,
+      "sha256": "0713a795dbcd0b7448fa0db798e498fc78c47d89c4e439427ae3ac58b5cb90e7"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/service_flow.pdf",
+      "bytes": 32637,
+      "sha256": "fc918e8bf0f92ea64af01a64d83a44287938c87d9ef580fcf564c97e3ec48294"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/service_flow.png",
+      "bytes": 66539,
+      "sha256": "a4319068415f4ce60a9b16efb377e06955b6c8b4a88c946329511ec71412c182"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/service_flow.tex",
+      "bytes": 1984,
+      "sha256": "f93ad8fa80cf14a30b0c4503edcabc1584926cb825858c34d54d513e39bcef7a"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/stakeholder_structure.meta.json",
+      "bytes": 1160,
+      "sha256": "9a015413409eaa85f4098c8db99eef5dacffad3e86ef8dd476b0eb9201385f8c"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/stakeholder_structure.pdf",
+      "bytes": 34609,
+      "sha256": "5d76e4fdf0e7a8a17db5a530f694a439eda8cda0e01607e950e9b14e2ab4ea02"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/stakeholder_structure.png",
+      "bytes": 43117,
+      "sha256": "2698f5fc3a28b4b96d5d0ca63e4bf1aed3900f0ea60f9b7981f00afef3ccb30c"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/stakeholder_structure.tex",
+      "bytes": 2116,
+      "sha256": "8ca728e0c409329d323a1278709d8ac79713aa5429a04738a1e67e9ab283fd99"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/value_proposition.meta.json",
+      "bytes": 1249,
+      "sha256": "3b0fca5185b28f702b5763579c7ae53371db8a7a645d21aa8be2f4795fbc2ade"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/value_proposition.pdf",
+      "bytes": 41540,
+      "sha256": "1bec47ce596472a0ad1e56025f2da7b40e873dc73d082863882c5ebb58162da5"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/value_proposition.png",
+      "bytes": 104091,
+      "sha256": "f1f8b4083d5df9bd349e1c324405b289af3df452249861f2eb2abfb21f05575d"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/previews/value_proposition.tex",
+      "bytes": 3159,
+      "sha256": "8ea0a130a64085c80cd59f73700bcd4b4458375ade5d5059357161b573e2c69f"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/stress/long-gantt.json",
+      "bytes": 962,
+      "sha256": "709652da4c709be213f3fe439631f90ea79247094f8fca90f67968c797c75496"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/stress/review_gantt_long.meta.json",
+      "bytes": 1433,
+      "sha256": "f2714724c6ed7ba78552ee1dd2c67cc695a1de82606380fe037a1fb3e79b1352"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/stress/review_gantt_long.pdf",
+      "bytes": 23392,
+      "sha256": "2df0200a755a41820681aa3a06e1c5b44f3e337738f1552682901da3be09cb1e"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/stress/review_gantt_long.png",
+      "bytes": 70385,
+      "sha256": "73d8a8f69fce6268192a369caec10d39897914e1667c62b261d7910fb853a8a5"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/stress/review_gantt_long.tex",
+      "bytes": 4903,
+      "sha256": "7bda2dfa65e7acc1229b8b08a5a3b7dc5c56740fe431cfdc347dfba6388ab650"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/cash.tex",
+      "bytes": 1664,
+      "sha256": "af6b00e03fcd2e9ec147752bfe87291193308423cf6fc3cd308071670b2dc8e8"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/comparison.tex",
+      "bytes": 1434,
+      "sha256": "ac694f288a8dc01a6bb7255a43c4b716de56da4b8cad3a6fde401fd4d90a851b"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/drivers.tex",
+      "bytes": 1516,
+      "sha256": "754c8d9c8d80def2294ee20f7d20a2cb17f550260c41c95b472bd4f1b575e371"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/gantt_strategy.tex",
+      "bytes": 3906,
+      "sha256": "76f61834550c3de76a75cbc3186015f563c5b21a8febed2ebdad5a976b2b80e7"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/gantt_year1.tex",
+      "bytes": 4778,
+      "sha256": "a0ad9468bcf07a8f0e8f6110c03413997c2f0b2240da2c952f8e6dd93fe0ba25"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/issue_tree.tex",
+      "bytes": 3567,
+      "sha256": "be86b4ec897b9982bd035db884ce5543b7b4988f825f09cf7dfc6f7af3edd179"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/market_layers.tex",
+      "bytes": 1701,
+      "sha256": "9c70905b12aead790f7719325019e435a26582e57d79d20b6de62b71deb26698"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/npv_distribution.tex",
+      "bytes": 2167,
+      "sha256": "102149d4b6f352c5fe2228920307dc6109f75ab0fc926e1d4be3d51ac27cb949"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/positioning.tex",
+      "bytes": 1687,
+      "sha256": "8793bec148ea2dbe6053159862b164051077b850e2b507951258af31f8978a31"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/risk_heatmap.tex",
+      "bytes": 3516,
+      "sha256": "927a1cb5444c8e51ece916347ef4833492ab3a84b69b0967c6c38700ad8b078d"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/service_flow.tex",
+      "bytes": 1984,
+      "sha256": "f93ad8fa80cf14a30b0c4503edcabc1584926cb825858c34d54d513e39bcef7a"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/stakeholder_structure.tex",
+      "bytes": 2116,
+      "sha256": "8ca728e0c409329d323a1278709d8ac79713aa5429a04738a1e67e9ab283fd99"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/templates/value_proposition.tex",
+      "bytes": 3159,
+      "sha256": "8ea0a130a64085c80cd59f73700bcd4b4458375ade5d5059357161b573e2c69f"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/charts/verification.json",
+      "bytes": 1954,
+      "sha256": "afcf03df621bfa6e9c9342916cdcf2a8f1844b4a3f87342568354d782c232e0a"
+    },
+    {
+      "path": "skills/write-innovation-essays/assets/templates/neutral_essay.docx",
+      "bytes": 37807,
+      "sha256": "31068ad413a4d7e007fcf09a8a5df97f00fc435cad3a452f258d9c2f9d4ccc16"
+    },
+    {
+      "path": "skills/write-innovation-essays/references/appendices-and-navigation.md",
+      "bytes": 11444,
+      "sha256": "e3d1ba4745f15114668a5a0e190f963f98f7ff9c9299c916d6f6dddd1f5e1ab4"
+    },
+    {
+      "path": "skills/write-innovation-essays/references/business-plan-module.md",
+      "bytes": 9894,
+      "sha256": "c46320f311399b7697abd6402c3e55acde2530cc79e9691c0120ba9c70ba9352"
+    },
+    {
+      "path": "skills/write-innovation-essays/references/evidence-and-sources.md",
+      "bytes": 10894,
+      "sha256": "ce15014727a118253446bc7143e92d8b8bfafdb99396ef41bba2fa14fe29bd67"
+    },
+    {
+      "path": "skills/write-innovation-essays/references/frameworks-and-implementation.md",
+      "bytes": 14847,
+      "sha256": "5f6e30629c6ee72dc6e3d9656826708cdf4dedc7fa4e511078531255b81348d9"
+    },
+    {
+      "path": "skills/write-innovation-essays/references/innovation-essay-hub-v5.md",
+      "bytes": 130216,
+      "sha256": "eed46f6bee81ed206c500f78a54ff5b7926d2dc7be325d57b41f62d60c7e18ff"
+    },
+    {
+      "path": "skills/write-innovation-essays/references/project-record-and-portability.md",
+      "bytes": 8516,
+      "sha256": "b414ccc8bade838a2e53019f2e027883a513010fed2a1f1421e6909c2c32aae4"
+    },
+    {
+      "path": "skills/write-innovation-essays/references/review-and-release.md",
+      "bytes": 11505,
+      "sha256": "32f03a503a53dfe003869c376016419b0d6016abcb92be24bdebd10566114eb6"
+    },
+    {
+      "path": "skills/write-innovation-essays/references/user-production-standard.md",
+      "bytes": 3484,
+      "sha256": "9c0f5fdc4703046dbdc0423065eea71cb41a38c1e520086d3bea0c688366b577"
+    },
+    {
+      "path": "skills/write-innovation-essays/references/visual-and-imagery.md",
+      "bytes": 11626,
+      "sha256": "61af65e3c857f0f0d0e1d036d88223115ab4653aa852f22bcb6672354d416c35"
+    },
+    {
+      "path": "skills/write-innovation-essays/references/workflow.md",
+      "bytes": 13802,
+      "sha256": "fcec194f698c1a5e9bc9a6b873c47ad34ef4edd283ec167f5d54f52bc3c0987d"
+    },
+    {
+      "path": "skills/write-innovation-essays/references/writing-and-voice.md",
+      "bytes": 14629,
+      "sha256": "2eba086857f4bd5fcf188e692c8fddf8dfaae1348ea5585a10bbc23142800253"
+    },
+    {
+      "path": "skills/write-innovation-essays/scripts/analysis.py",
+      "bytes": 9917,
+      "sha256": "78282744b210498cb2a7a5e514e7f473b4ce8c4322baf819423d0656724cd13e"
+    },
+    {
+      "path": "skills/write-innovation-essays/scripts/audit_document.py",
+      "bytes": 8018,
+      "sha256": "a58535b2b29ddef2b59a8b3cfaf88773e7c4d2c60cae38745e030883598ece49"
+    },
+    {
+      "path": "skills/write-innovation-essays/scripts/build_docx.py",
+      "bytes": 20045,
+      "sha256": "fb7d6ab51a49a3dae4be1db73b60177f1f94e47bf93ebb5282ceda64cec67a98"
+    },
+    {
+      "path": "skills/write-innovation-essays/scripts/charts.py",
+      "bytes": 35325,
+      "sha256": "d44c7fc143c7725df601253d2a4cdefa9afb5529bf234dfda3a57d0e0952f6b3"
+    },
+    {
+      "path": "skills/write-innovation-essays/scripts/extract_comments.py",
+      "bytes": 4051,
+      "sha256": "48771682357c64091de216f2fd2504d3417571461645591fc0932459cb856b12"
+    },
+    {
+      "path": "skills/write-innovation-essays/scripts/read_documents.py",
+      "bytes": 18060,
+      "sha256": "1e1271666a99b439424bbe74a1832e85ddb249f4b6fc18ec3739599c66fedd69"
+    },
+    {
+      "path": "skills/write-innovation-essays/scripts/render_document.py",
+      "bytes": 4256,
+      "sha256": "59cc05c1adf7ab9138769973cfed9c7535ff5f8220dd7bb602ef35ab6b7f4d59"
+    },
+    {
+      "path": "skills/write-innovation-essays/scripts/validate_package.py",
+      "bytes": 6247,
+      "sha256": "edaa63ef812cc86c74376fee17aa3398cba3fdd1522899ff4eb5f78dd129bcc9"
+    },
+    {
+      "path": "studio.py",
+      "bytes": 5619,
+      "sha256": "1a9e4c602b84504fdbe746bef76a8c9b35179eb0693448161543c4b7b5c2f231"
+    },
+    {
+      "path": "tests/document-intake-verification.json",
+      "bytes": 2413,
+      "sha256": "d728cd2ca9c5a5cb1959074850c7309562fe690bd6c49166858e33cf6adfcf2a"
+    },
+    {
+      "path": "tests/document-verification.json",
+      "bytes": 2197,
+      "sha256": "78d2782debc1e643b33dbc15e6f5c4a19d4b3c7948de8d2745599de28ec522c6"
+    },
+    {
+      "path": "tests/fixtures/saku-belajar-brief.md",
+      "bytes": 1433,
+      "sha256": "1db27922c7ab05e6e6f62dde27b5204e495d0d84967a9b25ddf126d55d117526"
+    },
+    {
+      "path": "tests/fixtures/saku-belajar-guide.md",
+      "bytes": 874,
+      "sha256": "c39ac1f4c0dd560aef0f08c430940f7e8fd6454f35433c4a81e0d8103664a64d"
+    },
+    {
+      "path": "tests/test_analysis.py",
+      "bytes": 3775,
+      "sha256": "2c88228b9e15db7c7ec83780aa23c3918e08f5996c51a8e37a7deedb538be472"
+    },
+    {
+      "path": "tests/test_document_intake.py",
+      "bytes": 5691,
+      "sha256": "d186b7b710a39bd1c56a903698e009bc3ea78ca4683e026831d18de2290cd227"
+    },
+    {
+      "path": "tests/test_document_tools.py",
+      "bytes": 3726,
+      "sha256": "90d43cdf5daeff9cd31d6f6f046d7ca47b7add0e11d85e9900c464bba0059f7c"
+    },
+    {
+      "path": "tests/test_portable_cli.py",
+      "bytes": 3223,
+      "sha256": "a3acb2769fdc46bc7069bc4c03b478a4624c0a69decec272fd96e315db6f9520"
+    },
+    {
+      "path": "validation/README.md",
+      "bytes": 4620,
+      "sha256": "901b80e023ba4ac86057709f99dbdfcf1072a5e95f75a590474b12f2da810db0"
+    },
+    {
+      "path": "validation/analysis-final-io-delta.json",
+      "bytes": 352,
+      "sha256": "c8150788e7f28706310a483413c1295cda85eca6932e81bfb861351b1ef2d904"
+    },
+    {
+      "path": "validation/analysis-regression.json",
+      "bytes": 225,
+      "sha256": "500c4ffcd3bb6e9aed362c49853699f48e2418e0dc0b18aabac35892bc772a08"
+    },
+    {
+      "path": "validation/chart-independent-checks.json",
+      "bytes": 2927,
+      "sha256": "988b2ca45587c939d5abcd46534064f78f41b9695945727c2414c100ecab1bd7"
+    },
+    {
+      "path": "validation/chart-regressions.json",
+      "bytes": 707,
+      "sha256": "5121061e786329edc692eebda0952aba82c23240ca74ce3d4e0856ba57ea7ffb"
+    },
+    {
+      "path": "validation/cold-start/output.md",
+      "bytes": 17987,
+      "sha256": "5bbcc20285cf75b09b78887c397865c2c62052156be68fd672f6ca0282a4b546"
+    },
+    {
+      "path": "validation/cold-start/review.md",
+      "bytes": 7083,
+      "sha256": "ce77cc491ca9e1430cf68e77896b4043bfda483e361d3db404bbfb3ddc28c2ef"
+    },
+    {
+      "path": "validation/environment-tested.json",
+      "bytes": 1288,
+      "sha256": "ab5b48bf73fffacd0937f43011ea28d89dd8c960f036f79b16886a5c34d82d7c"
+    },
+    {
+      "path": "validation/package-check.json",
+      "bytes": 480,
+      "sha256": "9a037ab7622158564d9d269224ad52d156ea0f4b7f0244f48c285ae5509160d8"
+    },
+    {
+      "path": "validation/release-verification.json",
+      "bytes": 2567,
+      "sha256": "d6c070bf80ae34d5e2aa852e6ce12c431e68410cb72a635991bd2fd9a5dcc417"
+    },
+    {
+      "path": "validation/reviews/calculations.md",
+      "bytes": 6382,
+      "sha256": "634e102d5d9b61fa5f5e365b77f5af55128b5fdbb4c7adbfce6295a1dbb1c3b2"
+    },
+    {
+      "path": "validation/reviews/charts.md",
+      "bytes": 8797,
+      "sha256": "623429b57747e5a4f8edc041e43beb784494319ff505748d4225a56b3e99658a"
+    },
+    {
+      "path": "validation/reviews/instructions.md",
+      "bytes": 6038,
+      "sha256": "5c81f5695dd65612f84ad72a5c10233ef1f540a5ad0ce547c47998a5f267e333"
+    },
+    {
+      "path": "validation/unittest-results.txt",
+      "bytes": 3719,
+      "sha256": "18457b7c6c042204f58f314951e2a07d18f942de1ee8ae56a47fb530e20510c2"
+    },
+    {
+      "path": "validation/utf8-io-repair.json",
+      "bytes": 1242,
+      "sha256": "a2459f69a2815b803337ece3cc2d9300b69390f9b99896821417d43dbfb5bbd3"
+    }
+  ]
+}

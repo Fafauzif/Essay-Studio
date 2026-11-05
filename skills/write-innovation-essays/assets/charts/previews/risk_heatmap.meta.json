@@ -1,0 +1,30 @@
+{
+  "id": "risk_heatmap",
+  "type": "risk_heatmap",
+  "tex": "essay-studio/skills/write-innovation-essays/assets/charts/previews/risk_heatmap.tex",
+  "input_sha256": "ce83d92956d0a9ddea69f490d799b5cf3f847044928876bd9c70043381d9e517",
+  "font": "Times New Roman",
+  "width_cm": 14,
+  "font_pt": 10,
+  "data_summary": {
+    "positions": "input ordinal scores, not calibrated probabilities"
+  },
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "essay-studio/skills/write-innovation-essays/assets/charts/previews/risk_heatmap.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [],
+  "pdf_width_cm": 14.386630469428168,
+  "pdf_height_cm": 6.647744530571831,
+  "png_renderer": "PyMuPDF",
+  "png": "essay-studio/skills/write-innovation-essays/assets/charts/previews/risk_heatmap.png",
+  "render_status": "rendered",
+  "pdf_text_fonts": [
+    "TimesNewRomanPSMT"
+  ],
+  "pdf_text_sizes_pt": [
+    8.657,
+    9.618
+  ],
+  "min_text_pt_at_nominal_width": 8.423882997941426
+}

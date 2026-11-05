@@ -1,0 +1,28 @@
+{
+  "id": "cash",
+  "type": "cash_line",
+  "tex": "essay-studio/skills/write-innovation-essays/assets/charts/previews/cash.tex",
+  "input_sha256": "6025b7bbfa3f3f98fd19751d97d61931f39211421a4024bd9952088672554242",
+  "font": "Times New Roman",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {},
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "essay-studio/skills/write-innovation-essays/assets/charts/previews/cash.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [],
+  "pdf_width_cm": 16.417925516764324,
+  "pdf_height_cm": 7.605889104207358,
+  "png_renderer": "PyMuPDF",
+  "png": "essay-studio/skills/write-innovation-essays/assets/charts/previews/cash.png",
+  "render_status": "rendered",
+  "pdf_text_fonts": [
+    "CMR9",
+    "TimesNewRomanPSMT"
+  ],
+  "pdf_text_sizes_pt": [
+    8.966
+  ],
+  "min_text_pt_at_nominal_width": 8.738156486168775
+}

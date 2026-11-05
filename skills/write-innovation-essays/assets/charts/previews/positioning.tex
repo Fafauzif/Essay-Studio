@@ -1,0 +1,37 @@
+\documentclass[border=3pt]{standalone}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta,calc,positioning,shapes.geometric}
+\definecolor{forest}{HTML}{346E57}
+\definecolor{sage}{HTML}{E8EFEA}
+\definecolor{clay}{HTML}{B77E60}
+\definecolor{gray}{HTML}{718078}
+\definecolor{rule}{HTML}{B7C3BA}
+\definecolor{ink}{HTML}{000000}
+\begin{document}
+\hyphenpenalty=10000\exhyphenpenalty=10000
+\fontsize{10}{12}\selectfont
+\renewcommand{\small}{\fontsize{9}{11}\selectfont}
+\renewcommand{\scriptsize}{\fontsize{8}{10}\selectfont}
+\resizebox{16cm}{!}{%
+\begin{tikzpicture}[x=5cm,y=2.7cm,axis/.style={-{Latex[length=2.2mm]},draw=rule,line width=.7pt}]
+\draw[axis] (-1.05,0)--(1.08,0);
+\draw[axis] (0,-1.05)--(0,1.08);
+\node[anchor=east,text width=2.4cm,align=center] at (-1.1,0) {Penawaran umum};
+\node[anchor=west,text width=2.4cm,align=center] at (1.13,0) {Penanganan khusus};
+\node[anchor=south,text width=2.4cm,align=center] at (0,1.13) {Koordinasi terpadu};
+\node[anchor=north,text width=2.4cm,align=center] at (0,-1.13) {Pengaturan terpisah};
+\fill[forest] (-0.65,-0.45) circle[radius=1.4pt];
+\node[align=center,text width=2.6cm,anchor=south] at (-0.65,-0.33) {Alternatif A};
+\fill[forest] (0.6,-0.5) circle[radius=1.4pt];
+\node[align=center,text width=2.6cm,anchor=south] at (0.6,-0.38) {Alternatif B};
+\fill[forest] (0.65,0.65) circle[radius=1.4pt];
+\node[align=center,text width=2.6cm,anchor=south] at (0.65,0.77) {Usulan layanan};
+\fill[forest] (-0.55,0.45) circle[radius=1.4pt];
+\node[align=center,text width=2.6cm,anchor=south] at (-0.55,0.5700000000000001) {Alternatif C};
+\end{tikzpicture}
+}
+
+\end{document}

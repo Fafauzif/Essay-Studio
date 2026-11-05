@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "checks": {
+    "skill_lines": 54,
+    "skill_frontmatter": "valid",
+    "local_links_checked": 441,
+    "original_v5_sha256": "matches",
+    "source_files_checked": 193,
+    "python_files_parsed": 13,
+    "repository_files": 427
+  },
+  "failures": [],
+  "warnings": [],
+  "scope": "Structure, links, supplied-file hashes, syntax and portable paths. Functional tools and actual visual QA require their separate recorded tests. No installed-skill claim."
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Figure placement demonstration",
+  "format": {
+    "font": "Times New Roman",
+    "body_pt": 12,
+    "line_spacing": 1.5
+  },
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The following chart is a formatting example using the gallery’s constructed cash inputs. The chart source and data remain separate from the document; the image is placed at a deliberate width and keeps its caption."
+    },
+    {
+      "type": "image",
+      "path": "../skills/write-innovation-essays/assets/charts/previews/cash.png",
+      "caption": "Figure 1. Illustrative cash paths from the gallery example.",
+      "width_cm": 16
+    },
+    {
+      "type": "paragraph",
+      "text": "Check the axis labels, units and line descriptions at the final document size. This example demonstrates placement and does not establish a financial forecast for a new project."
+    }
+  ],
+  "references": [],
+  "appendices": [],
+  "limits": {
+    "max_body_pages": 1
+  }
+}

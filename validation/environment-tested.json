@@ -1,0 +1,36 @@
+{
+  "python": "3.12.14",
+  "executable": "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+  "modules": {
+    "docx": true,
+    "fitz": true,
+    "PIL": true,
+    "numpy": true,
+    "yaml": true,
+    "qrcode": true,
+    "cv2": true
+  },
+  "commands": {
+    "xelatex": "/usr/bin/xelatex",
+    "lualatex": "/usr/bin/lualatex",
+    "pdflatex": "/usr/bin/pdflatex",
+    "pdftoppm": "/opt/codex/runtimes/codex-primary-runtime/dependencies/bin/override/pdftoppm",
+    "soffice": "/opt/codex/runtimes/codex-primary-runtime/dependencies/bin/override/soffice",
+    "libreoffice": null,
+    "fc-match": "/usr/bin/fc-match",
+    "tesseract": "/usr/bin/tesseract",
+    "git": "/usr/local/bin/git"
+  },
+  "requested_font": "Times New Roman",
+  "resolved_font_family": "Times New Roman",
+  "checks": {
+    "planning_and_reading": true,
+    "docx_build_dependency_available": true,
+    "pdf_converter_binary_available": true,
+    "pdf_inspection_dependency_available": true,
+    "unicode_tex_binary_available": true,
+    "chart_rasterizer_available": true,
+    "optional_qr_decode_dependency_available": true
+  },
+  "note": "Availability inventory only. Compile/render representative actual files to test functional capability; an installed binary can still lack packages."
+}

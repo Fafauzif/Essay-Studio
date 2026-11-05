@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Essay Studio source record",
+  "type": "object",
+  "required": ["id", "title", "kind", "retrieval", "read_status", "claims"],
+  "properties": {
+    "id": {"type": "string", "minLength": 1},
+    "title": {"type": "string", "minLength": 1},
+    "kind": {"enum": ["primary_research", "official_statistics", "official_policy", "law", "company_primary", "supplied_guidebook", "supplied_reference", "other"]},
+    "retrieval": {"type": "object", "properties": {"url_or_doi": {"type": ["string", "null"]}, "local_path": {"type": ["string", "null"]}, "checked_date": {"type": ["string", "null"]}, "sha256": {"type": ["string", "null"]}}},
+    "read_status": {"enum": ["complete", "partial", "abstract_only", "metadata_only", "unavailable"]},
+    "missing_content": {"type": "array", "items": {"type": "string"}},
+    "apa7": {"type": ["string", "null"]},
+    "claims": {"type": "array", "items": {"type": "object", "required": ["claim", "locator", "scope", "verification"], "properties": {"claim": {"type": "string"}, "locator": {"type": ["string", "null"]}, "scope": {"type": "string"}, "verification": {"enum": ["checked_against_full_source", "checked_against_available_excerpt", "inference_explicit", "unverified"]}, "intended_use": {"type": "string"}}}}
+  }
+}

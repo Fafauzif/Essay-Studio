@@ -1,0 +1,128 @@
+[
+  {
+    "name": "main_system",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/main_system.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/main_system.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/main_system.tex",
+    "width_cm": 15.59,
+    "height_cm": 4.6,
+    "job": "Menghubungkan aktor, pembiayaan, penugasan dan serah terima dalam sistem yang diusulkan."
+  },
+  {
+    "name": "issue_tree",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/issue_tree.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/issue_tree.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/issue_tree.tex",
+    "width_cm": 15.99,
+    "height_cm": 11.98,
+    "job": "Pohon masalah dengan tiga submasalah dan enam penyebab; rincian bukti dan batas inferensi berada dalam tabel sumber pendamping."
+  },
+  {
+    "name": "service_swimlane",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/service_swimlane.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/service_swimlane.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/service_swimlane.tex",
+    "width_cm": 15.62,
+    "height_cm": 10.52,
+    "job": "Alur tanggung jawab dari informasi awal hingga penerimaan dan rekonsiliasi, termasuk permintaan yang belum cocok."
+  },
+  {
+    "name": "gantt_year1",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/gantt_year1.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/gantt_year1.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/gantt_year1.tex",
+    "width_cm": 16.1,
+    "height_cm": 9.49,
+    "job": "Jadwal kerja tahun pertama; bulan relatif sejak persiapan dimulai, bukan tanggal komitmen yang telah disetujui."
+  },
+  {
+    "name": "gantt_decade",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/gantt_decade.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/gantt_decade.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/gantt_decade.tex",
+    "width_cm": 15.81,
+    "height_cm": 7.96,
+    "job": "Horizon strategis sepuluh tahun; bar replikasi bersyarat dibedakan dari pekerjaan awal."
+  },
+  {
+    "name": "prototype_comparison",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/prototype_comparison.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/prototype_comparison.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/prototype_comparison.tex",
+    "width_cm": 16.15,
+    "height_cm": 4.88,
+    "job": "Perbandingan skenario fiktif: kedua cara melayani 18 permintaan; perjalanan maju diasumsikan tetap berlangsung."
+  },
+  {
+    "name": "risk_heatmap",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/risk_heatmap.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/risk_heatmap.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/risk_heatmap.tex",
+    "width_cm": 16.0,
+    "height_cm": 7.13,
+    "job": "Sepuluh risiko inheren, kode dan penilaian persis dari Lampiran J.1; skala ordinal estimasi tim, dengan sasaran pengendalian dalam tabel pendamping."
+  },
+  {
+    "name": "tam_sam_som",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/tam_sam_som.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/tam_sam_som.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/tam_sam_som.tex",
+    "width_cm": 14.8,
+    "height_cm": 6.31,
+    "job": "TAM perguruan tinggi, SAM cakupan penawaran tim dan SOM tahun ketiga dari model; ukuran lingkaran skematis."
+  },
+  {
+    "name": "finance_annual",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/finance_annual.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/finance_annual.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/finance_annual.tex",
+    "width_cm": 15.79,
+    "height_cm": 7.57,
+    "job": "Pendapatan, biaya dan surplus operasi sebelum pajak dari tiga tahun estimasi tim."
+  },
+  {
+    "name": "finance_cash",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/finance_cash.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/finance_cash.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/finance_cash.tex",
+    "width_cm": 16.35,
+    "height_cm": 6.71,
+    "job": "Kas sebelum pendanaan dan dengan pendanaan rencana; tidak menyatakan pendanaan sudah berkomitmen."
+  },
+  {
+    "name": "finance_sensitivity",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/finance_sensitivity.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/finance_sensitivity.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/finance_sensitivity.tex",
+    "width_cm": 16.29,
+    "height_cm": 9.01,
+    "job": "Sensitivitas satu input terhadap NPV tiga tahun; dasar perhitungan sama dengan model keuangan."
+  },
+  {
+    "name": "mc_funding",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/mc_funding.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/mc_funding.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/mc_funding.tex",
+    "width_cm": 15.6,
+    "height_cm": 6.86,
+    "job": "Distribusi kebutuhan pendanaan dari 10.000 skenario asumsi tim; garis rencana Rp110 juta, P50 dan P90."
+  },
+  {
+    "name": "mc_npv",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/mc_npv.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/mc_npv.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/mc_npv.tex",
+    "width_cm": 15.43,
+    "height_cm": 6.88,
+    "job": "Distribusi NPV 10.000 skenario asumsi tim; nol dan median ditandai."
+  },
+  {
+    "name": "mc_drivers",
+    "png": "/workspace/scratch/91cdcc6b9385/production/assets/figures/mc_drivers.png",
+    "pdf": "/workspace/scratch/91cdcc6b9385/production/assets/figures/mc_drivers.pdf",
+    "tex": "/workspace/scratch/91cdcc6b9385/production/figures/mc_drivers.tex",
+    "width_cm": 16.01,
+    "height_cm": 7.07,
+    "job": "Asosiasi peringkat pada skenario yang memiliki faktor bersama; bukan pengaruh sebab-akibat yang teridentifikasi."
+  }
+]

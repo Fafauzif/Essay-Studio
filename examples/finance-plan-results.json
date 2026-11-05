@@ -1,0 +1,248 @@
+{
+  "status": "illustrative_team_assumptions_not_field_evidence",
+  "currency": "IDR",
+  "price_year": 2027,
+  "base": {
+    "npv": -5294667.555875481,
+    "funding_need_including_reserve": 23250000.0,
+    "sustained_cash_payback_month": null,
+    "total_units": 425.0,
+    "total_accrued_revenue": 85000000.0,
+    "total_cash_receipts": 72000000.0,
+    "total_operating_cost": 68250000.0,
+    "closing_receivables": 13000000.0,
+    "closing_project_cash_before_financing": -4250000.0,
+    "monthly": [
+      {
+        "month": 1,
+        "units": 0.0,
+        "accrued_revenue": 0.0,
+        "cash_receipts": 0.0,
+        "cost": 2500000.0,
+        "net_cash_flow": -2500000.0,
+        "project_cash_before_financing": -10500000.0,
+        "cash_with_planned_financing": 11500000.0,
+        "reserve_target": 5000000.0
+      },
+      {
+        "month": 2,
+        "units": 0.0,
+        "accrued_revenue": 0.0,
+        "cash_receipts": 0.0,
+        "cost": 2500000.0,
+        "net_cash_flow": -2500000.0,
+        "project_cash_before_financing": -13000000.0,
+        "cash_with_planned_financing": 9000000.0,
+        "reserve_target": 5000000.0
+      },
+      {
+        "month": 3,
+        "units": 20.0,
+        "accrued_revenue": 4000000.0,
+        "cash_receipts": 0.0,
+        "cost": 4300000.0,
+        "net_cash_flow": -4300000.0,
+        "project_cash_before_financing": -17300000.0,
+        "cash_with_planned_financing": 4700000.0,
+        "reserve_target": 5000000.0
+      },
+      {
+        "month": 4,
+        "units": 25.0,
+        "accrued_revenue": 5000000.0,
+        "cash_receipts": 4000000.0,
+        "cost": 4750000.0,
+        "net_cash_flow": -750000.0,
+        "project_cash_before_financing": -18050000.0,
+        "cash_with_planned_financing": 3950000.0,
+        "reserve_target": 5000000.0
+      },
+      {
+        "month": 5,
+        "units": 30.0,
+        "accrued_revenue": 6000000.0,
+        "cash_receipts": 5000000.0,
+        "cost": 5200000.0,
+        "net_cash_flow": -200000.0,
+        "project_cash_before_financing": -18250000.0,
+        "cash_with_planned_financing": 3750000.0,
+        "reserve_target": 5000000.0
+      },
+      {
+        "month": 6,
+        "units": 35.0,
+        "accrued_revenue": 7000000.0,
+        "cash_receipts": 6000000.0,
+        "cost": 5650000.0,
+        "net_cash_flow": 350000.0,
+        "project_cash_before_financing": -17900000.0,
+        "cash_with_planned_financing": 4100000.0,
+        "reserve_target": 5000000.0
+      },
+      {
+        "month": 7,
+        "units": 40.0,
+        "accrued_revenue": 8000000.0,
+        "cash_receipts": 7000000.0,
+        "cost": 6100000.0,
+        "net_cash_flow": 900000.0,
+        "project_cash_before_financing": -17000000.0,
+        "cash_with_planned_financing": 5000000.0,
+        "reserve_target": 5000000.0
+      },
+      {
+        "month": 8,
+        "units": 45.0,
+        "accrued_revenue": 9000000.0,
+        "cash_receipts": 8000000.0,
+        "cost": 6550000.0,
+        "net_cash_flow": 1450000.0,
+        "project_cash_before_financing": -15550000.0,
+        "cash_with_planned_financing": 6450000.0,
+        "reserve_target": 5000000.0
+      },
+      {
+        "month": 9,
+        "units": 50.0,
+        "accrued_revenue": 10000000.0,
+        "cash_receipts": 9000000.0,
+        "cost": 7000000.0,
+        "net_cash_flow": 2000000.0,
+        "project_cash_before_financing": -13550000.0,
+        "cash_with_planned_financing": 8450000.0,
+        "reserve_target": 5000000.0
+      },
+      {
+        "month": 10,
+        "units": 55.0,
+        "accrued_revenue": 11000000.0,
+        "cash_receipts": 10000000.0,
+        "cost": 7450000.0,
+        "net_cash_flow": 2550000.0,
+        "project_cash_before_financing": -11000000.0,
+        "cash_with_planned_financing": 11000000.0,
+        "reserve_target": 5000000.0
+      },
+      {
+        "month": 11,
+        "units": 60.0,
+        "accrued_revenue": 12000000.0,
+        "cash_receipts": 11000000.0,
+        "cost": 7900000.0,
+        "net_cash_flow": 3100000.0,
+        "project_cash_before_financing": -7900000.0,
+        "cash_with_planned_financing": 14100000.0,
+        "reserve_target": 5000000.0
+      },
+      {
+        "month": 12,
+        "units": 65.0,
+        "accrued_revenue": 13000000.0,
+        "cash_receipts": 12000000.0,
+        "cost": 8350000.0,
+        "net_cash_flow": 3650000.0,
+        "project_cash_before_financing": -4250000.0,
+        "cash_with_planned_financing": 17750000.0,
+        "reserve_target": 5000000.0
+      }
+    ]
+  },
+  "simulation": {
+    "method": "One factor vector per run, shared across all months; Gaussian copula with uniform/triangular marginals.",
+    "draws": 10000,
+    "seed": 20261105,
+    "generator": "NumPy default_rng/PCG64; multivariate_normal(method=svd)",
+    "numpy_version": "2.3.5",
+    "factor_order": [
+      "units_factor",
+      "price_factor",
+      "variable_cost_factor",
+      "fixed_cost_factor"
+    ],
+    "input_distributions": {
+      "units_factor": {
+        "distribution": "triangular",
+        "min": 0.75,
+        "mode": 1,
+        "max": 1.2
+      },
+      "price_factor": {
+        "distribution": "triangular",
+        "min": 0.9,
+        "mode": 1,
+        "max": 1.1
+      },
+      "variable_cost_factor": {
+        "distribution": "triangular",
+        "min": 0.9,
+        "mode": 1,
+        "max": 1.25
+      },
+      "fixed_cost_factor": {
+        "distribution": "triangular",
+        "min": 0.95,
+        "mode": 1,
+        "max": 1.1
+      }
+    },
+    "latent_correlation": [
+      [
+        1.0,
+        -0.2,
+        0.0,
+        0.0
+      ],
+      [
+        -0.2,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.5
+      ],
+      [
+        0.0,
+        0.0,
+        0.5,
+        1.0
+      ]
+    ],
+    "quantiles": {
+      "npv": {
+        "p10": -14067382.216543047,
+        "p50": -8111704.37628169,
+        "p90": -2108316.0173639953
+      },
+      "funding_need_including_reserve": {
+        "p10": 22761797.680512875,
+        "p50": 23931421.15420361,
+        "p90": 25677113.265214562
+      }
+    },
+    "frequency_npv_nonnegative": 0.0384,
+    "frequency_planned_financing_sufficient": 0.0023,
+    "rank_associations": [
+      {
+        "factor": "units_factor",
+        "spearman": 0.4550706256467062
+      },
+      {
+        "factor": "price_factor",
+        "spearman": 0.4538402868384029
+      },
+      {
+        "factor": "variable_cost_factor",
+        "spearman": -0.6423189753511898
+      },
+      {
+        "factor": "fixed_cost_factor",
+        "spearman": -0.4592187737721877
+      }
+    ],
+    "scope": "Conditional on team-specified distributions, dependence and this simplified cash model. Not probability of market success. Units may be equivalent expected units, not achieved counts. No terminal value, tax, debt or resale income added automatically."
+  }
+}

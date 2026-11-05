@@ -1,0 +1,2325 @@
+{
+  "project": "Essay Studio",
+  "private_archive": true,
+  "recovered_on": "2026-11-05",
+  "read_receipt": "This build recovers exact previously-read references and preserves the earlier complete available-content reading receipt. It does not claim a new reread of every page.",
+  "files": [
+    {
+      "path": "cases/jejakbalik/JejakBalik_Master_AI_Context_v4.md",
+      "original_filename": "JejakBalik_Master_AI_Context_v4.md",
+      "sha256": "affa3f42ab616a0d95a2fe29fbf1d3c0344c9f290706d41ff223865ef08f4370",
+      "bytes": 488546,
+      "role": "current case deliverable",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "historical": false,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Esai_Revisi_2.docx",
+      "original_filename": "JejakBalik_Esai_Revisi_2.docx",
+      "sha256": "cb9df1909d274bc9d58eec80bd9d4333a8b216c26697f685de512b2f8ee2f552",
+      "bytes": 3060905,
+      "role": "current case deliverable",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "historical": false,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Sumber_Produksi.zip",
+      "original_filename": "JejakBalik_Sumber_Produksi.zip",
+      "sha256": "35671591fae778831b9a412abe566b75418986267032fdb18dfe19f8b5c41103",
+      "bytes": 11321950,
+      "role": "historical case deliverable/source",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Esai_dan_Lampiran.docx",
+      "original_filename": "JejakBalik_Esai_dan_Lampiran.docx",
+      "sha256": "2a6da711f723c1cba35d789da491e43a147556fc1bbabcc529c00071a50ed4ff",
+      "bytes": 5851611,
+      "role": "historical case deliverable/source",
+      "source_library_id": "libfile_849775dc579c819191a970d26da3a3a8",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Esai_dan_Lampiran.pdf",
+      "original_filename": "JejakBalik_Esai_dan_Lampiran.pdf",
+      "sha256": "50a7b3ed6940d81373634908f7e0e680ab0713c8a721a9d77154449b77fd54f6",
+      "bytes": 3562679,
+      "role": "historical case deliverable/source",
+      "source_library_id": "libfile_635863096f308191a52668c3af9e520d",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Master_AI_Context_v3.md",
+      "original_filename": "JejakBalik_Master_AI_Context_v3.md",
+      "sha256": "8227ffaa8be07eab8070097926ba02c38b769e4aeda13c580bfd65f55b43c7be",
+      "bytes": 27403,
+      "role": "historical case deliverable/source",
+      "source_library_id": "libfile_f5ca2c046d64819199fa86305cd87128",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-history/JejakBalik_Master_AI_Context_v3(1).md"
+      ]
+    },
+    {
+      "path": "library/originals/essays/PI MT.docx.pdf",
+      "original_filename": "PI MT.docx.pdf",
+      "sha256": "c01050b75fde3c47e7d2be724ebf6357812211baa88abedf743b6f8e36fc7167",
+      "bytes": 279807,
+      "role": "user-supplied writing/design reference",
+      "source_library_id": "libfile_20bcd701c28c8191a5e560b3762b9f20",
+      "multiplicity": 1,
+      "duplicate_paths": [],
+      "display_title": "Urgency, or the Appearance of Urgency?"
+    },
+    {
+      "path": "library/originals/guidebooks/Guidebook Essay Competition (1)(1).pdf",
+      "original_filename": "Guidebook Essay Competition (1)(1).pdf",
+      "sha256": "8d2ba6fa0e18a69b6fdff28234768ebb5bcc16e64e692c8f44d6c4888e1c4c0e",
+      "bytes": 52901564,
+      "role": "competition guidebook for historical JejakBalik case",
+      "source_library_id": "libfile_a7a9693ac21481919d4afb5b618427a2",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/templates/David Muhammad Thorique_Universitas Indonesia_ RegenCity Grid Indonesia (1)(1).docx",
+      "original_filename": "David Muhammad Thorique_Universitas Indonesia_ RegenCity Grid Indonesia (1)(1).docx",
+      "sha256": "b85628c53b1bcfee9e36b4fc77639cb5660e2ad40fb6a5136a6949b001b13173",
+      "bytes": 17321920,
+      "role": "user-supplied ReGenCity DOCX formatting reference; original identity retained privately",
+      "source_library_id": "libfile_341df5cc5cd0819199536561490d6575",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/essays/SIRKULA.pdf",
+      "original_filename": "Hidup Jokowi_Economic Growth_SIRKULA Scaling Circular Economy through Decentralized BSF Bioconversion to Reduce Organic Waste, Create Decent Jobs, and Secure Household Livelihoods in Indonesia.docx(1).pdf",
+      "sha256": "fb66a65305bf0e41e600483727d7482001e0442897d497a634920170e7459ba1",
+      "bytes": 11838292,
+      "role": "user-supplied writing/design reference",
+      "source_library_id": "libfile_af23728d94d08191822702e19459bba2",
+      "multiplicity": 1,
+      "duplicate_paths": [],
+      "path_note": "Expanded archive path shortened for Windows portability. Original filename and original source bytes retained; corpus originals also remain inside untouched source ZIP.",
+      "display_title": "SIRKULA"
+    },
+    {
+      "path": "library/originals/essays/Gotong-Sampah.pdf",
+      "original_filename": "Esai Mahasiswa _Ga Libur (Tim)_Gotong Sampah Inovasi Socio-Enterprise Inklusif guna Meningkatkan Nilai Ekonomi Limbah dan Formalisasi Profesi Pemulung Sebagai Akselerator Indonesia Emas 2045-1.pdf",
+      "sha256": "5ed675cb7bf111f8e128aea150ba18338c638213d1ee645b2ae982c5989dd186",
+      "bytes": 8453368,
+      "role": "user-supplied writing/design reference",
+      "source_library_id": "libfile_3305531fc2d48191a639b49934b4b3a8",
+      "multiplicity": 1,
+      "duplicate_paths": [],
+      "path_note": "Expanded archive path shortened for Windows portability. Original filename and original source bytes retained; corpus originals also remain inside untouched source ZIP.",
+      "display_title": "Gotong Sampah"
+    },
+    {
+      "path": "library/originals/essays/Dua_Athifa Ardhani_UI.pdf",
+      "original_filename": "Dua_Athifa Ardhani_UI.pdf",
+      "sha256": "4f24ee77bcf3a8b06b2628c26dea03f43502170e2e665ee5f0d4c93d646396e9",
+      "bytes": 17727159,
+      "role": "user-supplied writing/design reference",
+      "source_library_id": "libfile_b60ff0d3efc08191bb2c6346e20cf8e7",
+      "multiplicity": 1,
+      "duplicate_paths": [],
+      "display_title": "Dua Business Plan"
+    },
+    {
+      "path": "library/originals/essays/Semifinal Round_Faga_Hamiz Ghanir_BPC21MX..pdf",
+      "original_filename": "Semifinal Round_Faga_Hamiz Ghanir_BPC21MX..pdf",
+      "sha256": "a3cde55fd2a9b4eb2758b16e8c5aadadf5c6cd65814873386156929df68afa8b",
+      "bytes": 22758076,
+      "role": "user-supplied writing/design reference",
+      "source_library_id": "libfile_fab840f7cbcc8191b20347b832cfba04",
+      "multiplicity": 1,
+      "duplicate_paths": [],
+      "display_title": "ReFeel Business Plan"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131336(1).png",
+      "original_filename": "Screenshot 2026-10-25 131336(1).png",
+      "sha256": "8e3429d7bde31bbca071bf42fd4cf6e14b60e8e9e3c3ab5a6e64b6ffc8d72f4b",
+      "bytes": 246911,
+      "role": "user-supplied visual taste reference",
+      "source_library_id": "libfile_f276898a8ee481919a11cda64f50a8dd",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131206(1).png",
+      "original_filename": "Screenshot 2026-10-25 131206(1).png",
+      "sha256": "340f78b64ff7cf005103876830d10b5af83c124d4eb49dd7c0cde220bff429b5",
+      "bytes": 160931,
+      "role": "user-supplied visual taste reference",
+      "source_library_id": "libfile_5b2985689af48191bfa2afb5327864f0",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131346(1).png",
+      "original_filename": "Screenshot 2026-10-25 131346(1).png",
+      "sha256": "7263bdefe977b3c0eda1d11ba22ecb484aee1a8fb14518f7855cd5372eb1110f",
+      "bytes": 192752,
+      "role": "user-supplied visual taste reference",
+      "source_library_id": "libfile_09d4ced774988191ae9dde012b5616f8",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131332(1).png",
+      "original_filename": "Screenshot 2026-10-25 131332(1).png",
+      "sha256": "40b8a387c5e1cb0c9e16fe91a632780f84e30718771d80dc0d84f9bcdeaebd3c",
+      "bytes": 99305,
+      "role": "user-supplied visual taste reference",
+      "source_library_id": "libfile_291e3b6e9d488191bfe3fe45d649b77c",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131326(1).png",
+      "original_filename": "Screenshot 2026-10-25 131326(1).png",
+      "sha256": "a4f350710d3d020114923930a41df01d397736b0f797ae73d3926ebe930b7cbf",
+      "bytes": 144516,
+      "role": "user-supplied visual taste reference",
+      "source_library_id": "libfile_b004b11125148191850f53d39a933bb3",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131141(1).png",
+      "original_filename": "Screenshot 2026-10-25 131141(1).png",
+      "sha256": "4c0b422091b30aa41b59b96f55fc49366e228f9233830b9335f36bbc7b034c4e",
+      "bytes": 245781,
+      "role": "user-supplied visual taste reference",
+      "source_library_id": "libfile_7f7aab7c951c81919d5012821786b399",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131340(1).png",
+      "original_filename": "Screenshot 2026-10-25 131340(1).png",
+      "sha256": "1100cb5811be2103a0259d3bc5aba82709bb89c921882a98b99abf54d3d36f01",
+      "bytes": 147711,
+      "role": "user-supplied visual taste reference",
+      "source_library_id": "libfile_6790dd91ad648191aad27f52fe315135",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131211.png",
+      "original_filename": "Screenshot 2026-10-25 131211.png",
+      "sha256": "5443dd63244c1fb7f89aa8684c1fec5a4ce4212b8d378f99a325317923d0960e",
+      "bytes": 55250,
+      "role": "user-supplied visual taste reference",
+      "source_library_id": "libfile_f60df179e9588191938b93482fa4beee",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131320.png",
+      "original_filename": "Screenshot 2026-10-25 131320.png",
+      "sha256": "78c8e661195f977c9337aefb17ce8fbf71b0f23d90d409890f01500273207c07",
+      "bytes": 153158,
+      "role": "user-supplied visual taste reference",
+      "source_library_id": "libfile_871245b949b48191b0b4be56585502d8",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131222.png",
+      "original_filename": "Screenshot 2026-10-25 131222.png",
+      "sha256": "8b74654087b82d9b474547ee19f9da2cdd5a25846a80b5dacd491ee4d89d258f",
+      "bytes": 136278,
+      "role": "user-supplied visual taste reference",
+      "source_library_id": "libfile_be985795318c8191ab7e13763b82393f",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183521.png",
+      "original_filename": "Screenshot 2026-11-04 183521.png",
+      "sha256": "a41fdc5d5b37dc8ac28e4e54ddbf180e7a178af59282afba0a98b9d7bffcfa5b",
+      "bytes": 334416,
+      "role": "owner-supplied actual 3D interface screenshot",
+      "source_library_id": "libfile_662435387c588191b7fc8110df8bfcc7",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183501.png",
+      "original_filename": "Screenshot 2026-11-04 183501.png",
+      "sha256": "47a970754929ec66655aafb0d5469ccda114c9a23aeb48f88c7acad3febf0797",
+      "bytes": 496082,
+      "role": "owner-supplied actual 3D interface screenshot",
+      "source_library_id": "libfile_de4fb4f180948191b0667b9b03fd5fae",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183513.png",
+      "original_filename": "Screenshot 2026-11-04 183513.png",
+      "sha256": "37d82c4a288e0f1a9810c86eba96340952f49fad740e16813c2d0d44b6a761c0",
+      "bytes": 448281,
+      "role": "owner-supplied actual 3D interface screenshot",
+      "source_library_id": "libfile_84c79ea1c42881919cc8089cd65954bf",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183445.png",
+      "original_filename": "Screenshot 2026-11-04 183445.png",
+      "sha256": "267badae07c6100b6ad3e892ae512febd019ee185d577a8a0fdfa575a0cca6c7",
+      "bytes": 447351,
+      "role": "owner-supplied actual 3D interface screenshot",
+      "source_library_id": "libfile_3b0acd0e08c88191a8c05ec922d64f03",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183507.png",
+      "original_filename": "Screenshot 2026-11-04 183507.png",
+      "sha256": "ea17cb1f3fb920fd86dc90a2ea72a208e0ad3ac8b906b5111ae46f3be1a332ea",
+      "bytes": 355038,
+      "role": "owner-supplied actual 3D interface screenshot",
+      "source_library_id": "libfile_4b24b3aa27cc819186c3ca056f80b374",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183449.png",
+      "original_filename": "Screenshot 2026-11-04 183449.png",
+      "sha256": "bbdb968a845009056dccbd7af935b96794c1f9ab4079947633a58c02bec8497b",
+      "bytes": 61152,
+      "role": "owner-supplied actual 3D interface screenshot",
+      "source_library_id": "libfile_3157e1ba53248191b73301e0d2f51a51",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-24 231904(1).png",
+      "original_filename": "Screenshot 2026-10-24 231904(1).png",
+      "sha256": "df8b411fe0d541a764318f295e5dd5973ed0df54b5c27933a6cce12f764ac5c8",
+      "bytes": 303758,
+      "role": "user-supplied Everwear value-proposition-canvas reference",
+      "source_library_id": "libfile_93d5d0ae005c8191acc1ab6b110089e2",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/drive-download-20261104T150410Z-1-001.zip",
+      "original_filename": "drive-download-20261104T150410Z-1-001.zip",
+      "sha256": "a14a15af8149084cb632ef03e5670b8c83690ca2bd37698b7cb1adc14b1af0ba",
+      "bytes": 66149872,
+      "role": "original reference-corpus archive",
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/visual-references/image(20261104-153430).png",
+      "original_filename": "image(20261104-153430).png",
+      "sha256": "6215423c86bf4c7d8fbfc3df84ce7cca92d1960beb340a9b3ea5f0a484d53ea6",
+      "bytes": 157963,
+      "role": "user-supplied horizontal issue-tree layout reference",
+      "source_library_id": "libfile_2e9594e0c57c81919cd4d4ab922ef978",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "library/originals/visual-references/image(20261104-153424).png",
+      "original_filename": "image(20261104-153424).png",
+      "sha256": "288cde19e37914de7f7f4dc2484559bf49606d1630c2ebf7fca43e495fe2e8a7",
+      "bytes": 239900,
+      "role": "user-supplied horizontal issue-tree layout reference",
+      "source_library_id": "libfile_a61a2a4bde7081918553cf1fba664b4f",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-history/JejakBalik_Master_AI_Context_v3(1).md",
+      "original_filename": "JejakBalik_Master_AI_Context_v3(1).md",
+      "sha256": "8227ffaa8be07eab8070097926ba02c38b769e4aeda13c580bfd65f55b43c7be",
+      "bytes": 27403,
+      "role": "original historical V3 source recovered losslessly from master",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "recovery": "base64+zlib source archive in Master v4; verified original byte count and SHA-256",
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/JejakBalik_Master_AI_Context_v3.md"
+      ]
+    },
+    {
+      "path": "library/originals/manuals/innovation-essay-hub-v5(2).md",
+      "original_filename": "innovation-essay-hub-v5(2).md",
+      "sha256": "eed46f6bee81ed206c500f78a54ff5b7926d2dc7be325d57b41f62d60c7e18ff",
+      "bytes": 130216,
+      "role": "original normative Innovation Essay Hub V5",
+      "source_library_id": "libfile_5f08c9fffa008191b12b33b11bc1eab8",
+      "recovery": "base64+zlib source archive in Master v4; verified original byte count and SHA-256",
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "skills/write-innovation-essays/references/innovation-essay-hub-v5.md"
+      ]
+    },
+    {
+      "original_filename": "Copy of Ilhammuhammad_universitasdiponegoro_PKM-GFT (1).pdf",
+      "path": "library/originals/reference-corpus/Copy of Ilhammuhammad_universitasdiponegoro_PKM-GFT (1).pdf",
+      "sha256": "0cea76b0583fbc68fd22787724b88d3af3fb8e5077721b79686352f252897161",
+      "bytes": 490705,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "01",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Paper_Muh Ridwan E_Digital Servive Act.pdf",
+      "path": "library/originals/reference-corpus/Paper_Muh Ridwan E_Digital Servive Act.pdf",
+      "sha256": "c4b1a0274c9f46a6f084d2b3207048c39fb3505a6d0d8de3fcb849396fa1e3f7",
+      "bytes": 434615,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "02",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of FENOMENA MANDI LUMPUR SEBAGAI PENYALAHGUNAAN KEBEBASAN BEREKSPRESI DI SOSIAL MEDIA DALAM TINJAUAN TEORI SOSIOLOGI DRAMATURGI.docx",
+      "path": "library/originals/reference-corpus/Copy of FENOMENA MANDI LUMPUR SEBAGAI PENYALAHGUNAAN KEBEBASAN BEREKSPRESI DI SOSIAL MEDIA DALAM TINJAUAN TEORI SOSIOLOGI DRAMATURGI.docx",
+      "sha256": "c2006e37563f8a7522618455131d7babbb5affe0018fb322b56edd77d24bff84",
+      "bytes": 111100,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "03",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Naskah Juara 1 Lomba Esai Nasional.pdf",
+      "path": "library/originals/reference-corpus/Naskah Juara 1 Lomba Esai Nasional.pdf",
+      "sha256": "c0e2f4785cd807c30b68da2e10b4c34da87b75c53a120ab3e1cc427fd10d8094",
+      "bytes": 1362787,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "04",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "BIO-SOLEEN Biodegradable Plastic.pdf",
+      "path": "library/originals/reference-corpus/BIO-SOLEEN Biodegradable Plastic.pdf",
+      "sha256": "156507830143ea4f1781920c4ba84c354e90a50a622879f299d7d3c668dab00f",
+      "bytes": 1657739,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "05",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of PENELITIAN+2+JENIS+PENELITIAN.pdf",
+      "path": "library/originals/reference-corpus/Copy of PENELITIAN+2+JENIS+PENELITIAN.pdf",
+      "sha256": "53696180274a8aba646565c0a42a2d23267de8022bb835c644b2ac36d89dca67",
+      "bytes": 988215,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "06",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of ilhammuhammad_universitasdiponegoro_PKM-PM.pdf",
+      "path": "library/originals/reference-corpus/Copy of ilhammuhammad_universitasdiponegoro_PKM-PM.pdf",
+      "sha256": "95adcb2ec8522e30f856a6f593869283e076955a4f94380cfd0c648a003ee474",
+      "bytes": 492065,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "07",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of 1. MARIO DWI PRASETYO_INSTITUT TEKNOLOGI SEPULUH NOPEMBER_JAKARTA SMART ISLAND - Mario Dwi Prasetyo.pdf",
+      "path": "library/originals/reference-corpus/Copy of 1. MARIO DWI PRASETYO_INSTITUT TEKNOLOGI SEPULUH NOPEMBER_JAKARTA SMART ISLAND - Mario Dwi Prasetyo.pdf",
+      "sha256": "30677ae4e1352b7bb0fd53e8a576dba06f42bd5ead597274d5dc173ea2860184",
+      "bytes": 1425009,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "08",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of JUARA 3 INTEGRASI TIGA TITIK.pdf",
+      "path": "library/originals/reference-corpus/Copy of JUARA 3 INTEGRASI TIGA TITIK.pdf",
+      "sha256": "eeaa1b3ad36853f3d79a77f03f6e0ca0169e1dbb93bd471df1a3e6af31e09534",
+      "bytes": 395876,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "09",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of LKTI_ILHAM MUHAMMAD_UNIVERSITAS DIPONEGORO_E-CENG  Teknologi Terintegrasi dalam Pengelolaan Air Limbah Tekstil, Pengendali Pertumbuhan Eceng Gondok (Eichhornia crassipes) dan Bahan Baku Kerajinan yang Berbasis IOT.pdf",
+      "path": "library/originals/reference-corpus/10-E-CENG.pdf",
+      "sha256": "3afb7c6b0d0ccfab312b726e248f99fc570cee0aa171f16587cfb6b1b945f8f0",
+      "bytes": 1608380,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "10",
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "library/originals/reference-corpus/33-E-CENG-duplicate.pdf"
+      ],
+      "path_note": "Expanded archive path shortened for Windows portability. Original filename and original source bytes retained; corpus originals also remain inside untouched source ZIP."
+    },
+    {
+      "original_filename": "Amaliya Putri - SOLVEAROPHILE.pdf",
+      "path": "library/originals/reference-corpus/Amaliya Putri - SOLVEAROPHILE.pdf",
+      "sha256": "59b2492b6c9e7a992768676e07d8f6e12db7ad663e81cc8d9204ec9d71d8c00a",
+      "bytes": 1028537,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "11",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Naskah Lomba Esai Nasional.pdf",
+      "path": "library/originals/reference-corpus/Naskah Lomba Esai Nasional.pdf",
+      "sha256": "cc4f40a7ddeb14a810484052b41a57df4eaffd9b1bad4651be68deb2fa48cf68",
+      "bytes": 770088,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "12",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "PIMPEL 2024_M Ridwan E_TPQ LIne Mewujudkan Pembelajaran_Universitas Jember.pdf",
+      "path": "library/originals/reference-corpus/PIMPEL 2024_M Ridwan E_TPQ LIne Mewujudkan Pembelajaran_Universitas Jember.pdf",
+      "sha256": "15b3e4aa4d574290a5bc43784952d1ab3160b02b17dcefbba704d177ecc95f27",
+      "bytes": 641817,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "13",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of ISIC 2024 ESSAY COMPETITION.docx",
+      "path": "library/originals/reference-corpus/Copy of ISIC 2024 ESSAY COMPETITION.docx",
+      "sha256": "f30d1ab56b78e2cc70912a062e1c2a95a8a75ea2da1bc245352a03bb13277ab1",
+      "bytes": 571105,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "14",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of Farrel Mukti Attallah_Lomba Opini AKSARA UEA .docx",
+      "path": "library/originals/reference-corpus/Copy of Farrel Mukti Attallah_Lomba Opini AKSARA UEA .docx",
+      "sha256": "69e1e8cc6cf9f2d644283aba95ddcf291843cc2d2542e9cbd82163e01238cb1d",
+      "bytes": 969813,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "15",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "PEKTIN_ESSAY_MUHAMMAD RIDWAN_UNIVERSITAS JEMBER_HUKUM DAN POLITIK.pdf",
+      "path": "library/originals/reference-corpus/PEKTIN_ESSAY_MUHAMMAD RIDWAN_UNIVERSITAS JEMBER_HUKUM DAN POLITIK.pdf",
+      "sha256": "69245eb5c800a8922ffb159e6fcf742ee05a10a91e20ce665c327abe2eaff015",
+      "bytes": 431486,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "16",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of LKTI-A NASIONAL_IPTEK_MUHAMMAD HAKAM AMNAN_UNIVERSITAS DIPONEGORO_CURHATIN YUK APLIKASI PELAYANAN PSIKOLOGI BERBASIS NILAI-NILAI QUR_ANI SEBAGAI SOLUSI KESEHATAN MENTAL DI ERA NEW NORMAL (1).pdf",
+      "path": "library/originals/reference-corpus/17-CURHATIN-YUK.pdf",
+      "sha256": "f37c48fc4382f8a48dbb4cbd49ef40ab50ae1c09c309159559163cebccb8ddd9",
+      "bytes": 2130834,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "17",
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "library/originals/reference-corpus/23-CURHATIN-YUK-duplicate.pdf"
+      ],
+      "path_note": "Expanded archive path shortened for Windows portability. Original filename and original source bytes retained; corpus originals also remain inside untouched source ZIP."
+    },
+    {
+      "original_filename": "Naskah_M Alfren Rolegian.pdf",
+      "path": "library/originals/reference-corpus/Naskah_M Alfren Rolegian.pdf",
+      "sha256": "cdd58e3550230c3a2b582a92b6d0e1ee1dd2593e200eda4d6e6e0dc42e108895",
+      "bytes": 1657846,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "18",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "huhu- ESAIAKLAMASI2025_MUH. RIDWAN EFENDI_UNIVERSITAS JEMBER_GROW TOGETHER (GT).pdf",
+      "path": "library/originals/reference-corpus/huhu- ESAIAKLAMASI2025_MUH. RIDWAN EFENDI_UNIVERSITAS JEMBER_GROW TOGETHER (GT).pdf",
+      "sha256": "671df7ca0a5ea3ed45192a8fedcc0f5488bb481ccfe0aedad605078dbfa0ec16",
+      "bytes": 1363969,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "19",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Kumpulan Karya Esai Ilmiah dan Populer (1).pdf",
+      "path": "library/originals/reference-corpus/Kumpulan Karya Esai Ilmiah dan Populer (1).pdf",
+      "sha256": "7e668a033521f47de6774dcc81bbe079ce0070504dc630dfa0cd99bea121903a",
+      "bytes": 1235307,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "20",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "downloadfile.pdf",
+      "path": "library/originals/reference-corpus/downloadfile.pdf",
+      "sha256": "28ee7c1087a4937d5456407599eb183fee72e34eaf6eccce24c6a3b1535af8c6",
+      "bytes": 2917510,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "21",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "KARYA 2_AGRIVERSE_CECILIA FAUZIAH_X.pdf",
+      "path": "library/originals/reference-corpus/KARYA 2_AGRIVERSE_CECILIA FAUZIAH_X.pdf",
+      "sha256": "35a89054969735ee9bf8bf0e02af2b78f9bc7e9e0d07b6f4e3598fad2f7a3725",
+      "bytes": 3585377,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "22",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of LKTI-A NASIONAL_IPTEK_MUHAMMAD HAKAM AMNAN_UNIVERSITAS DIPONEGORO_CURHATIN YUK APLIKASI PELAYANAN PSIKOLOGI BERBASIS NILAI-NILAI QUR_ANI SEBAGAI SOLUSI KESEHATAN MENTAL DI ERA NEW NORMAL.pdf",
+      "path": "library/originals/reference-corpus/23-CURHATIN-YUK-duplicate.pdf",
+      "sha256": "f37c48fc4382f8a48dbb4cbd49ef40ab50ae1c09c309159559163cebccb8ddd9",
+      "bytes": 2130834,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "23",
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "library/originals/reference-corpus/17-CURHATIN-YUK.pdf"
+      ],
+      "path_note": "Expanded archive path shortened for Windows portability. Original filename and original source bytes retained; corpus originals also remain inside untouched source ZIP."
+    },
+    {
+      "original_filename": "Energi dan Teknologi_MEC4_Amaliya Putri_Universitas Diponegoro_ADRODECO (Aeromonas hydrophila Detection and Control).pdf",
+      "path": "library/originals/reference-corpus/Energi dan Teknologi_MEC4_Amaliya Putri_Universitas Diponegoro_ADRODECO (Aeromonas hydrophila Detection and Control).pdf",
+      "sha256": "5c201d716aadbe22b76046a521679e4eab9c1590b8591ff913ab80d1f1906d11",
+      "bytes": 2910009,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "24",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "KARYA 1_GINTECH_CECILIA FAUZIAH_X.pdf",
+      "path": "library/originals/reference-corpus/KARYA 1_GINTECH_CECILIA FAUZIAH_X.pdf",
+      "sha256": "2552ab3ff40e9e8ea9722315bbe3a7cb8997332f7868c638bbf513e5218ef936",
+      "bytes": 2921427,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "25",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Naskah_M Alfren Rolegian_Institut Teknologi Bandung_HealthLink Apps.pdf",
+      "path": "library/originals/reference-corpus/Naskah_M Alfren Rolegian_Institut Teknologi Bandung_HealthLink Apps.pdf",
+      "sha256": "bd1f5462ff20f55c373df130a2180fa719c63983c95fc1eecd2e7f581b567abc",
+      "bytes": 3284944,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "26",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "POTENSI CINNAMALDEHYDE (CND).pdf",
+      "path": "library/originals/reference-corpus/POTENSI CINNAMALDEHYDE (CND).pdf",
+      "sha256": "40c93aa311cfc08ce3f509b0babdef278c1e2187d576fcbeaf6c081060841148",
+      "bytes": 3234952,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "27",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of Farrel Mukti Attallah_Essay Competition_The Nexus Point.docx",
+      "path": "library/originals/reference-corpus/Copy of Farrel Mukti Attallah_Essay Competition_The Nexus Point.docx",
+      "sha256": "77600eb378afa3838e7b6f401f81dccd6d8ec8446ee4c5600a9191bba1a46846",
+      "bytes": 1358616,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "28",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "KARYA 3_POSEIDON_CECILIA FAUZIAH_X.pdf",
+      "path": "library/originals/reference-corpus/KARYA 3_POSEIDON_CECILIA FAUZIAH_X.pdf",
+      "sha256": "fd6c9fd57934939952371f62e040feee69c4aab01d36293b98f9193854ceafa7",
+      "bytes": 3739312,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "29",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "IBC2024_Muhamad Alfren Rolegian_Institut Teknologi Bandung_ECOIS THE APLICATION.pdf",
+      "path": "library/originals/reference-corpus/IBC2024_Muhamad Alfren Rolegian_Institut Teknologi Bandung_ECOIS THE APLICATION.pdf",
+      "sha256": "371919bd4f79e69275acd880ef87554f816486a0ca789d8a0e239af5c1a1aaf1",
+      "bytes": 1713456,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "30",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Esai_Muhamad Alfren Rolegian_Institut Teknologi Bandung.pdf",
+      "path": "library/originals/reference-corpus/Esai_Muhamad Alfren Rolegian_Institut Teknologi Bandung.pdf",
+      "sha256": "e2da05b4d62c42faaed866bf93016111996b26175ede30fd998295be5703e77e",
+      "bytes": 3989376,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "31",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Kumpulan Naskah Esai.pdf",
+      "path": "library/originals/reference-corpus/Kumpulan Naskah Esai.pdf",
+      "sha256": "b178afb84cb3d0efad2af546589130ad91dd9b78e2e7f23850f8f5c6a4bfdeaf",
+      "bytes": 6402676,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "32",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of LKTI_ILHAM MUHAMMAD_UNIVERSITAS DIPONEGORO_E-CENG  Teknologi Terintegrasi dalam Pengelolaan Air Limbah Tekstil, Pengendali Pertumbuhan Eceng Gondok (Eichhornia crassipes) dan Bahan Baku Kerajinan yang Berbasis IOT (1).pdf",
+      "path": "library/originals/reference-corpus/33-E-CENG-duplicate.pdf",
+      "sha256": "3afb7c6b0d0ccfab312b726e248f99fc570cee0aa171f16587cfb6b1b945f8f0",
+      "bytes": 1608380,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "33",
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "library/originals/reference-corpus/10-E-CENG.pdf"
+      ],
+      "path_note": "Expanded archive path shortened for Windows portability. Original filename and original source bytes retained; corpus originals also remain inside untouched source ZIP."
+    },
+    {
+      "original_filename": "Esai_M Alfren Rolegian_Institut Teknologi Bandung_Membidik Masa Depan_IC 2024.pdf",
+      "path": "library/originals/reference-corpus/Esai_M Alfren Rolegian_Institut Teknologi Bandung_Membidik Masa Depan_IC 2024.pdf",
+      "sha256": "21b9921a5c4fa92ea1e32f05b4ca9a5d0768d41eb769d8d1a574dae6fecb3e23",
+      "bytes": 3407421,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "34",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "[ESAIFLF2024_Tim Francis Bacon_M.RIDWAN EFFENDI_UNIVERSITAS JEMBER_TRANSFORMASI LEGISLASI DI INDONESIA ME.pdf",
+      "path": "library/originals/reference-corpus/[ESAIFLF2024_Tim Francis Bacon_M.RIDWAN EFFENDI_UNIVERSITAS JEMBER_TRANSFORMASI LEGISLASI DI INDONESIA ME.pdf",
+      "sha256": "a920a2467800a74e4d5b5f6f86f41996c12eda36ecee8b5ebd7ed3110ab6f95e",
+      "bytes": 1777221,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "35",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of Farrel Mukti Attallah_NOSTALGIA MENELUSURI JEJAK PSIKOLOGI YANG MEMBAWA KEJAYAAN DALAM DUNIA SINEMA.docx",
+      "path": "library/originals/reference-corpus/Copy of Farrel Mukti Attallah_NOSTALGIA MENELUSURI JEJAK PSIKOLOGI YANG MEMBAWA KEJAYAAN DALAM DUNIA SINEMA.docx",
+      "sha256": "7ef01c7194db6d9725faec597bb8753a3736a9158ccbbabe0913c9d8a69aed1f",
+      "bytes": 590176,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "36",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "original_filename": "Copy of ESAI_MAKARA TEAM_UNIVERSITAS INDONESIA_SAKARA (Sarana Karbon Nusantara).pdf",
+      "path": "library/originals/reference-corpus/Copy of ESAI_MAKARA TEAM_UNIVERSITAS INDONESIA_SAKARA (Sarana Karbon Nusantara).pdf",
+      "sha256": "8f24d577c4c246e0399ca533cd175aee4e014d0fd9433b5ede9312ba5b09f314",
+      "bytes": 6565121,
+      "source_library_id": "libfile_880c4342b6808191bd605f221bf63313",
+      "role": "user-supplied reference-corpus member",
+      "corpus_id": "37",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/appendix_content.json",
+      "original_filename": "appendix_content.json",
+      "sha256": "697bacd4ced9de2da3f40ed4fe0757a9fcd9d7b07b85a7eef31137ef7b40b364",
+      "bytes": 59151,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/concept_service.png",
+      "original_filename": "concept_service.png",
+      "sha256": "19c13bf07363e4807c5ad0cf72f84ae732a1c7d008dcefb84d14d543811905d3",
+      "bytes": 2798725,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_annual.pdf",
+      "original_filename": "finance_annual.pdf",
+      "sha256": "1993b1393293c5f9ea9b781882e6654fabaef4bf367e8e716ba8ecd6ca39f95f",
+      "bytes": 15981,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_annual.png",
+      "original_filename": "finance_annual.png",
+      "sha256": "eb190c4bb0e35682b96e7a3dd856b4328741ccacf9cefe98abea1b56e74029f1",
+      "bytes": 60385,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image45.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_cash.pdf",
+      "original_filename": "finance_cash.pdf",
+      "sha256": "24125502bc4db30bcadccabf86328386beddae8e54dd56100d2f28368ab3bf8d",
+      "bytes": 24254,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_cash.png",
+      "original_filename": "finance_cash.png",
+      "sha256": "f85b0de67c3ede7c994a5440fdee706ab8bc2af1704ab56d9e8af1674606e53e",
+      "bytes": 76529,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image46.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_sensitivity.pdf",
+      "original_filename": "finance_sensitivity.pdf",
+      "sha256": "305b7f57421ceb0e99a2865baeeb402d769145bac4b984822f2f2f08ee86bff1",
+      "bytes": 26803,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_sensitivity.png",
+      "original_filename": "finance_sensitivity.png",
+      "sha256": "c9e9151ab64e744303c749ff17beca0c43013c570764f37d4f316a6de0954969",
+      "bytes": 132087,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/gantt_decade.pdf",
+      "original_filename": "gantt_decade.pdf",
+      "sha256": "23f91919ad9166c6d366df9c15a216c14e608241c16ea05ae594c52d5674b251",
+      "bytes": 16924,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/gantt_decade.png",
+      "original_filename": "gantt_decade.png",
+      "sha256": "e48725f0da62149a8ba00f5e09606b12b49162d3ec5967035d4d500e80dff73a",
+      "bytes": 90744,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image48.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/gantt_year1.pdf",
+      "original_filename": "gantt_year1.pdf",
+      "sha256": "c75c019a9c032f3ddad89014b39aa27cc375c3bb6340659840d900d5c4c1c2ef",
+      "bytes": 17669,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/gantt_year1.png",
+      "original_filename": "gantt_year1.png",
+      "sha256": "3b042fad4a1195b7a0eef12eafda13880b69642f20bb2b02676d2a57de47b37b",
+      "bytes": 122109,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image47.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/issue_tree.pdf",
+      "original_filename": "issue_tree.pdf",
+      "sha256": "d4b92c32186fdeb96ff28a0907cc4410b6f4c8197c1032e45dff72cdf9a96532",
+      "bytes": 29918,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/issue_tree.png",
+      "original_filename": "issue_tree.png",
+      "sha256": "ea2c95b553fa80e38b43419ce55e616731b32ae46bd73c90206711a355b63a1b",
+      "bytes": 194639,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/main_system.pdf",
+      "original_filename": "main_system.pdf",
+      "sha256": "f8d2aa400c06d0c42aade067d2b451d1681db6d46d6f93cfa7395afac89e1152",
+      "bytes": 25669,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/main_system.png",
+      "original_filename": "main_system.png",
+      "sha256": "67c36fbcc5da0d779fdc8dbaab53a8b8da8c812e5fe552f39097652b16218f3f",
+      "bytes": 124075,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/manifest.json",
+      "original_filename": "manifest.json",
+      "sha256": "33508ccede3757ffe0a0f080570d1226a1fc5b6f46988ff390056c8cecf08b54",
+      "bytes": 6466,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_drivers.pdf",
+      "original_filename": "mc_drivers.pdf",
+      "sha256": "6dfbc0e0bb5544707d99ee9e048242933026371900ab23ed6b69fc49f9e5bd2b",
+      "bytes": 32991,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_drivers.png",
+      "original_filename": "mc_drivers.png",
+      "sha256": "db88cb6352243e3392249df87a431f281864a5b241d30cd6411e8494c5373b02",
+      "bytes": 82388,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image51.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_funding.pdf",
+      "original_filename": "mc_funding.pdf",
+      "sha256": "928c33979f15e7549abfc7420fe2603ef9636434cadb298a5419f8c3ecae4bb2",
+      "bytes": 17162,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_funding.png",
+      "original_filename": "mc_funding.png",
+      "sha256": "571a558632a54dc171824d756b1646fd4eab1a34cb992c0de2b6a8ce30a044b6",
+      "bytes": 60214,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_npv.pdf",
+      "original_filename": "mc_npv.pdf",
+      "sha256": "3f65c9a637964609f1d867ae7e5ac6c2e4bd3e63d7cced13a26e7a51936f34b2",
+      "bytes": 25332,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_npv.png",
+      "original_filename": "mc_npv.png",
+      "sha256": "6f39e6ac6b7cb624fae2a88822d8b4fa1140d6e5f6e4b3c0ea3504d04f75bafe",
+      "bytes": 49421,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image50.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/prototype_comparison.pdf",
+      "original_filename": "prototype_comparison.pdf",
+      "sha256": "d4a3d897088586daeefbf9af8e6c6f9b2af62ff1448fa044cde8aa5f1ba2c26b",
+      "bytes": 15805,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/prototype_comparison.png",
+      "original_filename": "prototype_comparison.png",
+      "sha256": "8e250be8084a53ed2f6bc5d72fb659cb1af4490f722425e17bc56fca6c201ae7",
+      "bytes": 46932,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image43.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/risk_heatmap.pdf",
+      "original_filename": "risk_heatmap.pdf",
+      "sha256": "952ecf5300dbac69eaee4c2a5b99dcce286d43a70d1583462231b2fa04fa783d",
+      "bytes": 17033,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/risk_heatmap.png",
+      "original_filename": "risk_heatmap.png",
+      "sha256": "093542389c0e121017788455a48b1f798f760fb97c53347a9c920b32c684a1f6",
+      "bytes": 140789,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image49.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/service_swimlane.pdf",
+      "original_filename": "service_swimlane.pdf",
+      "sha256": "4fc7f2468d786f242fdcf9be35f9e24774cce4d45e0e7e076b0cfe4c42252fbc",
+      "bytes": 26362,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/service_swimlane.png",
+      "original_filename": "service_swimlane.png",
+      "sha256": "5c86d43972e7909f9db28fadbbd57be5e4ad601b191a8b0668dc5448da0961d4",
+      "bytes": 136993,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/tam_sam_som.pdf",
+      "original_filename": "tam_sam_som.pdf",
+      "sha256": "f63abb7071cd5bed30cb4c541fd6a6dc9cac28a0e18a15e82e21538ba7986b2f",
+      "bytes": 35110,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/tam_sam_som.png",
+      "original_filename": "tam_sam_som.png",
+      "sha256": "c4c26f9def0bddac1dc879e1bfb5e4541edc6024e87bd60aca9d10820599903d",
+      "bytes": 112323,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image44.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/dlh-bemui-black.png",
+      "original_filename": "dlh-bemui-black.png",
+      "sha256": "d92880be31f46b447708b26f85caf89ed3068e356a2cbf424283caa2262f287f",
+      "bytes": 7262,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image30.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/ewasterj-black.png",
+      "original_filename": "ewasterj-black.png",
+      "sha256": "e2607ef092a10e986ed941ea93eba767bc6113fe2478a14e3efc966013860534",
+      "bytes": 38215,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/lintasarta-black.png",
+      "original_filename": "lintasarta-black.png",
+      "sha256": "10a72597a0ebcf3115442e7377f7f4281fb18488320e984e7864a0216a51a8b6",
+      "bytes": 11128,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image31.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/lintasarta-peduli-black.png",
+      "original_filename": "lintasarta-peduli-black.png",
+      "sha256": "21fefc21e23ccf25205825d8a47e29e5b85d7d8b8493e7bb0196343bda00e76d",
+      "bytes": 8082,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/source-87.png",
+      "original_filename": "source-87.png",
+      "sha256": "31d7131c606260ae728a3214319e4a82dc47bd9ef050e967ffcf81b4a434f79f",
+      "bytes": 13996,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/source-88.png",
+      "original_filename": "source-88.png",
+      "sha256": "88070e26d59233c148d16708389011500dd5aa09d4d70503fd84d026a2a0c9b5",
+      "bytes": 49565,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/source-89.png",
+      "original_filename": "source-89.png",
+      "sha256": "2a707098d247e45ca29597af2cade0c55b14a2093809c8e46706974c19ff73af",
+      "bytes": 10386,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/source-90.png",
+      "original_filename": "source-90.png",
+      "sha256": "d6dae9428875646284d214d73d4dcc7efb06ffe1b0e28b762d88bf716dc386fd",
+      "bytes": 10597,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/01-network.png",
+      "original_filename": "01-network.png",
+      "sha256": "fbf4f93001f8bdfd886d194b0b1335d1e838b1ff6842a485282231642bf89038",
+      "bytes": 785825,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image36.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/02-journey-comparison.png",
+      "original_filename": "02-journey-comparison.png",
+      "sha256": "6156fc296202b44a654b53dc532d503dc61a8c64fae1e118844f19e930fe49b0",
+      "bytes": 1014824,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/03-approval.png",
+      "original_filename": "03-approval.png",
+      "sha256": "802895e6b20f80052c6cb3ed341c506b4263dd9e4a93ab43763aca301b3c135f",
+      "bytes": 775907,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/04-custody-exception.png",
+      "original_filename": "04-custody-exception.png",
+      "sha256": "3ec7bb115398e165d5e027b56795518b8bed186425bbe6c4594812470baafa60",
+      "bytes": 248563,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/05-data-hold.png",
+      "original_filename": "05-data-hold.png",
+      "sha256": "7b57341ad50681cf97daa0aafad5662d73bf5629d835d70416ce6176f374146e",
+      "bytes": 254468,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/06-results.png",
+      "original_filename": "06-results.png",
+      "sha256": "83edb84c2c696712dd12882a095939022cf558defe8248d31da3067f7f5d5d54",
+      "bytes": 224459,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/07-intake.png",
+      "original_filename": "07-intake.png",
+      "sha256": "f4dfe52bf17ae2d6f26de5ac0cb57e1f71906381971abc512394b8548d0610c7",
+      "bytes": 281310,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/08-reference-results.png",
+      "original_filename": "08-reference-results.png",
+      "sha256": "eb67ac10daef6923800b9dae564d6406aff29a42285cd196dcdd45c9663d0cc0",
+      "bytes": 230596,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/09-options-detail.png",
+      "original_filename": "09-options-detail.png",
+      "sha256": "87548da593005b42843974c3cc33f301ee27adf5e49faca2c26dec7eec73b7c5",
+      "bytes": 369321,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/10-device-view.png",
+      "original_filename": "10-device-view.png",
+      "sha256": "15ea957546e001aca6973bbdd797840ad58a124c56cebe23a58b405357352be7",
+      "bytes": 416713,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/11-owner-vehicle.png",
+      "original_filename": "11-owner-vehicle.png",
+      "sha256": "ff09c3797a99c8245063d38f11cc911afc218ebab7234f33a113eb0dae97fb50",
+      "bytes": 249817,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/12-owner-facility.png",
+      "original_filename": "12-owner-facility.png",
+      "sha256": "cce0dd13161f230b91d77b69ddac8c478ec5d36171af033ab53079a8b10a0605",
+      "bytes": 281583,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/13-custody-detail.png",
+      "original_filename": "13-custody-detail.png",
+      "sha256": "5f437646a22395a9f88d0facdf5c2ca81f4285d1ac67cbe67d221d0370a40fc3",
+      "bytes": 67968,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image37.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/14-data-detail.png",
+      "original_filename": "14-data-detail.png",
+      "sha256": "54f7b01fb33e51e87ef821a7d2993745fddb6b1d43bd02714efebbde227346ab",
+      "bytes": 53544,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image38.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/15-approval-detail.png",
+      "original_filename": "15-approval-detail.png",
+      "sha256": "3b517d06654e4c1d44a18c6f393946115186de6b9b657808e1bd71ad01340166",
+      "bytes": 131974,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image40.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/16-options-detail.png",
+      "original_filename": "16-options-detail.png",
+      "sha256": "8862334bc2ab2583f05fd48729d737fefd6afd0ff67d5ab19d4e7046774a4e57",
+      "bytes": 87673,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/17-intake-detail.png",
+      "original_filename": "17-intake-detail.png",
+      "sha256": "029d7b1b412fcc12e03ab6231daaee8629f93edd42173cdf7866e82b8cba602b",
+      "bytes": 86755,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image41.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/18-results-detail.png",
+      "original_filename": "18-results-detail.png",
+      "sha256": "c4188302c0154c3239b064e612a71351097e0636eb3dd3b3c79e08014ec05a49",
+      "bytes": 177831,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image42.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/19-options-compact.png",
+      "original_filename": "19-options-compact.png",
+      "sha256": "5a6b1531f050548e6033d440c5baf9d6541d1f0ec4921f55e04d58118afb9022",
+      "bytes": 73789,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/embedded-media/image39.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/manifest.json",
+      "original_filename": "manifest.json",
+      "sha256": "550aa6faa3a131118cc8a7f3751079e4118958ce0246d3dd4a1a2bd00833b652",
+      "bytes": 4045,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/build_document.py",
+      "original_filename": "build_document.py",
+      "sha256": "736659e4f27dacb62864538160125adf23423d8947889313a020c3cd414d9b59",
+      "bytes": 37946,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/evidence.json",
+      "original_filename": "evidence.json",
+      "sha256": "0fde1c813f129b3a214f6fe5eabb80572811e93db5b9dba90615d7be91895f73",
+      "bytes": 27412,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/build_figures.py",
+      "original_filename": "build_figures.py",
+      "sha256": "c507e6264dc071d1db294ccde0c2e4f0fb41cf2b86138d6b0774ac010180bf96",
+      "bytes": 13139,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/build_finance_figures.py",
+      "original_filename": "build_finance_figures.py",
+      "sha256": "8fe3688efa60f2131e9aebfcd4dd53f53d04206c1e547ce28af7542db0f74f06",
+      "bytes": 9829,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/finance_annual.tex",
+      "original_filename": "finance_annual.tex",
+      "sha256": "03fd7ca60ed05a11144dff5cecbc1f0446d70be05712488863befe2920e30a34",
+      "bytes": 1941,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/finance_cash.tex",
+      "original_filename": "finance_cash.tex",
+      "sha256": "3939c0ce31bce4191c32b28669520f2373e09ce5762bbbba982c7717db2ed943",
+      "bytes": 2925,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/finance_sensitivity.tex",
+      "original_filename": "finance_sensitivity.tex",
+      "sha256": "64cf41da8de1f10db383087e943e08adef1c166b906d4cc1ad0eca415c7d90b6",
+      "bytes": 1927,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/gantt_decade.tex",
+      "original_filename": "gantt_decade.tex",
+      "sha256": "675477f84c11dc6a8b17c88ef39670fdea14167a16a92654efdb693d205e2c8e",
+      "bytes": 1870,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/gantt_year1.tex",
+      "original_filename": "gantt_year1.tex",
+      "sha256": "3418d251d24a318b7e50b7fcc1b97405e18de1d907419af99abc690f779c9185",
+      "bytes": 1891,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/issue_tree.tex",
+      "original_filename": "issue_tree.tex",
+      "sha256": "92438d6d3ea303b21141ef76f7721dd2ee78e0997b3b849d4c96e1cd56332aff",
+      "bytes": 2721,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/main_system.tex",
+      "original_filename": "main_system.tex",
+      "sha256": "406d5f5b6fb7fcb421824be35839eccaa48ce9de50dc6b161d5485632a96e05e",
+      "bytes": 1947,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/mc_drivers.tex",
+      "original_filename": "mc_drivers.tex",
+      "sha256": "6d5e5284f0263f62c02f0152ae7f812068b9a51058d4fc835ab35032683249d8",
+      "bytes": 1803,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/mc_funding.tex",
+      "original_filename": "mc_funding.tex",
+      "sha256": "4eba645ea74e29d786e6565b31ebc0c96ea93f19d5bf95c3e384ab7c72d9776f",
+      "bytes": 2658,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/mc_npv.tex",
+      "original_filename": "mc_npv.tex",
+      "sha256": "821e9945a13d12e6950be8b1fdd5e459e2cff3eabc1617a7ebe470d8ebaf1ae5",
+      "bytes": 2434,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/prototype_comparison.tex",
+      "original_filename": "prototype_comparison.tex",
+      "sha256": "fcceb0c5badc5527c4b0581522843f8f5d4f62893253706bfd5acb7ce49a4748",
+      "bytes": 2030,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/risk_heatmap.tex",
+      "original_filename": "risk_heatmap.tex",
+      "sha256": "c8665b146bbd41acc9b1017fea280929b89ba4a65e6b0df583a8f901497f8551",
+      "bytes": 4068,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/service_swimlane.tex",
+      "original_filename": "service_swimlane.tex",
+      "sha256": "a2aaf973e88dc41ab131548a8e74cd2a67598dc6dbcbfb2800d1c4a72deb6af7",
+      "bytes": 2472,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/tam_sam_som.tex",
+      "original_filename": "tam_sam_som.tex",
+      "sha256": "a62ebc34c0a8f91824a3b1af52023363e3fac04d9b1423fda00a872501237857",
+      "bytes": 1977,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/finance.json",
+      "original_filename": "finance.json",
+      "sha256": "a57f6827cdfe9612e64e669954541cd939a1ebf2ec7a50872c74fd6c4553ab9f",
+      "bytes": 38123,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/finance_mc_draws.csv",
+      "original_filename": "finance_mc_draws.csv",
+      "sha256": "47a66280fb9bb86a927aad1ab0ded12d97389de49c52d15874dad5799233b0ba",
+      "bytes": 2332045,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/finance_model.py",
+      "original_filename": "finance_model.py",
+      "sha256": "d82d92ef3db076035dd58be224f42d75851f18be90713eb61d78a6057d501359",
+      "bytes": 22747,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/source-current/finance_model.py"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/production-original/finance_tables.json",
+      "original_filename": "finance_tables.json",
+      "sha256": "72ef0b81d54926c27cb32a6363694cd19e29dd3b9c7bf7c949d4c6a83796b1b6",
+      "bytes": 15516,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/main.json",
+      "original_filename": "main.json",
+      "sha256": "3b7acc252a40bb848f1b838c8599a4aa9ebe2936e68a4a74005f739cd6243aab",
+      "bytes": 12409,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/method_appendix.json",
+      "original_filename": "method_appendix.json",
+      "sha256": "a3f9fdd116d2c8193f96f231deb2485413be0298741c2dc8e8e63b0bdc3e28a9",
+      "bytes": 6592,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/prototype-execution/run.mjs",
+      "original_filename": "run.mjs",
+      "sha256": "56bc17537e95c9ab59a24808ae5329c8393247f553e467a39b23c73d19ce805d",
+      "bytes": 5535,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/prototype_scenarios.json",
+      "original_filename": "prototype_scenarios.json",
+      "sha256": "d7c8010e11d33bfd310b87a26d8a79cc529edffec7a43362c486be4e3d89a421",
+      "bytes": 37359,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/production-original/qa_final.json",
+      "original_filename": "qa_final.json",
+      "sha256": "89647af4b66a6718e0235292baafdb3b826c532279e201f67535dd23531394ba",
+      "bytes": 640,
+      "role": "historical production source/asset",
+      "source_library_id": "libfile_f99f3a301c4c8191bbac05647216a371",
+      "historical": true,
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/assembled_sections.json",
+      "original_filename": "assembled_sections.json",
+      "sha256": "22b8afe70316732af390f54496a17358cbb3c2151e7393eb0710feb537721caa",
+      "bytes": 92552,
+      "role": "current source extracted from verified Master v4",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "recovery": "verbatim fenced source; terminal newline normalized",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/final_audit.json",
+      "original_filename": "final_audit.json",
+      "sha256": "7146ceabcb04f82cb47ec5ef919f5a12950f2fe379ee3e2b856f9d602139fd83",
+      "bytes": 1627,
+      "role": "current source extracted from verified Master v4",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "recovery": "verbatim fenced source; terminal newline normalized",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/media_manifest.json",
+      "original_filename": "media_manifest.json",
+      "sha256": "6e6f3036582ae65081cf632b5e7b26f86fa945eb28bab4bc9c50dd87722ba642",
+      "bytes": 3265,
+      "role": "current source extracted from verified Master v4",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "recovery": "verbatim fenced source; terminal newline normalized",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/overview_sources.json",
+      "original_filename": "overview_sources.json",
+      "sha256": "5d602366cf712a1dcacaa3f8a10241e7cc671b63f75ba6616f112dd04adda766",
+      "bytes": 1632,
+      "role": "current source extracted from verified Master v4",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "recovery": "verbatim fenced source; terminal newline normalized",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/figure_manifest.json",
+      "original_filename": "figure_manifest.json",
+      "sha256": "14f98fdd6ca9d005135756e959315e3f90cbe1d7f8e396262379ba64b8c7bed6",
+      "bytes": 1121,
+      "role": "current source extracted from verified Master v4",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "recovery": "verbatim fenced source; terminal newline normalized",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/finance_model.py",
+      "original_filename": "finance_model.py",
+      "sha256": "d82d92ef3db076035dd58be224f42d75851f18be90713eb61d78a6057d501359",
+      "bytes": 22747,
+      "role": "current source extracted from verified Master v4",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "recovery": "verbatim fenced source; terminal newline normalized",
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/finance_model.py"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/impact.py",
+      "original_filename": "impact.py",
+      "sha256": "1578e97c2d7a89ed09a5770b0d9d9140595d2c95500cf997c1fc78b62c3a3d6b",
+      "bytes": 16379,
+      "role": "current source extracted from verified Master v4",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "recovery": "verbatim fenced source; terminal newline normalized",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/prototype_scenarios.json",
+      "original_filename": "prototype_scenarios.json",
+      "sha256": "a1dc7849b105963acbdc3d5c04f8184a3bab5681c8a6cad7718309d5a15475e0",
+      "bytes": 37360,
+      "role": "current source extracted from verified Master v4",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "recovery": "verbatim fenced source; terminal newline normalized",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/main_overview_strip.tex",
+      "original_filename": "main_overview_strip.tex",
+      "sha256": "928fc753bbba07e789de19d8ed0ac029751a584c5f4dc5aad1185e1502b1e1e5",
+      "bytes": 1337,
+      "role": "current source extracted from verified Master v4",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "recovery": "verbatim fenced source; terminal newline normalized",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/issue_tree_horizontal.tex",
+      "original_filename": "issue_tree_horizontal.tex",
+      "sha256": "7456e5426e31a4dce5a3f92500c758e46de12d54b35b668f1a38219b2a19a60c",
+      "bytes": 4907,
+      "role": "current source extracted from verified Master v4",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "recovery": "verbatim fenced source; terminal newline normalized",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/service_flow.tex",
+      "original_filename": "service_flow.tex",
+      "sha256": "bbd783ea0f4bcec64d2654fb51cc9d7391cabbc9ad776a42301db9e1be3cb7c9",
+      "bytes": 2428,
+      "role": "current source extracted from verified Master v4",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "recovery": "verbatim fenced source; terminal newline normalized",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "skills/write-innovation-essays/references/innovation-essay-hub-v5.md",
+      "original_filename": "innovation-essay-hub-v5(2).md",
+      "sha256": "eed46f6bee81ed206c500f78a54ff5b7926d2dc7be325d57b41f62d60c7e18ff",
+      "bytes": 130216,
+      "role": "canonical exact V5 skill reference",
+      "source_library_id": "libfile_5f08c9fffa008191b12b33b11bc1eab8",
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "library/originals/manuals/innovation-essay-hub-v5(2).md"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/all-49-comments.json",
+      "original_filename": "all-49-comments.json",
+      "sha256": "e22b0f9f0331f062c92025b218e60aa24364084a1f43e7c8b705fd62aab15171",
+      "bytes": 75830,
+      "role": "all 49 preserved comment records",
+      "source_library_id": "libfile_ef79d5c176c48191a73bddd16e0c6069",
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image30.png",
+      "original_filename": "word/media/image30.png",
+      "sha256": "d92880be31f46b447708b26f85caf89ed3068e356a2cbf424283caa2262f287f",
+      "bytes": 7262,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "DLH BEM UI logo",
+      "matching_historical_assets": [
+        "production-original/assets/logos/dlh-bemui-black.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/logos/dlh-bemui-black.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image31.png",
+      "original_filename": "word/media/image31.png",
+      "sha256": "10a72597a0ebcf3115442e7377f7f4281fb18488320e984e7864a0216a51a8b6",
+      "bytes": 11128,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Lintasarta logo",
+      "matching_historical_assets": [
+        "production-original/assets/logos/lintasarta-black.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/logos/lintasarta-black.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image32.png",
+      "original_filename": "word/media/image32.png",
+      "sha256": "c213f865cd875647b326f9bd5f8f03bbfd83fd9144a84bfcf2aeab07663f7e34",
+      "bytes": 435297,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Main three-scene overview",
+      "matching_historical_assets": [],
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image33.png",
+      "original_filename": "word/media/image33.png",
+      "sha256": "52af592826d1b950ab64d240becf0d5156ab159e2abe3360d01d320219fee559",
+      "bytes": 695,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Public demonstration QR",
+      "matching_historical_assets": [],
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image34.png",
+      "original_filename": "word/media/image34.png",
+      "sha256": "39b7801c81c192417d3cb4b7758461b218cf743337a3794133d5ab4547b37ca7",
+      "bytes": 378874,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Horizontal root-cause tree",
+      "matching_historical_assets": [],
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image35.png",
+      "original_filename": "word/media/image35.png",
+      "sha256": "76073f940afdc583a0a7138e11767ed7db0ff452db7b1c85e945793bc7170a3d",
+      "bytes": 189109,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Simplified decision and exception flow",
+      "matching_historical_assets": [],
+      "multiplicity": 1,
+      "duplicate_paths": []
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image36.png",
+      "original_filename": "word/media/image36.png",
+      "sha256": "fbf4f93001f8bdfd886d194b0b1335d1e838b1ff6842a485282231642bf89038",
+      "bytes": 785825,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Network interface",
+      "matching_historical_assets": [
+        "production-original/assets/screenshots/01-network.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/screenshots/01-network.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image37.png",
+      "original_filename": "word/media/image37.png",
+      "sha256": "5f437646a22395a9f88d0facdf5c2ca81f4285d1ac67cbe67d221d0370a40fc3",
+      "bytes": 67968,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Current-holder custody exception",
+      "matching_historical_assets": [
+        "production-original/assets/screenshots/13-custody-detail.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/screenshots/13-custody-detail.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image38.png",
+      "original_filename": "word/media/image38.png",
+      "sha256": "54f7b01fb33e51e87ef821a7d2993745fddb6b1d43bd02714efebbde227346ab",
+      "bytes": 53544,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Data-hold interface",
+      "matching_historical_assets": [
+        "production-original/assets/screenshots/14-data-detail.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/screenshots/14-data-detail.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image39.png",
+      "original_filename": "word/media/image39.png",
+      "sha256": "5a6b1531f050548e6033d440c5baf9d6541d1f0ec4921f55e04d58118afb9022",
+      "bytes": 73789,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Eligible journey options",
+      "matching_historical_assets": [
+        "production-original/assets/screenshots/19-options-compact.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/screenshots/19-options-compact.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image40.png",
+      "original_filename": "word/media/image40.png",
+      "sha256": "3b517d06654e4c1d44a18c6f393946115186de6b9b657808e1bd71ad01340166",
+      "bytes": 131974,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Explicit assignment approval",
+      "matching_historical_assets": [
+        "production-original/assets/screenshots/15-approval-detail.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/screenshots/15-approval-detail.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image41.png",
+      "original_filename": "word/media/image41.png",
+      "sha256": "029d7b1b412fcc12e03ab6231daaee8629f93edd42173cdf7866e82b8cba602b",
+      "bytes": 86755,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Intake and owner consent",
+      "matching_historical_assets": [
+        "production-original/assets/screenshots/17-intake-detail.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/screenshots/17-intake-detail.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image42.png",
+      "original_filename": "word/media/image42.png",
+      "sha256": "c4188302c0154c3239b064e612a71351097e0636eb3dd3b3c79e08014ec05a49",
+      "bytes": 177831,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Initial results and open obligations",
+      "matching_historical_assets": [
+        "production-original/assets/screenshots/18-results-detail.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/screenshots/18-results-detail.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image43.png",
+      "original_filename": "word/media/image43.png",
+      "sha256": "8e250be8084a53ed2f6bc5d72fb659cb1af4490f722425e17bc56fca6c201ae7",
+      "bytes": 46932,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Equal-workload journey comparison",
+      "matching_historical_assets": [
+        "production-original/assets/figures/prototype_comparison.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/figures/prototype_comparison.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image44.png",
+      "original_filename": "word/media/image44.png",
+      "sha256": "c4c26f9def0bddac1dc879e1bfb5e4541edc6024e87bd60aca9d10820599903d",
+      "bytes": 112323,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "TAM SAM SOM",
+      "matching_historical_assets": [
+        "production-original/assets/figures/tam_sam_som.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/figures/tam_sam_som.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image45.png",
+      "original_filename": "word/media/image45.png",
+      "sha256": "eb190c4bb0e35682b96e7a3dd856b4328741ccacf9cefe98abea1b56e74029f1",
+      "bytes": 60385,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Annual finance projection",
+      "matching_historical_assets": [
+        "production-original/assets/figures/finance_annual.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/figures/finance_annual.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image46.png",
+      "original_filename": "word/media/image46.png",
+      "sha256": "f85b0de67c3ede7c994a5440fdee706ab8bc2af1704ab56d9e8af1674606e53e",
+      "bytes": 76529,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Cash trajectory",
+      "matching_historical_assets": [
+        "production-original/assets/figures/finance_cash.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/figures/finance_cash.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image47.png",
+      "original_filename": "word/media/image47.png",
+      "sha256": "3b042fad4a1195b7a0eef12eafda13880b69642f20bb2b02676d2a57de47b37b",
+      "bytes": 122109,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "First-year Gantt",
+      "matching_historical_assets": [
+        "production-original/assets/figures/gantt_year1.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/figures/gantt_year1.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image48.png",
+      "original_filename": "word/media/image48.png",
+      "sha256": "e48725f0da62149a8ba00f5e09606b12b49162d3ec5967035d4d500e80dff73a",
+      "bytes": 90744,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Decade Gantt",
+      "matching_historical_assets": [
+        "production-original/assets/figures/gantt_decade.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/figures/gantt_decade.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image49.png",
+      "original_filename": "word/media/image49.png",
+      "sha256": "093542389c0e121017788455a48b1f798f760fb97c53347a9c920b32c684a1f6",
+      "bytes": 140789,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Initial risk heatmap",
+      "matching_historical_assets": [
+        "production-original/assets/figures/risk_heatmap.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/figures/risk_heatmap.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image50.png",
+      "original_filename": "word/media/image50.png",
+      "sha256": "6f39e6ac6b7cb624fae2a88822d8b4fa1140d6e5f6e4b3c0ea3504d04f75bafe",
+      "bytes": 49421,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Monte Carlo NPV distribution",
+      "matching_historical_assets": [
+        "production-original/assets/figures/mc_npv.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/figures/mc_npv.png"
+      ]
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image51.png",
+      "original_filename": "word/media/image51.png",
+      "sha256": "db88cb6352243e3392249df87a431f281864a5b241d30cd6411e8494c5373b02",
+      "bytes": 82388,
+      "role": "exact image embedded in current final DOCX",
+      "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+      "meaning": "Monte Carlo ranked drivers",
+      "matching_historical_assets": [
+        "production-original/assets/figures/mc_drivers.png"
+      ],
+      "multiplicity": 2,
+      "duplicate_paths": [
+        "cases/jejakbalik/production-original/assets/figures/mc_drivers.png"
+      ]
+    }
+  ],
+  "reference_corpus": {
+    "archive_entries": 37,
+    "unique_binaries": 35,
+    "duplicate_pairs": [
+      [
+        "10",
+        "33"
+      ],
+      [
+        "17",
+        "23"
+      ]
+    ]
+  },
+  "known_missing_or_limited_content": [
+    {
+      "item": "GINTECH",
+      "corpus_id": "25",
+      "unavailable": "Printed pages 8–10 absent from supplied PDF (jumps 7 to 11); all available physical pages retained.",
+      "status": "user authorized available material"
+    },
+    {
+      "item": "Kumpulan Karya Esai Ilmiah dan Populer",
+      "corpus_id": "20",
+      "unavailable": "Supplied 51-page anthology ends at printed79 mid-sentence in final Setara Mobile App entry. Full paid205-page original was not recovered.",
+      "status": "user authorized available material"
+    },
+    {
+      "item": "Original annotated JejakBalik DOCX",
+      "unavailable": "The old annotated current Library identity was replaced with final revision. Current tools expose only present file; no unsupported version recovery attempted. All49 exact comment quotes/scopes/actions are preserved in master and extracted JSON.",
+      "status": "binary limitation; substantive feedback retained"
+    },
+    {
+      "item": "Kontura/GoDiet/E-Legislation source appendices and fine microtext",
+      "unavailable": "Some promised appendices absent, mockups broken or tiny labels illegible in supplied originals; do not claim full original missing content was read.",
+      "status": "source fidelity limits retained"
+    }
+  ],
+  "excluded_candidates": [
+    "Screenshot 2026-10-25 133134.png: unrelated jazz artwork",
+    "Screenshot 2026-10-25 at 16.04.39.png and16.05.00.png: unrelated engineering figures",
+    "PI MT.docx: companion search result not supplied as the PDF writing reference in this task"
+  ],
+  "path_portability_mapping": {
+    "library/originals/essays/Hidup Jokowi_Economic Growth_SIRKULA Scaling Circular Economy through Decentralized BSF Bioconversion to Reduce Organic Waste, Create Decent Jobs, and Secure Household Livelihoods in Indonesia.docx(1).pdf": "library/originals/essays/SIRKULA.pdf",
+    "library/originals/essays/Esai Mahasiswa _Ga Libur (Tim)_Gotong Sampah Inovasi Socio-Enterprise Inklusif guna Meningkatkan Nilai Ekonomi Limbah dan Formalisasi Profesi Pemulung Sebagai Akselerator Indonesia Emas 2045-1.pdf": "library/originals/essays/Gotong-Sampah.pdf",
+    "library/originals/reference-corpus/Copy of LKTI_ILHAM MUHAMMAD_UNIVERSITAS DIPONEGORO_E-CENG  Teknologi Terintegrasi dalam Pengelolaan Air Limbah Tekstil, Pengendali Pertumbuhan Eceng Gondok (Eichhornia crassipes) dan Bahan Baku Kerajinan yang Berbasis IOT.pdf": "library/originals/reference-corpus/10-E-CENG.pdf",
+    "library/originals/reference-corpus/Copy of LKTI-A NASIONAL_IPTEK_MUHAMMAD HAKAM AMNAN_UNIVERSITAS DIPONEGORO_CURHATIN YUK APLIKASI PELAYANAN PSIKOLOGI BERBASIS NILAI-NILAI QUR_ANI SEBAGAI SOLUSI KESEHATAN MENTAL DI ERA NEW NORMAL (1).pdf": "library/originals/reference-corpus/17-CURHATIN-YUK.pdf",
+    "library/originals/reference-corpus/Copy of LKTI-A NASIONAL_IPTEK_MUHAMMAD HAKAM AMNAN_UNIVERSITAS DIPONEGORO_CURHATIN YUK APLIKASI PELAYANAN PSIKOLOGI BERBASIS NILAI-NILAI QUR_ANI SEBAGAI SOLUSI KESEHATAN MENTAL DI ERA NEW NORMAL.pdf": "library/originals/reference-corpus/23-CURHATIN-YUK-duplicate.pdf",
+    "library/originals/reference-corpus/Copy of LKTI_ILHAM MUHAMMAD_UNIVERSITAS DIPONEGORO_E-CENG  Teknologi Terintegrasi dalam Pengelolaan Air Limbah Tekstil, Pengendali Pertumbuhan Eceng Gondok (Eichhornia crassipes) dan Bahan Baku Kerajinan yang Berbasis IOT (1).pdf": "library/originals/reference-corpus/33-E-CENG-duplicate.pdf"
+  },
+  "source_recovery_checks": {
+    "all_manifest_hashes_verified": true,
+    "case_insensitive_collisions": 0,
+    "windows_reserved_component_violations": 0,
+    "expanded_path_max_chars": 172,
+    "removed_unregistered_partial_staging_files": [
+      "library/originals/reference-corpus/.POTENSI CINNAMALDEHYDE (CND).pdf.W6PUx7",
+      "library/originals/guidebooks/.Guidebook Essay Competition (1)(1).pdf.uB5kHx"
+    ],
+    "original_corpus_zip_intact": true
+  }
+}

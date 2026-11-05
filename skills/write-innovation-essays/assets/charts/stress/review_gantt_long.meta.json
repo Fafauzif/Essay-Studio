@@ -1,0 +1,38 @@
+{
+  "id": "review_gantt_long",
+  "type": "gantt",
+  "tex": "skills/write-innovation-essays/assets/charts/stress/review_gantt_long.tex",
+  "input_sha256": "709652da4c709be213f3fe439631f90ea79247094f8fca90f67968c797c75496",
+  "font": "Times New Roman",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {
+    "periods": 12,
+    "tasks": 6,
+    "intervals": "1-based inclusive",
+    "row_heights": "actual wrapped label bounding boxes"
+  },
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "skills/write-innovation-essays/assets/charts/stress/review_gantt_long.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [
+    "Underfull \\hbox (badness 2772) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 2846) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 1668) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 5260) in paragraph at lines 65--65"
+  ],
+  "pdf_width_cm": 16.386880900065105,
+  "pdf_height_cm": 7.699375,
+  "png_renderer": "PyMuPDF",
+  "png": "skills/write-innovation-essays/assets/charts/stress/review_gantt_long.png",
+  "render_status": "rendered",
+  "pdf_text_fonts": [
+    "TimesNewRomanPSMT"
+  ],
+  "pdf_text_sizes_pt": [
+    8.948,
+    9.943
+  ],
+  "min_text_pt_at_nominal_width": 8.73711370828832
+}

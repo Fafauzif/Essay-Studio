@@ -1,0 +1,48 @@
+{
+  "status": "illustrative_team_judgments",
+  "rating_range": [
+    1,
+    5
+  ],
+  "factors": [
+    {
+      "factor": "Institutional access",
+      "weight": 0.1,
+      "rating": 4,
+      "weighted_score": 0.4
+    },
+    {
+      "factor": "Recurring service funding",
+      "weight": 0.25,
+      "rating": 5,
+      "weighted_score": 1.25
+    },
+    {
+      "factor": "Participant convenience",
+      "weight": 0.15,
+      "rating": 4,
+      "weighted_score": 0.6
+    },
+    {
+      "factor": "Shared operating records",
+      "weight": 0.2,
+      "rating": 4,
+      "weighted_score": 0.8
+    },
+    {
+      "factor": "Resource recovery route",
+      "weight": 0.1,
+      "rating": 4,
+      "weighted_score": 0.4
+    },
+    {
+      "factor": "Category-specific handling",
+      "weight": 0.2,
+      "rating": 5,
+      "weighted_score": 1.0
+    }
+  ],
+  "weight_total": 1.0,
+  "weighted_total": 4.449999999999999,
+  "scope": "Weights and ratings are explicit team judgments unless independently sourced; framework scales are not interchangeable."
+}

@@ -1,0 +1,48 @@
+{
+  "scope": "Bounded synthetic fixture verification of document intake; no historical corpus OCR or fresh complete-reading certification.",
+  "status": "passed",
+  "source_status_contract": "extracted_not_read",
+  "commands": [
+    "python -m unittest discover -s tests -p test_document_intake.py -v",
+    "python skills/write-innovation-essays/scripts/read_documents.py --help",
+    "python -m py_compile skills/write-innovation-essays/scripts/read_documents.py tests/test_document_intake.py"
+  ],
+  "unit_tests": {
+    "count": 6,
+    "passed": 6,
+    "failed": 0,
+    "observed_run_seconds": 0.311,
+    "checks": [
+      "Two-page native PDF text order, exact SHA identity, unchanged source bytes and valid atomic page PNG outputs.",
+      "Image-only PDF reports zero native text and an extraction gap without automatically running OCR.",
+      "Mocked missing OCR engine records unavailable capability and does not fabricate recognition validation.",
+      "DOCX paragraph-table-paragraph order and optional footer text are retained; page count remains unknown and source bytes remain unchanged.",
+      "ZIP parent, absolute and Windows drive paths are flagged; inventory performs no member extraction.",
+      "Invalid UTF-8 is rejected explicitly without guessing an encoding or replacing characters."
+    ]
+  },
+  "real_ocr_smoke": {
+    "attempted": true,
+    "fixture": "One temporary image-only PDF generated from synthetic English text.",
+    "engine": "Tesseract",
+    "languages": "eng",
+    "dpi": 200,
+    "native_characters": 0,
+    "ocr_status": "completed",
+    "ocr_derivative_characters": 33,
+    "derivative_nonempty": true,
+    "expected_fixture_phrase_present": true,
+    "source_modified": false,
+    "manifest_status": "extracted_not_read",
+    "extraction_state": "partial_or_requires_inspection",
+    "accuracy_validated": false,
+    "limit": "A matching synthetic phrase establishes a smoke check of the installed English OCR path, not transcription accuracy for arbitrary scans or other languages."
+  },
+  "not_claimed": [
+    "Complete reading of any reference corpus.",
+    "Accuracy validation of arbitrary OCR text, charts, equations or source layouts.",
+    "OCR testing for Indonesian or other language models.",
+    "DOCX pagination, comment resolution, tracked-change acceptance or full visual inspection.",
+    "ZIP member content reading, extraction or execution."
+  ]
+}

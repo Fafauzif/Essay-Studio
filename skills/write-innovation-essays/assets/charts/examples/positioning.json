@@ -1,0 +1,35 @@
+{
+  "font": "Times New Roman",
+  "font_pt": 10,
+  "width_cm": 16,
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "type": "positioning",
+  "x_low": "Penawaran umum",
+  "x_high": "Penanganan khusus",
+  "y_low": "Pengaturan terpisah",
+  "y_high": "Koordinasi terpadu",
+  "points": [
+    {
+      "label": "Alternatif A",
+      "x": -0.65,
+      "y": -0.45
+    },
+    {
+      "label": "Alternatif B",
+      "x": 0.6,
+      "y": -0.5
+    },
+    {
+      "label": "Usulan layanan",
+      "x": 0.65,
+      "y": 0.65
+    },
+    {
+      "label": "Alternatif C",
+      "x": -0.55,
+      "y": 0.45
+    }
+  ],
+  "id": "positioning"
+}

@@ -1,0 +1,6 @@
+{
+  "scope": "Final file I/O uses explicit UTF-8; all non-CLI numerical function ASTs identical to independently reviewed source.",
+  "reviewed_source_sha256": "1966d3d6c904ce83b678cea1789da0af68af07f93dc9539b72d7ee0424556f60",
+  "final_source_sha256": "78282744b210498cb2a7a5e514e7f473b4ce8c4322baf819423d0656724cd13e",
+  "numerical_ast_equal": true
+}

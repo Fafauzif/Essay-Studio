@@ -1,0 +1,7 @@
+python-docx
+PyMuPDF
+Pillow
+numpy
+PyYAML
+qrcode
+lxml

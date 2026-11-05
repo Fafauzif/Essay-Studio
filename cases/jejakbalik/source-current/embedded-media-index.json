@@ -1,0 +1,258 @@
+[
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image30.png",
+    "original_filename": "word/media/image30.png",
+    "sha256": "d92880be31f46b447708b26f85caf89ed3068e356a2cbf424283caa2262f287f",
+    "bytes": 7262,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "DLH BEM UI logo",
+    "matching_historical_assets": [
+      "production-original/assets/logos/dlh-bemui-black.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image31.png",
+    "original_filename": "word/media/image31.png",
+    "sha256": "10a72597a0ebcf3115442e7377f7f4281fb18488320e984e7864a0216a51a8b6",
+    "bytes": 11128,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Lintasarta logo",
+    "matching_historical_assets": [
+      "production-original/assets/logos/lintasarta-black.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image32.png",
+    "original_filename": "word/media/image32.png",
+    "sha256": "c213f865cd875647b326f9bd5f8f03bbfd83fd9144a84bfcf2aeab07663f7e34",
+    "bytes": 435297,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Main three-scene overview",
+    "matching_historical_assets": []
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image33.png",
+    "original_filename": "word/media/image33.png",
+    "sha256": "52af592826d1b950ab64d240becf0d5156ab159e2abe3360d01d320219fee559",
+    "bytes": 695,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Public demonstration QR",
+    "matching_historical_assets": []
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image34.png",
+    "original_filename": "word/media/image34.png",
+    "sha256": "39b7801c81c192417d3cb4b7758461b218cf743337a3794133d5ab4547b37ca7",
+    "bytes": 378874,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Horizontal root-cause tree",
+    "matching_historical_assets": []
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image35.png",
+    "original_filename": "word/media/image35.png",
+    "sha256": "76073f940afdc583a0a7138e11767ed7db0ff452db7b1c85e945793bc7170a3d",
+    "bytes": 189109,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Simplified decision and exception flow",
+    "matching_historical_assets": []
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image36.png",
+    "original_filename": "word/media/image36.png",
+    "sha256": "fbf4f93001f8bdfd886d194b0b1335d1e838b1ff6842a485282231642bf89038",
+    "bytes": 785825,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Network interface",
+    "matching_historical_assets": [
+      "production-original/assets/screenshots/01-network.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image37.png",
+    "original_filename": "word/media/image37.png",
+    "sha256": "5f437646a22395a9f88d0facdf5c2ca81f4285d1ac67cbe67d221d0370a40fc3",
+    "bytes": 67968,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Current-holder custody exception",
+    "matching_historical_assets": [
+      "production-original/assets/screenshots/13-custody-detail.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image38.png",
+    "original_filename": "word/media/image38.png",
+    "sha256": "54f7b01fb33e51e87ef821a7d2993745fddb6b1d43bd02714efebbde227346ab",
+    "bytes": 53544,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Data-hold interface",
+    "matching_historical_assets": [
+      "production-original/assets/screenshots/14-data-detail.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image39.png",
+    "original_filename": "word/media/image39.png",
+    "sha256": "5a6b1531f050548e6033d440c5baf9d6541d1f0ec4921f55e04d58118afb9022",
+    "bytes": 73789,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Eligible journey options",
+    "matching_historical_assets": [
+      "production-original/assets/screenshots/19-options-compact.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image40.png",
+    "original_filename": "word/media/image40.png",
+    "sha256": "3b517d06654e4c1d44a18c6f393946115186de6b9b657808e1bd71ad01340166",
+    "bytes": 131974,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Explicit assignment approval",
+    "matching_historical_assets": [
+      "production-original/assets/screenshots/15-approval-detail.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image41.png",
+    "original_filename": "word/media/image41.png",
+    "sha256": "029d7b1b412fcc12e03ab6231daaee8629f93edd42173cdf7866e82b8cba602b",
+    "bytes": 86755,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Intake and owner consent",
+    "matching_historical_assets": [
+      "production-original/assets/screenshots/17-intake-detail.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image42.png",
+    "original_filename": "word/media/image42.png",
+    "sha256": "c4188302c0154c3239b064e612a71351097e0636eb3dd3b3c79e08014ec05a49",
+    "bytes": 177831,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Initial results and open obligations",
+    "matching_historical_assets": [
+      "production-original/assets/screenshots/18-results-detail.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image43.png",
+    "original_filename": "word/media/image43.png",
+    "sha256": "8e250be8084a53ed2f6bc5d72fb659cb1af4490f722425e17bc56fca6c201ae7",
+    "bytes": 46932,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Equal-workload journey comparison",
+    "matching_historical_assets": [
+      "production-original/assets/figures/prototype_comparison.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image44.png",
+    "original_filename": "word/media/image44.png",
+    "sha256": "c4c26f9def0bddac1dc879e1bfb5e4541edc6024e87bd60aca9d10820599903d",
+    "bytes": 112323,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "TAM SAM SOM",
+    "matching_historical_assets": [
+      "production-original/assets/figures/tam_sam_som.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image45.png",
+    "original_filename": "word/media/image45.png",
+    "sha256": "eb190c4bb0e35682b96e7a3dd856b4328741ccacf9cefe98abea1b56e74029f1",
+    "bytes": 60385,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Annual finance projection",
+    "matching_historical_assets": [
+      "production-original/assets/figures/finance_annual.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image46.png",
+    "original_filename": "word/media/image46.png",
+    "sha256": "f85b0de67c3ede7c994a5440fdee706ab8bc2af1704ab56d9e8af1674606e53e",
+    "bytes": 76529,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Cash trajectory",
+    "matching_historical_assets": [
+      "production-original/assets/figures/finance_cash.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image47.png",
+    "original_filename": "word/media/image47.png",
+    "sha256": "3b042fad4a1195b7a0eef12eafda13880b69642f20bb2b02676d2a57de47b37b",
+    "bytes": 122109,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "First-year Gantt",
+    "matching_historical_assets": [
+      "production-original/assets/figures/gantt_year1.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image48.png",
+    "original_filename": "word/media/image48.png",
+    "sha256": "e48725f0da62149a8ba00f5e09606b12b49162d3ec5967035d4d500e80dff73a",
+    "bytes": 90744,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Decade Gantt",
+    "matching_historical_assets": [
+      "production-original/assets/figures/gantt_decade.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image49.png",
+    "original_filename": "word/media/image49.png",
+    "sha256": "093542389c0e121017788455a48b1f798f760fb97c53347a9c920b32c684a1f6",
+    "bytes": 140789,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Initial risk heatmap",
+    "matching_historical_assets": [
+      "production-original/assets/figures/risk_heatmap.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image50.png",
+    "original_filename": "word/media/image50.png",
+    "sha256": "6f39e6ac6b7cb624fae2a88822d8b4fa1140d6e5f6e4b3c0ea3504d04f75bafe",
+    "bytes": 49421,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Monte Carlo NPV distribution",
+    "matching_historical_assets": [
+      "production-original/assets/figures/mc_npv.png"
+    ]
+  },
+  {
+    "path": "cases/jejakbalik/source-current/embedded-media/image51.png",
+    "original_filename": "word/media/image51.png",
+    "sha256": "db88cb6352243e3392249df87a431f281864a5b241d30cd6411e8494c5373b02",
+    "bytes": 82388,
+    "role": "exact image embedded in current final DOCX",
+    "source_library_id": "libfile_9db454032c5881919e3c4db4a9e96ccc",
+    "meaning": "Monte Carlo ranked drivers",
+    "matching_historical_assets": [
+      "production-original/assets/figures/mc_drivers.png"
+    ]
+  }
+]

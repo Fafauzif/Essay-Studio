@@ -1,0 +1,20 @@
+{
+  "project": "new-project",
+  "language": "id",
+  "current_mode": "discussion",
+  "authorized_outputs": [],
+  "audience": null,
+  "guidebook": {"path": null, "read_completely": false, "rules": [], "rubric": [], "page_count_scope": null, "required_files": [], "source_gaps": []},
+  "argument": {"problem": null, "root_causes": [], "intended_system": null, "participants_and_payer": null, "distinctive_mechanism": null, "implementation_route": null, "bounded_contribution": null},
+  "settled_decisions": [],
+  "material_questions": [],
+  "source_register": [],
+  "assumption_register": [],
+  "figure_manifest": [],
+  "appendix_manifest": [],
+  "comment_ledger": [],
+  "review_rounds": [],
+  "actual_verification": [],
+  "unresolved_limits": [],
+  "artifact_manifest": []
+}

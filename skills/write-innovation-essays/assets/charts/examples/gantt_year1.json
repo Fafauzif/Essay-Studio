@@ -1,0 +1,56 @@
+{
+  "font": "Times New Roman",
+  "font_pt": 10,
+  "width_cm": 16,
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "type": "gantt",
+  "periods": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "tasks": [
+    {
+      "label": "Lingkup dan kontrak program",
+      "start": 1,
+      "end": 2,
+      "critical": true
+    },
+    {
+      "label": "Penawaran penyedia dan penerima",
+      "start": 1,
+      "end": 2
+    },
+    {
+      "label": "Catatan bersama dan pelatihan petugas",
+      "start": 2,
+      "end": 3
+    },
+    {
+      "label": "Layanan dan rekonsiliasi bulanan",
+      "start": 3,
+      "end": 12
+    },
+    {
+      "label": "Penambahan program sesuai kapasitas",
+      "start": 5,
+      "end": 12
+    },
+    {
+      "label": "Tinjauan pembaruan kontrak",
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "id": "gantt_year1"
+}

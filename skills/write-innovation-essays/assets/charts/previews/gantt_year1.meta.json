@@ -1,0 +1,40 @@
+{
+  "id": "gantt_year1",
+  "type": "gantt",
+  "tex": "essay-studio/skills/write-innovation-essays/assets/charts/previews/gantt_year1.tex",
+  "input_sha256": "8e942071823aa5e6d6a8e8f9a8c8c7792cd00cbdb8de8fdeaefc12804e4e996f",
+  "font": "Times New Roman",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {
+    "periods": 12,
+    "tasks": 6,
+    "intervals": "1-based inclusive",
+    "row_heights": "actual wrapped label bounding boxes"
+  },
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "essay-studio/skills/write-innovation-essays/assets/charts/previews/gantt_year1.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [
+    "Underfull \\hbox (badness 2205) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 7522) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 2012) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 4072) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 1668) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 5260) in paragraph at lines 65--65"
+  ],
+  "pdf_width_cm": 16.386880900065105,
+  "pdf_height_cm": 6.014861111111111,
+  "png_renderer": "PyMuPDF",
+  "png": "essay-studio/skills/write-innovation-essays/assets/charts/previews/gantt_year1.png",
+  "render_status": "rendered",
+  "pdf_text_fonts": [
+    "TimesNewRomanPSMT"
+  ],
+  "pdf_text_sizes_pt": [
+    8.948,
+    9.943
+  ],
+  "min_text_pt_at_nominal_width": 8.73711370828832
+}

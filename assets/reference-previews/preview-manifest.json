@@ -1,0 +1,212 @@
+[
+  {
+    "id": "04",
+    "physical_page": 4,
+    "source_member": "Naskah Juara 1 Lomba Esai Nasional.pdf",
+    "preview_path": "assets/reference-previews/fishee-opening.png",
+    "source_page_size_pt": [
+      0.0,
+      0.0,
+      595.4400024414062,
+      841.9199829101562
+    ],
+    "kind": "actual_source_page_render",
+    "content_edited": false,
+    "source_path": "library/originals/reference-corpus/Naskah Juara 1 Lomba Esai Nasional.pdf",
+    "source_sha256": "c0e2f4785cd807c30b68da2e10b4c34da87b75c53a120ab3e1cc427fd10d8094",
+    "meaningful_title": "FISHEE.ID",
+    "preview_sha256": "afa2f89e38831fc7b71d722c49134dbc2208743351619377216537754570e6bc",
+    "render_scale": 1.6,
+    "source_locator_basis": "physical PDF page; first page is1"
+  },
+  {
+    "id": "04",
+    "physical_page": 9,
+    "source_member": "Naskah Juara 1 Lomba Esai Nasional.pdf",
+    "preview_path": "assets/reference-previews/fishee-transaction.png",
+    "source_page_size_pt": [
+      0.0,
+      0.0,
+      595.4400024414062,
+      841.9199829101562
+    ],
+    "kind": "actual_source_page_render",
+    "content_edited": false,
+    "source_path": "library/originals/reference-corpus/Naskah Juara 1 Lomba Esai Nasional.pdf",
+    "source_sha256": "c0e2f4785cd807c30b68da2e10b4c34da87b75c53a120ab3e1cc427fd10d8094",
+    "meaningful_title": "FISHEE.ID",
+    "preview_sha256": "0b8276925a17fb4f426b7713435f67bb055b41347a024a3c2a27381cea0179d8",
+    "render_scale": 1.6,
+    "source_locator_basis": "physical PDF page; first page is1"
+  },
+  {
+    "id": "08",
+    "physical_page": 4,
+    "source_member": "Copy of 1. MARIO DWI PRASETYO_INSTITUT TEKNOLOGI SEPULUH NOPEMBER_JAKARTA SMART ISLAND - Mario Dwi Prasetyo.pdf",
+    "preview_path": "assets/reference-previews/jakarta-system.png",
+    "source_page_size_pt": [
+      0.0,
+      0.0,
+      595.3200073242188,
+      841.9199829101562
+    ],
+    "kind": "actual_source_page_render",
+    "content_edited": false,
+    "source_path": "library/originals/reference-corpus/Copy of 1. MARIO DWI PRASETYO_INSTITUT TEKNOLOGI SEPULUH NOPEMBER_JAKARTA SMART ISLAND - Mario Dwi Prasetyo.pdf",
+    "source_sha256": "30677ae4e1352b7bb0fd53e8a576dba06f42bd5ead597274d5dc173ea2860184",
+    "meaningful_title": "Jakarta Smart Island",
+    "preview_sha256": "299fa8e15f4d573ade3ed62c6c1a1fd07d488005612fe7c1b7baa2a144b8c028",
+    "render_scale": 1.6,
+    "source_locator_basis": "physical PDF page; first page is1"
+  },
+  {
+    "id": "11",
+    "physical_page": 5,
+    "source_member": "Amaliya Putri - SOLVEAROPHILE.pdf",
+    "preview_path": "assets/reference-previews/solvaerophil-appendix-calls.png",
+    "source_page_size_pt": [
+      0.0,
+      0.0,
+      439.3999938964844,
+      652.0
+    ],
+    "kind": "actual_source_page_render",
+    "content_edited": false,
+    "source_path": "library/originals/reference-corpus/Amaliya Putri - SOLVEAROPHILE.pdf",
+    "source_sha256": "59b2492b6c9e7a992768676e07d8f6e12db7ad663e81cc8d9204ec9d71d8c00a",
+    "meaningful_title": "SOLVAEROPHIL",
+    "preview_sha256": "6605c53ce35890a82201c93621395313a90af26c8c95ee003d595f640da525b7",
+    "render_scale": 1.6,
+    "source_locator_basis": "physical PDF page; first page is1"
+  },
+  {
+    "id": "37",
+    "physical_page": 7,
+    "source_member": "Copy of ESAI_MAKARA TEAM_UNIVERSITAS INDONESIA_SAKARA (Sarana Karbon Nusantara).pdf",
+    "preview_path": "assets/reference-previews/sakara-business-flow.png",
+    "source_page_size_pt": [
+      0.0,
+      0.0,
+      596.0,
+      842.0
+    ],
+    "kind": "actual_source_page_render",
+    "content_edited": false,
+    "source_path": "library/originals/reference-corpus/Copy of ESAI_MAKARA TEAM_UNIVERSITAS INDONESIA_SAKARA (Sarana Karbon Nusantara).pdf",
+    "source_sha256": "8f24d577c4c246e0399ca533cd175aee4e014d0fd9433b5ede9312ba5b09f314",
+    "meaningful_title": "SAKARA: Sarana Karbon Nusantara",
+    "preview_sha256": "a1feb013e76b143dcc57ea47912e6b31ff74e7df0242d588885d007b98c53441",
+    "render_scale": 1.6,
+    "source_locator_basis": "physical PDF page; first page is1"
+  },
+  {
+    "id": "32",
+    "physical_page": 94,
+    "source_member": "Kumpulan Naskah Esai.pdf",
+    "preview_path": "assets/reference-previews/citizen-charter.png",
+    "source_page_size_pt": [
+      0.0,
+      0.0,
+      595.3200073242188,
+      841.9199829101562
+    ],
+    "kind": "actual_source_page_render",
+    "content_edited": false,
+    "source_path": "library/originals/reference-corpus/Kumpulan Naskah Esai.pdf",
+    "source_sha256": "b178afb84cb3d0efad2af546589130ad91dd9b78e2e7f23850f8f5c6a4bfdeaf",
+    "meaningful_title": "Kumpulan Naskah Esai",
+    "preview_sha256": "d2c4b91bece4d3b1f80202f64bc0829ffe4d70edcadb6b3f35b96d434eeb3f5c",
+    "render_scale": 1.6,
+    "source_locator_basis": "physical PDF page; first page is1"
+  },
+  {
+    "title": "ReFeel — market scope",
+    "physical_page": 31,
+    "source_path": "library/originals/essays/Semifinal Round_Faga_Hamiz Ghanir_BPC21MX..pdf",
+    "preview_path": "assets/reference-previews/refeel-market-exhibit.png",
+    "source_page_size_pt": [
+      0.0,
+      0.0,
+      596.0,
+      842.0
+    ],
+    "kind": "actual_source_page_render",
+    "content_edited": false,
+    "source_sha256": "a3cde55fd2a9b4eb2758b16e8c5aadadf5c6cd65814873386156929df68afa8b",
+    "preview_sha256": "4d0b0d6456343b349e22b380623d732427efdebddd4e28304575a128ae16af54",
+    "render_scale": 1.6,
+    "source_locator_basis": "physical PDF page; first page is1"
+  },
+  {
+    "title": "ReFeel — detailed service workflow",
+    "physical_page": 40,
+    "source_path": "library/originals/essays/Semifinal Round_Faga_Hamiz Ghanir_BPC21MX..pdf",
+    "preview_path": "assets/reference-previews/refeel-service-workflow.png",
+    "source_page_size_pt": [
+      0.0,
+      0.0,
+      596.0,
+      842.0
+    ],
+    "kind": "actual_source_page_render",
+    "content_edited": false,
+    "source_sha256": "a3cde55fd2a9b4eb2758b16e8c5aadadf5c6cd65814873386156929df68afa8b",
+    "preview_sha256": "b65f2146042704588bc8748c977d1e9360722ec90e1e92456a3e07cf76b1f6eb",
+    "render_scale": 1.6,
+    "source_locator_basis": "physical PDF page; first page is1"
+  },
+  {
+    "title": "Dua — competitor feature evidence",
+    "physical_page": 48,
+    "source_path": "library/originals/essays/Dua_Athifa Ardhani_UI.pdf",
+    "preview_path": "assets/reference-previews/dua-comparison.png",
+    "source_page_size_pt": [
+      0.0,
+      0.0,
+      596.0,
+      842.0
+    ],
+    "kind": "actual_source_page_render",
+    "content_edited": false,
+    "source_sha256": "4f24ee77bcf3a8b06b2628c26dea03f43502170e2e665ee5f0d4c93d646396e9",
+    "preview_sha256": "e7ae0d8470f55bf45c137303f9847613f44a59520ce9441af4998727bf575715",
+    "render_scale": 1.6,
+    "source_locator_basis": "physical PDF page; first page is1"
+  },
+  {
+    "title": "Dua — implementation, indicators and risk",
+    "physical_page": 58,
+    "source_path": "library/originals/essays/Dua_Athifa Ardhani_UI.pdf",
+    "preview_path": "assets/reference-previews/dua-implementation.png",
+    "source_page_size_pt": [
+      0.0,
+      0.0,
+      596.0,
+      842.0
+    ],
+    "kind": "actual_source_page_render",
+    "content_edited": false,
+    "source_sha256": "4f24ee77bcf3a8b06b2628c26dea03f43502170e2e665ee5f0d4c93d646396e9",
+    "preview_sha256": "f988c28a43c80b4eb31cbac81204dd29d41560f758774c718dd5ce72c1f72326",
+    "render_scale": 1.6,
+    "source_locator_basis": "physical PDF page; first page is1"
+  },
+  {
+    "title": "Urgency, or the Appearance of Urgency? — opening",
+    "physical_page": 1,
+    "source_path": "library/originals/essays/PI MT.docx.pdf",
+    "preview_path": "assets/reference-previews/pi-mt-writing.png",
+    "source_page_size_pt": [
+      0.0,
+      0.0,
+      596.0,
+      842.0
+    ],
+    "kind": "actual_source_page_render",
+    "content_edited": false,
+    "source_sha256": "c01050b75fde3c47e7d2be724ebf6357812211baa88abedf743b6f8e36fc7167",
+    "preview_sha256": "fa97f97a0d3f8dee1888494cdeb8f25f28c6f307b1ecd3c834fc1afb96fc9310",
+    "render_scale": 1.6,
+    "source_locator_basis": "physical PDF page; first page is1"
+  }
+]

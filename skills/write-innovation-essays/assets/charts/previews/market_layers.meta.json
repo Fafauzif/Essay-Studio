@@ -1,0 +1,31 @@
+{
+  "id": "market_layers",
+  "type": "tam_sam_som",
+  "tex": "essay-studio/skills/write-innovation-essays/assets/charts/previews/market_layers.tex",
+  "input_sha256": "46dd5fa2727f217d090358f6cf3344fbd1e79c8358cacb40ecc602e0c01ddf15",
+  "font": "Times New Roman",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {
+    "schematic": true,
+    "area_proportional": false
+  },
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "essay-studio/skills/write-innovation-essays/assets/charts/previews/market_layers.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [],
+  "pdf_width_cm": 16.387586068047415,
+  "pdf_height_cm": 7.031566925048828,
+  "png_renderer": "PyMuPDF",
+  "png": "essay-studio/skills/write-innovation-essays/assets/charts/previews/market_layers.png",
+  "render_status": "rendered",
+  "pdf_text_fonts": [
+    "TimesNewRomanPS-BoldMT",
+    "TimesNewRomanPSMT"
+  ],
+  "pdf_text_sizes_pt": [
+    10.96
+  ],
+  "min_text_pt_at_nominal_width": 10.700740058840697
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-05",
+  "script_sha256": "d44c7fc143c7725df601253d2a4cdefa9afb5529bf234dfda3a57d0e0952f6b3",
+  "examples_compiled": 13,
+  "families": 12,
+  "engine": "XeLaTeX",
+  "font": "Times New Roman",
+  "all_pngs_full_decode": true,
+  "all_pdfs_one_page": true,
+  "all_input_hashes_match": true,
+  "self_test": {
+    "status": "passed",
+    "checks": [
+      "literal TeX-sensitive labels",
+      "nonfinite input rejected",
+      "fractional ordinal score rejected",
+      "histogram preserves all observations",
+      "linear quantiles agree with known sample",
+      "quantile overlays are lines rather than inherited histogram bars",
+      "identical quantiles share one label",
+      "positive bars retain zero baseline",
+      "series-length mismatch rejected",
+      "reversed time axis rejected",
+      "Gantt out-of-range end rejected",
+      "structure unknown parent rejected",
+      "complete PNG accepted",
+      "truncated PNG rejected"
+    ],
+    "scope": "Pure data/escaping/PNG regression checks; not a TeX render or editorial proof."
+  },
+  "export_lifecycle_checks": {
+    "english_actual_render": "passed",
+    "missing_requested_font": "rejected",
+    "failed_compile_preserves_last_successful_tex_pdf_png_metadata": true,
+    "source_only_marks_existing_rendered_outputs_not_updated": true,
+    "duplicate_batch_ids_rejected_before_outputs": true
+  },
+  "corrected_after_independent_review": [
+    "Percentile overlays explicitly use sharp plot rather than inherited histogram bars.",
+    "Gantt rows follow actual wrapped label bounding boxes; independently supplied long-label case re-rendered and visually accepted."
+  ],
+  "measured_font_metrics_recorded": true,
+  "stress_case": {
+    "input": "skills/write-innovation-essays/assets/charts/stress/long-gantt.json",
+    "purpose": "Ordinary long Indonesian task labels occupy separate measured rows.",
+    "status": "Rendered and independently visually accepted."
+  }
+}

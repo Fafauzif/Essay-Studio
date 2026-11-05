@@ -1,0 +1,778 @@
+{
+  "H1": {
+    "title": "Tarif dan anggaran pemenuhan per perangkat",
+    "columns": [
+      "Kategori",
+      "Bauran",
+      "Tarif Rp",
+      "Angkut Rp",
+      "Terima/tangani Rp",
+      "Tinjau Rp",
+      "Insiden Rp",
+      "Total biaya Rp"
+    ],
+    "rows": [
+      [
+        "Biasa",
+        "80%",
+        "45.000",
+        "15.000",
+        "12.000",
+        "2.000",
+        "2.000",
+        "31.000"
+      ],
+      [
+        "Besar",
+        "15%",
+        "110.000",
+        "45.000",
+        "30.000",
+        "3.000",
+        "4.000",
+        "82.000"
+      ],
+      [
+        "Khusus",
+        "5%",
+        "190.000",
+        "60.000",
+        "70.000",
+        "5.000",
+        "10.000",
+        "145.000"
+      ]
+    ],
+    "note": "Estimasi tim, rupiah konstan2027. Kategori khusus hanya dilayani operator yang memenuhi persyaratan. Anggaran pengecualian diasumsikan digunakan."
+  },
+  "H2": {
+    "title": "Biaya bersama dan modal awal",
+    "columns": [
+      "Komponen",
+      "Nilai",
+      "Dasar"
+    ],
+    "rows": [
+      [
+        "Imbalan pengelola",
+        "Rp6.000.000/bulan",
+        "150jam total ×Rp40.000"
+      ],
+      [
+        "Tenaga operasi",
+        "Rp2juta per50jam/bulan",
+        "Satu blok untuk setiapempat host; minimum1blok"
+      ],
+      [
+        "Hosting",
+        "Rp350.000/bulan",
+        "Estimasi tim"
+      ],
+      [
+        "Ruang kerja",
+        "Rp500.000/bulan",
+        "Estimasi tim"
+      ],
+      [
+        "Komunikasi",
+        "Rp250.000/bulan",
+        "Estimasi tim"
+      ],
+      [
+        "Profesional/review",
+        "Rp500.000/bulan",
+        "Estimasi tim"
+      ],
+      [
+        "Perlindungan/administrasi insiden",
+        "Rp250.000/bulan",
+        "Estimasi tim; bukanjaminan pertanggungan"
+      ],
+      [
+        "Perjalanan koordinasi",
+        "Rp250.000/bulan",
+        "Estimasi tim"
+      ],
+      [
+        "Akuisisi/pemasaran",
+        "Rp1/1,2/1,5juta perbulan",
+        "Tahun1/2/3"
+      ],
+      [
+        "Onboarding",
+        "Rp500.000/hostbaru",
+        "Tambahan layanan/latihan dan bahan"
+      ],
+      [
+        "Peralatanawal",
+        "Rp12.000.000",
+        "Belanja awal; tidak ada nilai terminal"
+      ],
+      [
+        "Konfigurasi perangkatlunak/pelatihan",
+        "Rp16.000.000",
+        "Biaya persiapan sebelum operasi"
+      ]
+    ],
+    "note": "Semua nilai estimasi tim. Imbalan pengelola merupakan biaya kerja, terpisah dari distribusi keuntungan."
+  },
+  "H3": {
+    "title": "Rekap tahunan model dasar",
+    "columns": [
+      "Ukuran",
+      "2027",
+      "2028",
+      "2029"
+    ],
+    "rows": [
+      [
+        "Bulan-kontrak",
+        "27",
+        "78",
+        "126"
+      ],
+      [
+        "Host akhir tahun",
+        "4",
+        "8",
+        "12"
+      ],
+      [
+        "Perangkat diterima",
+        "1.080",
+        "3.120",
+        "5.040"
+      ],
+      [
+        "Penerimaan layanan, juta Rp",
+        "147,96",
+        "427,44",
+        "690,48"
+      ],
+      [
+        "Biaya pemenuhan, juta Rp",
+        "47,90",
+        "138,37",
+        "223,52"
+      ],
+      [
+        "Biaya bersama, juta Rp",
+        "133,20",
+        "159,60",
+        "187,20"
+      ],
+      [
+        "Onboarding, juta Rp",
+        "2,00",
+        "2,00",
+        "2,00"
+      ],
+      [
+        "Surplus operasi, juta Rp",
+        "-35,14",
+        "127,47",
+        "277,76"
+      ],
+      [
+        "Kasbersih periode, juta Rp",
+        "-45,06",
+        "117,55",
+        "267,84"
+      ],
+      [
+        "Kasakhir dengan rencana modal, juta Rp",
+        "36,94",
+        "154,49",
+        "422,33"
+      ],
+      [
+        "Piutangakhir, juta Rp",
+        "9,92",
+        "19,84",
+        "29,76"
+      ]
+    ],
+    "note": "Surplus operasi sebelum pajak/bunga. Modal rencana110juta masuk sekali sebelum bulan1; komitmen dana masih0."
+  },
+  "H4": {
+    "title": "Skenario operasi tiga tahun",
+    "columns": [
+      "Ukuran",
+      "Downside",
+      "Dasar",
+      "Upside"
+    ],
+    "rows": [
+      [
+        "NPV sebelum pajak, jutaRp",
+        "-111,50",
+        "224,67",
+        "332,64"
+      ],
+      [
+        "Kebutuhan pendanaan, jutaRp",
+        "180,86",
+        "104,82",
+        "100,24"
+      ],
+      [
+        "Pengembalian kas, bulan",
+        "Tidak tercapai dalam 36 bulan",
+        "22",
+        "19"
+      ],
+      [
+        "Penerimaan tiga tahun, jutaRp",
+        "639,64",
+        "1.265,88",
+        "1.493,60"
+      ]
+    ],
+    "note": "Tidak ada nilai terminal. Downside:bulan-kontrak65%, volume75%, tarif tetap80%, biaya langsung120%, jedaperangkat2bulan dan80%tariftetap prabayar. Upside:bulan-kontrak110%, volume110%, tarif tetap105%, biaya langsung95%."
+  },
+  "H5": {
+    "title": "Arus kas bulanan tahun pertama (juta rupiah, kecuali institusi dan perangkat)",
+    "columns": [
+      "Bln",
+      "Institusi",
+      "Unit",
+      "Penerimaan",
+      "Biaya",
+      "Surplus",
+      "Kas masuk",
+      "Kas akhir"
+    ],
+    "rows": [
+      [
+        "1",
+        "0",
+        "0",
+        "0,00",
+        "11,10",
+        "-11,10",
+        "0,00",
+        "70,90"
+      ],
+      [
+        "2",
+        "0",
+        "0",
+        "0,00",
+        "11,10",
+        "-11,10",
+        "0,00",
+        "59,80"
+      ],
+      [
+        "3",
+        "1",
+        "40",
+        "5,48",
+        "13,37",
+        "-7,89",
+        "3,00",
+        "49,43"
+      ],
+      [
+        "4",
+        "1",
+        "40",
+        "5,48",
+        "12,87",
+        "-7,39",
+        "5,48",
+        "42,03"
+      ],
+      [
+        "5",
+        "2",
+        "80",
+        "10,96",
+        "15,15",
+        "-4,19",
+        "8,48",
+        "35,36"
+      ],
+      [
+        "6",
+        "2",
+        "80",
+        "10,96",
+        "14,65",
+        "-3,69",
+        "10,96",
+        "31,68"
+      ],
+      [
+        "7",
+        "3",
+        "120",
+        "16,44",
+        "16,92",
+        "-0,48",
+        "13,96",
+        "28,71"
+      ],
+      [
+        "8",
+        "3",
+        "120",
+        "16,44",
+        "16,42",
+        "0,02",
+        "16,44",
+        "28,73"
+      ],
+      [
+        "9",
+        "3",
+        "120",
+        "16,44",
+        "16,42",
+        "0,02",
+        "16,44",
+        "28,75"
+      ],
+      [
+        "10",
+        "4",
+        "160",
+        "21,92",
+        "18,70",
+        "3,22",
+        "19,44",
+        "29,49"
+      ],
+      [
+        "11",
+        "4",
+        "160",
+        "21,92",
+        "18,20",
+        "3,72",
+        "21,92",
+        "33,22"
+      ],
+      [
+        "12",
+        "4",
+        "160",
+        "21,92",
+        "18,20",
+        "3,72",
+        "21,92",
+        "36,94"
+      ]
+    ],
+    "note": "JutaRp, kecuali institusi danunit. Kasakhir mencakup rencana modal110juta dan pengeluaranawal28juta."
+  },
+  "H6": {
+    "title": "Rekap kuartalan tiga tahun (juta rupiah, kecuali institusi dan perangkat)",
+    "columns": [
+      "Tahun/Q",
+      "Bulan-kontrak",
+      "Unit",
+      "Penerimaan",
+      "Biaya",
+      "Surplus",
+      "Kas bersih",
+      "Kas akhir"
+    ],
+    "rows": [
+      [
+        "2027/Q1",
+        "1",
+        "40",
+        "5,48",
+        "35,57",
+        "-30,09",
+        "-32,57",
+        "49,43"
+      ],
+      [
+        "2027/Q2",
+        "5",
+        "200",
+        "27,40",
+        "42,67",
+        "-15,27",
+        "-17,75",
+        "31,68"
+      ],
+      [
+        "2027/Q3",
+        "9",
+        "360",
+        "49,32",
+        "49,77",
+        "-0,45",
+        "-2,93",
+        "28,75"
+      ],
+      [
+        "2027/Q4",
+        "12",
+        "480",
+        "65,76",
+        "55,09",
+        "10,67",
+        "8,19",
+        "36,94"
+      ],
+      [
+        "2028/Q1",
+        "15",
+        "600",
+        "82,20",
+        "67,01",
+        "15,19",
+        "12,71",
+        "49,65"
+      ],
+      [
+        "2028/Q2",
+        "18",
+        "720",
+        "98,64",
+        "72,33",
+        "26,31",
+        "23,83",
+        "73,48"
+      ],
+      [
+        "2028/Q3",
+        "21",
+        "840",
+        "115,08",
+        "77,65",
+        "37,43",
+        "34,95",
+        "108,43"
+      ],
+      [
+        "2028/Q4",
+        "24",
+        "960",
+        "131,52",
+        "82,98",
+        "48,54",
+        "46,06",
+        "154,49"
+      ],
+      [
+        "2029/Q1",
+        "27",
+        "1.080",
+        "147,96",
+        "95,20",
+        "52,76",
+        "50,28",
+        "204,77"
+      ],
+      [
+        "2029/Q2",
+        "30",
+        "1.200",
+        "164,40",
+        "100,52",
+        "63,88",
+        "61,40",
+        "266,17"
+      ],
+      [
+        "2029/Q3",
+        "33",
+        "1.320",
+        "180,84",
+        "105,84",
+        "75,00",
+        "72,52",
+        "338,69"
+      ],
+      [
+        "2029/Q4",
+        "36",
+        "1.440",
+        "197,28",
+        "111,16",
+        "86,12",
+        "83,64",
+        "422,33"
+      ]
+    ],
+    "note": "JutaRp, kecuali bulan-kontrak danunit."
+  },
+  "L1": {
+    "title": "Hasil10.000 skenario asumsi",
+    "columns": [
+      "Ukuran",
+      "P10",
+      "P50",
+      "P90"
+    ],
+    "rows": [
+      [
+        "NPV, jutaRp",
+        "-21,19",
+        "94,66",
+        "208,33"
+      ],
+      [
+        "Kebutuhan pendanaan, jutaRp",
+        "109,21",
+        "128,36",
+        "155,63"
+      ],
+      [
+        "Cakupan biaya tahun3",
+        "132.8%",
+        "149.2%",
+        "165.5%"
+      ],
+      [
+        "Kasakhir sebelum pendanaan, jutaRp",
+        "5,57",
+        "150,79",
+        "292,62"
+      ]
+    ],
+    "note": "Seed20261104; frekuensi NPV≥0:84.7%; cakupan biaya tahun3≥1:100.0%. Frekuensi bersyarat pada asumsi, bukan peluang keberhasilan pasar."
+  },
+  "H7": {
+    "title": "Ambang operasi dan kebutuhan pendanaan",
+    "columns": [
+      "Ukuran",
+      "Hasil",
+      "Interpretasi"
+    ],
+    "rows": [
+      [
+        "Kontribusi per host/bulan",
+        "Rp3.706.000",
+        "Tarif tetap+marjin40perangkat; sebelum biaya bersama"
+      ],
+      [
+        "Host minimum",
+        "3",
+        "Pada40perangkat/host dan biaya bersama awal11,1juta"
+      ],
+      [
+        "Tarif tetap impas pada3host",
+        "Rp2.994.000",
+        "Hampir sama dengan tarif3juta;4host memberi ruang lebih besar"
+      ],
+      [
+        "Surplus operasi3bulan berturut-turut",
+        "Bulan10",
+        "Onboarding dan biaya bersama tetap disertakan"
+      ],
+      [
+        "Pengembalian kas proyek",
+        "Bulan22",
+        "Sebelum pajak, pendanaan dan nilai terminal"
+      ],
+      [
+        "Kebutuhan dana dasar",
+        "Rp104.816.500",
+        "Termasuk modal awal dan batas cadangan berjalan"
+      ],
+      [
+        "Modal rencana dasar",
+        "Rp110.000.000",
+        "Komitmen dana0; bukan pendapatan"
+      ],
+      [
+        "Kebutuhan dana P90",
+        "Rp155.631.321",
+        "Hasil skenario asumsi, bukan batas maksimum pasti"
+      ],
+      [
+        "Amplop rencana bertahap",
+        "Rp160.000.000",
+        "110juta dasar+50juta bersyarat; pelepasan sesuai kebutuhan"
+      ]
+    ],
+    "note": "Ambang impas adalah keadaan stabil, tanpa onboarding baru. Piutang dan cadangan menjelaskan mengapa surplus operasi dan kebutuhan kas berbeda."
+  },
+  "H8": {
+    "title": "Pasar ekuivalen layanan dan jangkauan yang direncanakan",
+    "columns": [
+      "Lapisan",
+      "Dasar",
+      "Nilai tahunan"
+    ],
+    "rows": [
+      [
+        "TAM",
+        "4.303perguruan tinggi×1paket referensi×Rp65,76juta",
+        "Rp282,97miliar"
+      ],
+      [
+        "SAM",
+        "100program dalam cakupan penawaran Jabodetabek; estimasi tim",
+        "Rp6,576miliar"
+      ],
+      [
+        "SOM2029",
+        "126bulan-kontrak×Rp5,48juta;12host pada akhir tahun",
+        "Rp690,48juta"
+      ]
+    ],
+    "note": "Jumlah nasional bersumber Kemdiktisaintek(2026). Satu paket referensi, cakupan100program, harga dan penggunaan40perangkat/bulan adalah estimasi tim. SAM bukan hitungan institusi Jabodetabek yang sudah diverifikasi. TAM adalah amplop ekuivalen layanan, bukan permintaan teramati."
+  },
+  "L2": {
+    "title": "Distribusi dan hubungan antarinput",
+    "columns": [
+      "Input",
+      "Rentang/model",
+      "Hubungan"
+    ],
+    "rows": [
+      [
+        "Partisipasi kontrak",
+        "Triangular 0,55;1,00;1,15",
+        "Faktor bersama bulan-kontrak dan volume"
+      ],
+      [
+        "Volume spesifik",
+        "Triangular 0,65;1,00;1,15",
+        "Volume=0,6×partisipasi+0,4×volume spesifik"
+      ],
+      [
+        "Tarif tetap",
+        "Triangular 0,80;1,00;1,10",
+        "Bulan-kontrak dikalikan1−0,25×(faktor tarif−1)"
+      ],
+      [
+        "Tarif perangkat",
+        "Triangular 0,90;1,00;1,08",
+        "Diterapkan pada tarif setiap kategori"
+      ],
+      [
+        "Biaya pemenuhan",
+        "Triangular 0,90;1,00;1,30",
+        "Faktor bersama biaya langsung"
+      ],
+      [
+        "Biaya bersama spesifik",
+        "Triangular 0,90;1,00;1,20",
+        "Faktor biaya bersama=0,5×biaya langsung+0,5×faktor spesifik"
+      ],
+      [
+        "Jeda tagihan perangkat",
+        "0/1/2bulan; bobot10%/65%/25%",
+        "Perubahan waktu penerimaan, bukan pendapatan baru"
+      ],
+      [
+        "Prapembayaran tarif tetap",
+        "Triangular 0,70;1,00;1,00",
+        "Sisa dibayar bulan berikutnya"
+      ]
+    ],
+    "note": "Estimasi tim. Tidak ada distribusi yang dikalibrasi dari data lapangan JejakBalik. Dependensi dinyatakan agar kelemahan partisipasi tidak diperlakukan terpisah dari volume."
+  },
+  "L3": {
+    "title": "Sensitivitas satu faktor",
+    "columns": [
+      "Perubahan",
+      "NPVjutaRp",
+      "PerubahanNPV",
+      "DanajutaRp"
+    ],
+    "rows": [
+      [
+        "Volume perangkat -20%",
+        "203,70",
+        "-20,96",
+        "105,14"
+      ],
+      [
+        "Volume perangkat +20%",
+        "245,63",
+        "20,96",
+        "105,30"
+      ],
+      [
+        "Bulan kontrak -20%",
+        "108,68",
+        "-115,99",
+        "115,82"
+      ],
+      [
+        "Bulan kontrak +20%",
+        "331,22",
+        "106,55",
+        "100,20"
+      ],
+      [
+        "Tarif tetap -15%",
+        "141,75",
+        "-82,92",
+        "114,03"
+      ],
+      [
+        "Tarif tetap +15%",
+        "307,59",
+        "82,92",
+        "100,77"
+      ],
+      [
+        "Biaya langsung +20%",
+        "159,29",
+        "-65,38",
+        "111,58"
+      ],
+      [
+        "Biaya langsung -20%",
+        "290,04",
+        "65,38",
+        "101,36"
+      ],
+      [
+        "Biaya bersama +15%",
+        "164,69",
+        "-59,98",
+        "125,59"
+      ],
+      [
+        "Biaya bersama -15%",
+        "284,64",
+        "59,98",
+        "89,83"
+      ],
+      [
+        "Tagihan perangkat tertunda 2 bulan",
+        "199,63",
+        "-25,04",
+        "112,24"
+      ]
+    ],
+    "note": "Input lain tetap. Perubahan bulan-kontrak dapat mengubah blok tenaga operasi sehingga efeknya tidak linear."
+  },
+  "L4": {
+    "title": "Pemeriksaan kestabilan numerik",
+    "columns": [
+      "Ukuran",
+      "Pergeseran kuantil maksimum/P90−P10"
+    ],
+    "rows": [
+      [
+        "NPV sebelum pajak",
+        "0,71%"
+      ],
+      [
+        "Kebutuhan pendanaan",
+        "0,32%"
+      ],
+      [
+        "Cakupan biaya tahun ketiga",
+        "0,74%"
+      ],
+      [
+        "Kas akhir tanpa pendanaan",
+        "0,83%"
+      ]
+    ],
+    "note": "Membandingkan5.000draw pertama dengan10.000draw; kuantilP10/P50/P90. Ketelitian numerik tidak membuktikan kebenaran asumsi."
+  }
+}

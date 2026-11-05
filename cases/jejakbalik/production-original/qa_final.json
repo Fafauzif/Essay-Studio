@@ -1,0 +1,24 @@
+{
+  "main_pages": 5,
+  "total_pages": 46,
+  "references_pages": [
+    7,
+    8
+  ],
+  "appendix_pages": [
+    9,
+    46
+  ],
+  "appendix_subsections": 46,
+  "word_internal_links": 87,
+  "pdf_internal_link_rectangles": 88,
+  "pdf_external_link_rectangles": 25,
+  "broken_links": 0,
+  "page_size": "A4",
+  "margins_cm": 2.5,
+  "zip_integrity": "passed",
+  "pixel_identical_to_independent_design_review": true,
+  "docx_sha256": "2a6da711f723c1cba35d789da491e43a147556fc1bbabcc529c00071a50ed4ff",
+  "pdf_sha256": "cfea2a457c38efba9aa77fabdbf1d5f0f6d09ce4886cb46a385758a415db5b75",
+  "source_commit": "82c86a9e9a7664bf74c4da9c1d84a51d2bbe47fb"
+}

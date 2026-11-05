@@ -1,0 +1,20 @@
+\documentclass[tikz,border=3pt]{standalone}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage{tikz,pgfplots}
+\usetikzlibrary{arrows.meta,positioning,calc,fit,backgrounds,shapes.geometric}
+\pgfplotsset{compat=1.18}
+\definecolor{forest}{HTML}{346E57}
+\definecolor{sage}{HTML}{E8EFEA}
+\definecolor{clay}{HTML}{AC653F}
+\definecolor{sand}{HTML}{F4EAE2}
+\definecolor{ink}{HTML}{252525}
+\definecolor{light}{HTML}{F5F5F3}
+\definecolor{gridgray}{HTML}{D8DAD6}
+\tikzset{box/.style={draw=ink!70,line width=.5pt,rectangle,rounded corners=1pt,fill=white,align=center,font=\fontsize{11}{12}\selectfont,inner sep=6pt}, flow/.style={-{Latex[length=2.4mm]},line width=.7pt,draw=ink!80}, data/.style={flow,densely dashed,draw=forest}, label/.style={font=\fontsize{10}{11}\selectfont,fill=white,inner sep=2pt,align=center}}
+\hyphenpenalty=10000\exhyphenpenalty=10000\begin{document}
+\begin{tikzpicture}\begin{axis}[width=14cm,height=9cm,xbar,bar width=10pt,xmin=-145,xmax=145,ymin=.3,ymax=11.7,ytick={1,2,3,4,5,6,7,8,9,10,11},yticklabels={{Bulan kontrak -20\%},{Tarif tetap -15\%},{Biaya langsung +20\%},{Biaya bersama +15\%},{Jeda tagihan 2 bulan},{Perangkat -20\%},{Perangkat +20\%},{Biaya bersama -15\%},{Biaya langsung -20\%},{Tarif tetap +15\%},{Bulan kontrak +20\%}},xlabel={Perubahan NPV dari dasar (Rp juta)},axis lines*=left,xmajorgrids=true,grid style={gridgray},tick label style={font=\fontsize{10}{11}\selectfont},label style={font=\fontsize{11}{12}\selectfont},nodes near coords,nodes near coords style={font=\fontsize{10}{11}\selectfont,text=black},point meta=explicit symbolic]
+\addplot[fill=clay!65,draw=none]coordinates{(-115.9891,1)[-116,0](-82.9195,2)[-82,9](-65.3775,3)[-65,4](-59.9770,4)[-60,0](-25.0413,5)[-25,0](-20.9625,6)[-21,0]};
+\addplot[fill=forest!65,draw=none]coordinates{(20.9625,7)[21,0](59.9770,8)[60,0](65.3775,9)[65,4](82.9195,10)[82,9](106.5518,11)[106,6]};
+\end{axis}\end{tikzpicture}
+\end{document}

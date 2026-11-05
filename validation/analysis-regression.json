@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "example": "examples/finance-plan.json",
+  "draws": 10000,
+  "comparison": "entire result JSON identical before and after streaming/validation repairs",
+  "numpy_version": "2.3.5",
+  "seed": 20261105
+}

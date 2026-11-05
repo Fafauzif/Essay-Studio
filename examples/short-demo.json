@@ -1,0 +1,251 @@
+{
+  "title": "Coordinating repair access for neighbourhood workshops",
+  "format": {
+    "page_width_cm": 21,
+    "page_height_cm": 29.7,
+    "margin_cm": 2.5,
+    "font": "Times New Roman",
+    "body_pt": 12,
+    "title_pt": 16,
+    "heading_pt": 12,
+    "table_pt": 10,
+    "line_spacing": 1.5,
+    "paragraph_after_pt": 0,
+    "first_line_cm": 1,
+    "language": "en",
+    "references_heading": "Source note",
+    "appendices_heading": "Appendix index",
+    "appendix_label": "Appendix",
+    "return_label": "Essay",
+    "index_label": "Appendix index",
+    "references_new_page": true,
+    "appendices_new_page": false
+  },
+  "limits": {
+    "max_body_pages": 3
+  },
+  "cover": {
+    "enabled": false
+  },
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "This constructed programme connects owners with workshops that accept an item's category, inspection time and charge. Its twelve appointments, work-hours and scores are illustrative inputs for the document-formatting example. They are not observations from a field programme."
+    },
+    {
+      "type": "heading",
+      "id": "problem",
+      "text": "The appointment must connect an owner with a usable service"
+    },
+    {
+      "type": "paragraph",
+      "text": "A list of workshop names leaves several practical decisions with the owner. The item category, inspection time and expected charge still need to fit the workshop's offer. The example records these decisions before an appointment is confirmed (Appendix A.1). Each accepted appointment therefore has a destination, a participant and a responsible coordinator."
+    },
+    {
+      "type": "heading",
+      "id": "implementation",
+      "text": "A funded schedule gives the coordinator a defined task"
+    },
+    {
+      "type": "paragraph",
+      "runs": [
+        {
+          "text": "The programme allocates coordination time to twelve appointments. The proposed work schedule is described beside its workload calculation "
+        },
+        {
+          "text": "in Appendix B.1",
+          "target": "B.1"
+        },
+        {
+          "text": ". Participants receive the agreed inspection time, while the coordinator follows any appointment that cannot proceed and records its next decision."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Responsibilities in the illustrative programme",
+      "headers": [
+        "Participant",
+        "Decision",
+        "Record"
+      ],
+      "widths_cm": [
+        3.2,
+        7.8,
+        5.0
+      ],
+      "alignments": [
+        "left",
+        "justify",
+        "left"
+      ],
+      "rows": [
+        [
+          "Owner",
+          "Describe the item and accept the proposed inspection arrangement.",
+          "Item and consent"
+        ],
+        [
+          "Workshop",
+          "Confirm category, time and inspection conditions before accepting the appointment.",
+          "Accepted offer"
+        ],
+        [
+          "Coordinator",
+          "Reconcile the accepted arrangement and follow a cancelled appointment to its next decision.",
+          "Appointment history"
+        ]
+      ],
+      "note": "Illustrative operating arrangement. Roles and labels are example inputs; a new project supplies its own agreed responsibilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dalam contoh ini, jadwal penyerahan, penerimaan bengkel, dan keputusan pemilik dicatat sebagai satu rangkaian layanan. Ketika jadwal berubah, koordinator mencatat keputusan berikutnya agar peserta mengetahui siapa yang menindaklanjuti janji tersebut."
+    },
+    {
+      "type": "heading",
+      "id": "conclusion",
+      "text": "Conclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "The programme connects an accepted appointment with funded coordination and a traceable next decision. Its tables expose the operating assumptions while the essay explains their purpose."
+    }
+  ],
+  "references": [
+    "Data note. All numerical values in this demonstration are constructed inputs for a document-formatting example. No external empirical result is asserted. Supply finished APA 7 entries for an actual cited submission."
+  ],
+  "appendices": [
+    {
+      "id": "A.1",
+      "title": "Appointment decisions and weighted priorities",
+      "return_to": "problem",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Decisions before accepting an appointment",
+          "headers": [
+            "Decision",
+            "Required information",
+            "Responsible participant"
+          ],
+          "widths_cm": [
+            3.3,
+            8.0,
+            4.7
+          ],
+          "rows": [
+            [
+              "Category",
+              "The offered workshop handles the item's category and stated condition.",
+              "Workshop"
+            ],
+            [
+              "Timing",
+              "Owner and workshop accept the same inspection window.",
+              "Coordinator"
+            ],
+            [
+              "Consent",
+              "The owner understands the inspection charge and the decision that follows.",
+              "Owner"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Illustrative priority scores",
+          "headers": [
+            "Criterion",
+            "Weight",
+            "Rating",
+            "Weighted score"
+          ],
+          "widths_cm": [
+            8.0,
+            2.0,
+            2.0,
+            4.0
+          ],
+          "alignments": [
+            "justify",
+            "right",
+            "right",
+            "right"
+          ],
+          "rows": [
+            [
+              "Reliable appointment acceptance",
+              "0.40",
+              "3",
+              "1.20"
+            ],
+            [
+              "Clear inspection conditions",
+              "0.35",
+              "2",
+              "0.70"
+            ],
+            [
+              "Follow-up after a schedule change",
+              "0.25",
+              "4",
+              "1.00"
+            ],
+            [
+              "Total",
+              "1.00",
+              "—",
+              "2.90"
+            ]
+          ],
+          "note": "Illustrative team assumptions: score = weight × rating; 1 low priority, 4 high priority. These ratings demonstrate arithmetic and table alignment, not measured service quality."
+        }
+      ]
+    },
+    {
+      "id": "B.1",
+      "title": "Workload and paid capacity",
+      "return_to": "implementation",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Illustrative coordination hours",
+          "headers": [
+            "Activity",
+            "Calculation",
+            "Hours"
+          ],
+          "widths_cm": [
+            7.5,
+            5.5,
+            3.0
+          ],
+          "rows": [
+            [
+              "Programme preparation",
+              "Fixed allocation",
+              "4.0"
+            ],
+            [
+              "Appointment coordination",
+              "12 appointments × 0.5 hours",
+              "6.0"
+            ],
+            [
+              "Reconciliation and follow-up capacity",
+              "Fixed allocation",
+              "2.0"
+            ],
+            [
+              "Total paid capacity",
+              "4 + 6 + 2",
+              "12.0"
+            ]
+          ],
+          "note": "Constructed example, hours per programme cycle. Paid capacity is not a claim of jobs created or an observed time-saving. Actual financial and impact inputs belong in the project's assumption register."
+        }
+      ]
+    }
+  ]
+}

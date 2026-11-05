@@ -1,0 +1,20 @@
+\documentclass[tikz,border=0pt]{standalone}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage{graphicx}
+\usetikzlibrary{arrows.meta}
+\definecolor{forest}{HTML}{346E57}
+\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm]
+  \path[use as bounding box] (0,0) rectangle (16,5);
+  \fill[white] (0,0) rectangle (16,5);
+  \node[inner sep=0pt] at (2.45,2.9) {\includegraphics[width=4.8cm,height=3.7cm,keepaspectratio]{overview_city.png}};
+  \node[inner sep=0pt] at (8,2.9) {\includegraphics[width=4.8cm,height=3.7cm,keepaspectratio]{overview_facility.png}};
+  \node[inner sep=0pt] at (13.55,2.9) {\includegraphics[width=4.8cm,height=3.7cm,keepaspectratio]{overview_device.png}};
+  \draw[-{Latex[length=2mm,width=1.4mm]},forest,line width=.7pt] (4.98,2.9) -- (5.47,2.9);
+  \draw[-{Latex[length=2mm,width=1.4mm]},forest,line width=.7pt] (10.53,2.9) -- (11.02,2.9);
+  \node[font=\fontsize{10.5}{12}\selectfont\bfseries,text=black,inner sep=0pt,text width=4.95cm,align=center] at (2.45,.53) {Cocokkan perjalanan};
+  \node[font=\fontsize{10.5}{12}\selectfont\bfseries,text=black,inner sep=0pt,text width=4.95cm,align=center] at (8,.53) {Terima dan periksa};
+  \node[font=\fontsize{10.5}{12}\selectfont\bfseries,text=black,inner sep=0pt,text width=4.95cm,align=center] at (13.55,.53) {Tentukan jalur pemulihan};
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,65 @@
+[
+  {
+    "asset": "overview_city.png",
+    "source": "/workspace/scratch/91cdcc6b9385/upload/Screenshot 2026-11-04 183445.png",
+    "source_sha256": "267badae07c6100b6ad3e892ae512febd019ee185d577a8a0fdfa575a0cca6c7",
+    "source_size": [
+      1803,
+      1248
+    ],
+    "crop_box_ltrb": [
+      445,
+      345,
+      1620,
+      1010
+    ],
+    "crop_size": [
+      1175,
+      665
+    ],
+    "label": "Cocokkan perjalanan",
+    "operation": "faithful rectangular crop only; no pixel alteration, generated content, or changed status"
+  },
+  {
+    "asset": "overview_facility.png",
+    "source": "/workspace/scratch/91cdcc6b9385/upload/Screenshot 2026-11-04 183513.png",
+    "source_sha256": "37d82c4a288e0f1a9810c86eba96340952f49fad740e16813c2d0d44b6a761c0",
+    "source_size": [
+      1863,
+      1246
+    ],
+    "crop_box_ltrb": [
+      360,
+      330,
+      1510,
+      1035
+    ],
+    "crop_size": [
+      1150,
+      705
+    ],
+    "label": "Terima dan periksa",
+    "operation": "faithful rectangular crop only; no pixel alteration, generated content, or changed status"
+  },
+  {
+    "asset": "overview_device.png",
+    "source": "/workspace/scratch/91cdcc6b9385/upload/Screenshot 2026-11-04 183521.png",
+    "source_sha256": "a41fdc5d5b37dc8ac28e4e54ddbf180e7a178af59282afba0a98b9d7bffcfa5b",
+    "source_size": [
+      1888,
+      1227
+    ],
+    "crop_box_ltrb": [
+      570,
+      420,
+      1335,
+      1005
+    ],
+    "crop_size": [
+      765,
+      585
+    ],
+    "label": "Tentukan jalur pemulihan",
+    "operation": "faithful rectangular crop only; no pixel alteration, generated content, or changed status"
+  }
+]

@@ -1,0 +1,17 @@
+.venv/
+build/
+.cache/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+projects/*/output/
+projects/*/render/
+*.log
+*.aux
+*.fls
+*.fdb_latexmk
+!cases/**
+!library/**

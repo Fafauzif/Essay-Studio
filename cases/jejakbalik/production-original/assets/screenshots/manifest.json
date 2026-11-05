@@ -1,0 +1,108 @@
+{
+  "version": "3.0.0",
+  "commit": "82c86a9e9a7664bf74c4da9c1d84a51d2bbe47fb",
+  "browser": "153.0.8010.0",
+  "shots": [
+    {
+      "file": "01-network.png",
+      "meaning": "Initial Network workspace and miniature city; calculated proposal not yet approved.",
+      "url": "http://127.0.0.1:4497/network",
+      "viewport": {
+        "width": 1600,
+        "height": 1150
+      },
+      "scenarioStatus": "Authored fictional software scenario; not field operations"
+    },
+    {
+      "file": "02-journey-comparison.png",
+      "meaning": "Laptop request selected; actual feasible and rejected options across fictional carriers, timing/mass/data review conditions.",
+      "url": "http://127.0.0.1:4497/network",
+      "viewport": {
+        "width": 1600,
+        "height": 1150
+      },
+      "scenarioStatus": "Authored fictional software scenario; not field operations"
+    },
+    {
+      "file": "03-approval.png",
+      "meaning": "Explicit collection-plan review dialog, before approval; preview and approval are distinct actions.",
+      "url": "http://127.0.0.1:4497/network",
+      "viewport": {
+        "width": 1600,
+        "height": 1150
+      },
+      "scenarioStatus": "Authored fictional software scenario; not field operations"
+    },
+    {
+      "file": "04-custody-exception.png",
+      "meaning": "Carrier availability withdrawn after simulated collection; Decisions retains the device with its recorded custodian and flags unresolved logistics.",
+      "url": "http://127.0.0.1:4497/decisions",
+      "viewport": {
+        "width": 1600,
+        "height": 1150
+      },
+      "scenarioStatus": "Authored fictional software scenario; not field operations"
+    },
+    {
+      "file": "05-data-hold.png",
+      "meaning": "Data-bearing devices held after simulated receiving, requiring explicit data review before final disposition.",
+      "url": "http://127.0.0.1:4497/decisions",
+      "viewport": {
+        "width": 1600,
+        "height": 1150
+      },
+      "scenarioStatus": "Authored fictional software scenario; not field operations"
+    },
+    {
+      "file": "06-results.png",
+      "meaning": "Results from same scenario: coverage, modeled cost, additional journey distance and outstanding obligations.",
+      "url": "http://127.0.0.1:4497/results",
+      "viewport": {
+        "width": 1600,
+        "height": 1150
+      },
+      "scenarioStatus": "Authored fictional software scenario; not field operations"
+    },
+    {
+      "file": "07-intake.png",
+      "meaning": "Actual request-intake dialog; owner consent and device information remain explicit.",
+      "url": "http://127.0.0.1:4497/requests",
+      "viewport": {
+        "width": 1600,
+        "height": 1150
+      },
+      "scenarioStatus": "Authored fictional software scenario; not field operations"
+    },
+    {
+      "file": "08-reference-results.png",
+      "meaning": "Fresh reference scenario before approval/progression: 18/18 assignments, 28.8 additional km, Rp438700 service cost, 112.8 km grouped comparator and Rp662400 baseline cost.",
+      "url": "http://127.0.0.1:4497/results",
+      "viewport": {
+        "width": 1600,
+        "height": 1150
+      },
+      "scenarioStatus": "Authored fictional software scenario; not field operations"
+    },
+    {
+      "file": "09-options-detail.png",
+      "meaning": "Selected JB-001 laptop: scrolled inspector shows all six journey options and selected receiver; actual 2D route map, not a separate scenario.",
+      "url": "http://127.0.0.1:4497/network",
+      "viewport": {
+        "width": 1600,
+        "height": 1150
+      },
+      "scenarioStatus": "Authored fictional software scenario; not field operations"
+    },
+    {
+      "file": "10-device-view.png",
+      "meaning": "Actual device 3D inspection view retaining identity of JB-001 laptop.",
+      "url": "http://127.0.0.1:4497/network",
+      "viewport": {
+        "width": 1600,
+        "height": 1150
+      },
+      "scenarioStatus": "Authored fictional software scenario; not field operations"
+    }
+  ],
+  "errors": []
+}

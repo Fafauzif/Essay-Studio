@@ -1,0 +1,2 @@
+# Optional independent QR decoding for final document QA.
+opencv-python-headless

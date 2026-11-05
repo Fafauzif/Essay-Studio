@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "checks": [
+    "literal TeX-sensitive labels",
+    "nonfinite input rejected",
+    "fractional ordinal score rejected",
+    "histogram preserves all observations",
+    "linear quantiles agree with known sample",
+    "quantile overlays are lines rather than inherited histogram bars",
+    "identical quantiles share one label",
+    "positive bars retain zero baseline",
+    "series-length mismatch rejected",
+    "reversed time axis rejected",
+    "Gantt out-of-range end rejected",
+    "structure unknown parent rejected",
+    "complete PNG accepted",
+    "truncated PNG rejected"
+  ],
+  "scope": "Pure data/escaping/PNG regression checks; not a TeX render or editorial proof."
+}

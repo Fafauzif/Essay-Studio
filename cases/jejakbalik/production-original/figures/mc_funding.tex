@@ -1,0 +1,26 @@
+\documentclass[tikz,border=3pt]{standalone}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage{tikz,pgfplots}
+\usetikzlibrary{arrows.meta,positioning,calc,fit,backgrounds,shapes.geometric}
+\pgfplotsset{compat=1.18}
+\definecolor{forest}{HTML}{346E57}
+\definecolor{sage}{HTML}{E8EFEA}
+\definecolor{clay}{HTML}{AC653F}
+\definecolor{sand}{HTML}{F4EAE2}
+\definecolor{ink}{HTML}{252525}
+\definecolor{light}{HTML}{F5F5F3}
+\definecolor{gridgray}{HTML}{D8DAD6}
+\tikzset{box/.style={draw=ink!70,line width=.5pt,rectangle,rounded corners=1pt,fill=white,align=center,font=\fontsize{11}{12}\selectfont,inner sep=6pt}, flow/.style={-{Latex[length=2.4mm]},line width=.7pt,draw=ink!80}, data/.style={flow,densely dashed,draw=forest}, label/.style={font=\fontsize{10}{11}\selectfont,fill=white,inner sep=2pt,align=center}}
+\hyphenpenalty=10000\exhyphenpenalty=10000\begin{document}
+\begin{tikzpicture}\begin{axis}[width=15.8cm,height=7cm,ybar interval,x tick label as interval=false,xtick={80,100,120,140,160,180,200,220,240},xticklabel style={font=\fontsize{10}{11}\selectfont},yticklabel style={font=\fontsize{10}{11}\selectfont},label style={font=\fontsize{11}{12}\selectfont},xlabel={Kebutuhan pendanaan (Rp juta)},ylabel={Frekuensi skenario (\%)},axis lines*=left,ymajorgrids=true,grid style={gridgray},ymin=0,ymax=13.142999999999999,legend style={draw=none,at={(.97,.97)},anchor=north east,font=\fontsize{10}{11}\selectfont}]
+\addplot[fill=forest!45,draw=white]coordinates{(88.9010,0.1100)(93.1752,0.5100)(97.4495,1.5800)(101.7238,3.3700)(105.9981,6.2100)(110.2724,7.8800)(114.5467,8.9600)(118.8210,9.7000)(123.0953,9.4200)(127.3696,10.1100)(131.6439,8.2500)(135.9182,7.1700)(140.1925,5.7600)(144.4668,4.9800)(148.7411,3.9300)(153.0154,3.2900)(157.2897,2.5800)(161.5640,1.5500)(165.8383,1.4200)(170.1126,0.8900)(174.3869,0.6800)(178.6612,0.4900)(182.9355,0.3500)(187.2098,0.2400)(191.4841,0.1800)(195.7584,0.0900)(200.0327,0.0600)(204.3070,0.0600)(208.5813,0.0700)(212.8556,0.0600)(217.1299,0.0000)(221.4042,0.0200)(225.6785,0.0200)(229.9528,0.0000)(234.2271,0.0000)(238.5014,0.0100)(242.7757,0.0000)};
+\addlegendentry{10.000 skenario}
+\draw[black,densely dashed](axis cs:110,0)--(axis cs:110,13.142999999999999);
+\addlegendimage{line legend,black,densely dashed}\addlegendentry{Rencana 110,0}
+\draw[forest,thick](axis cs:128.358939492195,0)--(axis cs:128.358939492195,13.142999999999999);
+\addlegendimage{line legend,forest,thick}\addlegendentry{P50 128,4}
+\draw[clay,thick](axis cs:155.631321400158,0)--(axis cs:155.631321400158,13.142999999999999);
+\addlegendimage{line legend,clay,thick}\addlegendentry{P90 155,6}
+\end{axis}\end{tikzpicture}
+\end{document}

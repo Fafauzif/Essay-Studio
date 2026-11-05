@@ -1,0 +1,48 @@
+{
+  "font": "Times New Roman",
+  "font_pt": 10,
+  "width_cm": 16,
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "type": "gantt",
+  "periods": [
+    "2027",
+    "2028",
+    "2029",
+    "2030",
+    "2031",
+    "2032",
+    "2033",
+    "2034",
+    "2035",
+    "2036"
+  ],
+  "tasks": [
+    {
+      "label": "Program awal pada satu wilayah",
+      "start": 1,
+      "end": 2
+    },
+    {
+      "label": "Penguatan layanan dan kapasitas",
+      "start": 2,
+      "end": 4
+    },
+    {
+      "label": "Dukungan catatan lintas organisasi",
+      "start": 2,
+      "end": 5
+    },
+    {
+      "label": "Perluasan institusi antarkota",
+      "start": 4,
+      "end": 8
+    },
+    {
+      "label": "Replikasi wilayah dan pembaruan",
+      "start": 6,
+      "end": 10
+    }
+  ],
+  "id": "gantt_strategy"
+}

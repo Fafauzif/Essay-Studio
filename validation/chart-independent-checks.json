@@ -1,0 +1,110 @@
+{
+  "cash": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 16.417925516764324,
+    "height_cm": 7.605889104207358,
+    "minimum_pdf_text_pt": 8.966400146484375,
+    "funded_difference_100_every_period": true
+  },
+  "comparison": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 15.98506649441189,
+    "height_cm": 4.266847114562989,
+    "minimum_pdf_text_pt": 8.966400146484375
+  },
+  "drivers": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 16.17627252366808,
+    "height_cm": 6.236758096483019,
+    "minimum_pdf_text_pt": 8.966400146484375
+  },
+  "gantt_strategy": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 16.386880900065105,
+    "height_cm": 4.450291720496284,
+    "minimum_pdf_text_pt": 8.94837760925293
+  },
+  "gantt_year1": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 16.386880900065105,
+    "height_cm": 6.014861111111111,
+    "minimum_pdf_text_pt": 8.94837760925293
+  },
+  "issue_tree": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 16.386880900065105,
+    "height_cm": 11.812057859632704,
+    "minimum_pdf_text_pt": 10.588151931762695
+  },
+  "market_layers": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 16.387586068047415,
+    "height_cm": 7.031566925048828,
+    "minimum_pdf_text_pt": 10.959956169128418
+  },
+  "npv_distribution": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 16.215430340237088,
+    "height_cm": 5.790141838921441,
+    "minimum_pdf_text_pt": 7.970099925994873,
+    "bin_counts_match_numpy": true,
+    "n": 1200,
+    "quantiles_match_numpy": true
+  },
+  "positioning": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 16.38723294576009,
+    "height_cm": 8.012641838921441,
+    "minimum_pdf_text_pt": 9.649176597595215
+  },
+  "risk_heatmap": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 14.386630469428168,
+    "height_cm": 6.647744530571831,
+    "minimum_pdf_text_pt": 8.65652084350586
+  },
+  "service_flow": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 16.386527777777776,
+    "height_cm": 5.764036089579265,
+    "minimum_pdf_text_pt": 9.1704740524292
+  },
+  "stakeholder_structure": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 16.38723294576009,
+    "height_cm": 5.509330490960015,
+    "minimum_pdf_text_pt": 9.747607231140137
+  },
+  "value_proposition": {
+    "pages": 1,
+    "input_sha_match": true,
+    "text_outside_page": 0,
+    "width_cm": 16.386880900065105,
+    "height_cm": 8.243358268737794,
+    "minimum_pdf_text_pt": 9.419937133789062
+  }
+}

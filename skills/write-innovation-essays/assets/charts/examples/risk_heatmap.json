@@ -1,0 +1,42 @@
+{
+  "font": "Times New Roman",
+  "font_pt": 10,
+  "width_cm": 14,
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "type": "risk_heatmap",
+  "risks": [
+    {
+      "id": "R1",
+      "probability": 3,
+      "impact": 4
+    },
+    {
+      "id": "R2",
+      "probability": 4,
+      "impact": 3
+    },
+    {
+      "id": "R3",
+      "probability": 2,
+      "impact": 5
+    },
+    {
+      "id": "R4",
+      "probability": 3,
+      "impact": 3
+    },
+    {
+      "id": "R5",
+      "probability": 2,
+      "impact": 2
+    },
+    {
+      "id": "R6",
+      "probability": 4,
+      "impact": 4
+    }
+  ],
+  "legend": "R1 Pembayaran terlambat\nR2 Perjalanan dibatalkan\nR3 Penanganan tidak sesuai\nR4 Penerima penuh\nR5 Catatan tidak lengkap\nR6 Data pribadi tertahan",
+  "id": "risk_heatmap"
+}

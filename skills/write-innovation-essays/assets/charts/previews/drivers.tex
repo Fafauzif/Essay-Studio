@@ -1,0 +1,27 @@
+\documentclass[border=3pt]{standalone}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta,calc,positioning,shapes.geometric}
+\definecolor{forest}{HTML}{346E57}
+\definecolor{sage}{HTML}{E8EFEA}
+\definecolor{clay}{HTML}{B77E60}
+\definecolor{gray}{HTML}{718078}
+\definecolor{rule}{HTML}{B7C3BA}
+\definecolor{ink}{HTML}{000000}
+\begin{document}
+\hyphenpenalty=10000\exhyphenpenalty=10000
+\fontsize{10}{12}\selectfont
+\renewcommand{\small}{\fontsize{9}{11}\selectfont}
+\renewcommand{\scriptsize}{\fontsize{8}{10}\selectfont}
+\begin{tikzpicture}\begin{axis}[width=11cm,height=4.94cm,scale only axis=true,
+axis lines=left,axis line style={draw=rule},tick style={draw=rule},
+tick label style={font=\small},label style={font=\small},
+grid=major,grid style={draw=rule!35,line width=.3pt},
+legend style={draw=none,fill=none,font=\small,at={(.5,-.26)},anchor=north},legend columns=-1,
+xbar,bar shift=0pt,xmin=-1,xmax=1,bar width=10pt,ytick={0,1,2,3,4,5,6},yticklabels={{Program institusi},{Volume perangkat},{Tarif koordinasi},{Tarif perangkat},{Biaya langsung},{Biaya bersama},{Jeda pembayaran}},yticklabel style={text width=4.2cm,align=right},y dir=reverse,enlarge y limits=.18,xlabel={Asosiasi peringkat Spearman (ρ)},ymajorgrids=false,]
+\addplot+[draw=none,fill=forest!75] coordinates {(0.78,0) (0.61,1) (0.36,2) (0.24,3)};
+\addplot+[draw=none,fill=clay!75] coordinates {(-0.21,4) (-0.44,5) (-0.17,6)};
+\end{axis}\end{tikzpicture}
+\end{document}

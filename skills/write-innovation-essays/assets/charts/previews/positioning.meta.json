@@ -1,0 +1,29 @@
+{
+  "id": "positioning",
+  "type": "positioning",
+  "tex": "essay-studio/skills/write-innovation-essays/assets/charts/previews/positioning.tex",
+  "input_sha256": "868def6809a3a2c312d30b231d5529b88f22aed46713846c05070874fb3ad947",
+  "font": "Times New Roman",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {
+    "coordinates": "team assessment in normalized space; not a measured rank unless independently evidenced"
+  },
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "essay-studio/skills/write-innovation-essays/assets/charts/previews/positioning.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [],
+  "pdf_width_cm": 16.38723294576009,
+  "pdf_height_cm": 8.012641838921441,
+  "png_renderer": "PyMuPDF",
+  "png": "essay-studio/skills/write-innovation-essays/assets/charts/previews/positioning.png",
+  "render_status": "rendered",
+  "pdf_text_fonts": [
+    "TimesNewRomanPSMT"
+  ],
+  "pdf_text_sizes_pt": [
+    9.649
+  ],
+  "min_text_pt_at_nominal_width": 9.421165005252966
+}

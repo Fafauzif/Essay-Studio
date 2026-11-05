@@ -1,0 +1,158 @@
+[
+  {
+    "number": 1,
+    "source_path": "library/originals/visual-references/Screenshot 2026-10-24 231904(1).png",
+    "preview_path": "assets/reference-previews/taste-01.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      1063,
+      687
+    ],
+    "source_sha256": "df8b411fe0d541a764318f295e5dd5973ed0df54b5c27933a6cce12f764ac5c8",
+    "preview_sha256": "099e03307e1729742884bc757d89c0d3e073f2bbd50aa71b19ba1b06d5bade9b"
+  },
+  {
+    "number": 2,
+    "source_path": "library/originals/visual-references/Screenshot 2026-10-25 131141(1).png",
+    "preview_path": "assets/reference-previews/taste-02.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      1009,
+      481
+    ],
+    "source_sha256": "4c0b422091b30aa41b59b96f55fc49366e228f9233830b9335f36bbc7b034c4e",
+    "preview_sha256": "eb81aad8a8a445f1024a3cacabac9e0f953df4c346e12d4539ab29514dfc1081"
+  },
+  {
+    "number": 3,
+    "source_path": "library/originals/visual-references/Screenshot 2026-10-25 131206(1).png",
+    "preview_path": "assets/reference-previews/taste-03.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      924,
+      511
+    ],
+    "source_sha256": "340f78b64ff7cf005103876830d10b5af83c124d4eb49dd7c0cde220bff429b5",
+    "preview_sha256": "b8e257208e589fb40ccca6d51365b7dda4d30dc257afb1930e6ec9725dcf237c"
+  },
+  {
+    "number": 4,
+    "source_path": "library/originals/visual-references/Screenshot 2026-10-25 131211.png",
+    "preview_path": "assets/reference-previews/taste-04.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      934,
+      154
+    ],
+    "source_sha256": "5443dd63244c1fb7f89aa8684c1fec5a4ce4212b8d378f99a325317923d0960e",
+    "preview_sha256": "beda4b35261bac6c9f6f33c3cd9921d3bcbb7066d20130689f1835094869a08a"
+  },
+  {
+    "number": 5,
+    "source_path": "library/originals/visual-references/Screenshot 2026-10-25 131222.png",
+    "preview_path": "assets/reference-previews/taste-05.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      895,
+      421
+    ],
+    "source_sha256": "8b74654087b82d9b474547ee19f9da2cdd5a25846a80b5dacd491ee4d89d258f",
+    "preview_sha256": "6e87790b2f6c4d0f3ec27d9f81e7c26806302227d36c5f58efa386ad307c4030"
+  },
+  {
+    "number": 6,
+    "source_path": "library/originals/visual-references/Screenshot 2026-10-25 131320.png",
+    "preview_path": "assets/reference-previews/taste-06.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      1309,
+      496
+    ],
+    "source_sha256": "78c8e661195f977c9337aefb17ce8fbf71b0f23d90d409890f01500273207c07",
+    "preview_sha256": "afd5b1ca8ae3254c495dbf96d75e79fda2ec7e77c8cc83665d79a5bc95ddf102"
+  },
+  {
+    "number": 7,
+    "source_path": "library/originals/visual-references/Screenshot 2026-10-25 131326(1).png",
+    "preview_path": "assets/reference-previews/taste-07.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      1075,
+      339
+    ],
+    "source_sha256": "a4f350710d3d020114923930a41df01d397736b0f797ae73d3926ebe930b7cbf",
+    "preview_sha256": "f7f78ef90eebfd20e24b0e246f5fb56c15d573d9ab62a1cd86fe8f2536c57d4a"
+  },
+  {
+    "number": 8,
+    "source_path": "library/originals/visual-references/Screenshot 2026-10-25 131332(1).png",
+    "preview_path": "assets/reference-previews/taste-08.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      967,
+      517
+    ],
+    "source_sha256": "40b8a387c5e1cb0c9e16fe91a632780f84e30718771d80dc0d84f9bcdeaebd3c",
+    "preview_sha256": "040f9778212ee8fc3c3349551e0fd2463436ddc0614f494644b8f35661380b31"
+  },
+  {
+    "number": 9,
+    "source_path": "library/originals/visual-references/Screenshot 2026-10-25 131336(1).png",
+    "preview_path": "assets/reference-previews/taste-09.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      795,
+      505
+    ],
+    "source_sha256": "8e3429d7bde31bbca071bf42fd4cf6e14b60e8e9e3c3ab5a6e64b6ffc8d72f4b",
+    "preview_sha256": "dd04b6c751583fc57bffaf04c8c362f982ea54655e29c1f39f2401291b1d5a05"
+  },
+  {
+    "number": 10,
+    "source_path": "library/originals/visual-references/Screenshot 2026-10-25 131340(1).png",
+    "preview_path": "assets/reference-previews/taste-10.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      1012,
+      474
+    ],
+    "source_sha256": "1100cb5811be2103a0259d3bc5aba82709bb89c921882a98b99abf54d3d36f01",
+    "preview_sha256": "2b8488e6b181febab6ebe812f94aca3085e6daef56ff77b220cc1ec15c6e350d"
+  },
+  {
+    "number": 11,
+    "source_path": "library/originals/visual-references/Screenshot 2026-10-25 131346(1).png",
+    "preview_path": "assets/reference-previews/taste-11.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      1035,
+      442
+    ],
+    "source_sha256": "7263bdefe977b3c0eda1d11ba22ecb484aee1a8fb14518f7855cd5372eb1110f",
+    "preview_sha256": "ff18fa4e3afd1ed5e78c7eef45a7c1eb5bde6a07158d40e5785368ad21fd1fe6"
+  },
+  {
+    "number": 12,
+    "source_path": "library/originals/visual-references/image(20261104-153424).png",
+    "preview_path": "assets/reference-previews/taste-12.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      1545,
+      579
+    ],
+    "source_sha256": "288cde19e37914de7f7f4dc2484559bf49606d1630c2ebf7fca43e495fe2e8a7",
+    "preview_sha256": "50997755336e41eac69b89d17918c8cdfc5902704b21a5b2e05c494ab22799f6"
+  },
+  {
+    "number": 13,
+    "source_path": "library/originals/visual-references/image(20261104-153430).png",
+    "preview_path": "assets/reference-previews/taste-13.png",
+    "kind": "actual_user_reference_image",
+    "original_pixels": [
+      1530,
+      546
+    ],
+    "source_sha256": "6215423c86bf4c7d8fbfc3df84ce7cca92d1960beb340a9b3ea5f0a484d53ea6",
+    "preview_sha256": "b2321a54a7ef588fa4f3cc884ba0b6b8833c81314c5c1f77ec584e35dc8e839b"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "scope": "Explicit UTF-8 file I/O; numerical functions unchanged.",
+  "files": [
+    {
+      "file": "studio.py",
+      "explicit_utf8_calls_added": 3,
+      "previous_sha256": "3f07bf6953749363851c9f00e30aff4ea3e0509e8eef2c9736c8ffaf6efe6f77",
+      "sha256": "1a9e4c602b84504fdbe746bef76a8c9b35179eb0693448161543c4b7b5c2f231"
+    },
+    {
+      "file": "skills/write-innovation-essays/scripts/analysis.py",
+      "explicit_utf8_calls_added": 2,
+      "previous_sha256": "1966d3d6c904ce83b678cea1789da0af68af07f93dc9539b72d7ee0424556f60",
+      "sha256": "78282744b210498cb2a7a5e514e7f473b4ce8c4322baf819423d0656724cd13e"
+    },
+    {
+      "file": "skills/write-innovation-essays/scripts/validate_package.py",
+      "explicit_utf8_calls_added": 5,
+      "previous_sha256": "1e2c81bbea5279437ec28be4e21d1dfa07cb5dbf602da67a58005a933c29cc69",
+      "sha256": "edaa63ef812cc86c74376fee17aa3398cba3fdd1522899ff4eb5f78dd129bcc9"
+    },
+    {
+      "file": "skills/write-innovation-essays/scripts/audit_document.py",
+      "explicit_utf8_calls_added": 1,
+      "previous_sha256": "489c55959050d2a175b3838c97f1582dc3436f73c1d58ffdaad6fc4dd545e497",
+      "sha256": "a58535b2b29ddef2b59a8b3cfaf88773e7c4d2c60cae38745e030883598ece49"
+    }
+  ]
+}

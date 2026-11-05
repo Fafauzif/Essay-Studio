@@ -1,0 +1,1617 @@
+[
+  {
+    "id": "B.1",
+    "title": "Pilihan layanan dan posisi JejakBalik",
+    "return_to": "analisis",
+    "paragraphs": [
+      "Pengumpulan elektronik sudah memiliki pelaku dan saluran yang dapat digunakan masyarakat. EwasteRJ menawarkan penjemputan, dropbox, pengelolaan elektronik, serta laporan keberlanjutan pada laman layanannya. Sementara itu, #AksiCintaBumi menghubungkan partisipasi publik dengan lima titik dropbox dan pengelolaan bersama EwasteRJ (EwasteRJ, n.d.; Lintasarta, 2026).",
+      "JejakBalik menambahkan koordinasi perjalanan lintas penyedia pada program yang dibeli institusi. Hubungan ini memberi tempat bagi penyedia layanan yang telah ada: mereka dapat memasok kapasitas perjalanan atau penerimaan sesuai perjanjian, tanpa harus digantikan oleh armada milik JejakBalik."
+    ],
+    "tables": [
+      {
+        "title": "Alternatif yang dibandingkan",
+        "headers": [
+          "Alternatif",
+          "Kekuatan yang dapat digunakan",
+          "Pertanyaan bagi program institusi"
+        ],
+        "rows": [
+          [
+            "Dropbox program",
+            "Titik pengumpulan dan komunikasi program mudah dikenali.",
+            "Bagaimana peserta mengantar perangkat; siapa memindahkan muatan ke penerima?"
+          ],
+          [
+            "Penjemputan pengelola elektronik",
+            "Satu penyedia dapat menawarkan pengangkutan dan layanan pengelolaan dalam lingkupnya.",
+            "Apakah jadwal, kategori, biaya dan pelaporan sesuai dengan program?"
+          ],
+          [
+            "Pengumpulan khusus terjadwal",
+            "Rute dapat disusun untuk satu muatan dan satu jadwal layanan.",
+            "Berapa biaya dan perjalanan khusus untuk melayani beban kerja yang sama?"
+          ],
+          [
+            "JejakBalik yang diusulkan",
+            "Membandingkan perjalanan lintas penyedia dengan anggaran dan penerimaan yang sama.",
+            "Apakah kapasitas yang ditawarkan cukup, sesuai penanganan, dan memberikan nilai bagi institusi?"
+          ]
+        ],
+        "widths": [
+          3,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B.2",
+    "title": "Kontribusi konfigurasi dan batas pembandingan",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Backhauling, pengiriman berbagi perjalanan, pencatatan aset dan reverse logistics merupakan konsep yang telah berkembang. Kajian shared-trip delivery juga memperlihatkan bahwa biaya yang lebih rendah tidak otomatis disertai penurunan seluruh jarak kendaraan (Yang et al., 2024). Karena itu, JejakBalik menilai tambahan perjalanan pemulihan sekaligus cakupan layanan, bukan menghitung kendaraan yang terlihat kosong sebagai kapasitas yang pasti tersedia.",
+      "Perbandingan yang relevan mempertahankan daftar permintaan, kategori, lokasi, jendela waktu, kapasitas dan penerimaan. Ketika alternatif tidak memenuhi layanan yang sama, perbedaan biaya tetap dapat dilaporkan bersama kekurangan cakupannya, tetapi tidak dinyatakan sebagai penghematan layanan setara."
+    ],
+    "tables": [
+      {
+        "title": "Bagian yang digabungkan dan konsekuensinya",
+        "headers": [
+          "Bagian",
+          "Kontribusi JejakBalik",
+          "Bukti yang digunakan"
+        ],
+        "rows": [
+          [
+            "Perjalanan yang sudah direncanakan",
+            "Menilai penambahan pickup dan penerimaan sambil mempertahankan tujuan serta urutan pekerjaan awal.",
+            "Aturan perencanaan dan skenario pembanding."
+          ],
+          [
+            "Lintas penyedia",
+            "Membuka beberapa pilihan kapasitas dan jenis penanganan dalam satu program.",
+            "Pembandingan pilihan dengan akses penyedia penuh dan terbatas."
+          ],
+          [
+            "Pendanaan institusi",
+            "Membiayai layanan yang didefinisikan, termasuk pekerjaan yang tidak menghasilkan nilai jual perangkat.",
+            "Kontrak layanan yang diusulkan dan model biaya."
+          ],
+          [
+            "Serah terima",
+            "Menghubungkan keputusan dengan pembawa, penerima dan kewajiban yang belum selesai.",
+            "Urutan keputusan serta kasus pembatalan dan penahanan."
+          ]
+        ],
+        "widths": [
+          3,
+          7,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C.1",
+    "title": "Nilai yang dibeli dan kewajiban peserta",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Institusi membeli lingkup layanan untuk komunitasnya; penyedia dan penerima memperoleh pekerjaan beserta kompensasi yang disepakati. Pemilik memilih perbaikan, pemanfaatan kembali atau pengolahan. Sesudah inspeksi, perubahan jalur mengikuti persetujuan pemilik; nilai jual dialokasikan menurut kepemilikan dan kesepakatan."
+    ],
+    "tables": [
+      {
+        "title": "Nilai dan kewajiban per peserta",
+        "headers": [
+          "Peserta",
+          "Nilai yang diterima",
+          "Kewajiban utama"
+        ],
+        "rows": [
+          [
+            "Institusi",
+            "Akses terjadwal bagi komunitas, rekonsiliasi serah terima dan laporan penyelesaian.",
+            "Menetapkan lingkup, menunjuk penghubung dan membayar layanan."
+          ],
+          [
+            "Pemilik",
+            "Kejelasan kelayakan, jadwal, tujuan dan status perangkat.",
+            "Memberi informasi, persetujuan dan kesiapan penyerahan."
+          ],
+          [
+            "Penyedia perjalanan",
+            "Kompensasi kerja tambahan yang sesuai batas perjalanan.",
+            "Menyatakan kapasitas dan syarat, menjaga muatan serta mencatat serah terima."
+          ],
+          [
+            "Penerima",
+            "Kedatangan terencana dengan kategori dan kapasitas yang diketahui.",
+            "Menerima sesuai syarat, menginspeksi dan menyampaikan bukti tindak lanjut."
+          ],
+          [
+            "JejakBalik",
+            "Pendapatan koordinasi dalam layanan institusi yang berulang.",
+            "Menyusun penugasan, memelihara catatan, merekonsiliasi pengecualian dan laporan."
+          ]
+        ],
+        "widths": [
+          3,
+          6.5,
+          6.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C.2",
+    "title": "Pemangku kepentingan dan hubungan kerja",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Pengelola program UI menjadi calon penghubung institusional, sementara unit fasilitas, komunitas kampus dan perwakilan peserta membantu pelaksanaan di lingkup yang disepakati. Posisi tersebut merupakan usulan fungsi; penggunaan fasilitas atau keterlibatan organisasi memerlukan pengaturan dengan pihak yang berwenang.",
+      "Pendekatan dimulai dari orang yang memegang keputusan, kemudian menghubungkannya dengan orang yang menjalankan layanan. Keluhan pemilik tetap memiliki jalur peninjauan meskipun daya tawarnya lebih kecil daripada pembeli program."
+    ],
+    "tables": [
+      {
+        "title": "Pemetaan pengaruh dan bentuk pelibatan",
+        "headers": [
+          "Pihak",
+          "Pengaruh dan kepentingan",
+          "Bentuk hubungan"
+        ],
+        "rows": [
+          [
+            "Pengambil keputusan institusi",
+            "Pengaruh tinggi atas anggaran dan akses; kepentingan tinggi terhadap hasil.",
+            "Perjanjian lingkup, penanggung jawab, anggaran dan laporan berkala."
+          ],
+          [
+            "Penyedia perjalanan",
+            "Pengaruh tinggi atas kapasitas; kepentingan pada imbalan dan ketepatan pekerjaan awal.",
+            "Penawaran perjalanan, batas tambahan waktu, kompensasi dan penanganan insiden."
+          ],
+          [
+            "Penerima",
+            "Pengaruh tinggi atas penerimaan akhir; kepentingan pada kualitas dan kapasitas.",
+            "Spesifikasi penerimaan, slot waktu, tarif dan bukti tindak lanjut."
+          ],
+          [
+            "Pemilik dan perwakilan komunitas",
+            "Kepentingan tinggi terhadap barang dan data; pengaruh formal bervariasi.",
+            "Informasi yang jelas, pilihan persetujuan, dukungan akses dan keluhan."
+          ],
+          [
+            "Otoritas dan penasihat terkait",
+            "Pengaruh pada persyaratan kegiatan; kepentingan pada kepatuhan.",
+            "Pemeriksaan lingkup kegiatan dan persyaratan menurut kategori."
+          ]
+        ],
+        "widths": [
+          3.5,
+          6,
+          6.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "D.1",
+    "title": "Lingkup layanan yang dikomisioningkan",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Satu program dibuka setelah institusi dan JejakBalik menyepakati kategori, wilayah layanan, jadwal, tanggung jawab dan sumber anggaran. Penyedia perjalanan serta penerima menyampaikan syaratnya sebelum pemilik memperoleh janji penjemputan. Dengan demikian, pendaftaran permintaan tidak otomatis menciptakan kewajiban angkut yang tidak memiliki kapasitas.",
+      "Tahun pertama menggunakan UI/Depok sebagai area komisioning yang diusulkan. Pendataan kampus dan komunitas mengikuti batas program; volume aktual menjadi dasar alokasi perjalanan. Institusi berikutnya memperoleh lingkup sendiri, sementara JejakBalik mempertahankan aturan pencatatan dan rekonsiliasi yang sama."
+    ],
+    "tables": [
+      {
+        "title": "Pokok kesepakatan layanan",
+        "headers": [
+          "Komponen",
+          "Isi yang disepakati",
+          "Catatan penerimaan"
+        ],
+        "rows": [
+          [
+            "Peserta dan wilayah",
+            "Kelompok pemilik, titik layanan dan kontak penghubung.",
+            "Permintaan di luar lingkup tidak dibebankan pada program."
+          ],
+          [
+            "Kategori",
+            "Perangkat dan kondisi yang dapat ditangani oleh penyedia serta penerima.",
+            "Kondisi tidak sesuai diarahkan untuk peninjauan."
+          ],
+          [
+            "Kapasitas dan waktu",
+            "Penawaran perjalanan, slot penerima dan jendela pemilik.",
+            "Penugasan diterbitkan hanya jika keseluruhan syarat terpenuhi."
+          ],
+          [
+            "Pembayaran",
+            "Biaya koordinasi, biaya pemenuhan, jadwal pembayaran dan tindak lanjut.",
+            "Pekerjaan, tagihan dan pembayaran dicatat terpisah."
+          ],
+          [
+            "Penyelesaian",
+            "Definisi penerimaan, bukti tindak lanjut, kewajiban tertahan dan laporan.",
+            "Pickup bukan penutupan otomatis seluruh layanan."
+          ]
+        ],
+        "widths": [
+          3,
+          7,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "D.2",
+    "title": "Perjalanan perangkat dan keputusan manusia",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Identitas perangkat mengikuti pemilik, pembawa dan penerima sepanjang serah terima. Ketika inspeksi mengubah rekomendasi di luar persetujuan awal, koordinator meminta keputusan tambahan; selama menunggu, pembawa atau penerima tetap bertanggung jawab atas perangkat."
+    ],
+    "tables": [
+      {
+        "title": "Urutan kerja dan bukti penyelesaiannya",
+        "headers": [
+          "Tahap",
+          "Pelaksana dan keputusan",
+          "Catatan yang dipertahankan"
+        ],
+        "rows": [
+          [
+            "Permintaan",
+            "Pemilik menyampaikan identitas perangkat, kondisi, waktu dan instruksi.",
+            "Permintaan, persetujuan dan kategori penanganan."
+          ],
+          [
+            "Pencocokan",
+            "Koordinator membandingkan perjalanan yang ditawarkan dan tujuan penerima.",
+            "Alternatif, syarat yang dipenuhi, biaya dan alasan penolakan."
+          ],
+          [
+            "Persetujuan",
+            "Operator berwenang menyetujui usulan pada revisi terkini.",
+            "Identitas pemberi persetujuan dan rencana yang berlaku."
+          ],
+          [
+            "Penjemputan",
+            "Pemilik dan pembawa mencocokkan perangkat serta mencatat penerimaan.",
+            "Identitas perangkat, waktu dan pembawa."
+          ],
+          [
+            "Penerimaan",
+            "Penerima mengakui perangkat dan menginspeksi kondisi.",
+            "Penerimaan, hasil inspeksi dan pekerjaan lanjutan."
+          ],
+          [
+            "Tindak lanjut",
+            "Pihak yang berwenang menyelesaikan penanganan dan persyaratan data.",
+            "Bukti jalur akhir dan penyelesaian kewajiban."
+          ]
+        ],
+        "widths": [
+          3,
+          7,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "D.3",
+    "title": "Pencocokan perjalanan dan persetujuan",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Penyedia memasukkan perjalanan yang memang akan dilakukan, termasuk asal, urutan singgah, tujuan, waktu dan kapasitas pemulihan yang ditawarkan. JejakBalik menyisipkan pengambilan sebelum penerimaan tanpa menghilangkan pekerjaan awal. Usulan yang dipilih menyeimbangkan biaya tambahan dan syarat layanan di dalam anggaran program.",
+      "Prototipe saat ini membandingkan perjalanan menuju penerima yang telah ditetapkan pada permintaan. Perhitungan bersifat deterministik dengan penyisipan sebelum keberangkatan. Perubahan masukan yang relevan menghasilkan revisi baru, sehingga persetujuan lama tidak menjadi dasar pelaksanaan rencana yang telah berubah."
+    ],
+    "tables": [
+      {
+        "title": "Persyaratan sebelum penugasan",
+        "headers": [
+          "Kelompok syarat",
+          "Pemeriksaan",
+          "Jika tidak terpenuhi"
+        ],
+        "rows": [
+          [
+            "Pemilik",
+            "Persetujuan, informasi perangkat dan jendela penyerahan.",
+            "Minta kelengkapan atau simpan sebagai permintaan belum terlayani."
+          ],
+          [
+            "Kendaraan dan pembawa",
+            "Kesesuaian penanganan, massa, ruang serta ketersediaan.",
+            "Bandingkan pilihan lain yang memenuhi syarat."
+          ],
+          [
+            "Perjalanan",
+            "Urutan pekerjaan awal, jendela waktu dan tambahan waktu yang diizinkan.",
+            "Jangan menyisipkan pekerjaan yang merusak kewajiban awal."
+          ],
+          [
+            "Penerima",
+            "Kategori, slot waktu, kapasitas dan kesiapan menerima.",
+            "Jadwalkan ulang sebelum memberi janji pickup."
+          ],
+          [
+            "Program",
+            "Biaya teralokasi dan anggaran yang tersedia.",
+            "Batasi penugasan baru dan pertahankan kewajiban yang sudah timbul."
+          ],
+          [
+            "Otoritas",
+            "Usulan dan revisi terkini; persetujuan operator.",
+            "Hitung dan tinjau ulang. Pratinjau tidak mengesahkan pekerjaan."
+          ]
+        ],
+        "widths": [
+          3,
+          7,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "D.4",
+    "title": "Serah terima dan pekerjaan yang tertahan",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Pembatalan penyedia sebelum pickup mengembalikan permintaan ke perencanaan. Sesudah pickup, perangkat tetap melekat pada pembawa yang telah menerimanya hingga serah terima berikutnya tercatat. Koordinator menyelesaikan kasus itu melalui hubungan operasional yang disepakati, bukan dengan memindahkan identitas pembawa dalam laporan.",
+      "Status pemeriksaan data dalam prototipe merupakan keputusan demonstrasi. Operasi nyata menautkannya dengan pelaksana, metode, kewenangan dan bukti penanganan data yang sesuai. Penyelesaian perangkat kemudian dibedakan dari penerimaan logistik dan keputusan pemanfaatan kembali."
+    ],
+    "tables": [
+      {
+        "title": "Kasus tertahan dan tanggung jawab lanjutan",
+        "headers": [
+          "Kasus",
+          "Tindakan layanan",
+          "Pihak yang memimpin"
+        ],
+        "rows": [
+          [
+            "Pemilik belum siap",
+            "Perbarui jendela dan penugasan sebelum pickup.",
+            "Koordinator dan pemilik."
+          ],
+          [
+            "Penyedia batal setelah pickup",
+            "Pertahankan pembawa; atur lokasi aman dan serah terima yang sah.",
+            "Koordinator operasi bersama penyedia."
+          ],
+          [
+            "Penerima menolak atau penuh",
+            "Jangan menutup kasus; sepakati penyimpanan dan tujuan tindak lanjut.",
+            "Koordinator operasi bersama penerima."
+          ],
+          [
+            "Persetujuan atau data belum selesai",
+            "Tahan perpindahan atau pelepasan yang membutuhkan keputusan itu.",
+            "Pemilik atau penanggung jawab data dengan penerima."
+          ],
+          [
+            "Biaya tambahan dibutuhkan",
+            "Setujui lingkup dan sumber pembayaran sebelum pekerjaan baru.",
+            "Penanggung jawab program dan keuangan."
+          ],
+          [
+            "Perselisihan catatan",
+            "Pertahankan catatan awal, bukti koreksi dan hasil peninjauan.",
+            "Peninjau yang tidak menyetujui transaksi awal."
+          ]
+        ],
+        "widths": [
+          4,
+          7,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "G.1",
+    "title": "Prioritas lingkungan eksternal berbobot",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "PESTEL digunakan untuk mengurutkan perhatian saat layanan dikomisioningkan. Bobot menggambarkan kepentingan relatif dan berjumlah 1,00. Prioritas 1 berarti perhatian rutin, 2 rendah, 3 menengah, 4 tinggi dan 5 menentukan kesiapan layanan. Nilai bobot dikalikan prioritas menghasilkan kebutuhan perhatian, bukan probabilitas keberhasilan. Pengelompokan faktor mengikuti PESTLE; pembobotan dan skala prioritas merupakan pengembangan tim (Chartered Institute of Personnel and Development [CIPD], 2025).",
+      "Ekonomi, teknologi dan hukum memperoleh perhatian terbesar karena ketiganya menentukan layanan yang dapat dijanjikan: harga harus membiayai seluruh pekerjaan, informasi kapasitas harus dapat dipakai, dan kategori harus ditangani oleh pihak yang sesuai. Pembobotan merupakan estimasi tim untuk menyusun pekerjaan, bukan penilaian pemangku kepentingan."
+    ],
+    "tables": [
+      {
+        "title": "PESTEL dan implikasi pelaksanaan",
+        "headers": [
+          "Faktor",
+          "Bobot",
+          "Prioritas",
+          "Nilai",
+          "Keputusan pelaksanaan"
+        ],
+        "rows": [
+          [
+            "Politik dan institusi",
+            "0,10",
+            "4",
+            "0,40",
+            "Tetapkan penghubung, kewenangan dan penggunaan fasilitas program."
+          ],
+          [
+            "Ekonomi",
+            "0,24",
+            "5",
+            "1,20",
+            "Tawarkan lingkup yang membiayai koordinasi, transportasi dan tindak lanjut."
+          ],
+          [
+            "Sosial",
+            "0,16",
+            "4",
+            "0,64",
+            "Sediakan informasi, akses bantuan dan pilihan persetujuan yang dipahami."
+          ],
+          [
+            "Teknologi",
+            "0,20",
+            "5",
+            "1,00",
+            "Hubungkan penawaran perjalanan, kapasitas dan catatan lintas pihak."
+          ],
+          [
+            "Lingkungan",
+            "0,12",
+            "4",
+            "0,48",
+            "Pertahankan jalur guna ulang dan pisahkan penanganan menurut kondisi."
+          ],
+          [
+            "Hukum",
+            "0,18",
+            "5",
+            "0,90",
+            "Periksa klasifikasi, lingkup kegiatan, tanggung jawab dan persyaratan data."
+          ],
+          [
+            "Total",
+            "1,00",
+            "—",
+            "4,62",
+            "Prioritaskan kontrak, kapasitas operasional dan kelayakan kategori."
+          ]
+        ],
+        "widths": [
+          3,
+          1.3,
+          1.7,
+          1.5,
+          8.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "G.2",
+    "title": "Kemampuan internal dan urutan penguatan",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "IFE memisahkan kemampuan yang tersedia dari pekerjaan yang harus dibentuk. Rating 1 menunjukkan kelemahan utama, 2 kelemahan kecil, 3 kekuatan kecil dan 4 kekuatan utama. Bobot berjumlah 1,00; skor adalah jumlah bobot dikalikan rating. Kekuatan perangkat lunak tidak diberi nilai yang sama dengan jaringan layanan yang sudah beroperasi. Pengelompokan memakai adaptasi IFE/EFE (David et al., 2020); definisi skala dan penilaiannya ditetapkan tim.",
+      "Skor estimasi tim 2,08 mengarahkan investasi awal kepada kontrak, petugas dan catatan operasional bersama. Pengembangan model tambahan dilakukan setelah kebutuhan tersebut jelas, sehingga dana awal memperluas kemampuan melayani dan bukan hanya menambah tampilan."
+    ],
+    "tables": [
+      {
+        "title": "Matriks IFE",
+        "headers": [
+          "Faktor internal",
+          "S/W",
+          "Bobot",
+          "Rating",
+          "Skor",
+          "Tindakan"
+        ],
+        "rows": [
+          [
+            "Pencocokan dan batas perjalanan yang dapat dijalankan",
+            "S",
+            "0,14",
+            "3",
+            "0,42",
+            "Pertahankan aturan dan rekonsiliasi dengan penawaran nyata."
+          ],
+          [
+            "Skenario bersama lintas tampilan",
+            "S",
+            "0,10",
+            "3",
+            "0,30",
+            "Gunakan satu daftar perangkat dan penugasan."
+          ],
+          [
+            "Pemisahan pratinjau dan persetujuan",
+            "S",
+            "0,08",
+            "3",
+            "0,24",
+            "Terapkan peran persetujuan dalam sistem operasional."
+          ],
+          [
+            "Catatan custody dan pengecualian dalam prototipe",
+            "S",
+            "0,08",
+            "3",
+            "0,24",
+            "Hubungkan catatan dengan penerimaan antarpihak."
+          ],
+          [
+            "Layanan modular berdasarkan program",
+            "S",
+            "0,10",
+            "3",
+            "0,30",
+            "Tambahkan program dengan lingkup dan anggaran tersendiri."
+          ],
+          [
+            "Penawaran perjalanan belum dikontrak",
+            "W",
+            "0,14",
+            "1",
+            "0,14",
+            "Bangun penawaran kapasitas yang dapat digunakan."
+          ],
+          [
+            "Pendapatan institusi belum dikontrak",
+            "W",
+            "0,12",
+            "1",
+            "0,12",
+            "Komisioning memakai kesepakatan layanan berbayar."
+          ],
+          [
+            "Penyimpanan prototipe masih lokal",
+            "W",
+            "0,08",
+            "2",
+            "0,16",
+            "Sediakan autentikasi dan catatan bersama untuk operasi."
+          ],
+          [
+            "Tim operasi belum ditugaskan",
+            "W",
+            "0,08",
+            "1",
+            "0,08",
+            "Biayai jam koordinasi dan petugas yang dibutuhkan."
+          ],
+          [
+            "Biaya dan penerimaan aktual belum disepakati",
+            "W",
+            "0,08",
+            "1",
+            "0,08",
+            "Tetapkan tarif penyedia, syarat penerima dan dana tindak lanjut."
+          ],
+          [
+            "Total",
+            "—",
+            "1,00",
+            "—",
+            "2,08",
+            "Prioritas awal berada pada kontrak dan kapasitas operasional."
+          ]
+        ],
+        "widths": [
+          4.2,
+          1.2,
+          1.5,
+          1.4,
+          1.4,
+          6.3
+        ]
+      }
+    ]
+  },
+  {
+    "id": "G.3",
+    "title": "Respons terhadap peluang dan tekanan eksternal",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "EFE menggunakan rating respons: 1 lemah, 2 sedang, 3 di atas rata-rata dan 4 sangat baik. Rating tidak menunjukkan apakah faktor merupakan peluang atau ancaman; peluang dan ancaman dibedakan pada kolom O/T. Bobot berjumlah 1,00 dan skor tertimbang estimasi tim adalah 2,16.",
+      "Matriks ini menempatkan kontrak layanan dan penerimaan sebagai pekerjaan awal. Pada variasi satu rating sebesar satu tingkat, total berubah sebesar bobot faktor tersebut. Faktor berbobot terbesar mengubah skor sebesar 0,16 sehingga urutan perhatian tetap berada pada penawaran institusi, biaya dan kapasitas. Skor bukan sertifikat kelayakan atau prediksi hasil."
+    ],
+    "tables": [
+      {
+        "title": "Matriks EFE",
+        "headers": [
+          "Faktor eksternal",
+          "O/T",
+          "Bobot",
+          "Respons",
+          "Skor",
+          "Tindakan"
+        ],
+        "rows": [
+          [
+            "Institusi dapat membeli layanan untuk komunitasnya",
+            "O",
+            "0,16",
+            "3",
+            "0,48",
+            "Definisikan penawaran dan hasil yang dibeli."
+          ],
+          [
+            "Saluran pengumpulan dan pengelola telah tersedia",
+            "O",
+            "0,12",
+            "2",
+            "0,24",
+            "Bangun hubungan penerimaan sesuai lingkup."
+          ],
+          [
+            "Akses dan informasi relevan bagi pemilik",
+            "O",
+            "0,10",
+            "2",
+            "0,20",
+            "Gabungkan jadwal dan tujuan dengan komunikasi program."
+          ],
+          [
+            "Pilihan moda dan penyedia dapat saling melengkapi",
+            "O",
+            "0,08",
+            "2",
+            "0,16",
+            "Terima penawaran kapasitas berdasarkan kategori."
+          ],
+          [
+            "Pelaporan memberi nilai pada pembeli program",
+            "O",
+            "0,08",
+            "2",
+            "0,16",
+            "Laporan memisahkan pickup, diterima dan selesai."
+          ],
+          [
+            "Biaya atau keterlambatan pembayaran",
+            "T",
+            "0,14",
+            "2",
+            "0,28",
+            "Gunakan anggaran, pembayaran awal dan cadangan."
+          ],
+          [
+            "Perjalanan atau penerima tidak tersedia",
+            "T",
+            "0,10",
+            "2",
+            "0,20",
+            "Batasi janji pada kapasitas yang dikonfirmasi."
+          ],
+          [
+            "Kategori tidak sesuai penanganan",
+            "T",
+            "0,08",
+            "2",
+            "0,16",
+            "Terapkan kelayakan sebelum penugasan."
+          ],
+          [
+            "Ketidakjelasan data dan tanggung jawab",
+            "T",
+            "0,08",
+            "2",
+            "0,16",
+            "Tetapkan pemilik keputusan dan bukti serah terima."
+          ],
+          [
+            "Alternatif khusus memberi layanan lebih sederhana",
+            "T",
+            "0,06",
+            "2",
+            "0,12",
+            "Bandingkan harga, cakupan dan tambahan perjalanan secara setara."
+          ],
+          [
+            "Total",
+            "—",
+            "1,00",
+            "—",
+            "2,16",
+            "Perkuat respons operasional sebelum menambah wilayah."
+          ]
+        ],
+        "widths": [
+          4.2,
+          1.2,
+          1.5,
+          1.6,
+          1.4,
+          6.1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "G.4",
+    "title": "Strategi SWOT dan penerjemahan TOWS",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "SWOT merangkum hubungan antara rancangan JejakBalik dan lingkungan layanannya. TOWS kemudian menetapkan tindakan yang mempunyai pelaksana, sumber daya dan hasil kerja. Dengan demikian, analisis strategis berakhir pada keputusan yang dapat dijalankan.",
+      "Kekuatan berupa aturan perencanaan, persetujuan dan catatan yang terhubung digunakan untuk menawarkan layanan institusi yang jelas. Kelemahan kontrak, catatan bersama dan pelaksana diatasi melalui komisioning yang dibiayai sebelum penugasan diperluas."
+    ],
+    "tables": [
+      {
+        "title": "Ringkasan SWOT",
+        "headers": [
+          "Kekuatan dan kelemahan",
+          "Peluang dan ancaman"
+        ],
+        "rows": [
+          [
+            "S: pencocokan yang dapat diperiksa; skenario bersama; persetujuan eksplisit; kewajiban tertahan tetap terlihat.",
+            "O: pembeli institusi; saluran pengumpulan yang sudah ada; kebutuhan akses dan pelaporan."
+          ],
+          [
+            "W: kontrak, tim operasi dan catatan bersama belum dibentuk; tarif masih estimasi tim.",
+            "T: penawaran kapasitas berubah; biaya/pembayaran; penanganan tidak sesuai; alternatif khusus."
+          ]
+        ],
+        "widths": [
+          8,
+          8
+        ]
+      },
+      {
+        "title": "TOWS menjadi pekerjaan layanan",
+        "headers": [
+          "Strategi",
+          "Tindakan",
+          "Pemilik dan hasil kerja"
+        ],
+        "rows": [
+          [
+            "SO",
+            "Tawarkan paket institusi yang menggunakan pilihan perjalanan dan laporan penyelesaian.",
+            "Komersial dan operasi: lingkup, harga serta jadwal program."
+          ],
+          [
+            "ST",
+            "Gunakan kelayakan, anggaran dan persetujuan untuk membatasi penugasan yang dapat dipenuhi.",
+            "Operasi: rencana disetujui dan daftar kasus terbuka."
+          ],
+          [
+            "WO",
+            "Bangun kontrak, catatan bersama dan pelaksana dengan pembiayaan komisioning.",
+            "Pimpinan dan keuangan: perjanjian, petugas serta kas operasional."
+          ],
+          [
+            "WT",
+            "Pertahankan kewajiban yang sudah timbul; pilih pengumpulan khusus jika perjalanan berbagi tidak sesuai.",
+            "Operasi dan institusi: penyelesaian kasus serta pembandingan biaya."
+          ]
+        ],
+        "widths": [
+          1.8,
+          8.2,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "G.5",
+    "title": "Tekanan industri dan sumber keunggulan",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Layanan institusi dapat dipenuhi melalui dropbox, penjemputan pengelola atau pengumpulan khusus. Alternatif tersebut membatasi harga dan kompleksitas yang dapat dibebankan JejakBalik. Karena itu, keputusan komersial harus mempertimbangkan nilai koordinasi dibandingkan biaya mengatur beberapa pihak.",
+      "Sumber keunggulan yang ingin dibangun adalah jaringan penawaran yang dapat dipercaya, proses penyelesaian pengecualian dan hubungan program yang berulang. Perangkat lunak mendukung pekerjaan itu, sedangkan kemampuan mempertahankannya berkembang melalui pelaksanaan dan hubungan layanan."
+    ],
+    "tables": [
+      {
+        "title": "Tekanan persaingan dan respons yang dipilih",
+        "headers": [
+          "Tekanan",
+          "Penilaian kualitatif tim",
+          "Respons"
+        ],
+        "rows": [
+          [
+            "Substitusi",
+            "Tinggi: institusi dapat membeli pengumpulan khusus atau memakai saluran yang ada.",
+            "Buktikan nilai pada lingkup dan beban kerja yang setara."
+          ],
+          [
+            "Daya tawar pelanggan",
+            "Tinggi: institusi mengendalikan anggaran dan pembaruan kontrak.",
+            "Penawaran jelas, laporan dapat diperiksa dan perbaikan pelayanan."
+          ],
+          [
+            "Daya tawar penyedia",
+            "Sedang–tinggi: kapasitas dan kompetensi tidak selalu dapat dipertukarkan.",
+            "Beberapa penawaran, kompensasi yang jelas dan batas perjalanan."
+          ],
+          [
+            "Persaingan",
+            "Sedang: pelaku menawarkan lingkup yang berbeda.",
+            "Kerja sama dengan layanan yang saling melengkapi."
+          ],
+          [
+            "Pendatang baru",
+            "Sedang: antarmuka dapat ditiru, jaringan pelaksanaan membutuhkan hubungan kerja.",
+            "Bangun mutu pemenuhan dan rekonsiliasi."
+          ]
+        ],
+        "widths": [
+          3,
+          6.5,
+          6.5
+        ]
+      },
+      {
+        "title": "Nilai dan kebutuhan pengembangan sumber daya",
+        "headers": [
+          "Sumber daya",
+          "Nilai dan kelangkaan",
+          "Implikasi organisasi"
+        ],
+        "rows": [
+          [
+            "Aturan pencocokan dan catatan",
+            "Bernilai; prinsip dasarnya tersedia dalam literatur.",
+            "Pelihara, dokumentasikan dan gunakan secara konsisten."
+          ],
+          [
+            "Hubungan penyedia dan penerima",
+            "Bernilai; kelangkaan bergantung pada kapasitas yang benar-benar ditawarkan.",
+            "Tetapkan pengelola hubungan dan evaluasi kinerja."
+          ],
+          [
+            "Riwayat layanan yang dapat dipercaya",
+            "Bernilai dan memerlukan waktu untuk dibangun.",
+            "Catat penyelesaian dan sengketa secara konsisten."
+          ],
+          [
+            "Kontrak institusi berulang",
+            "Bernilai; tidak otomatis eksklusif.",
+            "Pertahankan mutu layanan dan ekonomi setiap program."
+          ]
+        ],
+        "widths": [
+          4,
+          7,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "I.1",
+    "title": "Pekerjaan komisioning tahun pertama",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Layanan pertama ditargetkan Maret 2027, setelah kontrak, petugas dan catatan bersama siap pada akhir Februari. Institusi pertama menerima 40 perangkat pada bulan ketiga. Jadwal merupakan estimasi tim; penyempurnaan sistem berlanjut bersama rekonsiliasi dan perluasan yang mengikuti sumber daya."
+    ],
+    "tables": [
+      {
+        "title": "Paket pekerjaan dan ketergantungannya",
+        "headers": [
+          "Waktu",
+          "Pekerjaan",
+          "Hasil yang membuka tahap berikut"
+        ],
+        "rows": [
+          [
+            "Bulan 1–2",
+            "Tetapkan lingkup UI/Depok, penghubung, peserta dan kebutuhan kategori.",
+            "Dokumen lingkup dan daftar peran berwenang."
+          ],
+          [
+            "Bulan 1–2",
+            "Sepakati penawaran perjalanan, penerimaan, kompensasi dan anggaran.",
+            "Kapasitas, tarif dan sumber pembayaran tersedia."
+          ],
+          [
+            "Bulan 1–2",
+            "Siapkan catatan bersama, akses, instruksi pemilik dan petugas.",
+            "Peran, rekonsiliasi serta pemulihan catatan dapat dijalankan."
+          ],
+          [
+            "Bulan 3–6",
+            "Jalankan layanan awal dan selesaikan serah terima, biaya serta kasus tertahan.",
+            "Layanan berbayar mulai bulan 3; catatan penerimaan, pembayaran dan penyelesaian."
+          ],
+          [
+            "Bulan 4–9",
+            "Perbaiki jadwal, penawaran kapasitas, komunikasi dan ekonomi layanan.",
+            "Paket layanan yang diperbarui dan keputusan pembaruan program."
+          ],
+          [
+            "Bulan 5–12",
+            "Tambah institusi pada bulan 5, 7 dan 10 sesuai kapasitas petugas, dana, perjalanan dan penerima.",
+            "Program tambahan mempunyai kontrak dan biaya sendiri."
+          ]
+        ],
+        "widths": [
+          2.5,
+          7,
+          6.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "I.2",
+    "title": "Perluasan institusi dan replikasi 2027–2036",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "JejakBalik berkembang melalui tambahan program institusi yang memiliki sumber anggaran dan jaringan penerimaan. UI/Depok menjadi area awal untuk membentuk rutinitas, sementara cakupan berikutnya memperluas hubungan institusi di Jabodetabek. Aturan bersama dipertahankan, tetapi jadwal, biaya dan kategori ditetapkan menurut kondisi setiap area.",
+      "Horizon sepuluh tahun menggambarkan arah pengembangan kemampuan. Perkembangan tahun 2030–2036 mengikuti mutu pemenuhan, kontrak dan kapasitas yang telah terbentuk; jumlah wilayah tidak diperlakukan sebagai komitmen yang telah dibiayai."
+    ],
+    "tables": [
+      {
+        "title": "Horizon strategis dan kemampuan yang dibentuk",
+        "headers": [
+          "Periode",
+          "Kemampuan utama",
+          "Dasar melanjutkan"
+        ],
+        "rows": [
+          [
+            "2027",
+            "Komisioning UI/Depok; kontrak awal; catatan dan penyelesaian layanan.",
+            "Pekerjaan diselesaikan, biaya direkonsiliasi dan program diperbarui."
+          ],
+          [
+            "2028–2029",
+            "Beberapa program institusi; jadwal kapasitas dan dukungan lintas program.",
+            "Tim, kas dan penerima mendukung seluruh kewajiban."
+          ],
+          [
+            "2030–2031",
+            "Perluasan jejaring Jabodetabek; penawaran layanan yang lebih seragam.",
+            "Ekonomi dan mutu tiap program dapat dipertahankan."
+          ],
+          [
+            "2032–2033",
+            "Persiapan area baru dan pemindahan proses, pelatihan serta dukungan.",
+            "Institusi, penyedia dan penerima lokal membentuk lingkup yang layak."
+          ],
+          [
+            "2034–2036",
+            "Replikasi lintas wilayah; dukungan mutu dan pembaruan standar layanan.",
+            "Kapasitas dukungan tumbuh bersama kontrak dan penyelesaian kasus."
+          ]
+        ],
+        "widths": [
+          2.8,
+          7,
+          6.2
+        ]
+      }
+    ]
+  },
+  {
+    "id": "I.3",
+    "title": "Tanggung jawab dan kewenangan keputusan",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "RACI membedakan pelaksana dari pemegang tanggung jawab akhir. A adalah satu fungsi yang mengesahkan keputusan, R pelaksana, C pihak yang dimintai pertimbangan dan I pihak yang diberi informasi. Satu orang dapat memegang beberapa fungsi bila kompeten dan jam kerjanya dibiayai; keputusan sengketa tetap memerlukan peninjauan yang terpisah.",
+      "Institusi mengesahkan lingkup dan pendanaannya. JejakBalik memegang koordinasi program, penyedia memegang pengangkutan yang diterimanya, dan penerima memegang kegiatan setelah penerimaan sesuai ruang kewenangannya."
+    ],
+    "tables": [
+      {
+        "title": "RACI layanan",
+        "headers": [
+          "Kegiatan",
+          "Institusi",
+          "JejakBalik",
+          "Penyedia",
+          "Penerima",
+          "Pemilik"
+        ],
+        "rows": [
+          [
+            "Lingkup dan anggaran",
+            "A",
+            "R",
+            "C",
+            "C",
+            "I"
+          ],
+          [
+            "Penawaran perjalanan",
+            "I",
+            "C",
+            "A/R",
+            "C",
+            "I"
+          ],
+          [
+            "Syarat penerimaan",
+            "I",
+            "C",
+            "C",
+            "A/R",
+            "I"
+          ],
+          [
+            "Informasi dan persetujuan pemilik",
+            "I",
+            "C",
+            "I",
+            "C",
+            "A/R"
+          ],
+          [
+            "Penyusunan dan persetujuan penugasan",
+            "C",
+            "A/R",
+            "C",
+            "C",
+            "I"
+          ],
+          [
+            "Penjemputan dan custody angkut",
+            "I",
+            "C",
+            "A/R",
+            "I",
+            "C"
+          ],
+          [
+            "Penerimaan dan inspeksi",
+            "I",
+            "C",
+            "C",
+            "A/R",
+            "I"
+          ],
+          [
+            "Penyelesaian pengecualian program",
+            "C",
+            "A/R",
+            "R",
+            "R",
+            "C"
+          ],
+          [
+            "Persetujuan biaya tambahan program",
+            "A",
+            "R",
+            "C",
+            "C",
+            "I"
+          ],
+          [
+            "Laporan serta rekonsiliasi program",
+            "C",
+            "A/R",
+            "R",
+            "R",
+            "I"
+          ],
+          [
+            "Pembaruan program",
+            "A",
+            "R",
+            "C",
+            "C",
+            "I"
+          ]
+        ],
+        "widths": [
+          6,
+          2,
+          2.5,
+          2,
+          2,
+          1.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "I.4",
+    "title": "Penerimaan layanan dan pembaruan kontrak",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Pembaruan program menghubungkan pengalaman peserta dengan kemampuan membiayai layanan berikutnya. Institusi menerima laporan tentang permintaan, penugasan, penerimaan, kasus tertahan dan biaya. Kasus yang masih berjalan tetap masuk laporan beserta penanggung jawab dan rencana penyelesaiannya.",
+      "Penambahan wilayah menggunakan evaluasi yang sama pada tingkat program. Keuntungan jaringan secara keseluruhan tidak menggantikan pemeriksaan biaya, kapasitas dan kewajiban masing-masing area."
+    ],
+    "tables": [
+      {
+        "title": "Keputusan pada akhir periode layanan",
+        "headers": [
+          "Pemeriksaan",
+          "Dasar keputusan",
+          "Tindakan"
+        ],
+        "rows": [
+          [
+            "Pemenuhan",
+            "Kesesuaian janji dengan pickup dan penerimaan yang terjadi.",
+            "Sesuaikan jendela dan kapasitas sebelum menambah permintaan."
+          ],
+          [
+            "Penyelesaian",
+            "Bukti jalur tindak lanjut dan umur kasus terbuka.",
+            "Tetapkan orang, tenggat dan biaya penyelesaian."
+          ],
+          [
+            "Ekonomi",
+            "Pendapatan layanan, seluruh biaya, pembayaran serta cadangan.",
+            "Perbarui harga atau lingkup agar kewajiban dapat dibiayai."
+          ],
+          [
+            "Peserta dan keluhan",
+            "Keluhan teratribusi dan koreksi yang telah dilakukan.",
+            "Perbaiki informasi atau langkah yang menyebabkan masalah berulang."
+          ],
+          [
+            "Perluasan",
+            "Kontrak, petugas, penawaran perjalanan dan penerima area tambahan.",
+            "Buka area hanya dalam kapasitas yang tersedia."
+          ]
+        ],
+        "widths": [
+          3,
+          7,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "J.1",
+    "title": "Penilaian risiko dan pemilik respons",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Kemungkinan dan dampak dinilai pada skala ordinal 1–5, dari jarang/kecil hingga sangat sering/kritis. Perkaliannya membentuk prioritas 1–4 rendah, 5–9 menengah, 10–16 tinggi, dan 17–25 kritis. Seluruh nilai adalah estimasi tim; nilai sesudah pengendalian merupakan sasaran yang ditinjau saat lingkup berubah."
+    ],
+    "tables": [
+      {
+        "title": "Risiko awal dan sasaran pengendalian",
+        "headers": [
+          "ID",
+          "Risiko",
+          "Awal L × I",
+          "Sasaran L × I",
+          "Pemilik"
+        ],
+        "rows": [
+          [
+            "R1",
+            "Permintaan dan pembaruan program",
+            "4 × 4 = 16",
+            "3 × 4 = 12",
+            "Komersial"
+          ],
+          [
+            "R2",
+            "Pembayaran atau dana operasional",
+            "3 × 5 = 15",
+            "2 × 5 = 10",
+            "Keuangan"
+          ],
+          [
+            "R3",
+            "Kapasitas perjalanan ditarik",
+            "4 × 4 = 16",
+            "2 × 4 = 8",
+            "Operasi"
+          ],
+          [
+            "R4",
+            "Penerima penuh atau menolak",
+            "3 × 4 = 12",
+            "2 × 4 = 8",
+            "Operasi dan penerima"
+          ],
+          [
+            "R5",
+            "Kategori atau kondisi berbahaya",
+            "3 × 5 = 15",
+            "1 × 5 = 5",
+            "Penanggung jawab penanganan"
+          ],
+          [
+            "R6",
+            "Paparan atau pelepasan data",
+            "3 × 5 = 15",
+            "2 × 5 = 10",
+            "Penanggung jawab data"
+          ],
+          [
+            "R7",
+            "Perangkat atau custody tidak cocok",
+            "3 × 4 = 12",
+            "1 × 4 = 4",
+            "Operasi"
+          ],
+          [
+            "R8",
+            "Keluhan dan perselisihan",
+            "3 × 4 = 12",
+            "2 × 4 = 8",
+            "Peninjau layanan"
+          ],
+          [
+            "R9",
+            "Biaya pengecualian melebihi lingkup",
+            "3 × 4 = 12",
+            "2 × 4 = 8",
+            "Operasi dan keuangan"
+          ],
+          [
+            "R10",
+            "Beban kerja dan dukungan tertinggal",
+            "3 × 3 = 9",
+            "2 × 3 = 6",
+            "Pimpinan layanan"
+          ]
+        ],
+        "widths": [
+          1.1,
+          4.9,
+          2.5,
+          2.5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "J.2",
+    "title": "Pemicu respons dan sumber daya",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Pengendalian harus mengubah pekerjaan yang dilakukan dan sumber daya yang dipakai. Kasus tertahan membutuhkan jam petugas, komunikasi, penyimpanan atau perjalanan tambahan; biaya tersebut dibebankan pada lingkup atau persetujuan tindak lanjut yang jelas.",
+      "Cadangan dan kelonggaran biaya pengecualian mendukung gangguan yang terbatas. Ketika kebutuhan melampaui sumber daya, operator membatasi penugasan baru dan mendahulukan kewajiban yang sudah timbul. Institusi mendapat keputusan perubahan lingkup beserta konsekuensi biayanya."
+    ],
+    "tables": [
+      {
+        "title": "Tindakan dan pembiayaan respons",
+        "headers": [
+          "Risiko dan pemicu",
+          "Tindakan",
+          "Sumber daya"
+        ],
+        "rows": [
+          [
+            "R1: program tidak diperbarui",
+            "Sesuaikan lingkup, frekuensi dan komunikasi; gunakan rekonsiliasi layanan dalam pembaruan.",
+            "Jam komersial dan koordinasi yang dibayar."
+          ],
+          [
+            "R2: pembayaran terlambat atau saldo tidak cukup",
+            "Gunakan pembayaran sesuai kontrak, cadangan kas dan pengendalian komitmen.",
+            "Keuangan dan cadangan operasional."
+          ],
+          [
+            "R3: perjalanan batal sebelum atau sesudah pickup",
+            "Sebelum pickup: rencanakan ulang. Sesudah pickup: pertahankan custody dan atur serah terima.",
+            "Koordinasi serta alokasi pengecualian."
+          ],
+          [
+            "R4: penerima tidak dapat menerima",
+            "Atur ulang waktu atau tujuan yang disetujui; simpan tanggung jawab pada pembawa saat ini.",
+            "Alokasi tindak lanjut dan persetujuan biaya."
+          ],
+          [
+            "R5: kondisi tidak sesuai",
+            "Hentikan penugasan umum dan minta pelaksana yang memenuhi persyaratan.",
+            "Penanganan khusus dengan lingkup dan biaya disetujui."
+          ],
+          [
+            "R6: keputusan data atau akses bermasalah",
+            "Batasi akses dan pelepasan; lakukan peninjauan, penanganan dan dokumentasi.",
+            "Dukungan data, penyimpanan dan kontrak penerima."
+          ],
+          [
+            "R7: catatan berbeda dengan perangkat",
+            "Cocokkan identitas dan bukti; perbaiki melalui riwayat koreksi.",
+            "Jam operasi dan peninjauan."
+          ],
+          [
+            "R8–R9: sengketa atau biaya tambahan",
+            "Pisahkan peninjau dari persetujuan awal; tetapkan kewajiban dan persetujuan biaya.",
+            "Peninjauan layanan dan anggaran tambahan yang disahkan."
+          ],
+          [
+            "R10: antrean pekerjaan meningkat",
+            "Kurangi penerimaan baru atau tambah petugas dalam anggaran.",
+            "Jam dukungan dan keputusan kapasitas."
+          ]
+        ],
+        "widths": [
+          4,
+          8,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "J.3",
+    "title": "Kelayakan kategori dan tanggung jawab data",
+    "return_to": "gagasan",
+    "paragraphs": [
+      "Kelayakan ditentukan oleh status, kategori dan kondisi perangkat serta kegiatan yang akan dilakukan. Perangkat yang dapat digunakan kembali, komponen berisiko dan material yang memerlukan penanganan khusus tidak dipertukarkan hanya karena ukurannya sama. Pemeriksaan menghubungkan persyaratan kegiatan dengan pelaksana yang menerima tanggung jawab. Kerangka kategori dan kegiatan merujuk PP Nomor 27 Tahun 2020, PP Nomor 22 Tahun 2021, dan Permen LHK Nomor 6 Tahun 2021; tanggung jawab atas data pribadi mengikuti UU Nomor 27 Tahun 2022 (Republik Indonesia, 2020, 2021, 2022; Kementerian Lingkungan Hidup dan Kehutanan Republik Indonesia, 2021).",
+      "Untuk perangkat penyimpan data, persetujuan pemilik dan penanganan media merupakan pekerjaan tersendiri. Kebijakan sanitasi menetapkan pelaksana, metode, pemeriksaan hasil dan dokumentasi sesuai sensitivitas serta tujuan media. Pedoman NIST membahas sanitasi sebagai program yang mencakup pengendalian tersebut (Chandramouli & Hibbard, 2025)."
+    ],
+    "tables": [
+      {
+        "title": "Keputusan sebelum pengangkutan dan pelepasan",
+        "headers": [
+          "Keputusan",
+          "Pelaksana atau pemilik otoritas",
+          "Dokumen layanan"
+        ],
+        "rows": [
+          [
+            "Identifikasi kategori dan kondisi",
+            "Pemilik memberi informasi; penanggung jawab penanganan meninjau.",
+            "Kategori, kondisi, kebutuhan kemasan dan batas penerimaan."
+          ],
+          [
+            "Kesesuaian penyedia",
+            "Koordinator memeriksa lingkup kegiatan, kendaraan dan penawaran.",
+            "Syarat penyedia serta penanganan yang diizinkan."
+          ],
+          [
+            "Kesiapan penerima",
+            "Penerima menyatakan lingkup, kategori, kapasitas dan waktu.",
+            "Penerimaan dan kegiatan tindak lanjut yang disepakati."
+          ],
+          [
+            "Persetujuan data",
+            "Pemilik atau penanggung jawab data menetapkan instruksi.",
+            "Persetujuan dan batas akses."
+          ],
+          [
+            "Pelaksanaan sanitasi",
+            "Pelaksana yang ditetapkan menangani media dan hasilnya.",
+            "Metode, tanggal, pemeriksaan hasil dan penanggung jawab."
+          ],
+          [
+            "Pelepasan dan tujuan akhir",
+            "Pihak berwenang menyetujui setelah persyaratan terpenuhi.",
+            "Bukti pelepasan, penempatan atau pengolahan."
+          ]
+        ],
+        "widths": [
+          4,
+          6.5,
+          5.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "K.1",
+    "title": "Hubungan kegiatan dan perubahan yang dituju",
+    "return_to": "dampak",
+    "paragraphs": [
+      "JejakBalik menghubungkan akses pengembalian dengan kapasitas perjalanan dan penerimaan yang sesuai. Kegiatan itu menghasilkan penugasan serta serah terima yang dapat diperiksa. Perubahan yang dituju adalah meningkatnya bagian permintaan yang dapat diselesaikan secara bertanggung jawab dengan sumber daya yang dapat dipertahankan.",
+      "Kontribusi lingkungan mengikuti apa yang terjadi pada perangkat sesudah diterima. Penempatan guna ulang, perbaikan yang selesai dan pengolahan yang terdokumentasi dilaporkan sebagai jalur berbeda. Berat perangkat yang masuk tidak disamakan dengan hasil material yang berhasil dipulihkan."
+    ],
+    "tables": [
+      {
+        "title": "Theory of Change layanan",
+        "headers": [
+          "Tingkat",
+          "Komponen JejakBalik",
+          "Ukuran yang sesuai"
+        ],
+        "rows": [
+          [
+            "Masukan",
+            "Anggaran institusi, petugas, penawaran perjalanan dan kapasitas penerima.",
+            "Dana tersedia, jam kerja dan kapasitas yang ditawarkan."
+          ],
+          [
+            "Kegiatan",
+            "Intake, pencocokan, persetujuan, pengangkutan, penerimaan dan tindak lanjut.",
+            "Permintaan, keputusan, peristiwa dan jam kerja."
+          ],
+          [
+            "Keluaran",
+            "Perangkat dijemput, diterima dan dilengkapi bukti tindak lanjut.",
+            "Jumlah serta massa per tahap dan jalur."
+          ],
+          [
+            "Hasil layanan",
+            "Pengembalian yang lebih dapat dipenuhi dan tanggung jawab yang lebih jelas.",
+            "Pemenuhan janji, kasus terbuka, penyelesaian dan biaya per layanan."
+          ],
+          [
+            "Hasil pemanfaatan",
+            "Perangkat berfungsi kembali atau material memasuki pengolahan yang sesuai.",
+            "Bukti penempatan, perbaikan atau penerimaan pengolahan."
+          ],
+          [
+            "Kontribusi jangka panjang",
+            "Pemanfaatan sumber daya yang lebih bertanggung jawab.",
+            "Masa guna dan hasil material bila bukti lanjutan tersedia."
+          ]
+        ],
+        "widths": [
+          2.5,
+          7,
+          6.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "K.2",
+    "title": "Sasaran SMART layanan dan definisi ukur",
+    "return_to": "dampak",
+    "paragraphs": [
+      "Sasaran awal menetapkan mutu minimum bagi layanan yang dijanjikan. Angka berikut merupakan target pengelolaan tim, bukan hasil program. Setiap indikator mempertahankan pembilang dan penyebut, sehingga penyaringan permintaan atau kasus yang belum selesai tidak menaikkan hasil secara semu.",
+      "Laporan bulanan disusun setelah rekonsiliasi peristiwa dan biaya. Peninjauan triwulanan kemudian menghubungkan mutu layanan dengan beban kerja, kontrak dan pendanaan sebelum kapasitas ditambah."
+    ],
+    "tables": [
+      {
+        "title": "Indikator layanan tahun pertama",
+        "headers": [
+          "Indikator dan target",
+          "Definisi",
+          "Waktu dan pemilik"
+        ],
+        "rows": [
+          [
+            "100% penugasan berpersetujuan",
+            "Penugasan dengan persetujuan sah ÷ seluruh penugasan yang dilepas.",
+            "Setiap pelepasan; operator program."
+          ],
+          [
+            "100% pickup mempunyai penerimaan custody",
+            "Pickup dengan identitas perangkat, waktu dan pembawa lengkap ÷ seluruh pickup.",
+            "Harian; operasi."
+          ],
+          [
+            "≥95% pemenuhan janji",
+            "Layanan dengan penjemputan dan penerimaan yang keduanya tepat waktu ÷ seluruh layanan yang dijanjikan dan jatuh tempo dalam periode. Setiap layanan dihitung sekali.",
+            "Bulanan; operasi."
+          ],
+          [
+            "100% kasus terbuka mempunyai pemilik",
+            "Kasus tertahan dengan penanggung jawab dan langkah berikut ÷ seluruh kasus tertahan.",
+            "Harian; operasi."
+          ],
+          [
+            "≥90% keluhan ditangani dalam 5 hari kerja",
+            "Keluhan dengan tanggapan dan rencana penanganan dalam batas waktu ÷ keluhan diterima.",
+            "Bulanan; peninjau layanan."
+          ],
+          [
+            "100% biaya dapat direkonsiliasi",
+            "Biaya dengan pekerjaan, tagihan dan sumber pembayaran yang cocok ÷ seluruh biaya program.",
+            "Bulanan; keuangan."
+          ],
+          [
+            "100% laporan jalur akhir berbukti",
+            "Perangkat yang dilaporkan selesai dengan bukti sesuai jalurnya ÷ perangkat dilaporkan selesai.",
+            "Bulanan; penerima dan koordinator."
+          ]
+        ],
+        "widths": [
+          4.8,
+          7,
+          4.2
+        ]
+      }
+    ]
+  },
+  {
+    "id": "K.3",
+    "title": "Akun perangkat material dan biaya",
+    "return_to": "dampak",
+    "paragraphs": [
+      "Satu identitas perangkat dipertahankan dari permintaan hingga penyelesaian. Laporan tahap membantu pembeli program membedakan akses yang ditawarkan dengan pekerjaan yang benar-benar terjadi. Perangkat tertahan tetap berada dalam jumlah keseluruhan dan dilaporkan menurut umur kasusnya.",
+      "Pembandingan biaya dan perjalanan menggunakan beban kerja yang sama serta syarat layanan yang sebanding. Perjalanan tambahan pemulihan dipisahkan dari perjalanan awal penyedia. Biaya penuh operator dipisahkan dari biaya langsung satu penugasan, sehingga perubahan volume tidak menyembunyikan pekerjaan koordinasi."
+    ],
+    "tables": [
+      {
+        "title": "Akun dan aturan pembacaan",
+        "headers": [
+          "Akun",
+          "Definisi",
+          "Rekonsiliasi"
+        ],
+        "rows": [
+          [
+            "Permintaan",
+            "Seluruh permintaan unik dalam lingkup dan periode.",
+            "Pisahkan layak, belum lengkap dan di luar lingkup."
+          ],
+          [
+            "Penugasan",
+            "Permintaan yang memperoleh perjalanan dan persetujuan.",
+            "Pertahankan denominator permintaan serta alasan belum terlayani."
+          ],
+          [
+            "Pickup dan diterima",
+            "Perangkat yang telah berpindah custody pada masing-masing tahap.",
+            "Jangan menggandakan satu perangkat pada total fisik."
+          ],
+          [
+            "Selesai",
+            "Persyaratan jalur dan keputusan yang relevan telah dipenuhi.",
+            "Bukti penempatan, perbaikan atau pengolahan mengikuti jalurnya."
+          ],
+          [
+            "Massa",
+            "Berat perangkat atau lot pada basis penimbangan yang jelas.",
+            "Massa input tidak menjadi klaim hasil material pulih."
+          ],
+          [
+            "Biaya layanan",
+            "Koordinasi, pemenuhan, penanganan dan tindak lanjut pada lingkupnya.",
+            "Tampilkan biaya per layanan selesai dan kewajiban terbuka."
+          ],
+          [
+            "Perjalanan",
+            "Jarak tambahan di atas perjalanan awal yang ditawarkan.",
+            "Bandingkan dengan pengumpulan khusus untuk beban kerja yang sama."
+          ]
+        ],
+        "widths": [
+          3,
+          6.5,
+          6.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "K.4",
+    "title": "Evaluasi keberlanjutan dan keputusan replikasi",
+    "return_to": "dampak",
+    "paragraphs": [
+      "Keputusan melanjutkan layanan menggabungkan pemenuhan, tanggung jawab, ekonomi dan penerimaan institusi. JejakBalik memperbarui lingkup ketika biaya atau kapasitas berubah, sembari mendahulukan penyelesaian perangkat yang sudah diterima. Perluasan menggunakan catatan program yang berjalan sebagai dasar penawaran berikutnya.",
+      "SDG 12.5 menjadi hubungan utama melalui penggunaan kembali dan pemulihan yang dapat ditelusuri. Penanganan yang tepat dan pencatatan komponen berisiko juga mendukung arah SDG 12.4 (UN DESA, n.d.-a), sedangkan kerja sama institusi dan pelaksana mendukung SDG 17.17 (UN DESA, n.d.-b). Ukuran proyek menunjukkan kontribusi pada target tersebut, bukan pencapaian indikator nasional."
+    ],
+    "tables": [
+      {
+        "title": "Review dan keputusan berikutnya",
+        "headers": [
+          "Waktu",
+          "Pertanyaan yang dijawab",
+          "Keputusan"
+        ],
+        "rows": [
+          [
+            "Bulanan",
+            "Apakah peristiwa, biaya, tagihan dan kasus terbuka telah cocok?",
+            "Koreksi catatan dan selesaikan kewajiban."
+          ],
+          [
+            "Triwulanan",
+            "Apakah mutu janji, beban kerja dan dana sesuai lingkup?",
+            "Perbarui harga, kapasitas atau jadwal."
+          ],
+          [
+            "Akhir kontrak",
+            "Apakah institusi menerima hasil dan bersedia memperbarui layanan?",
+            "Perpanjang, sesuaikan atau tutup secara tertib."
+          ],
+          [
+            "Sebelum program tambahan",
+            "Apakah petugas, kas, penawaran perjalanan dan penerimaan mencukupi?",
+            "Tambah program dengan lingkup sendiri atau tunda penambahan."
+          ],
+          [
+            "Sebelum area baru",
+            "Apakah pengaturan lokal mempertahankan fungsi dan biaya layanan?",
+            "Komisioning area baru dengan tanggung jawab lokal."
+          ]
+        ],
+        "widths": [
+          3,
+          7,
+          6
+        ]
+      }
+    ]
+  }
+]

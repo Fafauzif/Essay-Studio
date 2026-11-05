@@ -1,0 +1,104 @@
+{
+  "title": "JejakBalik Menghubungkan Perjalanan Lintas Penyedia untuk Pengembalian Perangkat Elektronik yang Bertanggung Jawab",
+  "pages": [
+    {
+      "blocks": [
+        {
+          "heading": "Pembuka"
+        },
+        {
+          "p": "Sebuah laptop yang berhenti dipakai masih dapat menyimpan fungsi, komponen, dan data pemiliknya. Mengeluarkannya dari rumah baru menjadi awal perjalanan: pemilik perlu mengetahui tujuan, pengangkut perlu menerima jenis barangnya, dan penerima harus siap menanganinya. Di Indonesia, timbulan limbah elektronik mencapai sekitar 1,9 juta ton pada 2022 (International Telecommunication Union, n.d.). JejakBalik menghubungkan keputusan pemilik dengan layanan yang dapat dipenuhi."
+        },
+        {
+          "p": "Kami mengusulkan JejakBalik sebagai jaringan koordinasi pengembalian elektronik yang memanfaatkan kapasitas perjalanan lintas penyedia logistik. Institusi membeli layanan untuk komunitasnya; penyedia menawarkan perjalanan yang sudah direncanakan; penerima menetapkan syarat penerimaan. Koordinator mencocokkan ketiganya sebelum menjanjikan penjemputan, lalu mencatat penanggung jawab hingga penerimaan dan tindak lanjut selesai. Dengan susunan tersebut, akses pengembalian mempunyai pengangkut, tujuan, dan sumber pembiayaan yang jelas sejak awal (Lampiran D.1)."
+        },
+        {
+          "heading": "Analisis Masalah"
+        },
+        {
+          "p": "Perangkat yang tersimpan memperlihatkan bahwa pengembalian juga menyangkut pilihan pemilik. Dalam penelitian di enam provinsi Jawa, 305 dari 403 responden menyimpan elektronik bekas atau rusak. Di antara penyimpan tersebut, alasan untuk elektronik rumah tangga mencakup ketidaktahuan mengenai tujuan pembuangan sebesar 24,6% dan keinginan memperbaikinya kelak sebesar 32,5% (Brando et al., 2024). Informasi tujuan dan pilihan perbaikan karena itu perlu hadir bersama akses pengangkutan (Lampiran A.2). Untuk elektronik pribadi, penelitian yang sama mencatat keamanan data sebagai alasan tersendiri, sehingga instruksi pemilik turut menentukan jalur pengembalian."
+        },
+        {
+          "p": "Temuan Jakarta memberi penjelasan tambahan. Survei terhadap 208 responden pada 2018 menemukan korelasi niat mendaur ulang dengan informasi sebesar 0,521 dan kemudahan sebesar 0,411 (Siringo et al., 2020). Hubungan ini mengarahkan rancangan pada layanan yang mudah diakses sekaligus dapat dijelaskan kepada pemilik. JejakBalik karena itu menyatukan akses, kesesuaian pengangkutan, dan kesinambungan penanganan dalam satu layanan (Lampiran A.1)."
+        }
+      ]
+    },
+    {
+      "blocks": [
+        {
+          "p": "Layanan yang ada menjadi dasar pengembangan tersebut. EwasteRJ menawarkan penjemputan, dropbox, dan pelaporan; #AksiCintaBumi di bawah Lintasarta Peduli Negeri juga menghubungkan pengumpulan dengan jalur pengelolaan perangkat (EwasteRJ, n.d.; Lintasarta, 2026). JejakBalik menambahkan koordinasi kapasitas perjalanan lintas penyedia, penerimaan tujuan, dan anggaran institusi dalam keputusan penugasan yang sama. Layanan pengumpulan yang telah ada dapat memasok kapasitas angkut atau penerimaan, sementara JejakBalik menyatukan penugasan dan pembiayaannya (Lampiran B.1)."
+        },
+        {
+          "heading": "Gagasan dan Implementasi"
+        },
+        {
+          "p": "Satu kontrak institusi menetapkan komunitas, kategori perangkat, periode layanan, anggaran, dan penanggung jawab. Pemilik menyampaikan lokasi, waktu, kondisi, serta maksud pengembalian. Penyedia menawarkan kapasitas perjalanan, sementara penerima menyatakan kategori dan waktu penerimaan. Koordinator menugaskan pengangkutan yang memiliki tujuan penerimaan dan anggaran."
+        },
+        {
+          "figure": "main_system",
+          "caption": "Gambar 1. Hubungan peserta dan aliran layanan JejakBalik."
+        },
+        {
+          "p": "Pencocokan dimulai dari persetujuan pemilik dan kesesuaian penanganan. Perhitungan kemudian memeriksa muatan, jendela waktu, tambahan durasi, kapasitas penerima, dan biaya. Operator meninjau usulan sebelum menyetujui penugasan; perubahan syarat mengharuskan perhitungan baru (Lampiran D.3). Penelitian pengiriman berbagi perjalanan mendukung penggunaan asal dan tujuan yang sudah dimiliki pengangkut, sekaligus menunjukkan perlunya menghitung tambahan perjalanan secara tersendiri (Yang et al., 2024)."
+        },
+        {
+          "p": "Setiap penyedia mempertahankan asal, urutan pemberhentian utama, dan tujuan perjalanannya. JejakBalik menilai penyisipan pengambilan serta pengantaran sebelum keberangkatan. Permintaan yang tidak sesuai tetap terlihat bersama alasannya, agar operator dapat menawarkan waktu lain atau pengumpulan khusus tanpa mengabaikan kewajiban perjalanan awal."
+        }
+      ]
+    },
+    {
+      "blocks": [
+        {
+          "p": "Jaringan mengikutsertakan operator paket atau penyedia jasa logistik pihak ketiga (3PL), kurir lokal, serta pengangkut barang besar atau khusus sesuai kompetensinya. Kelompok ojek pangkalan (opang) dapat dijajaki untuk kebutuhan lokal yang sesuai, sementara kategori tertentu memerlukan pengangkut yang memenuhi persyaratan tersendiri. Kerja sama menetapkan kapasitas, kompensasi, penolakan, dan penyelesaian gangguan; ketersediaan kendaraan saja belum menjadi dasar penugasan (Lampiran C.1). Perjalanan khusus tetap tersedia sebagai alternatif terjadwal ketika pencocokan perjalanan yang ada tidak memenuhi kebutuhan."
+        },
+        {
+          "p": "Sesudah penjemputan, catatan perangkat menunjukkan pembawa yang bertanggung jawab hingga penerima mengakui serah terima. Pemeriksaan berikutnya menentukan kelayakan perbaikan, penggunaan kembali, atau pengolahan sesuai instruksi pemilik. Perangkat yang tertahan karena penerima tidak tersedia atau persoalan data tetap mempunyai penanggung jawab dan tindak lanjut yang dibiayai (Lampiran D.4). Dengan demikian, pencatatan membantu koordinator menyelesaikan kewajiban yang muncul dalam perjalanan, termasuk ketika rencana awal berubah."
+        },
+        {
+          "p": "Prototipe yang telah dikembangkan menjalankan pencocokan deterministik, pembatasan anggaran, persetujuan, dan rekaman serah terima simulasi pada satu skenario yang dapat diubah. Antarmukanya memperlihatkan hubungan antara permintaan, pilihan perjalanan, dan hasil penugasan (Lampiran E.1). Pada skenario rekaan 18 perangkat, model menghasilkan tambahan 28,8 km dan biaya layanan Rp 438.700. Pembanding pengumpulan khusus berkelompok melayani 18 perangkat yang sama dengan 112,8 km dan Rp 662.400 (Lampiran F.1)."
+        },
+        {
+          "p": "Pada beban yang sama, perjalanan yang sudah direncanakan memberi tambahan jarak dan biaya layanan yang lebih rendah dalam skenario. Peran lintas penyedia juga terlihat ketika akses dibatasi: penyedia tunggal terbaik melayani 11 dari 18 permintaan, sedangkan jaringan melayani seluruhnya (Lampiran F.2). Hasil ini memperjelas manfaat penggabungan kapasitas dan jenis penanganan yang tersebar, sementara tarif dan hasil operasi mengikuti kontrak serta kondisi layanan."
+        }
+      ]
+    },
+    {
+      "blocks": [
+        {
+          "p": "Institusi membeli kesiapan layanan bagi permintaan yang beragam: koordinasi beberapa penyedia, rekonsiliasi serah terima, dan penyelesaian gangguan. Pembayaran menggabungkan biaya koordinasi bulanan dengan tarif perangkat diterima. Pada estimasi tim, 40 perangkat per bulan menghasilkan tagihan Rp5,48 juta dan biaya langsung Rp1,77 juta; selisihnya membiayai pekerjaan bersama (Lampiran H.2). Penjualan perangkat tidak dimasukkan sebagai penerimaan dasar. Apabila satu operator sudah memenuhi seluruh lingkup dengan biaya lebih rendah, pengumpulan langsung tetap menjadi pilihan institusi (Lampiran B.1)."
+        },
+        {
+          "p": "Estimasi tim menempatkan empat institusi pada akhir 2027 dengan 1.080 perangkat diterima selama tahun pertama, lalu dua belas institusi dan 5.040 perangkat pada 2029. Tiga institusi, masing-masing 40 perangkat per bulan, menutup biaya operasi berulang; kas proyek pulih pada bulan ke-22 sebelum pajak (Lampiran H.4). Kebutuhan dana dasar termasuk cadangan Rp104,82 juta mendasari rencana Rp110 juta. Monte Carlo menghasilkan kebutuhan dana persentil ke-90 Rp155,63 juta, sehingga batas pendanaan bertahap diusulkan Rp160 juta, terdiri atas Rp110 juta dasar dan Rp50 juta kontinjensi; seluruhnya masih perlu dihimpun (Lampiran L.1)."
+        },
+        {
+          "p": "Implementasi dimulai dari satu program institusi di Universitas Indonesia (UI)/Depok, yang menjalankan kontrak, penawaran perjalanan, dan penerimaan perangkat bersama. Koordinator terlebih dahulu menyepakati institusi pembeli, penawaran perjalanan, tujuan penerimaan, serta kategori yang dapat dilayani. Fasilitas kampus dan komunitas transportasi hanya masuk setelah pengaturan akses dan tanggung jawab disepakati (Lampiran I.1). Greener Action, fungsi pengelolaan isu sampah Departemen Lingkungan Hidup BEM UI, dapat menjadi konteks edukasi dan pengenalan layanan bagi warga kampus, dengan kegiatan komunikasi mengikuti kapasitas layanan yang benar-benar dialokasikan."
+        },
+        {
+          "p": "Dua bulan pertama menyiapkan kontrak, penawaran perjalanan, dan prosedur serah terima; layanan dimulai bulan ketiga, disusul institusi berikutnya pada bulan kelima, ketujuh, dan kesepuluh (Lampiran I.1). Matriks RACI menetapkan satu fungsi yang bertanggung gugat untuk kontrak, persetujuan penugasan, penerimaan, sengketa, dan perluasan (Lampiran I.3). Gangguan penerima, kehilangan jejak serah terima, keterlambatan pembayaran, dan ketidaksesuaian penanganan mempunyai respons, pemilik tindakan, dan alokasi biaya dalam daftar risiko (Lampiran J.1)."
+        }
+      ]
+    },
+    {
+      "blocks": [
+        {
+          "p": "Sesudah wilayah pertama berjalan, penambahan institusi di Jabodetabek mengikuti ketersediaan perjalanan, penerimaan, pendanaan, dan beban kerja koordinator. Gantt strategis 2027–2036 menempatkan stabilisasi layanan sebelum replikasi antardaerah (Lampiran I.2). Setiap wilayah menggunakan aturan persetujuan dan akuntabilitas yang sama, tetapi menyusun kembali rute, tarif, kapasitas, dan mitranya. Dengan cara ini, UI/Depok menjadi titik awal jaringan yang dapat diperluas tanpa menganggap kondisi kampus mewakili seluruh Indonesia."
+        },
+        {
+          "heading": "Dampak"
+        },
+        {
+          "p": "Dampak JejakBalik mengikuti perubahan pada perangkat. Akses terjadwal membantu pemilik menyerahkannya, penerimaan membuka pemeriksaan, dan keputusan berikutnya mengarahkannya pada perbaikan, penggunaan kembali, atau pengolahan. Rangkaian ini mendukung SDG 12.5 (United Nations Department of Economic and Social Affairs [UN DESA], n.d.-a), dengan ukuran yang mengikuti tahap penanganan (Lampiran K.1). Laporan memisahkan perangkat terjemput, perbaikan, penempatan guna ulang, dan material pulih; perpindahan tahap tidak dihitung sebagai perangkat tambahan."
+        },
+        {
+          "p": "Target tahun pertama ialah sekurang-kurangnya 95% layanan memenuhi jendela penjemputan dan penerimaan yang dijanjikan (Lampiran K.2). Pengukuran mencakup pemenuhan permintaan, ketepatan serah terima, kasus tertahan, tambahan jarak, biaya per layanan, pembayaran, dan penerimaan hilir. Penggunaan kembali dicatat setelah pengguna berikutnya menerima perangkat, sedangkan penyelesaian pengolahan mengikuti dokumen operator terkait (Lampiran K.2). Institusi memperoleh laporan yang memperlihatkan keberhasilan sekaligus pekerjaan yang masih harus diselesaikan, sehingga pembaruan program dapat mempertimbangkan kualitas layanan bersama kebutuhan sumber dayanya."
+        },
+        {
+          "heading": "Penutup"
+        },
+        {
+          "p": "JejakBalik layak dikembangkan sebagai layanan pengembalian yang mempertemukan kapasitas perjalanan lintas penyedia dengan pembiayaan institusi dan penerimaan yang bertanggung jawab. Pencocokan sebelum penjemputan menyiapkan anggaran, pengangkut, dan tujuan bersama, sementara catatan serah terima menjaga kewajiban sampai penanganan selesai. Karena itu, langkah awalnya ialah membuka program UI/Depok dengan lingkup, kompensasi, penerima, dan anggaran yang disepakati. Pembaruan kontrak kemudian menjadi dasar penambahan institusi dan perluasan jaringan dengan tanggung jawab yang tetap mengikuti perangkat."
+        }
+      ]
+    }
+  ]
+}

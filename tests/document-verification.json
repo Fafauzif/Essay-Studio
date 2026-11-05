@@ -1,0 +1,51 @@
+{
+  "checked_date": "2026-11-05",
+  "scope": "Portable document tools and examples; not a research/source-content audit.",
+  "tests": {
+    "unittest_cases": 6,
+    "passed": 6,
+    "covered": [
+      "internal hyperlink destinations and absence of self-linked appendix headings",
+      "unknown destination rejection",
+      "overwide native table rejection",
+      "cross-paragraph comment extraction and read-only source preservation",
+      "converter failure accurately reported",
+      "neutral template author/comment/tracked-change hygiene"
+    ]
+  },
+  "rendered_examples": [
+    {
+      "file": "examples/short-demo.docx",
+      "pdf": "examples/short-demo.pdf",
+      "pages": 2,
+      "counted_main_pages": 1,
+      "internal_docx_links": 8,
+      "internal_pdf_links": 8,
+      "automated_errors": [],
+      "automated_warnings": [],
+      "all_pages_visually_inspected": true
+    },
+    {
+      "file": "skills/write-innovation-essays/assets/templates/neutral_essay.docx",
+      "pages": 1,
+      "all_pages_visually_inspected": true,
+      "purpose": "Neutral style starter; reserved title placeholder is intentional."
+    },
+    {
+      "source": "examples/figure-demo.json",
+      "pages": 1,
+      "all_pages_visually_inspected": true,
+      "purpose": "Tested current gallery cash image placement and caption at final width; temporary DOCX/PDF are QA-only."
+    }
+  ],
+  "additional_checks": {
+    "optional_qr_embedded_payload": "https://example.org/demo decoded exactly in a two-section cover/QR-first fixture; illustrative URL, live access not checked.",
+    "syntax_compile": "All four document scripts compiled successfully.",
+    "canonical_renderer": "The first short-demo attempt was also rendered by the environment document renderer; final layout was verified using the packaged portable renderer."
+  },
+  "file_hashes": {
+    "examples/short-demo.docx": "0e8db5270dfdda8ab722db509124363e193519521b56f39305f741d3f1eab483",
+    "examples/short-demo.pdf": "6df2671fa74fde1a2b0e8bece9f3624a5b7b035eaa4e29503ad88e277d37e18e",
+    "skills/write-innovation-essays/assets/templates/neutral_essay.docx": "31068ad413a4d7e007fcf09a8a5df97f00fc435cad3a452f258d9c2f9d4ccc16"
+  }
+}

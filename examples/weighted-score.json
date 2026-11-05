@@ -1,0 +1,12 @@
+{
+  "status": "illustrative_team_judgments",
+  "rating_range": [1, 5],
+  "factors": [
+    {"factor": "Institutional access", "weight": 0.10, "rating": 4},
+    {"factor": "Recurring service funding", "weight": 0.25, "rating": 5},
+    {"factor": "Participant convenience", "weight": 0.15, "rating": 4},
+    {"factor": "Shared operating records", "weight": 0.20, "rating": 4},
+    {"factor": "Resource recovery route", "weight": 0.10, "rating": 4},
+    {"factor": "Category-specific handling", "weight": 0.20, "rating": 5}
+  ]
+}
